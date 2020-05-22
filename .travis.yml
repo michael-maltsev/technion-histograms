@@ -9,4 +9,3 @@ deploy:
   keep-history: true
   on:
     branch: master
-  local-dir: deploy
