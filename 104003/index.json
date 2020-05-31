@@ -45,5 +45,99 @@
             "average": "70.14",
             "median": "71"
         }
+    },
+    "201801": {
+        "Exam_A": {
+            "students": "317",
+            "passFail": "214\/103",
+            "passPercent": "68",
+            "min": "8",
+            "max": "100",
+            "average": "62.11",
+            "median": "62"
+        },
+        "Final_A": {
+            "students": "317",
+            "passFail": "258\/59",
+            "passPercent": "81",
+            "min": "13",
+            "max": "100",
+            "average": "66.382",
+            "median": "67"
+        },
+        "Exam_B": {
+            "students": "175",
+            "passFail": "109\/66",
+            "passPercent": "62",
+            "min": "11",
+            "max": "93",
+            "average": "59.789",
+            "median": "63"
+        },
+        "Final_B": {
+            "students": "175",
+            "passFail": "132\/43",
+            "passPercent": "75",
+            "min": "18",
+            "max": "94",
+            "average": "63.183",
+            "median": "66"
+        },
+        "Finals": {
+            "students": "354",
+            "passFail": "311\/43",
+            "passPercent": "88",
+            "min": "18",
+            "max": "100",
+            "average": "69.559",
+            "median": "71"
+        }
+    },
+    "201601": {
+        "Exam_A": {
+            "students": "404",
+            "passFail": "361\/43",
+            "passPercent": "89",
+            "min": "0",
+            "max": "100",
+            "average": "76.057",
+            "median": "79"
+        },
+        "Final_A": {
+            "students": "404",
+            "passFail": "365\/39",
+            "passPercent": "90",
+            "min": "4",
+            "max": "100",
+            "average": "77.733",
+            "median": "81"
+        },
+        "Exam_B": {
+            "students": "126",
+            "passFail": "91\/35",
+            "passPercent": "72",
+            "min": "26",
+            "max": "100",
+            "average": "65.825",
+            "median": "67"
+        },
+        "Final_B": {
+            "students": "126",
+            "passFail": "100\/26",
+            "passPercent": "79",
+            "min": "26",
+            "max": "100",
+            "average": "67.516",
+            "median": "68.5"
+        },
+        "Finals": {
+            "students": "443",
+            "passFail": "415\/28",
+            "passPercent": "94",
+            "min": "20",
+            "max": "100",
+            "average": "79.56",
+            "median": "81"
+        }
     }
 }

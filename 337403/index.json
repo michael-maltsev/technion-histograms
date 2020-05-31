@@ -27,5 +27,52 @@
             "average": "76.347",
             "median": "78"
         }
+    },
+    "201801": {
+        "Exam_A": {
+            "students": "35",
+            "passFail": "24\/11",
+            "passPercent": "69",
+            "min": "37",
+            "max": "87",
+            "average": "63.171",
+            "median": "62"
+        },
+        "Final_A": {
+            "students": "35",
+            "passFail": "29\/6",
+            "passPercent": "83",
+            "min": "43",
+            "max": "88",
+            "average": "66.714",
+            "median": "66"
+        },
+        "Exam_B": {
+            "students": "32",
+            "passFail": "26\/6",
+            "passPercent": "81",
+            "min": "25",
+            "max": "88",
+            "average": "69.438",
+            "median": "75.5"
+        },
+        "Final_B": {
+            "students": "32",
+            "passFail": "26\/6",
+            "passPercent": "81",
+            "min": "32",
+            "max": "89",
+            "average": "72.25",
+            "median": "78"
+        },
+        "Finals": {
+            "students": "51",
+            "passFail": "46\/5",
+            "passPercent": "90",
+            "min": "32",
+            "max": "93",
+            "average": "75.098",
+            "median": "79"
+        }
     }
 }

@@ -92,5 +92,43 @@
             "average": "83.52",
             "median": "88"
         }
+    },
+    "201702": {
+        "Exam_A": {
+            "students": "123",
+            "passFail": "81\/42",
+            "passPercent": "66",
+            "min": "17",
+            "max": "100",
+            "average": "63.439",
+            "median": "61"
+        },
+        "Final_A": {
+            "students": "123",
+            "passFail": "97\/26",
+            "passPercent": "79",
+            "min": "25",
+            "max": "100",
+            "average": "66.447",
+            "median": "65"
+        },
+        "Final_B": {
+            "students": "98",
+            "passFail": "56\/42",
+            "passPercent": "57",
+            "min": "10",
+            "max": "100",
+            "average": "57.02",
+            "median": "60"
+        },
+        "Finals": {
+            "students": "191",
+            "passFail": "150\/41",
+            "passPercent": "79",
+            "min": "14",
+            "max": "100",
+            "average": "65.508",
+            "median": "65"
+        }
     }
 }
