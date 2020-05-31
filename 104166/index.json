@@ -233,5 +233,34 @@
             "average": "64.561",
             "median": "67"
         }
+    },
+    "201601": {
+        "Exam_A": {
+            "students": "387",
+            "passFail": "266\/121",
+            "passPercent": "69",
+            "min": "17",
+            "max": "100",
+            "average": "64.716",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "387",
+            "passFail": "298\/89",
+            "passPercent": "77",
+            "min": "18",
+            "max": "100",
+            "average": "68.067",
+            "median": "70"
+        },
+        "Exam_B": {
+            "students": "220",
+            "passFail": "112\/108",
+            "passPercent": "51",
+            "min": "0",
+            "max": "100",
+            "average": "55.705",
+            "median": "55.5"
+        }
     }
 }
