@@ -74,5 +74,52 @@
             "average": "83.276",
             "median": "85"
         }
+    },
+    "201501": {
+        "Exam_A": {
+            "students": "173",
+            "passFail": "130\/43",
+            "passPercent": "75",
+            "min": "18.75",
+            "max": "93.75",
+            "average": "63.188",
+            "median": "62.5"
+        },
+        "Final_A": {
+            "students": "173",
+            "passFail": "162\/11",
+            "passPercent": "94",
+            "min": "43.225",
+            "max": "96.4",
+            "average": "75.337",
+            "median": "76.3"
+        },
+        "Exam_B": {
+            "students": "96",
+            "passFail": "74\/22",
+            "passPercent": "77",
+            "min": "31.25",
+            "max": "93.75",
+            "average": "63.328",
+            "median": "62.5"
+        },
+        "Final_B": {
+            "students": "96",
+            "passFail": "92\/4",
+            "passPercent": "96",
+            "min": "48",
+            "max": "97.7",
+            "average": "75.581",
+            "median": "77.6"
+        },
+        "Finals": {
+            "students": "199",
+            "passFail": "194\/5",
+            "passPercent": "97",
+            "min": "43",
+            "max": "98",
+            "average": "78.407",
+            "median": "79"
+        }
     }
 }
