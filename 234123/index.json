@@ -10,15 +10,15 @@
             "median": "79"
         }
     },
-    "201901": {
+    "201602": {
         "Finals": {
-            "students": "182",
-            "passFail": "135\/47",
-            "passPercent": "74",
+            "students": "236",
+            "passFail": "223\/13",
+            "passPercent": "94",
             "min": "4",
-            "max": "500",
-            "average": "72.473",
-            "median": "77.5"
+            "max": "100",
+            "average": "81.403",
+            "median": "85"
         }
     },
     "201701": {
@@ -30,6 +30,17 @@
             "max": "100",
             "average": "74.402",
             "median": "78"
+        }
+    },
+    "201702": {
+        "Finals": {
+            "students": "297",
+            "passFail": "279\/18",
+            "passPercent": "94",
+            "min": "10",
+            "max": "100",
+            "average": "78.465",
+            "median": "81"
         }
     },
     "201801": {
@@ -54,26 +65,15 @@
             "median": "84"
         }
     },
-    "201702": {
+    "201901": {
         "Finals": {
-            "students": "297",
-            "passFail": "279\/18",
-            "passPercent": "94",
-            "min": "10",
-            "max": "100",
-            "average": "78.465",
-            "median": "81"
-        }
-    },
-    "201602": {
-        "Finals": {
-            "students": "236",
-            "passFail": "223\/13",
-            "passPercent": "94",
+            "students": "182",
+            "passFail": "135\/47",
+            "passPercent": "74",
             "min": "4",
-            "max": "100",
-            "average": "81.403",
-            "median": "85"
+            "max": "500",
+            "average": "72.473",
+            "median": "77.5"
         }
     }
 }

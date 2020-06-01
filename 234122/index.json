@@ -1,24 +1,13 @@
 {
-    "201701": {
+    "201501": {
         "Finals": {
-            "students": "206",
-            "passFail": "189\/17",
+            "students": "166",
+            "passFail": "153\/13",
             "passPercent": "92",
-            "min": "24",
-            "max": "97",
-            "average": "73.791",
+            "min": "22",
+            "max": "100",
+            "average": "74.331",
             "median": "77"
-        }
-    },
-    "201603": {
-        "Finals": {
-            "students": "43",
-            "passFail": "43\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "97",
-            "average": "79.977",
-            "median": "81"
         }
     },
     "201502": {
@@ -30,17 +19,6 @@
             "max": "96",
             "average": "74.139",
             "median": "76"
-        }
-    },
-    "201702": {
-        "Finals": {
-            "students": "375",
-            "passFail": "352\/23",
-            "passPercent": "94",
-            "min": "22",
-            "max": "100",
-            "average": "76.285",
-            "median": "79"
         }
     },
     "201601": {
@@ -62,6 +40,39 @@
             "min": "22",
             "max": "100",
             "average": "76.554",
+            "median": "79"
+        }
+    },
+    "201603": {
+        "Finals": {
+            "students": "43",
+            "passFail": "43\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "97",
+            "average": "79.977",
+            "median": "81"
+        }
+    },
+    "201701": {
+        "Finals": {
+            "students": "206",
+            "passFail": "189\/17",
+            "passPercent": "92",
+            "min": "24",
+            "max": "97",
+            "average": "73.791",
+            "median": "77"
+        }
+    },
+    "201702": {
+        "Finals": {
+            "students": "375",
+            "passFail": "352\/23",
+            "passPercent": "94",
+            "min": "22",
+            "max": "100",
+            "average": "76.285",
             "median": "79"
         }
     }

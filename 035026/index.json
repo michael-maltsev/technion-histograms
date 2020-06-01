@@ -1,22 +1,13 @@
 {
-    "201901": {
-        "Final_A": {
-            "students": "40",
-            "passFail": "40\/0",
-            "passPercent": "100",
-            "min": "89",
-            "max": "95",
-            "average": "92.375",
-            "median": "92.5"
-        },
+    "201602": {
         "Finals": {
-            "students": "40",
-            "passFail": "40\/0",
+            "students": "33",
+            "passFail": "33\/0",
             "passPercent": "100",
-            "min": "89",
+            "min": "76",
             "max": "95",
-            "average": "92.375",
-            "median": "92.5"
+            "average": "87.545",
+            "median": "90"
         }
     },
     "201701": {
@@ -59,15 +50,24 @@
             "median": "93"
         }
     },
-    "201602": {
-        "Finals": {
-            "students": "33",
-            "passFail": "33\/0",
+    "201901": {
+        "Final_A": {
+            "students": "40",
+            "passFail": "40\/0",
             "passPercent": "100",
-            "min": "76",
+            "min": "89",
             "max": "95",
-            "average": "87.545",
-            "median": "90"
+            "average": "92.375",
+            "median": "92.5"
+        },
+        "Finals": {
+            "students": "40",
+            "passFail": "40\/0",
+            "passPercent": "100",
+            "min": "89",
+            "max": "95",
+            "average": "92.375",
+            "median": "92.5"
         }
     }
 }

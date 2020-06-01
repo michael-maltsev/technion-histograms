@@ -1,15 +1,4 @@
 {
-    "201901": {
-        "Final_A": {
-            "students": "104",
-            "passFail": "86\/18",
-            "passPercent": "83",
-            "min": "16.4",
-            "max": "100",
-            "average": "70.218",
-            "median": "74.6"
-        }
-    },
     "201801": {
         "Exam_A": {
             "students": "118",
@@ -55,6 +44,17 @@
             "max": "96",
             "average": "78",
             "median": "81"
+        }
+    },
+    "201901": {
+        "Final_A": {
+            "students": "104",
+            "passFail": "86\/18",
+            "passPercent": "83",
+            "min": "16.4",
+            "max": "100",
+            "average": "70.218",
+            "median": "74.6"
         }
     }
 }

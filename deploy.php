@@ -3,6 +3,8 @@
 require_once 'Parsedown.php';
 
 $courses = [];
+$course_count = 0;
+$histogram_count = 0;
 $dir = new DirectoryIterator('.');
 foreach ($dir as $fileinfo) {
     if ($fileinfo->getFilename()[0] == '.' || !$fileinfo->isDir()) {
@@ -10,8 +12,9 @@ foreach ($dir as $fileinfo) {
         continue;
     }
 
+    $course_count++;
     $course = $fileinfo->getFilename();
-    process_course($course);
+    $histogram_count += process_course($course);
     $courses[] = $course;
 }
 
@@ -25,18 +28,26 @@ foreach ($courses as $course) {
 file_put_contents('README.md', $root_text);
 file_put_contents('index.html', markdown_to_page('technion-histograms', $root_text));
 
+echo "Processed $histogram_count histograms in $course_count courses\n";
+
 function process_course($course) {
     $course_name = course_friendly_name($course);
     $root_text = "# $course_name\n\n";
     $root_object = [];
 
+    $semesters = [];
     $dir = new DirectoryIterator($course);
     foreach ($dir as $fileinfo) {
         if ($fileinfo->isDot() || !$fileinfo->isDir()) {
             continue;
         }
 
-        $semester = $fileinfo->getFilename();
+        $semesters[] = $fileinfo->getFilename();
+    }
+
+    natsort($semesters);
+    $histogram_count = 0;
+    foreach ($semesters as $semester) {
         $semester_pretty = semester_friendly_name($semester);
 
         $root_text .= "## $semester_pretty\n\n";
@@ -55,6 +66,7 @@ function process_course($course) {
                 continue;
             }
 
+            $histogram_count++;
             $data = json_decode(file_get_contents($filename), true);
 
             $root_text .= "### $category_name\n\n";
@@ -69,6 +81,8 @@ function process_course($course) {
     file_put_contents("$course/index.html", markdown_to_page("$course_name | technion-histograms", $root_text));
     file_put_contents("$course/index.json", json_encode($root_object, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
     file_put_contents("$course/index.min.json", json_encode($root_object, JSON_UNESCAPED_UNICODE));
+
+    return $histogram_count;
 }
 
 function histogram_data_to_table($data) {
