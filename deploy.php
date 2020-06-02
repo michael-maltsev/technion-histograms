@@ -62,8 +62,23 @@ function process_course($course) {
 
         foreach ($categories as $category => $category_name) {
             $filename = "$course/$semester/$category.json";
+            $image_filename = "$course/$semester/$category.png";
             if (!is_file($filename)) {
+                if (is_file($image_filename)) {
+                    log_warning("$course/$semester/$category: Image with missing data");
+                }
                 continue;
+            }
+
+            if (!is_file($image_filename)) {
+                log_warning("$course/$semester/$category: Data with missing image");
+            } else {
+                $size = getimagesize($image_filename);
+                if (!$size) {
+                    log_warning("$course/$semester/$category: Data with invalid image");
+                } else if ($size[0] != 800 || $size[1] != 450) {
+                    log_warning("$course/$semester/$category: Data with invalid image demensions: {$size[0]}x{$size[1]}");
+                }
             }
 
             $histogram_count++;
@@ -83,6 +98,10 @@ function process_course($course) {
     file_put_contents("$course/index.min.json", json_encode($root_object, JSON_UNESCAPED_UNICODE));
 
     return $histogram_count;
+}
+
+function log_warning($msg) {
+    echo "Warning: $msg\n";
 }
 
 function histogram_data_to_table($data) {
