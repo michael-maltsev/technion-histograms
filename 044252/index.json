@@ -38,6 +38,28 @@
         }
     },
     "201801": {
+        "Staff": [
+            {
+                "name": "בירק יצחק",
+                "email": "birk@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דובקין ראובן",
+                "email": "rostikd@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "קציר ניר",
+                "email": "nir@spectral-imaging.com",
+                "title": "מרצה"
+            },
+            {
+                "name": "תורק מארון",
+                "email": "maroun@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "129",
             "passFail": "87\/42",
@@ -85,6 +107,23 @@
         }
     },
     "201802": {
+        "Staff": [
+            {
+                "name": "קוטינסקי שחר",
+                "email": "skva@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קורסיה גל",
+                "email": "galko@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "תורק מארון",
+                "email": "maroun@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "369",
             "passFail": "303\/66",
@@ -215,5 +254,39 @@
             "average": "81.703",
             "median": "84"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "קוטינסקי שחר",
+                "email": "skva@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קציר ניר",
+                "email": "nir@spectral-imaging.com",
+                "title": "מרצה"
+            },
+            {
+                "name": "דובקין ראובן",
+                "email": "rostikd@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "אליהו עדי",
+                "email": "adihayon@campus.technion.ac.il,adieliahu@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הדר אלעד",
+                "email": "eladhadar@gmail.com,ehadar@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "פלד נתן",
+                "email": "natanpeled@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ]
     }
 }
