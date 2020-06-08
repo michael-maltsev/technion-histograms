@@ -83,8 +83,6 @@ function process_course($course) {
         ];
 
         foreach ($categories as $category => $category_name) {
-            $count['histograms']++;
-
             $filename = "$course/$semester/$category.json";
             $image_filename = "$course/$semester/$category.png";
             if (!is_file($filename)) {
@@ -104,6 +102,8 @@ function process_course($course) {
                     log_warning("$course/$semester/$category: Data with invalid image demensions: {$size[0]}x{$size[1]}");
                 }
             }
+
+            $count['histograms']++;
 
             $data = json_decode(file_get_contents($filename), true);
 
