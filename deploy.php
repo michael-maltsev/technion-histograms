@@ -27,7 +27,7 @@ natsort($courses);
 $root_text = "# הטכניון - מאגר היסטוגרמות\n\n";
 foreach ($courses as $course) {
     $course_name = course_friendly_name($course);
-    $root_text .= "[$course_name]($course)  \n";
+    $root_text .= "[$course_name]($course/)  \n";
 }
 
 file_put_contents('README.md', $root_text);
@@ -58,6 +58,7 @@ function process_course($course) {
     ];
     foreach ($semesters as $semester) {
         $count['semesters']++;
+        $semester_object = [];
 
         $semester_pretty = semester_friendly_name($semester);
 
@@ -69,7 +70,7 @@ function process_course($course) {
 
             $data = json_decode(file_get_contents($staff_filename), true);
             //$root_text .= staff_data_to_table($data) . "\n";
-            $root_object[$semester]['Staff'] = $data;
+            $semester_object['Staff'] = $data;
         } else {
             //log_warning("$course/$semester: Data with missing staff info");
         }
@@ -82,6 +83,7 @@ function process_course($course) {
             'Finals' => 'סופי',
         ];
 
+        $category_count = 0;
         foreach ($categories as $category => $category_name) {
             $filename = "$course/$semester/$category.json";
             $image_filename = "$course/$semester/$category.png";
@@ -104,6 +106,7 @@ function process_course($course) {
             }
 
             $count['histograms']++;
+            $category_count++;
 
             $data = json_decode(file_get_contents($filename), true);
 
@@ -111,7 +114,11 @@ function process_course($course) {
             $root_text .= "![$semester $category]($semester/$category.png)\n\n";
             $root_text .= histogram_data_to_table($data) . "\n";
 
-            $root_object[$semester][$category] = $data;
+            $semester_object[$category] = $data;
+        }
+
+        if ($category_count > 0) {
+            $root_object[$semester] = $semester_object;
         }
     }
 
