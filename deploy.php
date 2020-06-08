@@ -4,6 +4,8 @@ require_once 'Parsedown.php';
 
 $courses = [];
 $course_count = 0;
+$semester_count = 0;
+$staff_count = 0;
 $histogram_count = 0;
 $dir = new DirectoryIterator('.');
 foreach ($dir as $fileinfo) {
@@ -14,7 +16,10 @@ foreach ($dir as $fileinfo) {
 
     $course_count++;
     $course = $fileinfo->getFilename();
-    $histogram_count += process_course($course);
+    $count = process_course($course);
+    $semester_count += $count['semester'];
+    $staff_count += $count['staff'];
+    $histogram_count += $count['histograms'];
     $courses[] = $course;
 }
 
@@ -28,7 +33,7 @@ foreach ($courses as $course) {
 file_put_contents('README.md', $root_text);
 file_put_contents('index.html', markdown_to_page('technion-histograms', $root_text));
 
-echo "Processed $histogram_count histograms in $course_count courses\n";
+echo "Processed $histogram_count histograms in $course_count courses, $semester_count course-semesters ($staff_count with staff info)\n";
 
 function process_course($course) {
     $course_name = course_friendly_name($course);
@@ -46,11 +51,28 @@ function process_course($course) {
     }
 
     natsort($semesters);
-    $histogram_count = 0;
+    $count = [
+        'semesters' => 0,
+        'staff' => 0,
+        'histograms' => 0
+    ];
     foreach ($semesters as $semester) {
+        $count['semesters']++;
+
         $semester_pretty = semester_friendly_name($semester);
 
         $root_text .= "## $semester_pretty\n\n";
+
+        $staff_filename = "$course/$semester/Staff.json";
+        if (is_file($staff_filename)) {
+            $count['staff']++;
+
+            $data = json_decode(file_get_contents($staff_filename), true);
+            //$root_text .= staff_data_to_table($data) . "\n";
+            $root_object[$semester]['Staff'] = $data;
+        } else {
+            //log_warning("$course/$semester: Data with missing staff info");
+        }
 
         $categories = [
             'Exam_A' => 'מבחן מועד א\'',
@@ -61,6 +83,8 @@ function process_course($course) {
         ];
 
         foreach ($categories as $category => $category_name) {
+            $count['histograms']++;
+
             $filename = "$course/$semester/$category.json";
             $image_filename = "$course/$semester/$category.png";
             if (!is_file($filename)) {
@@ -81,7 +105,6 @@ function process_course($course) {
                 }
             }
 
-            $histogram_count++;
             $data = json_decode(file_get_contents($filename), true);
 
             $root_text .= "### $category_name\n\n";
@@ -97,7 +120,7 @@ function process_course($course) {
     file_put_contents("$course/index.json", json_encode($root_object, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
     file_put_contents("$course/index.min.json", json_encode($root_object, JSON_UNESCAPED_UNICODE));
 
-    return $histogram_count;
+    return $count;
 }
 
 function log_warning($msg) {
