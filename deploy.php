@@ -69,7 +69,7 @@ function process_course($course) {
             $count['staff']++;
 
             $data = json_decode(file_get_contents($staff_filename), true);
-            //$root_text .= staff_data_to_table($data) . "\n";
+            $root_text .= staff_data_to_table($data) . "\n";
             $semester_object['Staff'] = $data;
         } else {
             //log_warning("$course/$semester: Data with missing staff info");
@@ -155,6 +155,31 @@ function histogram_data_to_table($data) {
     }
 
     return "$row1\n$row2\n$row3\n";
+}
+
+function staff_data_to_table($data) {
+    $mapping = [
+        'name' => 'איש סגל',
+        'title' => 'תפקיד'
+    ];
+
+    $header = '|';
+    $seperator = '|';
+    foreach ($mapping as $key => $val) {
+        $header .= " $val |";
+        $seperator .= " ---- |";
+    }
+
+    $rows = '';
+    foreach ($data as $stuff_person) {
+        $rows .= '|';
+        foreach ($mapping as $key => $val) {
+            $rows .= " {$stuff_person[$key]} |";
+        }
+        $rows .= "\n";
+    }
+
+    return "$header\n$seperator\n$rows";
 }
 
 function markdown_to_page($title, $content) {
