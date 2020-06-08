@@ -17,7 +17,7 @@ foreach ($dir as $fileinfo) {
     $course_count++;
     $course = $fileinfo->getFilename();
     $count = process_course($course);
-    $semester_count += $count['semester'];
+    $semester_count += $count['semesters'];
     $staff_count += $count['staff'];
     $histogram_count += $count['histograms'];
     $courses[] = $course;
