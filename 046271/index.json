@@ -1,5 +1,27 @@
 {
     "201901": {
+        "Staff": [
+            {
+                "name": "זילברשטיין מרק",
+                "email": "mark@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "משה יאיר",
+                "email": "yair@ee.technion.ac.il,myair@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "קורסיה גל",
+                "email": "galko@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צברי איתי",
+                "email": "sitay@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "109",
             "passFail": "107\/2",
@@ -23,9 +45,9 @@
             "passFail": "108\/1",
             "passPercent": "99",
             "min": "53",
-            "max": "500",
-            "average": "169.927",
-            "median": "84"
+            "max": "97",
+            "average": "81.651",
+            "median": "83"
         }
     }
 }
