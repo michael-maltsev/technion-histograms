@@ -1,5 +1,12 @@
 {
     "201702": {
+        "Staff": [
+            {
+                "name": "הולצמן רון",
+                "email": "holzman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
         "Exam_A": {
             "students": "28",
             "passFail": "19\/9",
@@ -44,6 +51,47 @@
             "max": "100",
             "average": "66.9",
             "median": "68.5"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "משולם רועי",
+                "email": "meshulam@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לאו אלן",
+                "email": "alan@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "12",
+            "passFail": "7\/5",
+            "passPercent": "58",
+            "min": "33",
+            "max": "99",
+            "average": "65.75",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "12",
+            "passFail": "8\/4",
+            "passPercent": "67",
+            "min": "35",
+            "max": "99",
+            "average": "67.5",
+            "median": "70.5"
+        },
+        "Finals": {
+            "students": "16",
+            "passFail": "13\/3",
+            "passPercent": "81",
+            "min": "31",
+            "max": "99",
+            "average": "70.188",
+            "median": "73.5"
         }
     },
     "201802": {

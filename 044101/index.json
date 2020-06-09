@@ -264,6 +264,23 @@
         }
     },
     "201901": {
+        "Staff": [
+            {
+                "name": "דוד אילנה",
+                "email": "ilana@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "נאור עודד",
+                "email": "odednaor@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "רם אשד",
+                "email": "s6eshedr@technion.ac.il,s6eshedr@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "78",
             "passFail": "53\/25",
@@ -283,22 +300,22 @@
             "median": "78"
         },
         "Exam_B": {
-            "students": "33",
-            "passFail": "23\/10",
-            "passPercent": "70",
+            "students": "35",
+            "passFail": "24\/11",
+            "passPercent": "69",
             "min": "27.5",
             "max": "91",
-            "average": "62.848",
-            "median": "61.5"
+            "average": "62.314",
+            "median": "59.5"
         },
         "Final_B": {
-            "students": "33",
-            "passFail": "28\/5",
-            "passPercent": "85",
+            "students": "35",
+            "passFail": "30\/5",
+            "passPercent": "86",
             "min": "35",
             "max": "97",
-            "average": "73.152",
-            "median": "73"
+            "average": "72.571",
+            "median": "72"
         },
         "Finals": {
             "students": "85",

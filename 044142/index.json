@@ -47,6 +47,28 @@
         }
     },
     "201801": {
+        "Staff": [
+            {
+                "name": "כהן עמנואל",
+                "email": "emcohen@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חכמוביץ יואב",
+                "email": "syoavcha@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "דיסקין אלכסיי",
+                "email": "aleksd@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "אוסטרובסקי יבגני",
+                "email": "ostrovsky@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "155",
             "passFail": "75\/80",

@@ -47,6 +47,33 @@
         }
     },
     "201901": {
+        "Staff": [
+            {
+                "name": "צברי ליאור",
+                "email": "liolevy@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קולודני אבינועם",
+                "email": "kolodny@ee.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "זולקוב ארז",
+                "email": "zoerez@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "נגוסי יהודה",
+                "email": "yehudanagosi@gmail.com,yehudanagosi@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "רכניץ שרון",
+                "email": "sharmal@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "185",
             "passFail": "143\/42",
@@ -71,7 +98,7 @@
             "passPercent": "94",
             "min": "45",
             "max": "100",
-            "average": "79.105",
+            "average": "79.18",
             "median": "83"
         }
     }

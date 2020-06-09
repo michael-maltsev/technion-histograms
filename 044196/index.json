@@ -1,4 +1,41 @@
 {
+    "201702": {
+        "Staff": [
+            {
+                "name": "וינשטוק דן",
+                "email": "danweinstock1969@gmail.com",
+                "title": "מרצה"
+            },
+            {
+                "name": "דיסקין אלכסיי",
+                "email": "aleksd@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "קלנר דב",
+                "email": "dkelner@bazan.co.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "98",
+            "average": "84.588",
+            "median": "83"
+        },
+        "Finals": {
+            "students": "38",
+            "passFail": "38\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "98",
+            "average": "84.842",
+            "median": "85"
+        }
+    },
     "201802": {
         "Final_A": {
             "students": "43",
