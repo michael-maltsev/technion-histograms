@@ -1,5 +1,17 @@
 {
     "201901": {
+        "Staff": [
+            {
+                "name": "מאיר רון",
+                "email": "rmeir@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רווה אור",
+                "email": "sravehor@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Final_A": {
             "students": "33",
             "passFail": "31\/2",
@@ -15,8 +27,8 @@
             "passPercent": "97",
             "min": "31",
             "max": "99",
-            "average": "78.395",
-            "median": "78.5"
+            "average": "79",
+            "median": "79"
         }
     }
 }
