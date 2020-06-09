@@ -1,5 +1,27 @@
 {
     "201701": {
+        "Staff": [
+            {
+                "name": "שוהם יובל",
+                "email": "yshoham@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כצמן מרינה",
+                "email": "smarinap@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קורח-רכטמן הילה",
+                "email": "krhila@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "לוי ליאור",
+                "email": "liorlevy@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "44",
             "passFail": "29\/15",
@@ -47,6 +69,23 @@
         }
     },
     "201801": {
+        "Staff": [
+            {
+                "name": "מור עמרם",
+                "email": "amor@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לוי ליאור",
+                "email": "liorlevy@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "נסייר ראוף",
+                "email": "nraouf@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
         "Exam_A": {
             "students": "33",
             "passFail": "29\/4",

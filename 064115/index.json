@@ -1,5 +1,27 @@
 {
     "201702": {
+        "Staff": [
+            {
+                "name": "דנינו דגנית",
+                "email": "dganitd@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רוזנבליט בוריס",
+                "email": "sborisro@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דוד שלומית",
+                "email": "shlomit2@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דוידוב צילה",
+                "email": "tzila937@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Final_A": {
             "students": "61",
             "passFail": "44\/17",
@@ -38,6 +60,23 @@
         }
     },
     "201802": {
+        "Staff": [
+            {
+                "name": "דנינו דגנית",
+                "email": "dganitd@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "וילינגר אור",
+                "email": "ohw1991@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פרייליך ענבר",
+                "email": "inbarel@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
         "Exam_A": {
             "students": "51",
             "passFail": "31\/20",
@@ -79,9 +118,9 @@
             "passFail": "50\/6",
             "passPercent": "89",
             "min": "23",
-            "max": "500",
-            "average": "82.411",
-            "median": "74.5"
+            "max": "100",
+            "average": "74.818",
+            "median": "73"
         }
     }
 }
