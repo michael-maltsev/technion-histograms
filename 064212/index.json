@@ -1,4 +1,49 @@
 {
+    "201601": {
+        "Staff": [
+            {
+                "name": "שפיגלמן אבי",
+                "email": "avis@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "68",
+            "passFail": "62\/6",
+            "passPercent": "91",
+            "min": "40",
+            "max": "100",
+            "average": "78.824",
+            "median": "85"
+        },
+        "Final_A": {
+            "students": "68",
+            "passFail": "62\/6",
+            "passPercent": "91",
+            "min": "40",
+            "max": "100",
+            "average": "78.824",
+            "median": "85"
+        },
+        "Final_B": {
+            "students": "19",
+            "passFail": "18\/1",
+            "passPercent": "95",
+            "min": "50",
+            "max": "90",
+            "average": "70.789",
+            "median": "70"
+        },
+        "Finals": {
+            "students": "73",
+            "passFail": "72\/1",
+            "passPercent": "99",
+            "min": "50",
+            "max": "100",
+            "average": "80.959",
+            "median": "85"
+        }
+    },
     "201701": {
         "Staff": [
             {
