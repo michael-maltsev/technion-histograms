@@ -160,6 +160,28 @@
         }
     },
     "201802": {
+        "Staff": [
+            {
+                "name": "ברנד מאיר",
+                "email": "br.meir@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רופמן ברוך",
+                "email": "rofmanb@gmail.com,rofman@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שירוקי יצחק",
+                "email": "sitzik1984@gmail.com,shiroky@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ניר רונן",
+                "email": "ronen.nizri@gmail.com,ronenn@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "112",
             "passFail": "103\/9",
@@ -202,7 +224,7 @@
             "passPercent": "93",
             "min": "32",
             "max": "99",
-            "average": "78.062",
+            "average": "78.14",
             "median": "81"
         }
     }
