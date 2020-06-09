@@ -75,6 +75,23 @@
         }
     },
     "201901": {
+        "Staff": [
+            {
+                "name": "עמק יובל",
+                "email": "yemek@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אגסי זיוה",
+                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Final_A": {
             "students": "143",
             "passFail": "136\/7",
@@ -99,8 +116,8 @@
             "passPercent": "94",
             "min": "32",
             "max": "100",
-            "average": "79.316",
-            "median": "80"
+            "average": "79.766",
+            "median": "82"
         }
     }
 }
