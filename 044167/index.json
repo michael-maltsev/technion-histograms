@@ -34,13 +34,25 @@
         }
     },
     "201802": {
+        "Staff": [
+            {
+                "name": "כהן ישראל",
+                "email": "icohen@ee.technion.ac.il,cisrael@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ארז יוחנן",
+                "email": "jo@ee.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
         "Finals": {
-            "students": "167",
-            "passFail": "167\/0",
+            "students": "170",
+            "passFail": "170\/0",
             "passPercent": "100",
             "min": "75",
             "max": "100",
-            "average": "96.647",
+            "average": "96.629",
             "median": "97"
         }
     },
