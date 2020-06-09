@@ -69,10 +69,14 @@ function process_course($course) {
             $count['staff']++;
 
             $data = json_decode(file_get_contents($staff_filename), true);
-            $root_text .= staff_data_to_table($data) . "\n";
-            $semester_object['Staff'] = $data;
+            if (count($data) > 0) {
+                $root_text .= staff_data_to_table($data) . "\n";
+                $semester_object['Staff'] = $data;
+            } else {
+                log_warning("$course/$semester: Semester with empty staff info");
+            }
         } else {
-            //log_warning("$course/$semester: Data with missing staff info");
+            //log_warning("$course/$semester: Semester with missing staff info");
         }
 
         $categories = [
