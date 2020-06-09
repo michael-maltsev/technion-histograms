@@ -138,7 +138,28 @@
         }
     },
     "201901": {
-        "Staff": [],
+        "Staff": [
+            {
+                "name": "בן-דוד גל",
+                "email": "gal.bendavid@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שלו ארז",
+                "email": "erezsh@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אלעזרא אור",
+                "email": "sorior@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "כהן אהרון",
+                "email": "aharon.c@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "159",
             "passFail": "106\/53",
