@@ -1,4 +1,45 @@
 {
+    "201301": {
+        "Staff": [
+            {
+                "name": "בלנק אהרן",
+                "email": "ab359@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מלצמן שי",
+                "email": "meltzman@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "747",
+            "passFail": "638\/109",
+            "passPercent": "85",
+            "min": "15",
+            "max": "100",
+            "average": "70.538",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "747",
+            "passFail": "636\/111",
+            "passPercent": "85",
+            "min": "15",
+            "max": "100",
+            "average": "73.24",
+            "median": "75"
+        },
+        "Final_B": {
+            "students": "266",
+            "passFail": "155\/111",
+            "passPercent": "58",
+            "min": "10",
+            "max": "100",
+            "average": "59.538",
+            "median": "61"
+        }
+    },
     "201302": {
         "Exam_A": {
             "students": "295",

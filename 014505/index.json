@@ -1,4 +1,85 @@
 {
+    "201401": {
+        "Staff": [
+            {
+                "name": "קובלר קונסטנט",
+                "email": "cvrkost@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "194",
+            "passFail": "188\/6",
+            "passPercent": "97",
+            "min": "29",
+            "max": "100",
+            "average": "79.485",
+            "median": "81"
+        },
+        "Final_B": {
+            "students": "42",
+            "passFail": "38\/4",
+            "passPercent": "90",
+            "min": "38",
+            "max": "98",
+            "average": "76.952",
+            "median": "81"
+        },
+        "Finals": {
+            "students": "220",
+            "passFail": "216\/4",
+            "passPercent": "98",
+            "min": "38",
+            "max": "100",
+            "average": "80.545",
+            "median": "82"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "כץ אמנון",
+                "email": "akatz@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "217",
+            "passFail": "195\/22",
+            "passPercent": "90",
+            "min": "4.5",
+            "max": "100",
+            "average": "73.493",
+            "median": "75"
+        },
+        "Final_A": {
+            "students": "210",
+            "passFail": "195\/15",
+            "passPercent": "93",
+            "min": "34",
+            "max": "97",
+            "average": "76.805",
+            "median": "78.5"
+        },
+        "Final_B": {
+            "students": "59",
+            "passFail": "55\/4",
+            "passPercent": "93",
+            "min": "48",
+            "max": "100",
+            "average": "75.051",
+            "median": "76"
+        },
+        "Finals": {
+            "students": "222",
+            "passFail": "218\/4",
+            "passPercent": "98",
+            "min": "48",
+            "max": "100",
+            "average": "79.14",
+            "median": "80"
+        }
+    },
     "201801": {
         "Final_A": {
             "students": "143",

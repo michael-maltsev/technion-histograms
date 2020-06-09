@@ -1,0 +1,48 @@
+{
+    "201802": {
+        "Staff": [
+            {
+                "name": "בן-עוז חנן",
+                "email": "benoz@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "57",
+            "passFail": "49\/8",
+            "passPercent": "86",
+            "min": "10",
+            "max": "100",
+            "average": "72.07",
+            "median": "82"
+        },
+        "Final_B": {
+            "students": "22",
+            "passFail": "10\/12",
+            "passPercent": "45",
+            "min": "0",
+            "max": "91",
+            "average": "43.182",
+            "median": "35"
+        },
+        "Finals": {
+            "students": "63",
+            "passFail": "58\/5",
+            "passPercent": "92",
+            "min": "25",
+            "max": "100",
+            "average": "76.746",
+            "median": "82"
+        }
+    }
+}

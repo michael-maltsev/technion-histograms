@@ -1,4 +1,50 @@
 {
+    "201702": {
+        "Staff": [
+            {
+                "name": "דגני אמיר",
+                "email": "adegani@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טולדו תומר",
+                "email": "toledo@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "הלל רוני",
+                "email": "rhilel@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "189",
+            "passFail": "186\/3",
+            "passPercent": "98",
+            "min": "42",
+            "max": "99",
+            "average": "79.566",
+            "median": "82"
+        },
+        "Final_B": {
+            "students": "64",
+            "passFail": "56\/8",
+            "passPercent": "88",
+            "min": "19",
+            "max": "95",
+            "average": "66.828",
+            "median": "69"
+        },
+        "Finals": {
+            "students": "243",
+            "passFail": "235\/8",
+            "passPercent": "97",
+            "min": "19",
+            "max": "99",
+            "average": "77.42",
+            "median": "79"
+        }
+    },
     "201802": {
         "Final_A": {
             "students": "133",

@@ -1,4 +1,36 @@
 {
+    "201301": {
+        "Staff": [
+            {
+                "name": "מרקוס לודמילה",
+                "email": "epstin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אביטל רבקה",
+                "email": "rivka_a@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "551",
+            "passFail": "525\/26",
+            "passPercent": "95",
+            "min": "22",
+            "max": "100",
+            "average": "80.452",
+            "median": "83"
+        },
+        "Final_B": {
+            "students": "77",
+            "passFail": "52\/25",
+            "passPercent": "68",
+            "min": "15",
+            "max": "99",
+            "average": "59.805",
+            "median": "60"
+        }
+    },
     "201501": {
         "Exam_A": {
             "students": "374",

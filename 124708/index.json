@@ -1,4 +1,41 @@
 {
+    "201402": {
+        "Staff": [
+            {
+                "name": "ריבקין אמיליה",
+                "email": "remilia@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סיביליה שגיא",
+                "email": "sagise@technion.ac.il,sagise@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בלוך ויקטוריה",
+                "email": "vickis@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "47",
+            "passFail": "46\/1",
+            "passPercent": "98",
+            "min": "31",
+            "max": "100",
+            "average": "87.638",
+            "median": "89"
+        },
+        "Finals": {
+            "students": "49",
+            "passFail": "48\/1",
+            "passPercent": "98",
+            "min": "31",
+            "max": "100",
+            "average": "86.51",
+            "median": "89"
+        }
+    },
     "201502": {
         "Staff": [],
         "Finals": {
