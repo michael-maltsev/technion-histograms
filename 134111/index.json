@@ -94,6 +94,13 @@
         }
     },
     "201901": {
+        "Staff": [
+            {
+                "name": "ארד זאב",
+                "email": "zarad@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
         "Exam_A": {
             "students": "28",
             "passFail": "23\/5",
@@ -132,11 +139,11 @@
         },
         "Finals": {
             "students": "31",
-            "passFail": "29\/2",
-            "passPercent": "94",
+            "passFail": "30\/1",
+            "passPercent": "97",
             "min": "51",
             "max": "94",
-            "average": "74.613",
+            "average": "74.71",
             "median": "75"
         }
     }
