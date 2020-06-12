@@ -46,6 +46,65 @@
             "median": "75.5"
         }
     },
+    "201602": {
+        "Staff": [
+            {
+                "name": "אנטוב מיכאל",
+                "email": "entov@math.technion.ac.il,entov@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פייגין-קצוב יוליה",
+                "email": "julia.feigin@gmail.com,juliaf@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "40",
+            "passFail": "19\/21",
+            "passPercent": "48",
+            "min": "13",
+            "max": "99",
+            "average": "55.825",
+            "median": "53"
+        },
+        "Final_A": {
+            "students": "40",
+            "passFail": "24\/16",
+            "passPercent": "60",
+            "min": "13",
+            "max": "99",
+            "average": "60.075",
+            "median": "57.5"
+        },
+        "Exam_B": {
+            "students": "34",
+            "passFail": "17\/17",
+            "passPercent": "50",
+            "min": "4",
+            "max": "100",
+            "average": "60.265",
+            "median": "54.5"
+        },
+        "Final_B": {
+            "students": "34",
+            "passFail": "23\/11",
+            "passPercent": "68",
+            "min": "15",
+            "max": "100",
+            "average": "62.471",
+            "median": "57"
+        },
+        "Finals": {
+            "students": "50",
+            "passFail": "35\/15",
+            "passPercent": "70",
+            "min": "15",
+            "max": "100",
+            "average": "65.04",
+            "median": "62"
+        }
+    },
     "201701": {
         "Staff": [
             {
