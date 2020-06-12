@@ -67,6 +67,13 @@
         }
     },
     "201802": {
+        "Staff": [
+            {
+                "name": "פישמן שמואל ז\"ל",
+                "email": "fishman@physics.technion.ac.il,fishmans@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
         "Final_A": {
             "students": "55",
             "passFail": "54\/1",
@@ -74,6 +81,15 @@
             "min": "50",
             "max": "100",
             "average": "98",
+            "median": "100"
+        },
+        "Finals": {
+            "students": "60",
+            "passFail": "60\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "99",
             "median": "100"
         }
     }
