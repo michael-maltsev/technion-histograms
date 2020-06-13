@@ -95,10 +95,10 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| זוסמן איל | מרצה - אחראי מקצוע |
-| מרום יוליה | מתרגל - עם הרשאות מרצה אחראי |
-| שוחאט שלום | מתרגל - עם הרשאות מרצה אחראי |
-| קסה אדנה )דני( | מתרגל - עם הרשאות מרצה אחראי |
+| Professor | meeyal@technion.ac.il |
+|  | yulia263@campus.technion.ac.il |
+| Mr. | sholombr@gmail.com |
+| Mr. | sadnek@technion.ac.il,sadnek@campus.technion.ac.il |
 
 ### סופי מועד א'
 

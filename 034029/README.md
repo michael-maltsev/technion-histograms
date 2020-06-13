@@ -170,12 +170,12 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| גבלי יוסף | מרצה - אחראי מקצוע |
-| וורוטניקוב קיריל | מרצה |
-| גזאל מג'די | מתרגל - עם הרשאות מרצה אחראי |
-| חן שגיא | מתרגל - עם הרשאות מרצה אחראי |
-| כץ שמואל | מתרגל - עם הרשאות מרצה אחראי |
-| ניצן עידו | מתרגל - עם הרשאות מרצה אחראי |
+| Associate Professor | givli@technion.ac.il |
+| Doctor | kirill.vorotnikov@gmail.com |
+| Mr. | majdi.gzal@gmail.com |
+| Mr. | sagich@technion.ac.il,sagich@campus.technion.ac.il |
+| Mr. | katzshm@campus.technion.ac.il |
+| Mr. | idonizan@gmail.com |
 
 ### מבחן מועד א'
 

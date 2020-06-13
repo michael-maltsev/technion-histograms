@@ -62,11 +62,11 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| דגני דוד | מרצה - אחראי מקצוע |
-| דונאיביץ לב | מתרגל - עם הרשאות מרצה אחראי |
-| כהן יגאל | מתרגל - עם הרשאות מרצה אחראי |
-| גוטליב גלעד | מתרגל - עם הרשאות מרצה אחראי |
-| מאיו בר | מתרגל - עם הרשאות מרצה אחראי |
+| Professor Emeritus | degani@technion.ac.il |
+| Mr. | levdun1@gmail.com |
+| Mr. | igalcohen@campus.technion.ac.il |
+| Mr. | gilad011@gmail.com,gilad011@campus.technion.ac.il |
+| Mr. | mayo.bar@gmail.com |
 
 ### מבחן מועד א'
 

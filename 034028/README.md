@@ -211,12 +211,12 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| גבלי יוסף | מרצה - אחראי מקצוע |
-| גזאל מג'די | מתרגל - עם הרשאות מרצה אחראי |
-| ניצן עידו | מתרגל - עם הרשאות מרצה אחראי |
-| חן שגיא | מתרגל - עם הרשאות מרצה אחראי |
-| כץ שמואל | מתרגל - עם הרשאות מרצה אחראי |
-| ברונשטיין אמיל | מתרגל - עם הרשאות מרצה אחראי |
+| Associate Professor | givli@technion.ac.il |
+| Mr. | majdi.gzal@gmail.com |
+| Mr. | idonizan@gmail.com |
+| Mr. | sagich@technion.ac.il,sagich@campus.technion.ac.il |
+| Mr. | katzshm@campus.technion.ac.il |
+| Mr. | emilbr@campus.technion.ac.il |
 
 ### מבחן מועד א'
 

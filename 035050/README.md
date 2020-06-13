@@ -35,8 +35,8 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| רוטשילד כרמל | מרצה - אחראי מקצוע |
-| שימנוביץ' מיכל | מתרגל - עם הרשאות מרצה אחראי |
+| Associate Professor | carmelr@technion.ac.il |
+|  | micha.shimanovich@gmail.com,michalshi@campus.technion.ac.il |
 
 ### סופי מועד א'
 

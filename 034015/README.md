@@ -122,10 +122,10 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| ברנד מאיר | מרצה - אחראי מקצוע |
-| רופמן ברוך | מתרגל - עם הרשאות מרצה אחראי |
-| שירוקי יצחק | מתרגל - עם הרשאות מרצה אחראי |
-| ניר רונן | מתרגל - עם הרשאות מרצה אחראי |
+| Doctor | br.meir@gmail.com |
+| Mr. | rofmanb@gmail.com,rofman@campus.technion.ac.il |
+| Mr. | sitzik1984@gmail.com,shiroky@campus.technion.ac.il |
+| Mr. | ronen.nizri@gmail.com,ronenn@campus.technion.ac.il |
 
 ### מבחן מועד א'
 

@@ -116,8 +116,8 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| קניגל עמית | מרצה - אחראי מקצוע |
-| פריזאנט יוליה | סגל מנהלי - עם הרשאות מרצה אחראי |
+| Associate Professor | amitk@physics.technion.ac.il,phamit@technion.ac.il |
+|  | jammia@technion.ac.il |
 
 ### סופי מועד א'
 

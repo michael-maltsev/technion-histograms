@@ -153,13 +153,13 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| טרטקובסקי לאוניד | מרצה - אחראי מקצוע |
-| ואן האוט רנה | מרצה |
-| דיסקין דוד | מתרגל - עם הרשאות מרצה אחראי |
-| קייסר דוד | מתרגל - עם הרשאות מרצה אחראי |
-| תחאוחו אנדי | מתרגל - עם הרשאות מרצה אחראי |
-| אייל אמנון | מתרגל - עם הרשאות מרצה אחראי |
-| אשבל ליאור | מתרגל - עם הרשאות מרצה אחראי |
+| Associate Professor | tartak@technion.ac.il |
+| Doctor | rene@technion.ac.il |
+| Mr. | david.discin149@gmail.com,david.diskin@campus.technion.ac.il |
+| Mr. | keisar@campus.technion.ac.il |
+| Mr. | andythawho@gmail.com,andythawho@campus.technion.ac.il |
+| Mr. | amnoneyal@gmail.com,amnone@campus.technion.ac.il |
+| Doctor | awesome@campus.technion.ac.il |
 
 ### מבחן מועד א'
 
