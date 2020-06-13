@@ -236,18 +236,18 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| בלנק אהרן | מרצה - אחראי מקצוע |
-| אמדורסקי נדב | מרצה |
-| מלצמן שי | מרצה |
-| טרביה טארק | מתרגל - עם הרשאות מרצה אחראי |
-| מולדובן גיא | מתרגל - עם הרשאות מרצה אחראי |
-| איו מיכאל | מתרגל - עם הרשאות מרצה אחראי |
-| סול מתן | מתרגל - עם הרשאות מרצה אחראי |
-| גולדשמיד איתי | מתרגל - עם הרשאות מרצה אחראי |
-| כהן אנטוני | מתרגל - עם הרשאות מרצה אחראי |
-| הריס דביר | מתרגל - עם הרשאות מרצה אחראי |
-| עיד עימאד | מתרגל - עם הרשאות מרצה אחראי |
-| אביגדורי עידן | מתרגל - עם הרשאות מרצה אחראי |
+| Professor | ab359@technion.ac.il |
+| Doctor | amdursky@technion.ac.il |
+| Doctor | meltzman@technion.ac.il |
+| Mr. | tarek.taraben@gmail.com,ttarek@campus.technion.ac.il |
+| Mr. | guy.m@campus.technion.ac.il |
+| Mr. | miko@technion.ac.il,miko@campus.technion.ac.il |
+| Mr. | ssolliwa@technion.ac.il |
+| Mr. |  |
+| Mr. | anthonycohen4@gmail.com |
+| Mr. | dharris@technion.ac.il,dharris@campus.technion.ac.il |
+| Mr. | semadeid_m@campus.technion.ac.il |
+| Mr. | sidan89@campus.technion.ac.il |
 
 ### מבחן מועד א'
 
