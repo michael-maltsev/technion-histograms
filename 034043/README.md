@@ -61,10 +61,10 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| Mr. | orenl@systematics.co.il |
-| Mr. | orenrij@technion.ac.il,orenrijensky@campus.technion.ac.il |
-| Mr. | yahavmoshko@gmail.com,yahavmo@campus.technion.ac.il |
-| Mr. | sigord@technion.ac.il,sigord@campus.technion.ac.il |
+| לומברוזו אורן | מרצה - אחראי מקצוע |
+| ריז'נסקי אורן |  |
+| מושקוביץ יהב |  |
+| דמצ'נקו איגור |  |
 
 ### סופי מועד א'
 

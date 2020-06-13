@@ -119,11 +119,11 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| Doctor | kmaxim@technion.ac.il |
-| Mr. | sohadf@campus.technion.ac.il |
-| Mr. | galbarkai@gmail.com,galbarkai@campus.technion.ac.il |
-| Mr. | alon.shirizly@gmail.com |
-| Mr. | mr.bennyg@gmail.com,bennyg@campus.technion.ac.il |
+| קריסטלני מקסים | מרצה - אחראי מקצוע |
+| פיירמן אוהד | מתרגל - עם הרשאות מרצה אחראי |
+| ברקאי גל | מתרגל - עם הרשאות מרצה אחראי |
+| שיריזלי אלון | מתרגל - עם הרשאות מרצה אחראי |
+| גאמוס בני | מתרגל - עם הרשאות מרצה אחראי |
 
 ### מבחן מועד א'
 

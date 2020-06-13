@@ -99,20 +99,20 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| Associate Professor | gm92@technion.ac.il |
-| Assistant Professor | chunt@technion.ac.il |
-|  | gabriele@technion.ac.il |
-| Doctor | mariabaskin88@gmail.com |
-|  | maya.kad92@gmail.com |
-| Mr. | haritan@technion.ac.il,haritan@campus.technion.ac.il |
-|  | iris.melnik@campus.technion.ac.il |
-|  | lee788@gmail.com |
-| Mr. | szemicha@campus.technion.ac.il |
-|  | levinman@campus.technion.ac.il |
-|  | naamagl@technion.ac.il |
-|  | mpreshel@campus.technion.ac.il |
-| Doctor | evgeniyagoldman@gmail.com |
-| Mr. | achiya@campus.technion.ac.il |
+| מעיין גליה | מדריך מעבדה - עם הרשאות מרצה אחראי |
+| צ'ונטונוב לב |  |
+| הלוי גבריאלה | מדריך מעבדה |
+| בסקין מריה | מדריך מעבדה |
+| כדורי מאיה | מדריך מעבדה |
+| חריטן עידן | מדריך מעבדה |
+| אגמי איריס | מדריך מעבדה |
+| אנגלברג לי | מדריך מעבדה |
+| זלנר-יפע משה מיכאל | מדריך מעבדה |
+| לוינמן מריה | מדריך מעבדה |
+| גלוז נעמה | מדריך מעבדה |
+| פרשל מאיה | מדריך מעבדה |
+| גולדמן יבגניה | מדריך מעבדה |
+| ליבנה אחיה | מדריך מעבדה |
 
 ### סופי מועד א'
 

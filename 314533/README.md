@@ -95,8 +95,8 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| Associate Professor | rchaim@technion.ac.il |
-|  | maoronen@technion.ac.il,maoronen@campus.technion.ac.il |
+| חיים רחמן | מרצה - אחראי מקצוע |
+| רם-און מאור | סגל מנהלי - עם הרשאות מרצה אחראי |
 
 ### סופי מועד א'
 

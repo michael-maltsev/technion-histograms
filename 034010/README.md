@@ -171,10 +171,10 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| Assistant Professor | meshmuel@technion.ac.il |
-| Mr. | ahaziv@gmail.com,ahaziv@campus.technion.ac.il |
-| Mr. | orenwi@campus.technion.ac.il |
-| Mr. | liorsalem10@gmail.com,liorsal@campus.technion.ac.il |
+| שמואל גל | מרצה - אחראי מקצוע |
+| אהרוני זיו | מתרגל - עם הרשאות מרצה אחראי |
+| ויזל אורן | מתרגל - עם הרשאות מרצה אחראי |
+| סאלם ליאור | מתרגל - עם הרשאות מרצה אחראי |
 
 ### מבחן מועד א'
 

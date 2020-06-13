@@ -120,10 +120,10 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| Associate Professor | mermz@technion.ac.il |
-| Mr. | syoavv@campus.technion.ac.il |
-| Mr. | alon.shirizly@gmail.com |
-| Mr. | levi.sivan90@gmail.com,sivlevi@campus.technion.ac.il |
+| זקסנהויז מרים | מרצה - אחראי מקצוע |
+| ורד יואב | מתרגל - עם הרשאות מרצה אחראי |
+| שיריזלי אלון | מתרגל - עם הרשאות מרצה אחראי |
+| לוי סיון | מתרגל - עם הרשאות מרצה אחראי |
 
 ### מבחן מועד א'
 

@@ -278,7 +278,7 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| Associate Professor | amitk@physics.technion.ac.il,phamit@technion.ac.il |
+| קניגל עמית | מרצה - אחראי מקצוע |
 
 ### סופי מועד א'
 

@@ -211,12 +211,12 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| Associate Professor | yossifon@technion.ac.il |
-| Mr. | shimry@technion.ac.il,shimry@campus.technion.ac.il |
-|  | shaharerez@campus.technion.ac.il |
-| Mr. | shmigal@technion.ac.il,shmigal@campus.technion.ac.il |
-| Mr. | rofmanb@gmail.com,rofman@campus.technion.ac.il |
-| Mr. | shellac@campus.technion.ac.il |
+| יוסיפון גלעד | מרצה - אחראי מקצוע |
+| חביב שמרי | מתרגל - עם הרשאות מרצה אחראי |
+| ארז שחר | מתרגל - עם הרשאות מרצה אחראי |
+| עברון יגאל | מתרגל - עם הרשאות מרצה אחראי |
+| רופמן ברוך | מתרגל - עם הרשאות מרצה אחראי |
+| אטלס אמרי | מתרגל - עם הרשאות מרצה אחראי |
 
 ### מבחן מועד א'
 

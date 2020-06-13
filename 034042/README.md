@@ -144,12 +144,12 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| Associate Professor | nitaid@technion.ac.il |
-| Doctor | capsd@technion.ac.il |
-|  | hadarei@gmail.com,hadar.sh@campus.technion.ac.il |
-| Mr. | levdun1@gmail.com |
-| Doctor | nadya304@gmail.com,nadyaos@campus.technion.ac.il |
-| Mr. | orenrij@technion.ac.il,orenrijensky@campus.technion.ac.il |
+| דרימר נתאי | מרצה - אחראי מקצוע |
+| בירן אדריאן | מרצה |
+| שאוליאן הדר | מתרגל - עם הרשאות מרצה אחראי |
+| דונאיביץ לב | מתרגל - עם הרשאות מרצה אחראי |
+| אוסטרומוחוב נדיה | מתרגל - עם הרשאות מרצה אחראי |
+| ריז'נסקי אורן | מתרגל - עם הרשאות מרצה אחראי |
 
 ### מבחן מועד א'
 

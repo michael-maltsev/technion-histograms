@@ -161,10 +161,10 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| Professor | davidg@technion.ac.il |
-| Mr. | eliram@campus.technion.ac.il |
-| Mr. | evgboyko@campus.technion.ac.il |
-| Mr. | israelgabay1@campus.technion.ac.il |
+| גרינבלט דוד | מרצה - אחראי מקצוע |
+| נוף אלירם | מתרגל - עם הרשאות מרצה אחראי |
+| בויקו יבגני | מתרגל - עם הרשאות מרצה אחראי |
+| גבאי ישראל | מתרגל - עם הרשאות מרצה אחראי |
 
 ### מבחן מועד א'
 

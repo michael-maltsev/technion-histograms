@@ -297,6 +297,6 @@
 
 | איש סגל | תפקיד |
 | ---- | ---- |
-| Assistant Professor | amir.r@ee.technion.ac.il |
-| Mr. | yigali@campus.technion.ac.il |
+| רוזנטל אמיר | מרצה - אחראי מקצוע |
+| אילין יגאל | מתרגל - עם הרשאות מרצה אחראי |
 
