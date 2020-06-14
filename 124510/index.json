@@ -143,6 +143,23 @@
         }
     },
     "201901": {
+        "Staff": [
+            {
+                "name": "בלנק אהרן",
+                "email": "ab359@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שרף דרור",
+                "email": "dror.sherf@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "בוגוד אילנה",
+                "email": "ibogod@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
         "Exam_A": {
             "students": "45",
             "passFail": "36\/9",
@@ -185,7 +202,7 @@
             "passPercent": "92",
             "min": "35",
             "max": "96",
-            "average": "75.8",
+            "average": "75.84",
             "median": "78"
         }
     }
