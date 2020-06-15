@@ -1,4 +1,45 @@
 {
+    "201302": {
+        "Staff": [
+            {
+                "name": "פרג'י אייל",
+                "email": "feyal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אלעד דורון",
+                "email": "edorone@campus.technion.ac.il,edorone@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "232",
+            "passFail": "90\/142",
+            "passPercent": "39",
+            "min": "17",
+            "max": "94",
+            "average": "49.466",
+            "median": "49"
+        },
+        "Final_A": {
+            "students": "232",
+            "passFail": "202\/30",
+            "passPercent": "87",
+            "min": "32.72",
+            "max": "100",
+            "average": "66.358",
+            "median": "66.46"
+        },
+        "Final_B": {
+            "students": "127",
+            "passFail": "105\/22",
+            "passPercent": "83",
+            "min": "26.17",
+            "max": "100",
+            "average": "66.879",
+            "median": "67.94"
+        }
+    },
     "201401": {
         "Exam_A": {
             "students": "54",

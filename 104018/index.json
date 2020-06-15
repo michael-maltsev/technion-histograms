@@ -1,4 +1,36 @@
 {
+    "201301": {
+        "Staff": [
+            {
+                "name": "פינצ'ובר יהודה",
+                "email": "pincho@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מעין הילה",
+                "email": "ahila@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "302",
+            "passFail": "240\/62",
+            "passPercent": "79",
+            "min": "17",
+            "max": "100",
+            "average": "67.401",
+            "median": "70"
+        },
+        "Final_B": {
+            "students": "100",
+            "passFail": "56\/44",
+            "passPercent": "56",
+            "min": "20",
+            "max": "92",
+            "average": "54.59",
+            "median": "55"
+        }
+    },
     "201302": {
         "Exam_A": {
             "students": "58",

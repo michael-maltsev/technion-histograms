@@ -1,4 +1,36 @@
 {
+    "201302": {
+        "Staff": [
+            {
+                "name": "מרדכי דן",
+                "email": "danmord@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פישר אריאל",
+                "email": "ariellef@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "153",
+            "passFail": "120\/33",
+            "passPercent": "78",
+            "min": "3",
+            "max": "100",
+            "average": "65.745",
+            "median": "65"
+        },
+        "Final_B": {
+            "students": "81",
+            "passFail": "63\/18",
+            "passPercent": "78",
+            "min": "5",
+            "max": "92",
+            "average": "62.296",
+            "median": "64"
+        }
+    },
     "201402": {
         "Final_A": {
             "students": "138",
