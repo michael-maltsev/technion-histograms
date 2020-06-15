@@ -98,5 +98,64 @@
             "average": "80.947",
             "median": "85"
         }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "שפירא אוריאל",
+                "email": "ushapira@gmail.com,ushapira@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דולב אור",
+                "email": "ordolev@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "36",
+            "passFail": "19\/17",
+            "passPercent": "53",
+            "min": "24",
+            "max": "98",
+            "average": "60.167",
+            "median": "55"
+        },
+        "Final_A": {
+            "students": "36",
+            "passFail": "28\/8",
+            "passPercent": "78",
+            "min": "34",
+            "max": "98",
+            "average": "65.889",
+            "median": "61.5"
+        },
+        "Exam_B": {
+            "students": "23",
+            "passFail": "13\/10",
+            "passPercent": "57",
+            "min": "12",
+            "max": "91",
+            "average": "57.304",
+            "median": "56"
+        },
+        "Final_B": {
+            "students": "22",
+            "passFail": "15\/7",
+            "passPercent": "68",
+            "min": "34",
+            "max": "92",
+            "average": "65.227",
+            "median": "69.5"
+        },
+        "Finals": {
+            "students": "42",
+            "passFail": "33\/9",
+            "passPercent": "79",
+            "min": "34",
+            "max": "98",
+            "average": "67.929",
+            "median": "66"
+        }
     }
 }
