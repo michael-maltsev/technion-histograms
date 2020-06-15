@@ -87,6 +87,23 @@
         }
     },
     "201901": {
+        "Staff": [
+            {
+                "name": "ג'בארין מחמוד",
+                "email": "cvjmah@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Final_A": {
             "students": "161",
             "passFail": "104\/57",
@@ -106,13 +123,13 @@
             "median": "73.5"
         },
         "Finals": {
-            "students": "167",
-            "passFail": "142\/25",
+            "students": "168",
+            "passFail": "143\/25",
             "passPercent": "85",
             "min": "7",
             "max": "92",
-            "average": "68.018",
-            "median": "72"
+            "average": "67.994",
+            "median": "72.5"
         }
     }
 }
