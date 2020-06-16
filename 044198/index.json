@@ -210,6 +210,18 @@
         }
     },
     "201901": {
+        "Staff": [
+            {
+                "name": "טלמון רונן",
+                "email": "ronen@ee.technion.ac.il,ronenta2@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ויגנר אביעד",
+                "email": "aviadw@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Final_A": {
             "students": "118",
             "passFail": "110\/8",
@@ -225,7 +237,7 @@
             "passPercent": "96",
             "min": "9",
             "max": "100",
-            "average": "81.477",
+            "average": "81.635",
             "median": "85"
         }
     }
