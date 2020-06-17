@@ -1,4 +1,45 @@
 {
+    "201602": {
+        "Staff": [
+            {
+                "name": "פריי גיטי",
+                "email": "gitti@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "עבד אל מג'יד סוזאן",
+                "email": "suzankh@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "156",
+            "passFail": "136\/20",
+            "passPercent": "87",
+            "min": "37",
+            "max": "100",
+            "average": "71.372",
+            "median": "70.5"
+        },
+        "Final_B": {
+            "students": "45",
+            "passFail": "39\/6",
+            "passPercent": "87",
+            "min": "26",
+            "max": "100",
+            "average": "74.956",
+            "median": "78"
+        },
+        "Finals": {
+            "students": "177",
+            "passFail": "169\/8",
+            "passPercent": "95",
+            "min": "26",
+            "max": "100",
+            "average": "74.712",
+            "median": "76"
+        }
+    },
     "201801": {
         "Final_A": {
             "students": "50",
