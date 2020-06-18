@@ -29,6 +29,23 @@
         }
     },
     "201802": {
+        "Staff": [
+            {
+                "name": "מוזס יורם",
+                "email": "moses@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אסא גל",
+                "email": "galassa@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "גורן גיא",
+                "email": "sgoren@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "80",
             "passFail": "65\/15",
