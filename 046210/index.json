@@ -1,4 +1,36 @@
 {
+    "201801": {
+        "Staff": [
+            {
+                "name": "זילברשטיין מרק",
+                "email": "mark@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אורנבך מני",
+                "email": "shmeni@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "42",
+            "passFail": "42\/0",
+            "passPercent": "100",
+            "min": "82",
+            "max": "100",
+            "average": "94.119",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "82",
+            "max": "100",
+            "average": "94.073",
+            "median": "94"
+        }
+    },
     "201802": {
         "Final_A": {
             "students": "44",
