@@ -47,6 +47,23 @@
         }
     },
     "201901": {
+        "Staff": [
+            {
+                "name": "רימון אילון",
+                "email": "rimon@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פריגוזין עמית",
+                "email": "prigozin@technion.ac.il,prigozin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שיריזלי אלון",
+                "email": "alon.shirizly@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "55",
             "passFail": "53\/2",
