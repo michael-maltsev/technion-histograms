@@ -1,4 +1,40 @@
 {
+    "201502": {
+        "Staff": [
+            {
+                "name": "מאירי חן",
+                "email": "chenm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "28",
+            "passFail": "15\/13",
+            "passPercent": "54",
+            "min": "0",
+            "max": "98",
+            "average": "49.893",
+            "median": "58.5"
+        },
+        "Final_A": {
+            "students": "28",
+            "passFail": "15\/13",
+            "passPercent": "54",
+            "min": "0",
+            "max": "100",
+            "average": "54.036",
+            "median": "67.5"
+        },
+        "Final_B": {
+            "students": "21",
+            "passFail": "9\/12",
+            "passPercent": "43",
+            "min": "0",
+            "max": "100",
+            "average": "50.048",
+            "median": "36"
+        }
+    },
     "201602": {
         "Staff": [
             {
