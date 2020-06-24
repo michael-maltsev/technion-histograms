@@ -165,6 +165,65 @@
             "median": "75"
         }
     },
+    "201602": {
+        "Staff": [
+            {
+                "name": "וולף עדי",
+                "email": "adiw@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מסרווה חייריה",
+                "email": "massarwe@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "102",
+            "passFail": "64\/38",
+            "passPercent": "63",
+            "min": "11",
+            "max": "102",
+            "average": "60.167",
+            "median": "60.5"
+        },
+        "Final_A": {
+            "students": "102",
+            "passFail": "82\/20",
+            "passPercent": "80",
+            "min": "11",
+            "max": "100",
+            "average": "66.667",
+            "median": "69"
+        },
+        "Exam_B": {
+            "students": "52",
+            "passFail": "16\/36",
+            "passPercent": "31",
+            "min": "13",
+            "max": "81",
+            "average": "46.077",
+            "median": "45"
+        },
+        "Final_B": {
+            "students": "52",
+            "passFail": "38\/14",
+            "passPercent": "73",
+            "min": "27",
+            "max": "88",
+            "average": "57.962",
+            "median": "59"
+        },
+        "Finals": {
+            "students": "128",
+            "passFail": "111\/17",
+            "passPercent": "87",
+            "min": "11",
+            "max": "100",
+            "average": "67.773",
+            "median": "68.5"
+        }
+    },
     "201701": {
         "Staff": [
             {

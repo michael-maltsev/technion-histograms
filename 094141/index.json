@@ -1,4 +1,36 @@
 {
+    "201602": {
+        "Staff": [
+            {
+                "name": "דניאלי עמי",
+                "email": "ami@mckit.co.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לוי אביחי",
+                "email": "leviavihay@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "38",
+            "passFail": "38\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "97",
+            "average": "90.447",
+            "median": "91"
+        },
+        "Finals": {
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "98",
+            "average": "90.821",
+            "median": "91"
+        }
+    },
     "201701": {
         "Final_A": {
             "students": "82",
