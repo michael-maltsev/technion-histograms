@@ -27,5 +27,41 @@
             "average": "74.952",
             "median": "78"
         }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "לוין דניאל",
+                "email": "dlewin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "62",
+            "passFail": "41\/21",
+            "passPercent": "66",
+            "min": "29",
+            "max": "97",
+            "average": "63.968",
+            "median": "65"
+        },
+        "Final_B": {
+            "students": "31",
+            "passFail": "20\/11",
+            "passPercent": "65",
+            "min": "27",
+            "max": "91",
+            "average": "62.452",
+            "median": "64"
+        },
+        "Finals": {
+            "students": "69",
+            "passFail": "58\/11",
+            "passPercent": "84",
+            "min": "27",
+            "max": "97",
+            "average": "68.928",
+            "median": "70"
+        }
     }
 }

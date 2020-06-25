@@ -47,6 +47,18 @@
         }
     },
     "201801": {
+        "Staff": [
+            {
+                "name": "חאיק חוסאם",
+                "email": "hhossam@technion.ac.il,noreplay@norplay.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חורב יהוא דוד",
+                "email": "yehu@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
         "Final_A": {
             "students": "50",
             "passFail": "50\/0",
@@ -54,6 +66,15 @@
             "min": "56",
             "max": "100",
             "average": "85.6",
+            "median": "89"
+        },
+        "Finals": {
+            "students": "53",
+            "passFail": "53\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "87.245",
             "median": "89"
         }
     }
