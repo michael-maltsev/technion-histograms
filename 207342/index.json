@@ -1,0 +1,38 @@
+{
+    "201901": {
+        "Staff": [
+            {
+                "name": "ישראל אמיל",
+                "email": "emil.israel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "32\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "98",
+            "average": "85.844",
+            "median": "86"
+        },
+        "Final_A": {
+            "students": "32",
+            "passFail": "32\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "98",
+            "average": "85.844",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "37",
+            "passFail": "37\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "100",
+            "average": "86.378",
+            "median": "86"
+        }
+    }
+}
