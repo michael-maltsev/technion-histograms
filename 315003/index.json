@@ -31,47 +31,37 @@
     "201802": {
         "Staff": [
             {
-                "name": "אמויאל ירון",
-                "email": "amouyal@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "סנדר אושרית",
-                "email": "oshrits@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "דוד רותי",
-                "email": "ruthi@technion.ac.il",
+                "name": "וונג חואן",
+                "email": "wang.yuan@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "35",
-            "passFail": "29\/6",
-            "passPercent": "83",
-            "min": "14",
+            "students": "65",
+            "passFail": "55\/10",
+            "passPercent": "85",
+            "min": "10",
             "max": "100",
-            "average": "67.829",
-            "median": "68"
+            "average": "73.908",
+            "median": "78"
         },
         "Final_B": {
-            "students": "40",
-            "passFail": "33\/7",
+            "students": "17",
+            "passFail": "14\/3",
             "passPercent": "82",
-            "min": "13",
-            "max": "100",
-            "average": "67.725",
-            "median": "68.5"
+            "min": "32",
+            "max": "99",
+            "average": "72.471",
+            "median": "71"
         },
         "Finals": {
-            "students": "40",
-            "passFail": "33\/7",
-            "passPercent": "82",
-            "min": "13",
+            "students": "65",
+            "passFail": "60\/5",
+            "passPercent": "92",
+            "min": "31",
             "max": "100",
-            "average": "67.9",
-            "median": "69.5"
+            "average": "78",
+            "median": "81"
         }
     }
 }
