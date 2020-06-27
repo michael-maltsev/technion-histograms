@@ -18,5 +18,42 @@
             "average": "91.148",
             "median": "93"
         }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "גרובמן יעקב",
+                "email": "yasha@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הרשקוביץ רחלי",
+                "email": "cheli300@gmail.com,cheli@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "עוזרי עזרא",
+                "email": "ezraozery@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "101",
+            "passFail": "100\/1",
+            "passPercent": "99",
+            "min": "38",
+            "max": "100",
+            "average": "91.723",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "101",
+            "passFail": "100\/1",
+            "passPercent": "99",
+            "min": "38",
+            "max": "100",
+            "average": "91.723",
+            "median": "93"
+        }
     }
 }
