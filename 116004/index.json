@@ -45,5 +45,59 @@
             "average": "89.358",
             "median": "93"
         }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "קחומוביץ אנריקה",
+                "email": "enriquek@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "70",
+            "passFail": "66\/4",
+            "passPercent": "94",
+            "min": "30",
+            "max": "98",
+            "average": "79.329",
+            "median": "81.5"
+        },
+        "Final_A": {
+            "students": "70",
+            "passFail": "69\/1",
+            "passPercent": "99",
+            "min": "44",
+            "max": "100",
+            "average": "83.671",
+            "median": "85.5"
+        },
+        "Exam_B": {
+            "students": "18",
+            "passFail": "15\/3",
+            "passPercent": "83",
+            "min": "48",
+            "max": "96",
+            "average": "69.5",
+            "median": "66"
+        },
+        "Final_B": {
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "98",
+            "average": "75.167",
+            "median": "72.5"
+        },
+        "Finals": {
+            "students": "81",
+            "passFail": "81\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "83.099",
+            "median": "85"
+        }
     }
 }
