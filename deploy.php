@@ -114,7 +114,7 @@ function process_course($course) {
 
             $data = json_decode(file_get_contents($filename), true);
 
-            if ($data['max'] > 100) {
+            if ($data['max'] > 150) {
                 log_warning("$course/$semester/$category: Data with invalid max: {$data['max']}");
             }
 
