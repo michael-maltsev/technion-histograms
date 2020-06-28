@@ -128,6 +128,23 @@
         }
     },
     "201802": {
+        "Staff": [
+            {
+                "name": "בורקום טליה",
+                "email": "talyab@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פישמן אילת",
+                "email": "afishman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מזרחי בעז",
+                "email": "bmizrahi@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
         "Exam_A": {
             "students": "42",
             "passFail": "31\/11",
@@ -169,8 +186,8 @@
             "passFail": "48\/5",
             "passPercent": "91",
             "min": "49",
-            "max": "500",
-            "average": "81.019",
+            "max": "97",
+            "average": "72.962",
             "median": "76"
         }
     }
