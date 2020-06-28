@@ -114,6 +114,10 @@ function process_course($course) {
 
             $data = json_decode(file_get_contents($filename), true);
 
+            if ($data['max'] > 100) {
+                log_warning("$course/$semester/$category: Data with invalid max: {$data['max']}");
+            }
+
             $root_text .= "### $category_name\n\n";
             $root_text .= "![$semester $category]($semester/$category.png)\n\n";
             $root_text .= histogram_data_to_table($data) . "\n";
