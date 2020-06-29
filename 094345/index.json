@@ -53,6 +53,65 @@
             "median": "66.5"
         }
     },
+    "201701": {
+        "Staff": [
+            {
+                "name": "פן מיכל",
+                "email": "mpenn@ie.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חלק נדב",
+                "email": "nadav_hallak@outlook.com",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "55",
+            "passFail": "15\/40",
+            "passPercent": "27",
+            "min": "10",
+            "max": "96",
+            "average": "46.055",
+            "median": "42"
+        },
+        "Final_A": {
+            "students": "55",
+            "passFail": "32\/23",
+            "passPercent": "58",
+            "min": "23",
+            "max": "100",
+            "average": "59.582",
+            "median": "56"
+        },
+        "Exam_B": {
+            "students": "37",
+            "passFail": "15\/22",
+            "passPercent": "41",
+            "min": "21",
+            "max": "87",
+            "average": "53.432",
+            "median": "51"
+        },
+        "Final_B": {
+            "students": "37",
+            "passFail": "25\/12",
+            "passPercent": "68",
+            "min": "31",
+            "max": "92",
+            "average": "61.324",
+            "median": "59"
+        },
+        "Finals": {
+            "students": "70",
+            "passFail": "55\/15",
+            "passPercent": "79",
+            "min": "23",
+            "max": "100",
+            "average": "65.271",
+            "median": "64"
+        }
+    },
     "201702": {
         "Staff": [
             {

@@ -1,5 +1,27 @@
 {
     "201801": {
+        "Staff": [
+            {
+                "name": "לבונטין ליאת",
+                "email": "levontin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צ'קו שירז",
+                "email": "chakoshiraz@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אגסי זיוה",
+                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "79",
             "passFail": "77\/2",
@@ -32,17 +54,17 @@
             "passFail": "27\/1",
             "passPercent": "96",
             "min": "72",
-            "max": "600",
-            "average": "105.107",
-            "median": "87.5"
+            "max": "99",
+            "average": "86.778",
+            "median": "86"
         },
         "Finals": {
             "students": "89",
             "passFail": "88\/1",
             "passPercent": "99",
             "min": "72",
-            "max": "600",
-            "average": "93.337",
+            "max": "99",
+            "average": "87.58",
             "median": "88"
         }
     },
