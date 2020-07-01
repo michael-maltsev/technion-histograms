@@ -1,0 +1,61 @@
+{
+    "201802": {
+        "Staff": [
+            {
+                "name": "לורנץ דין",
+                "email": "dean.h.lorenz@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ליבשיץ אריאל",
+                "email": "yellermetal@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "50",
+            "passFail": "33\/17",
+            "passPercent": "66",
+            "min": "19",
+            "max": "82",
+            "average": "58.18",
+            "median": "60.5"
+        },
+        "Final_A": {
+            "students": "50",
+            "passFail": "45\/5",
+            "passPercent": "90",
+            "min": "29",
+            "max": "93",
+            "average": "70.56",
+            "median": "73"
+        },
+        "Exam_B": {
+            "students": "21",
+            "passFail": "8\/13",
+            "passPercent": "38",
+            "min": "26",
+            "max": "93",
+            "average": "54.19",
+            "median": "53"
+        },
+        "Final_B": {
+            "students": "21",
+            "passFail": "14\/7",
+            "passPercent": "67",
+            "min": "37",
+            "max": "100",
+            "average": "64.476",
+            "median": "63"
+        },
+        "Finals": {
+            "students": "64",
+            "passFail": "56\/8",
+            "passPercent": "88",
+            "min": "35",
+            "max": "100",
+            "average": "70.844",
+            "median": "72.5"
+        }
+    }
+}
