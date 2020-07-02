@@ -1,0 +1,57 @@
+{
+    "201901": {
+        "Staff": [
+            {
+                "name": "אמיר עודד",
+                "email": "odedamir@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "52",
+            "passFail": "48\/4",
+            "passPercent": "92",
+            "min": "43",
+            "max": "95",
+            "average": "77.327",
+            "median": "80"
+        },
+        "Exam_B": {
+            "students": "30",
+            "passFail": "23\/7",
+            "passPercent": "77",
+            "min": "28",
+            "max": "88",
+            "average": "60.067",
+            "median": "61.5"
+        },
+        "Final_B": {
+            "students": "82",
+            "passFail": "74\/8",
+            "passPercent": "90",
+            "min": "28",
+            "max": "95",
+            "average": "72.5",
+            "median": "74.5"
+        },
+        "Finals": {
+            "students": "95",
+            "passFail": "87\/8",
+            "passPercent": "92",
+            "min": "28",
+            "max": "95",
+            "average": "74.568",
+            "median": "76"
+        }
+    }
+}
