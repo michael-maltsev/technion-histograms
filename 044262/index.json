@@ -1,4 +1,50 @@
 {
+    "201301": {
+        "Staff": [
+            {
+                "name": "גינוסר רן",
+                "email": "ran@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הדר אלעד",
+                "email": "eladhadar@gmail.com,ehadar@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "רוזנברג יגאל",
+                "email": "igalroz@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "103",
+            "passFail": "94\/9",
+            "passPercent": "91",
+            "min": "30",
+            "max": "95",
+            "average": "70.864",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "103",
+            "passFail": "102\/1",
+            "passPercent": "99",
+            "min": "54",
+            "max": "97",
+            "average": "80.864",
+            "median": "82"
+        },
+        "Final_B": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "94",
+            "average": "78.853",
+            "median": "80"
+        }
+    },
     "201501": {
         "Exam_A": {
             "students": "173",

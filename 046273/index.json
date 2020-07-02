@@ -1,4 +1,45 @@
 {
+    "201402": {
+        "Staff": [
+            {
+                "name": "קידר עדית",
+                "email": "idish@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גזית חובב",
+                "email": "hovav@ee.technion.ac.il,hovav@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "56",
+            "passFail": "52\/4",
+            "passPercent": "93",
+            "min": "30",
+            "max": "98",
+            "average": "73.036",
+            "median": "75"
+        },
+        "Final_A": {
+            "students": "56",
+            "passFail": "52\/4",
+            "passPercent": "93",
+            "min": "30",
+            "max": "98",
+            "average": "78.357",
+            "median": "81.5"
+        },
+        "Finals": {
+            "students": "59",
+            "passFail": "59\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "98",
+            "average": "81.881",
+            "median": "82"
+        }
+    },
     "201802": {
         "Staff": [
             {

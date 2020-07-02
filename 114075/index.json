@@ -1,4 +1,31 @@
 {
+    "201201": {
+        "Staff": [
+            {
+                "name": "ברגמן אורן",
+                "email": "bergman@physics.technion.ac.il,obergman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "173",
+            "passFail": "131\/42",
+            "passPercent": "76",
+            "min": "9.2",
+            "max": "96",
+            "average": "63.65",
+            "median": "65.6"
+        },
+        "Final_B": {
+            "students": "126",
+            "passFail": "98\/28",
+            "passPercent": "78",
+            "min": "16.4",
+            "max": "97.6",
+            "average": "65.716",
+            "median": "67.2"
+        }
+    },
     "201302": {
         "Final_A": {
             "students": "307",
@@ -311,6 +338,33 @@
             "max": "100",
             "average": "78.442",
             "median": "80"
+        }
+    },
+    "201603": {
+        "Staff": [
+            {
+                "name": "קסלמן אריאל",
+                "email": "skariel@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "100",
+            "average": "80.25",
+            "median": "78"
+        },
+        "Finals": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "100",
+            "average": "83.789",
+            "median": "81"
         }
     },
     "201701": {

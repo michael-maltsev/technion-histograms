@@ -1,4 +1,55 @@
 {
+    "201301": {
+        "Staff": [
+            {
+                "name": "הורוביץ משה",
+                "email": "horowitz@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טורוקר זאב",
+                "email": "ztoroker@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "סוריאס אופיר",
+                "email": "sorias@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ישי יקיר",
+                "email": "yakir387@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "45",
+            "passFail": "32\/13",
+            "passPercent": "71",
+            "min": "6",
+            "max": "99",
+            "average": "61.289",
+            "median": "66"
+        },
+        "Final_A": {
+            "students": "45",
+            "passFail": "34\/11",
+            "passPercent": "76",
+            "min": "11",
+            "max": "100",
+            "average": "68.267",
+            "median": "72"
+        },
+        "Final_B": {
+            "students": "33",
+            "passFail": "22\/11",
+            "passPercent": "67",
+            "min": "16",
+            "max": "100",
+            "average": "64.636",
+            "median": "66"
+        }
+    },
     "201502": {
         "Final_A": {
             "students": "90",

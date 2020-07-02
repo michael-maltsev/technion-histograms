@@ -1,0 +1,39 @@
+{
+    "201101": {
+        "Staff": [
+            {
+                "name": "רהב סער",
+                "email": "rahavs@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טלמון אינה",
+                "email": "ina@ee.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "הלוי גבריאלה",
+                "email": "gabriele@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "413",
+            "passFail": "295\/118",
+            "passPercent": "71",
+            "min": "14",
+            "max": "95",
+            "average": "64.794",
+            "median": "67"
+        },
+        "Final_B": {
+            "students": "166",
+            "passFail": "80\/86",
+            "passPercent": "48",
+            "min": "27",
+            "max": "91",
+            "average": "56.94",
+            "median": "53.5"
+        }
+    }
+}

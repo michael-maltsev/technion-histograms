@@ -1,4 +1,77 @@
 {
+    "201101": {
+        "Staff": [
+            {
+                "name": "נבו עמוס",
+                "email": "anevo@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מלק עליזה",
+                "email": "maliza@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "578",
+            "passFail": "465\/113",
+            "passPercent": "80",
+            "min": "24",
+            "max": "100",
+            "average": "70.536",
+            "median": "71.5"
+        },
+        "Final_B": {
+            "students": "260",
+            "passFail": "188\/72",
+            "passPercent": "72",
+            "min": "19",
+            "max": "100",
+            "average": "64.812",
+            "median": "65"
+        }
+    },
+    "201102": {
+        "Staff": [
+            {
+                "name": "מוריה יואב",
+                "email": "ymoriah@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מלק עליזה",
+                "email": "maliza@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "174",
+            "passFail": "142\/32",
+            "passPercent": "82",
+            "min": "12",
+            "max": "100",
+            "average": "74.511",
+            "median": "80"
+        },
+        "Final_A": {
+            "students": "174",
+            "passFail": "156\/18",
+            "passPercent": "90",
+            "min": "14",
+            "max": "100",
+            "average": "77.178",
+            "median": "82"
+        },
+        "Final_B": {
+            "students": "50",
+            "passFail": "35\/15",
+            "passPercent": "70",
+            "min": "3",
+            "max": "97",
+            "average": "62.1",
+            "median": "64.5"
+        }
+    },
     "201202": {
         "Exam_A": {
             "students": "143",

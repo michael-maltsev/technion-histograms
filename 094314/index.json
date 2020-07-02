@@ -1,4 +1,45 @@
 {
+    "201701": {
+        "Staff": [
+            {
+                "name": "יופה דימיטרי",
+                "email": "ieioffe@ie.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כרמלי ניצן",
+                "email": "nitzany@technion.ac.il,nitzany@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "41",
+            "passFail": "29\/12",
+            "passPercent": "71",
+            "min": "24",
+            "max": "94",
+            "average": "62.171",
+            "median": "61"
+        },
+        "Final_B": {
+            "students": "26",
+            "passFail": "22\/4",
+            "passPercent": "85",
+            "min": "38",
+            "max": "92",
+            "average": "65.654",
+            "median": "66.5"
+        },
+        "Finals": {
+            "students": "49",
+            "passFail": "42\/7",
+            "passPercent": "86",
+            "min": "37",
+            "max": "94",
+            "average": "67.51",
+            "median": "69"
+        }
+    },
     "201702": {
         "Staff": [
             {

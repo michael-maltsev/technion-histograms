@@ -1,4 +1,36 @@
 {
+    "201202": {
+        "Staff": [
+            {
+                "name": "סולל ברוך",
+                "email": "mabaruch@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יחיא יורם",
+                "email": "yoramy@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "114",
+            "passFail": "88\/26",
+            "passPercent": "77",
+            "min": "27",
+            "max": "95",
+            "average": "61.167",
+            "median": "61"
+        },
+        "Final_B": {
+            "students": "94",
+            "passFail": "79\/15",
+            "passPercent": "84",
+            "min": "12",
+            "max": "92",
+            "average": "63.872",
+            "median": "65.5"
+        }
+    },
     "201401": {
         "Final_A": {
             "students": "301",

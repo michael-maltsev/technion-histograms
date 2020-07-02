@@ -1,4 +1,41 @@
 {
+    "201302": {
+        "Staff": [
+            {
+                "name": "אתר רמי",
+                "email": "atar@ee.technion.ac.il,rami@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סיגלוב דניאל",
+                "email": "dansigal@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פרג עוזיהו",
+                "email": "uzipereg@technion.ac.il,uzipereg@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "87",
+            "passFail": "79\/8",
+            "passPercent": "91",
+            "min": "26.66",
+            "max": "99.96",
+            "average": "70.346",
+            "median": "70.1"
+        },
+        "Final_B": {
+            "students": "49",
+            "passFail": "41\/8",
+            "passPercent": "84",
+            "min": "35.96",
+            "max": "99.8",
+            "average": "71.285",
+            "median": "71.88"
+        }
+    },
     "201502": {
         "Final_A": {
             "students": "98",

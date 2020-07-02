@@ -1,4 +1,50 @@
 {
+    "201702": {
+        "Staff": [
+            {
+                "name": "גרבר דן",
+                "email": "dangar@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רוטמן גיא",
+                "email": "grotman@campus.tech.ac.il,grotman@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "כץ אנה",
+                "email": "sannaka@campus.technion.ac.il",
+                "title": ""
+            }
+        ],
+        "Final_A": {
+            "students": "33",
+            "passFail": "27\/6",
+            "passPercent": "82",
+            "min": "35",
+            "max": "100",
+            "average": "65.939",
+            "median": "67"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "13\/1",
+            "passPercent": "93",
+            "min": "39",
+            "max": "80",
+            "average": "64.571",
+            "median": "65.5"
+        },
+        "Finals": {
+            "students": "37",
+            "passFail": "35\/2",
+            "passPercent": "95",
+            "min": "39",
+            "max": "100",
+            "average": "69.162",
+            "median": "68"
+        }
+    },
     "201801": {
         "Staff": [
             {

@@ -1,4 +1,60 @@
 {
+    "201301": {
+        "Staff": [
+            {
+                "name": "צלניק ליהי",
+                "email": "lihi@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לויס אביעד",
+                "email": "levisav@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "בן-דורי תמיר",
+                "email": "stdory@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פרג עוזיהו",
+                "email": "uzipereg@technion.ac.il,uzipereg@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "דב דוד",
+                "email": "davidd@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "133",
+            "passFail": "118\/15",
+            "passPercent": "89",
+            "min": "21",
+            "max": "98",
+            "average": "69.91",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "133",
+            "passFail": "126\/7",
+            "passPercent": "95",
+            "min": "29",
+            "max": "98",
+            "average": "72.865",
+            "median": "73"
+        },
+        "Final_B": {
+            "students": "65",
+            "passFail": "55\/10",
+            "passPercent": "85",
+            "min": "31",
+            "max": "96",
+            "average": "68.154",
+            "median": "68"
+        }
+    },
     "201501": {
         "Final_A": {
             "students": "149",

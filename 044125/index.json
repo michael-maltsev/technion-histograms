@@ -1,4 +1,45 @@
 {
+    "201301": {
+        "Staff": [
+            {
+                "name": "קולודני אבינועם",
+                "email": "kolodny@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בלאו יוחאי",
+                "email": "yochai@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "124",
+            "passFail": "107\/17",
+            "passPercent": "86",
+            "min": "20",
+            "max": "96",
+            "average": "69.79",
+            "median": "71"
+        },
+        "Final_A": {
+            "students": "124",
+            "passFail": "115\/9",
+            "passPercent": "93",
+            "min": "26",
+            "max": "97",
+            "average": "76.024",
+            "median": "78"
+        },
+        "Final_B": {
+            "students": "58",
+            "passFail": "50\/8",
+            "passPercent": "86",
+            "min": "35",
+            "max": "92",
+            "average": "70.931",
+            "median": "74"
+        }
+    },
     "201402": {
         "Exam_A": {
             "students": "228",

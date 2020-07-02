@@ -1,4 +1,31 @@
 {
+    "201302": {
+        "Staff": [
+            {
+                "name": "קוגוס איילת",
+                "email": "kogus@technion.ac.il,kogus@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "194",
+            "passFail": "163\/31",
+            "passPercent": "84",
+            "min": "3",
+            "max": "100",
+            "average": "70.32",
+            "median": "73"
+        },
+        "Final_B": {
+            "students": "187",
+            "passFail": "165\/22",
+            "passPercent": "88",
+            "min": "20",
+            "max": "100",
+            "average": "69.893",
+            "median": "70"
+        }
+    },
     "201402": {
         "Staff": [
             {

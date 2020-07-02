@@ -1,4 +1,50 @@
 {
+    "201202": {
+        "Staff": [
+            {
+                "name": "דוד אילנה",
+                "email": "ilana@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברסקי דניאל",
+                "email": "",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מרדכי מורן",
+                "email": "",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "106",
+            "passFail": "82\/24",
+            "passPercent": "77",
+            "min": "28",
+            "max": "102",
+            "average": "68.915",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "106",
+            "passFail": "97\/9",
+            "passPercent": "92",
+            "min": "45",
+            "max": "100",
+            "average": "75.67",
+            "median": "77.5"
+        },
+        "Final_B": {
+            "students": "56",
+            "passFail": "52\/4",
+            "passPercent": "93",
+            "min": "46",
+            "max": "96",
+            "average": "75.607",
+            "median": "75.5"
+        }
+    },
     "201601": {
         "Final_A": {
             "students": "85",
