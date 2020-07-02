@@ -1,4 +1,36 @@
 {
+    "201102": {
+        "Staff": [
+            {
+                "name": "פנחסי רום",
+                "email": "room@math.technion.ac.il,room@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרומקין ולרי",
+                "email": "valeri@technion.ac.il,valeri@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "179",
+            "passFail": "95\/84",
+            "passPercent": "53",
+            "min": "4",
+            "max": "100",
+            "average": "55.899",
+            "median": "60"
+        },
+        "Final_B": {
+            "students": "109",
+            "passFail": "59\/50",
+            "passPercent": "54",
+            "min": "9",
+            "max": "100",
+            "average": "55.661",
+            "median": "60"
+        }
+    },
     "201202": {
         "Exam_A": {
             "students": "145",
