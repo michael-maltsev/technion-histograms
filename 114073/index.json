@@ -26,6 +26,65 @@
             "median": "76.5"
         }
     },
+    "201402": {
+        "Staff": [
+            {
+                "name": "אוסלנדר אופיר",
+                "email": "ophir@physics.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קרייסרמן רומן",
+                "email": "romank@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "93",
+            "passFail": "71\/22",
+            "passPercent": "76",
+            "min": "30",
+            "max": "100",
+            "average": "67.785",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "93",
+            "passFail": "76\/17",
+            "passPercent": "82",
+            "min": "30",
+            "max": "100",
+            "average": "69.516",
+            "median": "69"
+        },
+        "Exam_B": {
+            "students": "79",
+            "passFail": "66\/13",
+            "passPercent": "84",
+            "min": "12",
+            "max": "100",
+            "average": "69.658",
+            "median": "69"
+        },
+        "Final_B": {
+            "students": "79",
+            "passFail": "66\/13",
+            "passPercent": "84",
+            "min": "12",
+            "max": "100",
+            "average": "71.051",
+            "median": "73"
+        },
+        "Finals": {
+            "students": "143",
+            "passFail": "127\/16",
+            "passPercent": "89",
+            "min": "12",
+            "max": "100",
+            "average": "73.923",
+            "median": "76"
+        }
+    },
     "201501": {
         "Staff": [
             {
