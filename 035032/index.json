@@ -18,5 +18,37 @@
             "average": "94.974",
             "median": "95"
         }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "בוכר יצחק",
+                "email": "bucher@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דיוויס סולומון",
+                "email": "solomondavis@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "100",
+            "average": "94.333",
+            "median": "95.5"
+        },
+        "Finals": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "100",
+            "average": "92.692",
+            "median": "95"
+        }
     }
 }
