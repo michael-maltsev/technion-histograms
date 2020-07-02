@@ -37,6 +37,65 @@
             "median": "78"
         }
     },
+    "201501": {
+        "Staff": [
+            {
+                "name": "רובינשטיין יעקב",
+                "email": "koby@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גובר שלומי",
+                "email": "shlomigo@technion.ac.il,shlomigo@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "330",
+            "passFail": "252\/78",
+            "passPercent": "76",
+            "min": "5",
+            "max": "100",
+            "average": "67.679",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "330",
+            "passFail": "271\/59",
+            "passPercent": "82",
+            "min": "5",
+            "max": "100",
+            "average": "68.697",
+            "median": "70.5"
+        },
+        "Exam_B": {
+            "students": "222",
+            "passFail": "149\/73",
+            "passPercent": "67",
+            "min": "4",
+            "max": "98.25",
+            "average": "62.376",
+            "median": "65.71"
+        },
+        "Final_B": {
+            "students": "222",
+            "passFail": "183\/39",
+            "passPercent": "82",
+            "min": "8",
+            "max": "100",
+            "average": "68.405",
+            "median": "71.5"
+        },
+        "Finals": {
+            "students": "404",
+            "passFail": "362\/42",
+            "passPercent": "90",
+            "min": "8",
+            "max": "100",
+            "average": "74.213",
+            "median": "77"
+        }
+    },
     "201601": {
         "Staff": [
             {

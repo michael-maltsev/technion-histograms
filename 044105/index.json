@@ -37,6 +37,75 @@
             "median": "75"
         }
     },
+    "201501": {
+        "Staff": [
+            {
+                "name": "סתיו ינון",
+                "email": "yinnon@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חכמוביץ יואב",
+                "email": "syoavcha@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "רמדאן מיסבאח",
+                "email": "rmisbah@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "קרטובסקי אסף",
+                "email": "kartov@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "216",
+            "passFail": "182\/34",
+            "passPercent": "84",
+            "min": "25",
+            "max": "100",
+            "average": "69.167",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "216",
+            "passFail": "181\/35",
+            "passPercent": "84",
+            "min": "25",
+            "max": "100",
+            "average": "75.241",
+            "median": "77"
+        },
+        "Exam_B": {
+            "students": "164",
+            "passFail": "143\/21",
+            "passPercent": "87",
+            "min": "30",
+            "max": "95",
+            "average": "70.427",
+            "median": "75"
+        },
+        "Final_B": {
+            "students": "164",
+            "passFail": "143\/21",
+            "passPercent": "87",
+            "min": "30",
+            "max": "99",
+            "average": "76.427",
+            "median": "79"
+        },
+        "Finals": {
+            "students": "285",
+            "passFail": "264\/21",
+            "passPercent": "93",
+            "min": "25",
+            "max": "100",
+            "average": "80.575",
+            "median": "83"
+        }
+    },
     "201502": {
         "Exam_A": {
             "students": "172",

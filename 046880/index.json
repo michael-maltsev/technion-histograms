@@ -1,4 +1,36 @@
 {
+    "201602": {
+        "Staff": [
+            {
+                "name": "זהבי איתן",
+                "email": "zahavi.eitan@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברקוביץ' זיו",
+                "email": "zivber@campus.technon.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "94",
+            "average": "82.333",
+            "median": "83"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "96",
+            "average": "83.25",
+            "median": "84.5"
+        }
+    },
     "201901": {
         "Exam_A": {
             "students": "12",

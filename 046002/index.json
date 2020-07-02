@@ -1,4 +1,45 @@
 {
+    "201502": {
+        "Staff": [
+            {
+                "name": "מוזס יורם",
+                "email": "moses@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ורגפטיק שי",
+                "email": "shayvar@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "48",
+            "passFail": "37\/11",
+            "passPercent": "77",
+            "min": "25.45",
+            "max": "100",
+            "average": "70.117",
+            "median": "72.97"
+        },
+        "Final_B": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "95",
+            "average": "77.5",
+            "median": "80"
+        },
+        "Finals": {
+            "students": "56",
+            "passFail": "56\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "78.982",
+            "median": "80"
+        }
+    },
     "201702": {
         "Staff": [
             {

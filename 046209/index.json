@@ -1,4 +1,63 @@
 {
+    "201702": {
+        "Staff": [
+            {
+                "name": "אייל איתי",
+                "email": "ittay@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברגמן שי",
+                "email": "shaiberg1@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "73",
+            "passFail": "53\/20",
+            "passPercent": "73",
+            "min": "32",
+            "max": "100",
+            "average": "67.041",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "73",
+            "passFail": "53\/20",
+            "passPercent": "73",
+            "min": "32",
+            "max": "100",
+            "average": "70.521",
+            "median": "71"
+        },
+        "Exam_B": {
+            "students": "47",
+            "passFail": "35\/12",
+            "passPercent": "74",
+            "min": "37",
+            "max": "92",
+            "average": "63.979",
+            "median": "63"
+        },
+        "Final_B": {
+            "students": "48",
+            "passFail": "36\/12",
+            "passPercent": "75",
+            "min": "37",
+            "max": "92",
+            "average": "67.875",
+            "median": "69.5"
+        },
+        "Finals": {
+            "students": "95",
+            "passFail": "83\/12",
+            "passPercent": "87",
+            "min": "32",
+            "max": "100",
+            "average": "74.305",
+            "median": "75"
+        }
+    },
     "201801": {
         "Staff": [
             {

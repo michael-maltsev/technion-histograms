@@ -48,6 +48,60 @@
             "median": "76.5"
         }
     },
+    "201402": {
+        "Staff": [
+            {
+                "name": "רוזן יורם",
+                "email": "rozen@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "247",
+            "passFail": "116\/131",
+            "passPercent": "47",
+            "min": "0",
+            "max": "100",
+            "average": "51.687",
+            "median": "50"
+        },
+        "Final_A": {
+            "students": "247",
+            "passFail": "202\/45",
+            "passPercent": "82",
+            "min": "14",
+            "max": "100",
+            "average": "69.02",
+            "median": "68"
+        },
+        "Exam_B": {
+            "students": "170",
+            "passFail": "111\/59",
+            "passPercent": "65",
+            "min": "16.67",
+            "max": "100",
+            "average": "60.508",
+            "median": "66.67"
+        },
+        "Final_B": {
+            "students": "170",
+            "passFail": "145\/25",
+            "passPercent": "85",
+            "min": "30",
+            "max": "100",
+            "average": "69.571",
+            "median": "74"
+        },
+        "Finals": {
+            "students": "329",
+            "passFail": "302\/27",
+            "passPercent": "92",
+            "min": "23",
+            "max": "100",
+            "average": "75.438",
+            "median": "76"
+        }
+    },
     "201403": {
         "Final_A": {
             "students": "12",

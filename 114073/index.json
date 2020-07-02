@@ -1,4 +1,49 @@
 {
+    "201501": {
+        "Staff": [
+            {
+                "name": "אוסלנדר אופיר",
+                "email": "ophir@physics.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "121",
+            "passFail": "102\/19",
+            "passPercent": "84",
+            "min": "27",
+            "max": "100",
+            "average": "71.157",
+            "median": "74"
+        },
+        "Exam_B": {
+            "students": "57",
+            "passFail": "53\/4",
+            "passPercent": "93",
+            "min": "27",
+            "max": "100",
+            "average": "71.035",
+            "median": "71"
+        },
+        "Final_B": {
+            "students": "57",
+            "passFail": "55\/2",
+            "passPercent": "96",
+            "min": "27",
+            "max": "100",
+            "average": "73.281",
+            "median": "73"
+        },
+        "Finals": {
+            "students": "148",
+            "passFail": "145\/3",
+            "passPercent": "98",
+            "min": "27",
+            "max": "100",
+            "average": "76.034",
+            "median": "77"
+        }
+    },
     "201601": {
         "Exam_A": {
             "students": "133",
