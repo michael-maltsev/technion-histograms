@@ -147,6 +147,23 @@
         }
     },
     "201901": {
+        "Staff": [
+            {
+                "name": "פרנקל יצחק",
+                "email": "itzikf@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שטיינר מתן",
+                "email": "bump50@gmail.com,mst@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "לוי גיא",
+                "email": "guylevi@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "67",
             "passFail": "39\/28",
@@ -166,22 +183,22 @@
             "median": "65.64"
         },
         "Exam_B": {
-            "students": "39",
-            "passFail": "4\/35",
-            "passPercent": "10",
+            "students": "40",
+            "passFail": "5\/35",
+            "passPercent": "12",
             "min": "6",
             "max": "86",
-            "average": "32.487",
-            "median": "30"
+            "average": "33.15",
+            "median": "33"
         },
         "Final_B": {
-            "students": "39",
-            "passFail": "13\/26",
-            "passPercent": "33",
+            "students": "40",
+            "passFail": "14\/26",
+            "passPercent": "35",
             "min": "23",
             "max": "96",
-            "average": "49.165",
-            "median": "44.4"
+            "average": "49.726",
+            "median": "46.8"
         },
         "Finals": {
             "students": "79",
