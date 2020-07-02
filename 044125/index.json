@@ -87,6 +87,65 @@
             "median": "79"
         }
     },
+    "201501": {
+        "Staff": [
+            {
+                "name": "בן-יעקב תמי",
+                "email": "tammyby@sbcglobal.net",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שריקי אבי",
+                "email": "ashriki@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "139",
+            "passFail": "99\/40",
+            "passPercent": "71",
+            "min": "7",
+            "max": "100",
+            "average": "68.59",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "132",
+            "passFail": "111\/21",
+            "passPercent": "84",
+            "min": "35.95",
+            "max": "99.1",
+            "average": "73.626",
+            "median": "75.2665"
+        },
+        "Exam_B": {
+            "students": "92",
+            "passFail": "67\/25",
+            "passPercent": "73",
+            "min": "13",
+            "max": "100",
+            "average": "67.467",
+            "median": "72"
+        },
+        "Final_B": {
+            "students": "117",
+            "passFail": "103\/14",
+            "passPercent": "88",
+            "min": "29.056",
+            "max": "100",
+            "average": "75.163",
+            "median": "78.2"
+        },
+        "Finals": {
+            "students": "170",
+            "passFail": "155\/15",
+            "passPercent": "91",
+            "min": "29",
+            "max": "100",
+            "average": "78.406",
+            "median": "81"
+        }
+    },
     "201502": {
         "Staff": [
             {

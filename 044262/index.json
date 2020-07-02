@@ -45,6 +45,65 @@
             "median": "80"
         }
     },
+    "201402": {
+        "Staff": [
+            {
+                "name": "גינוסר רן",
+                "email": "ran@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שורץ אופיר",
+                "email": "ofirshw@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "155",
+            "passFail": "143\/12",
+            "passPercent": "92",
+            "min": "35",
+            "max": "100",
+            "average": "78.548",
+            "median": "80"
+        },
+        "Final_A": {
+            "students": "155",
+            "passFail": "150\/5",
+            "passPercent": "97",
+            "min": "47.75",
+            "max": "99.95",
+            "average": "82.564",
+            "median": "83.9"
+        },
+        "Exam_B": {
+            "students": "73",
+            "passFail": "69\/4",
+            "passPercent": "95",
+            "min": "45",
+            "max": "95",
+            "average": "73.63",
+            "median": "75"
+        },
+        "Final_B": {
+            "students": "73",
+            "passFail": "72\/1",
+            "passPercent": "99",
+            "min": "50.4",
+            "max": "95.8",
+            "average": "78.52",
+            "median": "79.65"
+        },
+        "Finals": {
+            "students": "196",
+            "passFail": "194\/2",
+            "passPercent": "99",
+            "min": "50",
+            "max": "100",
+            "average": "83.939",
+            "median": "84"
+        }
+    },
     "201501": {
         "Exam_A": {
             "students": "173",

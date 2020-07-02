@@ -45,6 +45,56 @@
             "median": "76"
         }
     },
+    "201502": {
+        "Staff": [
+            {
+                "name": "עציון יואב",
+                "email": "yetsion@tce.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בסקין חיים",
+                "email": "chaimbaskin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "175",
+            "passFail": "150\/25",
+            "passPercent": "86",
+            "min": "38",
+            "max": "94",
+            "average": "67.709",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "175",
+            "passFail": "159\/16",
+            "passPercent": "91",
+            "min": "38",
+            "max": "95",
+            "average": "74.451",
+            "median": "76"
+        },
+        "Final_B": {
+            "students": "85",
+            "passFail": "80\/5",
+            "passPercent": "94",
+            "min": "29",
+            "max": "100",
+            "average": "83.447",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "193",
+            "passFail": "188\/5",
+            "passPercent": "97",
+            "min": "29",
+            "max": "100",
+            "average": "82.389",
+            "median": "84"
+        }
+    },
     "201702": {
         "Staff": [
             {
