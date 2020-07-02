@@ -38,6 +38,28 @@
         }
     },
     "201701": {
+        "Staff": [
+            {
+                "name": "בלנק אהרן",
+                "email": "ab359@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מיכלסון שאול",
+                "email": "mshaul@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "פרנקנשטיין הדר",
+                "email": "hadarf@technion.ac.il,hadarf@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ויסמן הילה",
+                "email": "hilawe3@gmail.com,hilaweissman@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "207",
             "passFail": "135\/72",
@@ -73,6 +95,15 @@
             "max": "100",
             "average": "69.196",
             "median": "69"
+        },
+        "Finals": {
+            "students": "234",
+            "passFail": "224\/10",
+            "passPercent": "96",
+            "min": "29",
+            "max": "100",
+            "average": "72.893",
+            "median": "74"
         }
     },
     "201801": {
