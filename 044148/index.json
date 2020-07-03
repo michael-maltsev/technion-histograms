@@ -66,6 +66,28 @@
         }
     },
     "201703": {
+        "Staff": [
+            {
+                "name": "ברטל גיא",
+                "email": "guy@ee.technion.ac.il,bartal@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "לויתן יהודה",
+                "email": "leviatan@ee.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "חנונקין איגור",
+                "email": "ikhanonkin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שרעבי יונתן",
+                "email": "sharabiyonatan@technion.ac.il,sharabiyonatan@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "18",
             "passFail": "15\/3",
