@@ -29,6 +29,18 @@
         }
     },
     "201602": {
+        "Staff": [
+            {
+                "name": "שפירא מיכאל",
+                "email": "mersm01@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פארן ארנון",
+                "email": "arnonp@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "38",
             "passFail": "23\/15",
@@ -55,6 +67,15 @@
             "max": "100",
             "average": "58.417",
             "median": "61.5"
+        },
+        "Finals": {
+            "students": "55",
+            "passFail": "41\/14",
+            "passPercent": "75",
+            "min": "12",
+            "max": "100",
+            "average": "64.309",
+            "median": "66"
         }
     },
     "201701": {
