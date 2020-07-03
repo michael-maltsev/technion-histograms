@@ -222,6 +222,65 @@
             "median": "79"
         }
     },
+    "201601": {
+        "Staff": [
+            {
+                "name": "סאלח פתחי",
+                "email": "fathi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מעין הילה",
+                "email": "ahila@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "212",
+            "passFail": "154\/58",
+            "passPercent": "73",
+            "min": "10",
+            "max": "100",
+            "average": "69.67",
+            "median": "73"
+        },
+        "Final_A": {
+            "students": "212",
+            "passFail": "171\/41",
+            "passPercent": "81",
+            "min": "17",
+            "max": "100",
+            "average": "72.458",
+            "median": "76"
+        },
+        "Exam_B": {
+            "students": "112",
+            "passFail": "72\/40",
+            "passPercent": "64",
+            "min": "16",
+            "max": "100",
+            "average": "61.723",
+            "median": "60"
+        },
+        "Final_B": {
+            "students": "112",
+            "passFail": "88\/24",
+            "passPercent": "79",
+            "min": "22",
+            "max": "100",
+            "average": "64.973",
+            "median": "64"
+        },
+        "Finals": {
+            "students": "248",
+            "passFail": "220\/28",
+            "passPercent": "89",
+            "min": "22",
+            "max": "100",
+            "average": "75.181",
+            "median": "78"
+        }
+    },
     "201602": {
         "Final_A": {
             "students": "208",

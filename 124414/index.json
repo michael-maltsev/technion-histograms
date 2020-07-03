@@ -1,4 +1,50 @@
 {
+    "201602": {
+        "Staff": [
+            {
+                "name": "שמידט אשר",
+                "email": "chrschm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ארצי ירון",
+                "email": "syartzi@technion.ac.il,syartzi@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זמל ארז",
+                "email": "erezz@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "109",
+            "passFail": "94\/15",
+            "passPercent": "86",
+            "min": "37",
+            "max": "100",
+            "average": "68.431",
+            "median": "68"
+        },
+        "Final_B": {
+            "students": "50",
+            "passFail": "36\/14",
+            "passPercent": "72",
+            "min": "39",
+            "max": "98",
+            "average": "63.98",
+            "median": "61.5"
+        },
+        "Finals": {
+            "students": "134",
+            "passFail": "119\/15",
+            "passPercent": "89",
+            "min": "37",
+            "max": "100",
+            "average": "69.246",
+            "median": "68"
+        }
+    },
     "201702": {
         "Final_A": {
             "students": "59",

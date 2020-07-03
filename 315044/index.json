@@ -1,4 +1,46 @@
 {
+    "201801": {
+        "Staff": [
+            {
+                "name": "ידלובקר דורון",
+                "email": "dorony@rafael.co.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרנקנשטיין הדר",
+                "email": "hadarf@technion.ac.il,hadarf@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דוד רותי",
+                "email": "ruthi@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "סנדר אושרית",
+                "email": "oshrits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "89.034",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "100",
+            "average": "89.667",
+            "median": "90"
+        }
+    },
     "201901": {
         "Staff": [
             {

@@ -1,4 +1,40 @@
 {
+    "201602": {
+        "Staff": [
+            {
+                "name": "אמויאל ירון",
+                "email": "amouyal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "41",
+            "passFail": "13\/28",
+            "passPercent": "32",
+            "min": "15",
+            "max": "100",
+            "average": "49.537",
+            "median": "42"
+        },
+        "Final_B": {
+            "students": "47",
+            "passFail": "33\/14",
+            "passPercent": "70",
+            "min": "18",
+            "max": "100",
+            "average": "65.021",
+            "median": "69"
+        },
+        "Finals": {
+            "students": "47",
+            "passFail": "35\/12",
+            "passPercent": "74",
+            "min": "18",
+            "max": "100",
+            "average": "66.489",
+            "median": "70"
+        }
+    },
     "201702": {
         "Final_A": {
             "students": "38",

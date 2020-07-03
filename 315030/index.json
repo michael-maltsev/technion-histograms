@@ -1,4 +1,45 @@
 {
+    "201702": {
+        "Staff": [
+            {
+                "name": "רוטשילד אבנר",
+                "email": "avner@mt.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קיי אסף",
+                "email": "asafk@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "52",
+            "passFail": "43\/9",
+            "passPercent": "83",
+            "min": "31",
+            "max": "100",
+            "average": "71.135",
+            "median": "71"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "11\/2",
+            "passPercent": "85",
+            "min": "18",
+            "max": "87",
+            "average": "66.615",
+            "median": "70"
+        },
+        "Finals": {
+            "students": "53",
+            "passFail": "52\/1",
+            "passPercent": "98",
+            "min": "18",
+            "max": "100",
+            "average": "76.792",
+            "median": "75"
+        }
+    },
     "201802": {
         "Exam_A": {
             "students": "31",
