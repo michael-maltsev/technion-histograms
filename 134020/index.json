@@ -19,6 +19,42 @@
             "median": "75.5"
         }
     },
+    "201301": {
+        "Staff": [
+            {
+                "name": "לם אילת",
+                "email": "ayeletla@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "172",
+            "passFail": "132\/40",
+            "passPercent": "77",
+            "min": "24",
+            "max": "104",
+            "average": "68.529",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "172",
+            "passFail": "152\/20",
+            "passPercent": "88",
+            "min": "35.35",
+            "max": "100",
+            "average": "73.562",
+            "median": "74.675"
+        },
+        "Final_B": {
+            "students": "95",
+            "passFail": "72\/23",
+            "passPercent": "76",
+            "min": "11.05",
+            "max": "100",
+            "average": "67.622",
+            "median": "67.45"
+        }
+    },
     "201402": {
         "Final_A": {
             "students": "178",

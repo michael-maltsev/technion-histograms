@@ -1,5 +1,12 @@
 {
     "201501": {
+        "Staff": [
+            {
+                "name": "זקס שמואל",
+                "email": "zaks@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
         "Finals": {
             "students": "146",
             "passFail": "111\/35",
@@ -8,6 +15,24 @@
             "max": "98",
             "average": "65.295",
             "median": "69"
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "פילמוס יובל",
+                "email": "yuvalfi@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "224",
+            "passFail": "206\/18",
+            "passPercent": "92",
+            "min": "18",
+            "max": "100",
+            "average": "74.942",
+            "median": "76.5"
         }
     },
     "201701": {
