@@ -31,6 +31,47 @@
             "median": "60"
         }
     },
+    "201201": {
+        "Staff": [
+            {
+                "name": "שפריר איתי",
+                "email": "shafrir@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרומקין ולרי",
+                "email": "valeri@technion.ac.il,valeri@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "599",
+            "passFail": "318\/281",
+            "passPercent": "53",
+            "min": "8",
+            "max": "100",
+            "average": "57.599",
+            "median": "56"
+        },
+        "Final_A": {
+            "students": "599",
+            "passFail": "401\/198",
+            "passPercent": "67",
+            "min": "10",
+            "max": "100",
+            "average": "62.689",
+            "median": "66"
+        },
+        "Final_B": {
+            "students": "342",
+            "passFail": "270\/72",
+            "passPercent": "79",
+            "min": "16",
+            "max": "100",
+            "average": "67.228",
+            "median": "69"
+        }
+    },
     "201202": {
         "Exam_A": {
             "students": "145",
