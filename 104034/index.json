@@ -282,6 +282,23 @@
         }
     },
     "201602": {
+        "Staff": [
+            {
+                "name": "מאיר-וולף אדוארדו",
+                "email": "emw@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מעין הילה",
+                "email": "ahila@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "הפנר אבי",
+                "email": "hafner@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
         "Final_A": {
             "students": "208",
             "passFail": "160\/48",
@@ -314,8 +331,8 @@
             "passFail": "246\/31",
             "passPercent": "89",
             "min": "8",
-            "max": "500",
-            "average": "72.592",
+            "max": "100",
+            "average": "71.043",
             "median": "72"
         }
     },
