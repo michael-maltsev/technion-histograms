@@ -1,4 +1,36 @@
 {
+    "201202": {
+        "Staff": [
+            {
+                "name": "יהודיוף אמיר",
+                "email": "amir.yehudayoff@gmail.com,yehuday@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גורליק אירנה",
+                "email": "iragor@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "46",
+            "passFail": "25\/21",
+            "passPercent": "54",
+            "min": "7",
+            "max": "99",
+            "average": "60.63",
+            "median": "59"
+        },
+        "Final_A": {
+            "students": "46",
+            "passFail": "33\/13",
+            "passPercent": "72",
+            "min": "26.75",
+            "max": "99.4",
+            "average": "68.735",
+            "median": "65.525"
+        }
+    },
     "201602": {
         "Staff": [
             {
