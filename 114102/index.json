@@ -1,1 +1,29 @@
-[]
+{
+    "201702": {
+        "Staff": [
+            {
+                "name": "סוקר נועם",
+                "email": "soker@physics.technion.ac.il,soker@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "55.933",
+            "max": "100",
+            "average": "83.562",
+            "median": "82.717"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "12\/1",
+            "passPercent": "92",
+            "min": "45.717",
+            "max": "95.533",
+            "average": "76.29",
+            "median": "77.583"
+        }
+    }
+}
