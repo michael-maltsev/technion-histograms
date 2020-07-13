@@ -1,4 +1,67 @@
 {
+    "201302": {
+        "Staff": [
+            {
+                "name": "בלנק אהרן",
+                "email": "ab359@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "145",
+            "passFail": "124\/21",
+            "passPercent": "86",
+            "min": "24",
+            "max": "97",
+            "average": "69.503",
+            "median": "71"
+        },
+        "Final_B": {
+            "students": "68",
+            "passFail": "58\/10",
+            "passPercent": "85",
+            "min": "19",
+            "max": "100",
+            "average": "71.868",
+            "median": "73.5"
+        }
+    },
+    "201402": {
+        "Staff": [
+            {
+                "name": "שכטר ישראל",
+                "email": "israel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "150",
+            "passFail": "115\/35",
+            "passPercent": "77",
+            "min": "25",
+            "max": "100",
+            "average": "67.213",
+            "median": "65"
+        },
+        "Final_B": {
+            "students": "85",
+            "passFail": "39\/46",
+            "passPercent": "46",
+            "min": "11",
+            "max": "100",
+            "average": "54.847",
+            "median": "53"
+        },
+        "Finals": {
+            "students": "198",
+            "passFail": "154\/44",
+            "passPercent": "78",
+            "min": "11",
+            "max": "100",
+            "average": "66.354",
+            "median": "66"
+        }
+    },
     "201502": {
         "Staff": [
             {

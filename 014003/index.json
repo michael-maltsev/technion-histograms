@@ -1,4 +1,31 @@
 {
+    "201501": {
+        "Staff": [
+            {
+                "name": "פישביין ברק",
+                "email": "fishbain@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "103",
+            "passFail": "89\/14",
+            "passPercent": "86",
+            "min": "17",
+            "max": "98",
+            "average": "72.01",
+            "median": "75"
+        },
+        "Final_B": {
+            "students": "59",
+            "passFail": "53\/6",
+            "passPercent": "90",
+            "min": "30",
+            "max": "98",
+            "average": "70.051",
+            "median": "72"
+        }
+    },
     "201601": {
         "Exam_A": {
             "students": "72",

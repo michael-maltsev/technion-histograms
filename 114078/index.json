@@ -1,4 +1,76 @@
 {
+    "201401": {
+        "Staff": [
+            {
+                "name": "רוזן יורם",
+                "email": "rozen@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "68",
+            "passFail": "50\/18",
+            "passPercent": "74",
+            "min": "19",
+            "max": "100",
+            "average": "64.412",
+            "median": "67"
+        },
+        "Final_B": {
+            "students": "31",
+            "passFail": "21\/10",
+            "passPercent": "68",
+            "min": "20",
+            "max": "91",
+            "average": "57.806",
+            "median": "55"
+        },
+        "Finals": {
+            "students": "88",
+            "passFail": "76\/12",
+            "passPercent": "86",
+            "min": "20",
+            "max": "100",
+            "average": "68.977",
+            "median": "73"
+        }
+    },
+    "201402": {
+        "Staff": [
+            {
+                "name": "אגמון דוד",
+                "email": "agmon1@gmail.com,agmon1@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "158",
+            "passFail": "123\/35",
+            "passPercent": "78",
+            "min": "24",
+            "max": "100",
+            "average": "65.146",
+            "median": "65.5"
+        },
+        "Final_B": {
+            "students": "87",
+            "passFail": "69\/18",
+            "passPercent": "79",
+            "min": "3",
+            "max": "100",
+            "average": "65.862",
+            "median": "65"
+        },
+        "Finals": {
+            "students": "201",
+            "passFail": "179\/22",
+            "passPercent": "89",
+            "min": "3",
+            "max": "100",
+            "average": "68.776",
+            "median": "69"
+        }
+    },
     "201601": {
         "Exam_A": {
             "students": "39",
