@@ -80,5 +80,42 @@
             "average": "84.36",
             "median": "86"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "דנציגר אברהם",
+                "email": "avidan@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "149",
+            "passFail": "98\/51",
+            "passPercent": "66",
+            "min": "19",
+            "max": "100",
+            "average": "65.389",
+            "median": "71"
+        },
+        "Finals": {
+            "students": "149",
+            "passFail": "98\/51",
+            "passPercent": "66",
+            "min": "19",
+            "max": "100",
+            "average": "65.389",
+            "median": "71"
+        }
     }
 }
