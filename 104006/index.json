@@ -1,4 +1,45 @@
 {
+    "201201": {
+        "Staff": [
+            {
+                "name": "ג'ילאקי שלמה",
+                "email": "sgelaki@gmail.com,gelaki@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מסרווה חייריה",
+                "email": "massarwe@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "557",
+            "passFail": "388\/169",
+            "passPercent": "70",
+            "min": "8",
+            "max": "100",
+            "average": "64.062",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "557",
+            "passFail": "471\/86",
+            "passPercent": "85",
+            "min": "12",
+            "max": "100",
+            "average": "69.772",
+            "median": "71"
+        },
+        "Final_B": {
+            "students": "170",
+            "passFail": "103\/67",
+            "passPercent": "61",
+            "min": "13",
+            "max": "97",
+            "average": "56.888",
+            "median": "57"
+        }
+    },
     "201301": {
         "Staff": [
             {
