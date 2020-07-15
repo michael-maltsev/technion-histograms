@@ -1,4 +1,36 @@
 {
+    "201102": {
+        "Staff": [
+            {
+                "name": "רובינשטיין יעקב",
+                "email": "koby@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מעין הילה",
+                "email": "ahila@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "307",
+            "passFail": "295\/12",
+            "passPercent": "96",
+            "min": "6",
+            "max": "100",
+            "average": "83.642",
+            "median": "88"
+        },
+        "Final_B": {
+            "students": "54",
+            "passFail": "27\/27",
+            "passPercent": "50",
+            "min": "17",
+            "max": "91",
+            "average": "51.463",
+            "median": "53"
+        }
+    },
     "201302": {
         "Staff": [
             {

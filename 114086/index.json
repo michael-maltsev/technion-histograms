@@ -1,4 +1,49 @@
 {
+    "201501": {
+        "Staff": [
+            {
+                "name": "שגב מרדכי",
+                "email": "msegev@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "107",
+            "passFail": "88\/19",
+            "passPercent": "82",
+            "min": "18.7",
+            "max": "104.5",
+            "average": "70.399",
+            "median": "69.3"
+        },
+        "Final_A": {
+            "students": "107",
+            "passFail": "96\/11",
+            "passPercent": "90",
+            "min": "22",
+            "max": "100",
+            "average": "77.57",
+            "median": "78"
+        },
+        "Final_B": {
+            "students": "54",
+            "passFail": "53\/1",
+            "passPercent": "98",
+            "min": "34",
+            "max": "100",
+            "average": "81.833",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "125",
+            "passFail": "123\/2",
+            "passPercent": "98",
+            "min": "22",
+            "max": "100",
+            "average": "83.272",
+            "median": "86"
+        }
+    },
     "201601": {
         "Staff": [
             {
