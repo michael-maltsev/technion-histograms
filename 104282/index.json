@@ -96,6 +96,65 @@
             "median": "73"
         }
     },
+    "201702": {
+        "Staff": [
+            {
+                "name": "שליט אור משה",
+                "email": "oshalit@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רייטר עשהאל",
+                "email": "asaelr@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "21",
+            "passFail": "10\/11",
+            "passPercent": "48",
+            "min": "7",
+            "max": "97",
+            "average": "52.143",
+            "median": "43"
+        },
+        "Final_A": {
+            "students": "21",
+            "passFail": "13\/8",
+            "passPercent": "62",
+            "min": "20",
+            "max": "100",
+            "average": "65",
+            "median": "60"
+        },
+        "Exam_B": {
+            "students": "14",
+            "passFail": "8\/6",
+            "passPercent": "57",
+            "min": "5",
+            "max": "93",
+            "average": "57.714",
+            "median": "60"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "8\/6",
+            "passPercent": "57",
+            "min": "5",
+            "max": "94",
+            "average": "58.429",
+            "median": "62"
+        },
+        "Finals": {
+            "students": "26",
+            "passFail": "19\/7",
+            "passPercent": "73",
+            "min": "5",
+            "max": "100",
+            "average": "70.385",
+            "median": "78.5"
+        }
+    },
     "201801": {
         "Staff": [
             {

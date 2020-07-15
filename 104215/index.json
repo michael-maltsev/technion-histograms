@@ -141,6 +141,65 @@
             "median": "72"
         }
     },
+    "201603": {
+        "Staff": [
+            {
+                "name": "מעין יוחאי",
+                "email": "ymaayan@technion.ac.il,ymaayan@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יעקביאן אבירם",
+                "email": "saviram1@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "20",
+            "passFail": "17\/3",
+            "passPercent": "85",
+            "min": "25",
+            "max": "96",
+            "average": "71.3",
+            "median": "77.5"
+        },
+        "Final_A": {
+            "students": "20",
+            "passFail": "18\/2",
+            "passPercent": "90",
+            "min": "31",
+            "max": "96",
+            "average": "73.95",
+            "median": "81"
+        },
+        "Exam_B": {
+            "students": "13",
+            "passFail": "5\/8",
+            "passPercent": "38",
+            "min": "20",
+            "max": "94",
+            "average": "51.231",
+            "median": "49"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "8\/5",
+            "passPercent": "62",
+            "min": "22",
+            "max": "95",
+            "average": "55.231",
+            "median": "57"
+        },
+        "Finals": {
+            "students": "30",
+            "passFail": "25\/5",
+            "passPercent": "83",
+            "min": "22",
+            "max": "100",
+            "average": "70.8",
+            "median": "76"
+        }
+    },
     "201701": {
         "Staff": [
             {
