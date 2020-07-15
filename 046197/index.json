@@ -59,5 +59,64 @@
             "average": "78.714",
             "median": "80"
         }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "טל עדו",
+                "email": "idotal@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דורפמן רון",
+                "email": "rdorfman@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "13",
+            "passFail": "7\/6",
+            "passPercent": "54",
+            "min": "24",
+            "max": "92",
+            "average": "59.308",
+            "median": "58"
+        },
+        "Final_A": {
+            "students": "13",
+            "passFail": "10\/3",
+            "passPercent": "77",
+            "min": "43",
+            "max": "98",
+            "average": "69.462",
+            "median": "70"
+        },
+        "Exam_B": {
+            "students": "11",
+            "passFail": "9\/2",
+            "passPercent": "82",
+            "min": "42",
+            "max": "88",
+            "average": "70",
+            "median": "73"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "9\/2",
+            "passPercent": "82",
+            "min": "52",
+            "max": "90",
+            "average": "73.818",
+            "median": "76"
+        },
+        "Finals": {
+            "students": "18",
+            "passFail": "16\/2",
+            "passPercent": "89",
+            "min": "52",
+            "max": "98",
+            "average": "76.588",
+            "median": "78"
+        }
     }
 }
