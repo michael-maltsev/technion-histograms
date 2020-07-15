@@ -1,4 +1,73 @@
 {
+    "201402": {
+        "Staff": [
+            {
+                "name": "פינסקי רוס",
+                "email": "pinsky@math.technion.ac.il,pinsky@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לזרוביץ ניר",
+                "email": "lazarovich@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "עמרם גיא",
+                "email": "guyamram@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "צוק רעות",
+                "email": "reut@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "47",
+            "passFail": "34\/13",
+            "passPercent": "72",
+            "min": "4",
+            "max": "100",
+            "average": "73.362",
+            "median": "83"
+        },
+        "Final_A": {
+            "students": "47",
+            "passFail": "36\/11",
+            "passPercent": "77",
+            "min": "4",
+            "max": "100",
+            "average": "76.468",
+            "median": "85"
+        },
+        "Exam_B": {
+            "students": "20",
+            "passFail": "7\/13",
+            "passPercent": "35",
+            "min": "18",
+            "max": "100",
+            "average": "52.85",
+            "median": "47.5"
+        },
+        "Final_B": {
+            "students": "20",
+            "passFail": "8\/12",
+            "passPercent": "40",
+            "min": "18",
+            "max": "100",
+            "average": "55.6",
+            "median": "51"
+        },
+        "Finals": {
+            "students": "62",
+            "passFail": "45\/17",
+            "passPercent": "73",
+            "min": "15",
+            "max": "100",
+            "average": "73.597",
+            "median": "82.5"
+        }
+    },
     "201502": {
         "Staff": [
             {
