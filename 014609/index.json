@@ -44,5 +44,33 @@
             "average": "82.84",
             "median": "86"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "רביב גבריאל",
+                "email": "gabi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "38",
+            "passFail": "38\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "97",
+            "average": "84.632",
+            "median": "84"
+        }
     }
 }

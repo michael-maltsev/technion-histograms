@@ -1,4 +1,50 @@
 {
+    "201801": {
+        "Staff": [
+            {
+                "name": "טלסניק מרק",
+                "email": "talesnik@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "178",
+            "passFail": "122\/56",
+            "passPercent": "69",
+            "min": "1",
+            "max": "100",
+            "average": "62.978",
+            "median": "67.5"
+        },
+        "Final_B": {
+            "students": "94",
+            "passFail": "79\/15",
+            "passPercent": "84",
+            "min": "18",
+            "max": "98",
+            "average": "72.798",
+            "median": "74.5"
+        },
+        "Finals": {
+            "students": "205",
+            "passFail": "191\/14",
+            "passPercent": "93",
+            "min": "18",
+            "max": "100",
+            "average": "75.229",
+            "median": "75"
+        }
+    },
     "201901": {
         "Staff": [
             {

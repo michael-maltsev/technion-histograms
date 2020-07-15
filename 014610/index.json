@@ -39,5 +39,51 @@
             "average": "84.55",
             "median": "86"
         }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "מעין עתיר",
+                "email": "maayan.eng@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "144",
+            "passFail": "144\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "99",
+            "average": "80.715",
+            "median": "83"
+        },
+        "Final_B": {
+            "students": "154",
+            "passFail": "154\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "99",
+            "average": "81.214",
+            "median": "83"
+        },
+        "Finals": {
+            "students": "162",
+            "passFail": "162\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "99",
+            "average": "81.586",
+            "median": "83"
+        }
     }
 }
