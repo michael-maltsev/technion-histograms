@@ -58,6 +58,65 @@
             "median": "66"
         }
     },
+    "201603": {
+        "Staff": [
+            {
+                "name": "עכאשה מוחמד",
+                "email": "akashi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בורדו אליהו",
+                "email": "elibordo@technion.ac.il,elibordo@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "11\/21",
+            "passPercent": "34",
+            "min": "17",
+            "max": "83",
+            "average": "48.438",
+            "median": "50"
+        },
+        "Final_A": {
+            "students": "32",
+            "passFail": "25\/7",
+            "passPercent": "78",
+            "min": "33",
+            "max": "92",
+            "average": "61.344",
+            "median": "60.5"
+        },
+        "Exam_B": {
+            "students": "18",
+            "passFail": "4\/14",
+            "passPercent": "22",
+            "min": "25",
+            "max": "75",
+            "average": "44",
+            "median": "42"
+        },
+        "Final_B": {
+            "students": "18",
+            "passFail": "14\/4",
+            "passPercent": "78",
+            "min": "39",
+            "max": "87",
+            "average": "61.333",
+            "median": "59"
+        },
+        "Finals": {
+            "students": "39",
+            "passFail": "35\/4",
+            "passPercent": "90",
+            "min": "39",
+            "max": "92",
+            "average": "64.538",
+            "median": "62"
+        }
+    },
     "201701": {
         "Staff": [
             {
