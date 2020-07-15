@@ -117,6 +117,65 @@
             "median": "80"
         }
     },
+    "201702": {
+        "Staff": [
+            {
+                "name": "אגמון דוד",
+                "email": "agmon1@gmail.com,agmon1@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בורדו אליהו",
+                "email": "elibordo@technion.ac.il,elibordo@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "26",
+            "passFail": "9\/17",
+            "passPercent": "35",
+            "min": "30",
+            "max": "100",
+            "average": "53.846",
+            "median": "45"
+        },
+        "Final_A": {
+            "students": "26",
+            "passFail": "18\/8",
+            "passPercent": "69",
+            "min": "42",
+            "max": "100",
+            "average": "64.538",
+            "median": "58"
+        },
+        "Exam_B": {
+            "students": "25",
+            "passFail": "11\/14",
+            "passPercent": "44",
+            "min": "18.2",
+            "max": "91",
+            "average": "50.596",
+            "median": "45.5"
+        },
+        "Final_B": {
+            "students": "25",
+            "passFail": "16\/9",
+            "passPercent": "64",
+            "min": "34",
+            "max": "94",
+            "average": "61.56",
+            "median": "59"
+        },
+        "Finals": {
+            "students": "41",
+            "passFail": "30\/11",
+            "passPercent": "73",
+            "min": "34",
+            "max": "100",
+            "average": "66.268",
+            "median": "70"
+        }
+    },
     "201703": {
         "Staff": [
             {
