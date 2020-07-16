@@ -233,6 +233,70 @@
             "median": "79"
         }
     },
+    "201702": {
+        "Staff": [
+            {
+                "name": "מרקוס לודמילה",
+                "email": "epstin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מעין הילה",
+                "email": "ahila@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "דמיטריוק אלון",
+                "email": "alond@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "42",
+            "passFail": "22\/20",
+            "passPercent": "52",
+            "min": "21",
+            "max": "98",
+            "average": "60.405",
+            "median": "59"
+        },
+        "Final_A": {
+            "students": "42",
+            "passFail": "26\/16",
+            "passPercent": "62",
+            "min": "21",
+            "max": "98",
+            "average": "62.048",
+            "median": "62.5"
+        },
+        "Exam_B": {
+            "students": "23",
+            "passFail": "12\/11",
+            "passPercent": "52",
+            "min": "14",
+            "max": "70",
+            "average": "49.913",
+            "median": "53"
+        },
+        "Final_B": {
+            "students": "23",
+            "passFail": "14\/9",
+            "passPercent": "61",
+            "min": "14",
+            "max": "72",
+            "average": "51.087",
+            "median": "57"
+        },
+        "Finals": {
+            "students": "53",
+            "passFail": "40\/13",
+            "passPercent": "75",
+            "min": "14",
+            "max": "98",
+            "average": "62.358",
+            "median": "63"
+        }
+    },
     "201801": {
         "Staff": [
             {
