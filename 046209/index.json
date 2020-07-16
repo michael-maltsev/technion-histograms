@@ -40,6 +40,182 @@
             "median": "80.5"
         }
     },
+    "201402": {
+        "Staff": [
+            {
+                "name": "קידר עדית",
+                "email": "idish@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שלו נעם",
+                "email": "noams@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "וותד אמיר",
+                "email": "amirw@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "גוטסמן יונתן",
+                "email": "yonigo@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ווייצחוב דני",
+                "email": "dimavoi@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "87",
+            "passFail": "63\/24",
+            "passPercent": "72",
+            "min": "19",
+            "max": "100",
+            "average": "67.816",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "87",
+            "passFail": "76\/11",
+            "passPercent": "87",
+            "min": "35",
+            "max": "100",
+            "average": "73.356",
+            "median": "75"
+        },
+        "Final_B": {
+            "students": "41",
+            "passFail": "30\/11",
+            "passPercent": "73",
+            "min": "36",
+            "max": "100",
+            "average": "64.341",
+            "median": "64"
+        }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "זילברשטיין מרק",
+                "email": "mark@ee.technion.ac.il,silbmark@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברגמן שי",
+                "email": "shaiberg1@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ווייצחוב דני",
+                "email": "dimavoi@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "125",
+            "passFail": "97\/28",
+            "passPercent": "78",
+            "min": "20",
+            "max": "101",
+            "average": "66.392",
+            "median": "67"
+        },
+        "Final_A": {
+            "students": "124",
+            "passFail": "104\/20",
+            "passPercent": "84",
+            "min": "20",
+            "max": "100",
+            "average": "70.476",
+            "median": "73"
+        },
+        "Exam_B": {
+            "students": "66",
+            "passFail": "45\/21",
+            "passPercent": "68",
+            "min": "21",
+            "max": "97",
+            "average": "62.576",
+            "median": "61.5"
+        },
+        "Final_B": {
+            "students": "66",
+            "passFail": "52\/14",
+            "passPercent": "79",
+            "min": "21",
+            "max": "95",
+            "average": "67.015",
+            "median": "68"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "קידר עדית",
+                "email": "idish@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שומרון גיל",
+                "email": "gilsho@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קלינסקי אורן",
+                "email": "okalinsk@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ברגמן שי",
+                "email": "shaiberg1@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ווייצחוב דני",
+                "email": "dimavoi@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "124",
+            "passFail": "104\/20",
+            "passPercent": "84",
+            "min": "32",
+            "max": "103",
+            "average": "71.629",
+            "median": "74"
+        },
+        "Final_A": {
+            "students": "124",
+            "passFail": "110\/14",
+            "passPercent": "89",
+            "min": "32",
+            "max": "100",
+            "average": "75.661",
+            "median": "78.5"
+        },
+        "Exam_B": {
+            "students": "53",
+            "passFail": "39\/14",
+            "passPercent": "74",
+            "min": "37",
+            "max": "96",
+            "average": "66.113",
+            "median": "68"
+        },
+        "Final_B": {
+            "students": "53",
+            "passFail": "43\/10",
+            "passPercent": "81",
+            "min": "37",
+            "max": "97",
+            "average": "70.547",
+            "median": "75"
+        }
+    },
     "201602": {
         "Staff": [
             {

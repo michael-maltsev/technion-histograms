@@ -1,4 +1,22 @@
 {
+    "201102": {
+        "Staff": [
+            {
+                "name": "סיון אורי",
+                "email": "phsivan@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_B": {
+            "students": "159",
+            "passFail": "112\/47",
+            "passPercent": "70",
+            "min": "14",
+            "max": "100",
+            "average": "63.805",
+            "median": "64"
+        }
+    },
     "201201": {
         "Staff": [
             {
@@ -24,6 +42,42 @@
             "max": "97.6",
             "average": "65.716",
             "median": "67.2"
+        }
+    },
+    "201202": {
+        "Staff": [
+            {
+                "name": "פודולסקי דניאל",
+                "email": "podolsky@physics.technion.ac.il,podolsky@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "277",
+            "passFail": "152\/125",
+            "passPercent": "55",
+            "min": "0",
+            "max": "100",
+            "average": "54.751",
+            "median": "58"
+        },
+        "Final_A": {
+            "students": "277",
+            "passFail": "238\/39",
+            "passPercent": "86",
+            "min": "18",
+            "max": "100",
+            "average": "68.249",
+            "median": "70"
+        },
+        "Final_B": {
+            "students": "179",
+            "passFail": "161\/18",
+            "passPercent": "90",
+            "min": "35",
+            "max": "100",
+            "average": "69.961",
+            "median": "67"
         }
     },
     "201302": {

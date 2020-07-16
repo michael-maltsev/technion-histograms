@@ -1,4 +1,45 @@
 {
+    "201102": {
+        "Staff": [
+            {
+                "name": "שגיב מיכה",
+                "email": "sageevm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קרסיק איגור",
+                "email": "yaakov@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "131",
+            "passFail": "114\/17",
+            "passPercent": "87",
+            "min": "4",
+            "max": "100",
+            "average": "75.45",
+            "median": "79"
+        },
+        "Final_A": {
+            "students": "131",
+            "passFail": "118\/13",
+            "passPercent": "90",
+            "min": "4",
+            "max": "100",
+            "average": "77.107",
+            "median": "80"
+        },
+        "Final_B": {
+            "students": "79",
+            "passFail": "61\/18",
+            "passPercent": "77",
+            "min": "20",
+            "max": "95",
+            "average": "64.329",
+            "median": "65"
+        }
+    },
     "201202": {
         "Staff": [
             {

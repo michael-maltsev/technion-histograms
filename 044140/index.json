@@ -50,6 +50,94 @@
             "median": "66"
         }
     },
+    "201401": {
+        "Staff": [
+            {
+                "name": "אורנשטיין מאיר",
+                "email": "meiro@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טל ניקולאי",
+                "email": "nikolayt@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "סוריאס אופיר",
+                "email": "sorias@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "טורוקר זאב",
+                "email": "ztoroker@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "45",
+            "passFail": "22\/23",
+            "passPercent": "49",
+            "min": "25",
+            "max": "96",
+            "average": "56.489",
+            "median": "52"
+        },
+        "Final_A": {
+            "students": "45",
+            "passFail": "33\/12",
+            "passPercent": "73",
+            "min": "38",
+            "max": "100",
+            "average": "65.8",
+            "median": "63"
+        },
+        "Final_B": {
+            "students": "38",
+            "passFail": "31\/7",
+            "passPercent": "82",
+            "min": "36",
+            "max": "92",
+            "average": "66.684",
+            "median": "68.5"
+        }
+    },
+    "201402": {
+        "Staff": [
+            {
+                "name": "אינציגר פנחס",
+                "email": "einzigerp@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טל ניקולאי",
+                "email": "nikolayt@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "טורוקר זאב",
+                "email": "ztoroker@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "156",
+            "passFail": "125\/31",
+            "passPercent": "80",
+            "min": "31.667",
+            "max": "100",
+            "average": "70.141",
+            "median": "71.8335"
+        },
+        "Final_B": {
+            "students": "124",
+            "passFail": "112\/12",
+            "passPercent": "90",
+            "min": "37",
+            "max": "97",
+            "average": "70.839",
+            "median": "72"
+        }
+    },
     "201502": {
         "Final_A": {
             "students": "90",

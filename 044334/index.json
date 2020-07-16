@@ -40,6 +40,47 @@
             "median": "80"
         }
     },
+    "201501": {
+        "Staff": [
+            {
+                "name": "קסוטו יובל",
+                "email": "ycassuto@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרבמן ברק",
+                "email": "barakfar@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "87",
+            "passFail": "77\/10",
+            "passPercent": "89",
+            "min": "33",
+            "max": "95",
+            "average": "70.08",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "87",
+            "passFail": "83\/4",
+            "passPercent": "95",
+            "min": "40",
+            "max": "97",
+            "average": "74.839",
+            "median": "74"
+        },
+        "Final_B": {
+            "students": "40",
+            "passFail": "37\/3",
+            "passPercent": "92",
+            "min": "13",
+            "max": "100",
+            "average": "70.95",
+            "median": "73.5"
+        }
+    },
     "201502": {
         "Staff": [
             {
@@ -88,6 +129,15 @@
             "max": "98",
             "average": "70.591",
             "median": "70"
+        },
+        "Finals": {
+            "students": "124",
+            "passFail": "120\/4",
+            "passPercent": "97",
+            "min": "37",
+            "max": "98",
+            "average": "74.363",
+            "median": "76"
         }
     },
     "201601": {

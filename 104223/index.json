@@ -36,6 +36,52 @@
             "median": "73"
         }
     },
+    "201301": {
+        "Staff": [
+            {
+                "name": "רובינשטיין יעקב",
+                "email": "koby@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גרוזד מרינה",
+                "email": "gruzd@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "זלקמן-סמירין אולגה",
+                "email": "olgasm@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "266",
+            "passFail": "228\/38",
+            "passPercent": "86",
+            "min": "0",
+            "max": "100",
+            "average": "78.944",
+            "median": "86"
+        },
+        "Final_A": {
+            "students": "266",
+            "passFail": "240\/26",
+            "passPercent": "90",
+            "min": "9",
+            "max": "100",
+            "average": "81.421",
+            "median": "87.5"
+        },
+        "Final_B": {
+            "students": "85",
+            "passFail": "63\/22",
+            "passPercent": "74",
+            "min": "16",
+            "max": "100",
+            "average": "67.247",
+            "median": "68"
+        }
+    },
     "201401": {
         "Staff": [
             {

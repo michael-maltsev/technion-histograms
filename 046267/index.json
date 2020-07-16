@@ -45,6 +45,29 @@
             "median": "76"
         }
     },
+    "201501": {
+        "Staff": [
+            {
+                "name": "בירק יצחק",
+                "email": "birk@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שורץ אופיר",
+                "email": "ofirshw@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "20",
+            "passFail": "17\/3",
+            "passPercent": "85",
+            "min": "47",
+            "max": "95",
+            "average": "75.5",
+            "median": "80"
+        }
+    },
     "201502": {
         "Staff": [
             {
@@ -93,6 +116,93 @@
             "max": "100",
             "average": "82.389",
             "median": "84"
+        }
+    },
+    "201601": {
+        "Staff": [
+            {
+                "name": "בירק יצחק",
+                "email": "birk@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שורץ אופיר",
+                "email": "ofirshw@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "14",
+            "passFail": "10\/4",
+            "passPercent": "71",
+            "min": "36",
+            "max": "97",
+            "average": "68.071",
+            "median": "72.5"
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "עציון יואב",
+                "email": "yetsion@tce.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שומרון גיל",
+                "email": "gilsho@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מנוסקין אלכס",
+                "email": "alexmanuskin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "191",
+            "passFail": "171\/20",
+            "passPercent": "90",
+            "min": "34",
+            "max": "100",
+            "average": "73.534",
+            "median": "76"
+        },
+        "Final_A": {
+            "students": "191",
+            "passFail": "171\/20",
+            "passPercent": "90",
+            "min": "34",
+            "max": "100",
+            "average": "79.147",
+            "median": "82"
+        },
+        "Exam_B": {
+            "students": "69",
+            "passFail": "52\/17",
+            "passPercent": "75",
+            "min": "29",
+            "max": "91",
+            "average": "63.362",
+            "median": "63"
+        },
+        "Final_B": {
+            "students": "69",
+            "passFail": "52\/17",
+            "passPercent": "75",
+            "min": "29",
+            "max": "93",
+            "average": "69.29",
+            "median": "73"
+        },
+        "Finals": {
+            "students": "214",
+            "passFail": "199\/15",
+            "passPercent": "93",
+            "min": "29",
+            "max": "100",
+            "average": "80.294",
+            "median": "83"
         }
     },
     "201702": {
