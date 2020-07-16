@@ -1,4 +1,40 @@
 {
+    "201701": {
+        "Staff": [
+            {
+                "name": "ג'בארין מחמוד",
+                "email": "cvjmah@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "110",
+            "passFail": "76\/34",
+            "passPercent": "69",
+            "min": "3",
+            "max": "93",
+            "average": "65.409",
+            "median": "71"
+        },
+        "Final_B": {
+            "students": "54",
+            "passFail": "40\/14",
+            "passPercent": "74",
+            "min": "23",
+            "max": "98",
+            "average": "66.407",
+            "median": "70.5"
+        },
+        "Finals": {
+            "students": "128",
+            "passFail": "112\/16",
+            "passPercent": "88",
+            "min": "5",
+            "max": "98",
+            "average": "71.977",
+            "median": "75.5"
+        }
+    },
     "201801": {
         "Staff": [
             {

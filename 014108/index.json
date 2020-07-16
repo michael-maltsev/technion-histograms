@@ -1,4 +1,58 @@
 {
+    "201601": {
+        "Staff": [
+            {
+                "name": "אמיר עודד",
+                "email": "odedamir@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "162",
+            "passFail": "122\/40",
+            "passPercent": "75",
+            "min": "6",
+            "max": "98",
+            "average": "63.765",
+            "median": "67"
+        },
+        "Final_A": {
+            "students": "162",
+            "passFail": "122\/40",
+            "passPercent": "75",
+            "min": "6",
+            "max": "100",
+            "average": "66.728",
+            "median": "72"
+        },
+        "Exam_B": {
+            "students": "76",
+            "passFail": "62\/14",
+            "passPercent": "82",
+            "min": "25",
+            "max": "94",
+            "average": "66.829",
+            "median": "70.5"
+        },
+        "Final_B": {
+            "students": "76",
+            "passFail": "62\/14",
+            "passPercent": "82",
+            "min": "25",
+            "max": "95",
+            "average": "69.039",
+            "median": "72.5"
+        },
+        "Finals": {
+            "students": "191",
+            "passFail": "177\/14",
+            "passPercent": "93",
+            "min": "25",
+            "max": "100",
+            "average": "73.728",
+            "median": "75"
+        }
+    },
     "201701": {
         "Staff": [
             {
