@@ -58,5 +58,51 @@
             "average": "83.607",
             "median": "85"
         }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "בוכר יצחק",
+                "email": "bucher@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברוך איל",
+                "email": "",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ורד יואב",
+                "email": "syoavv@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "60",
+            "passFail": "55\/5",
+            "passPercent": "92",
+            "min": "35",
+            "max": "100",
+            "average": "82.033",
+            "median": "86"
+        },
+        "Final_A": {
+            "students": "64",
+            "passFail": "64\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "100",
+            "average": "85.047",
+            "median": "86.5"
+        },
+        "Finals": {
+            "students": "65",
+            "passFail": "65\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "100",
+            "average": "85.2",
+            "median": "87"
+        }
     }
 }
