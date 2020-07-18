@@ -62,5 +62,28 @@
             "average": "73.12",
             "median": "74"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "קרונהאוז יגאל",
+                "email": "kronhaus@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חמו עומרי",
+                "email": "shemo@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "63",
+            "passFail": "55\/8",
+            "passPercent": "87",
+            "min": "23",
+            "max": "100",
+            "average": "68.127",
+            "median": "70"
+        }
     }
 }
