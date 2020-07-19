@@ -1,4 +1,68 @@
 {
+    "201001": {
+        "Staff": [
+            {
+                "name": "פנחסי רום",
+                "email": "room@math.technion.ac.il,room@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרומקין ולרי",
+                "email": "valeri@technion.ac.il,valeri@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "586",
+            "passFail": "396\/190",
+            "passPercent": "68",
+            "min": "2",
+            "max": "100",
+            "average": "60.662",
+            "median": "60"
+        },
+        "Final_B": {
+            "students": "331",
+            "passFail": "233\/98",
+            "passPercent": "70",
+            "min": "8",
+            "max": "100",
+            "average": "60.686",
+            "median": "61"
+        }
+    },
+    "201002": {
+        "Staff": [
+            {
+                "name": "רייך שמעון",
+                "email": "sreich@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרומקין ולרי",
+                "email": "valeri@technion.ac.il,valeri@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "240",
+            "passFail": "196\/44",
+            "passPercent": "82",
+            "min": "20",
+            "max": "100",
+            "average": "65.567",
+            "median": "64"
+        },
+        "Final_B": {
+            "students": "118",
+            "passFail": "88\/30",
+            "passPercent": "75",
+            "min": "21",
+            "max": "96",
+            "average": "60.517",
+            "median": "60"
+        }
+    },
     "201101": {
         "Staff": [
             {
