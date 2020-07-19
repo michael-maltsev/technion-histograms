@@ -1,4 +1,54 @@
 {
+    "201802": {
+        "Staff": [
+            {
+                "name": "מרדכי דן",
+                "email": "danmord@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברייטמן פטר",
+                "email": "petya@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "58",
+            "passFail": "44\/14",
+            "passPercent": "76",
+            "min": "20",
+            "max": "100",
+            "average": "72.362",
+            "median": "73.5"
+        },
+        "Exam_B": {
+            "students": "20",
+            "passFail": "10\/10",
+            "passPercent": "50",
+            "min": "15",
+            "max": "87",
+            "average": "52.3",
+            "median": "51.5"
+        },
+        "Final_B": {
+            "students": "20",
+            "passFail": "10\/10",
+            "passPercent": "50",
+            "min": "15",
+            "max": "89",
+            "average": "54.4",
+            "median": "54.5"
+        },
+        "Finals": {
+            "students": "62",
+            "passFail": "52\/10",
+            "passPercent": "84",
+            "min": "15",
+            "max": "100",
+            "average": "74.242",
+            "median": "78"
+        }
+    },
     "201901": {
         "Staff": [
             {
