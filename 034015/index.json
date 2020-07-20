@@ -199,24 +199,14 @@
     "201802": {
         "Staff": [
             {
-                "name": "ברנד מאיר",
-                "email": "br.meir@gmail.com",
+                "name": "כץ ראובן",
+                "email": "reuvenk@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "רופמן ברוך",
-                "email": "rofmanb@gmail.com,rofman@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "שירוקי יצחק",
-                "email": "sitzik1984@gmail.com,shiroky@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "ניר רונן",
-                "email": "ronen.nizri@gmail.com,ronenn@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
+                "name": "אשבל ליאור",
+                "email": "awesome@campus.technion.ac.il",
+                "title": "מרצה"
             }
         ],
         "Exam_A": {
@@ -229,13 +219,13 @@
             "median": "78"
         },
         "Final_A": {
-            "students": "112",
-            "passFail": "103\/9",
-            "passPercent": "92",
-            "min": "20",
-            "max": "99",
-            "average": "78.259",
-            "median": "81"
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "97",
+            "average": "87.167",
+            "median": "88"
         },
         "Exam_B": {
             "students": "37",
@@ -256,13 +246,13 @@
             "median": "66"
         },
         "Finals": {
-            "students": "129",
-            "passFail": "120\/9",
-            "passPercent": "93",
-            "min": "32",
-            "max": "99",
-            "average": "78.14",
-            "median": "81"
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "97",
+            "average": "84.071",
+            "median": "85.5"
         }
     }
 }
