@@ -337,5 +337,37 @@
             "average": "77.469",
             "median": "83"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "עברון יגאל",
+                "email": "shmigal@technion.ac.il,shmigal@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אליאס עזרא",
+                "email": "merezra@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "31\/1",
+            "passPercent": "97",
+            "min": "40",
+            "max": "97",
+            "average": "82.094",
+            "median": "84"
+        },
+        "Final_A": {
+            "students": "32",
+            "passFail": "32\/0",
+            "passPercent": "100",
+            "min": "62.975",
+            "max": "97.725",
+            "average": "87.79",
+            "median": "89.1875"
+        }
     }
 }
