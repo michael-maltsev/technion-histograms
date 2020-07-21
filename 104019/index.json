@@ -1,4 +1,104 @@
 {
+    "201401": {
+        "Staff": [
+            {
+                "name": "אופן עמר",
+                "email": "offen@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מסרווה חייריה",
+                "email": "massarwe@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "584",
+            "passFail": "476\/108",
+            "passPercent": "82",
+            "min": "0",
+            "max": "100",
+            "average": "72.3",
+            "median": "76.5"
+        },
+        "Final_A": {
+            "students": "584",
+            "passFail": "527\/57",
+            "passPercent": "90",
+            "min": "13",
+            "max": "100",
+            "average": "76.685",
+            "median": "80"
+        },
+        "Final_B": {
+            "students": "161",
+            "passFail": "141\/20",
+            "passPercent": "88",
+            "min": "8",
+            "max": "96",
+            "average": "69.267",
+            "median": "72"
+        }
+    },
+    "201402": {
+        "Staff": [
+            {
+                "name": "אבידן דניאלה",
+                "email": "avidand@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מסרווה חייריה",
+                "email": "massarwe@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "47",
+            "passFail": "38\/9",
+            "passPercent": "81",
+            "min": "30",
+            "max": "100",
+            "average": "73.128",
+            "median": "75"
+        },
+        "Final_A": {
+            "students": "47",
+            "passFail": "42\/5",
+            "passPercent": "89",
+            "min": "34",
+            "max": "100",
+            "average": "76.021",
+            "median": "78"
+        },
+        "Exam_B": {
+            "students": "25",
+            "passFail": "14\/11",
+            "passPercent": "56",
+            "min": "8",
+            "max": "90",
+            "average": "49.52",
+            "median": "59"
+        },
+        "Final_B": {
+            "students": "25",
+            "passFail": "14\/11",
+            "passPercent": "56",
+            "min": "8",
+            "max": "90",
+            "average": "55.2",
+            "median": "64"
+        },
+        "Finals": {
+            "students": "131",
+            "passFail": "116\/15",
+            "passPercent": "89",
+            "min": "8",
+            "max": "100",
+            "average": "74.069",
+            "median": "78"
+        }
+    },
     "201501": {
         "Staff": [
             {
