@@ -1,4 +1,40 @@
 {
+    "201402": {
+        "Staff": [
+            {
+                "name": "גת אמיר",
+                "email": "amirgat@technion.ac.il,netanel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "92",
+            "passFail": "80\/12",
+            "passPercent": "87",
+            "min": "27",
+            "max": "100",
+            "average": "73.25",
+            "median": "76"
+        },
+        "Final_B": {
+            "students": "46",
+            "passFail": "41\/5",
+            "passPercent": "89",
+            "min": "26",
+            "max": "95",
+            "average": "69.957",
+            "median": "70"
+        },
+        "Finals": {
+            "students": "117",
+            "passFail": "110\/7",
+            "passPercent": "94",
+            "min": "26",
+            "max": "100",
+            "average": "75.701",
+            "median": "79"
+        }
+    },
     "201502": {
         "Exam_A": {
             "students": "96",

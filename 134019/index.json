@@ -471,5 +471,42 @@
             "average": "79.236",
             "median": "82.5"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "גליקמן חגי-מיכאל",
+                "email": "glickman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בוקובזה מאי",
+                "email": "may_b@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מגיד-גולד ענבר חיה",
+                "email": "inbarm@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "73",
+            "passFail": "55\/18",
+            "passPercent": "75",
+            "min": "13.65",
+            "max": "97.65",
+            "average": "69.926",
+            "median": "75.6"
+        },
+        "Final_A": {
+            "students": "73",
+            "passFail": "55\/18",
+            "passPercent": "75",
+            "min": "13.65",
+            "max": "97.86",
+            "average": "71.575",
+            "median": "78.408"
+        }
     }
 }

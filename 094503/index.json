@@ -1,4 +1,40 @@
 {
+    "201502": {
+        "Staff": [
+            {
+                "name": "פרץ חובב",
+                "email": "perets@ie.technion.ac.il,perets@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "63",
+            "passFail": "56\/7",
+            "passPercent": "89",
+            "min": "24",
+            "max": "100",
+            "average": "79.778",
+            "median": "82"
+        },
+        "Final_B": {
+            "students": "19",
+            "passFail": "16\/3",
+            "passPercent": "84",
+            "min": "18",
+            "max": "100",
+            "average": "74.842",
+            "median": "76"
+        },
+        "Finals": {
+            "students": "67",
+            "passFail": "64\/3",
+            "passPercent": "96",
+            "min": "18",
+            "max": "100",
+            "average": "83.403",
+            "median": "88"
+        }
+    },
     "201702": {
         "Staff": [
             {

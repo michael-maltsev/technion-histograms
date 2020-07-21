@@ -1,4 +1,36 @@
 {
+    "201501": {
+        "Staff": [
+            {
+                "name": "שילה דורון",
+                "email": "shilo@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זריהן נועם",
+                "email": "noamzr@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "93",
+            "passFail": "93\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "98",
+            "average": "90.86",
+            "median": "91"
+        },
+        "Finals": {
+            "students": "94",
+            "passFail": "94\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "98",
+            "average": "91.064",
+            "median": "91.5"
+        }
+    },
     "201602": {
         "Final_A": {
             "students": "80",
