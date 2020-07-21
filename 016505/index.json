@@ -1,0 +1,39 @@
+{
+    "201901": {
+        "Staff": [
+            {
+                "name": "דביר חגי",
+                "email": "hd@hd-arch.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "15",
+            "passFail": "12\/3",
+            "passPercent": "80",
+            "min": "16",
+            "max": "99",
+            "average": "75.4",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "99",
+            "average": "89.2",
+            "median": "91"
+        }
+    }
+}
