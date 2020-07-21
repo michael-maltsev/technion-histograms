@@ -28,6 +28,65 @@
             "median": "72"
         }
     },
+    "201601": {
+        "Staff": [
+            {
+                "name": "טרטקובסקי לאוניד",
+                "email": "tartak@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פארן ארנון",
+                "email": "arnonp@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "132",
+            "passFail": "88\/44",
+            "passPercent": "67",
+            "min": "0",
+            "max": "100",
+            "average": "62.909",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "132",
+            "passFail": "92\/40",
+            "passPercent": "70",
+            "min": "12",
+            "max": "100",
+            "average": "65.417",
+            "median": "70"
+        },
+        "Exam_B": {
+            "students": "84",
+            "passFail": "57\/27",
+            "passPercent": "68",
+            "min": "4",
+            "max": "100",
+            "average": "66.036",
+            "median": "74"
+        },
+        "Final_B": {
+            "students": "84",
+            "passFail": "64\/20",
+            "passPercent": "76",
+            "min": "4",
+            "max": "100",
+            "average": "67.429",
+            "median": "76"
+        },
+        "Finals": {
+            "students": "148",
+            "passFail": "129\/19",
+            "passPercent": "87",
+            "min": "4",
+            "max": "100",
+            "average": "73.662",
+            "median": "79"
+        }
+    },
     "201602": {
         "Staff": [
             {
