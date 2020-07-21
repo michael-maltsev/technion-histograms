@@ -1,5 +1,17 @@
 {
     "201901": {
+        "Staff": [
+            {
+                "name": "קמינר עידו",
+                "email": "kaminer@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קורמן יניב",
+                "email": "skurman@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "11",
             "passFail": "8\/3",
@@ -23,9 +35,9 @@
             "passFail": "12\/1",
             "passPercent": "92",
             "min": "37",
-            "max": "500",
-            "average": "181.077",
-            "median": "99"
+            "max": "100",
+            "average": "85.4",
+            "median": "95"
         }
     }
 }
