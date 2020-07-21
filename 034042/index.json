@@ -10,6 +10,56 @@
             "median": "77.5"
         }
     },
+    "201502": {
+        "Staff": [
+            {
+                "name": "גורלי גיורא",
+                "email": "goralig@rafael.co.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ריז'נסקי אורן",
+                "email": "orenrij@technion.ac.il,orenrijensky@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "129",
+            "passFail": "88\/41",
+            "passPercent": "68",
+            "min": "0",
+            "max": "93",
+            "average": "61.109",
+            "median": "60"
+        },
+        "Final_A": {
+            "students": "129",
+            "passFail": "87\/42",
+            "passPercent": "67",
+            "min": "0",
+            "max": "94.8",
+            "average": "66.313",
+            "median": "70.65"
+        },
+        "Final_B": {
+            "students": "43",
+            "passFail": "27\/16",
+            "passPercent": "63",
+            "min": "36",
+            "max": "91.17",
+            "average": "65.317",
+            "median": "71.83"
+        },
+        "Finals": {
+            "students": "142",
+            "passFail": "122\/20",
+            "passPercent": "86",
+            "min": "38",
+            "max": "95",
+            "average": "72.732",
+            "median": "75"
+        }
+    },
     "201601": {
         "Staff": [
             {
