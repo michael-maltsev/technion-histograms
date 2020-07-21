@@ -1,4 +1,45 @@
 {
+    "201401": {
+        "Staff": [
+            {
+                "name": "אופן עמר",
+                "email": "offen@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מסרווה חייריה",
+                "email": "massarwe@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "584",
+            "passFail": "476\/108",
+            "passPercent": "82",
+            "min": "0",
+            "max": "100",
+            "average": "72.3",
+            "median": "76.5"
+        },
+        "Final_A": {
+            "students": "584",
+            "passFail": "527\/57",
+            "passPercent": "90",
+            "min": "13",
+            "max": "100",
+            "average": "76.685",
+            "median": "80"
+        },
+        "Final_B": {
+            "students": "161",
+            "passFail": "141\/20",
+            "passPercent": "88",
+            "min": "8",
+            "max": "96",
+            "average": "69.267",
+            "median": "72"
+        }
+    },
     "201402": {
         "Staff": [
             {
