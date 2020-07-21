@@ -44,5 +44,46 @@
             "average": "56.122",
             "median": "57"
         }
+    },
+    "201303": {
+        "Staff": [
+            {
+                "name": "רדואן ניזאר",
+                "email": "rnizar@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גובר שלומי",
+                "email": "shlomigo@technion.ac.il,shlomigo@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "29",
+            "passFail": "20\/9",
+            "passPercent": "69",
+            "min": "0",
+            "max": "100",
+            "average": "62.345",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "29",
+            "passFail": "21\/8",
+            "passPercent": "72",
+            "min": "4",
+            "max": "100",
+            "average": "67.414",
+            "median": "71"
+        },
+        "Final_B": {
+            "students": "35",
+            "passFail": "20\/15",
+            "passPercent": "57",
+            "min": "3",
+            "max": "100",
+            "average": "58.714",
+            "median": "56"
+        }
     }
 }
