@@ -266,5 +266,37 @@
             "average": "75.774",
             "median": "83"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "פויאר אנדריאס אר",
+                "email": "feuer@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לירז לידזי דן",
+                "email": "danliraz@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "50",
+            "passFail": "43\/7",
+            "passPercent": "86",
+            "min": "23",
+            "max": "100",
+            "average": "73.1",
+            "median": "73.5"
+        },
+        "Final_A": {
+            "students": "50",
+            "passFail": "46\/4",
+            "passPercent": "92",
+            "min": "33",
+            "max": "100",
+            "average": "76.84",
+            "median": "77.5"
+        }
     }
 }
