@@ -27,5 +27,41 @@
             "average": "83.133",
             "median": "79"
         }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "אידן משה",
+                "email": "moshe.idan@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "28",
+            "passFail": "23\/5",
+            "passPercent": "82",
+            "min": "29",
+            "max": "100",
+            "average": "70.5",
+            "median": "74.5"
+        },
+        "Final_A": {
+            "students": "28",
+            "passFail": "24\/4",
+            "passPercent": "86",
+            "min": "36",
+            "max": "100",
+            "average": "73.036",
+            "median": "77"
+        },
+        "Finals": {
+            "students": "30",
+            "passFail": "29\/1",
+            "passPercent": "97",
+            "min": "52",
+            "max": "100",
+            "average": "82.067",
+            "median": "83"
+        }
     }
 }
