@@ -126,5 +126,37 @@
             "average": "71.967",
             "median": "70"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "שמידט אשר",
+                "email": "chrschm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ארצי ירון",
+                "email": "syartzi@technion.ac.il,syartzi@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "40",
+            "passFail": "31\/9",
+            "passPercent": "78",
+            "min": "36",
+            "max": "100",
+            "average": "69.475",
+            "median": "65"
+        },
+        "Finals": {
+            "students": "40",
+            "passFail": "31\/9",
+            "passPercent": "78",
+            "min": "36",
+            "max": "100",
+            "average": "69.475",
+            "median": "65"
+        }
     }
 }
