@@ -74,6 +74,28 @@
         }
     },
     "201602": {
+        "Staff": [
+            {
+                "name": "שמואל גל",
+                "email": "meshmuel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קיסלובסקי ויקטור",
+                "email": "victotac@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ויזל אורן",
+                "email": "orenwi@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שטיין יונתן",
+                "email": "yoyostein@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "109",
             "passFail": "69\/40",
@@ -109,6 +131,15 @@
             "max": "93",
             "average": "64.129",
             "median": "65.5"
+        },
+        "Finals": {
+            "students": "126",
+            "passFail": "108\/18",
+            "passPercent": "86",
+            "min": "12",
+            "max": "99",
+            "average": "69.675",
+            "median": "73"
         }
     },
     "201701": {
