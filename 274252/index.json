@@ -1,4 +1,58 @@
 {
+    "201702": {
+        "Staff": [
+            {
+                "name": "אנקרי סרג'",
+                "email": "sankri@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "179",
+            "passFail": "149\/30",
+            "passPercent": "83",
+            "min": "28",
+            "max": "95",
+            "average": "68.296",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "179",
+            "passFail": "154\/25",
+            "passPercent": "86",
+            "min": "28",
+            "max": "98",
+            "average": "69.749",
+            "median": "73"
+        },
+        "Exam_B": {
+            "students": "68",
+            "passFail": "44\/24",
+            "passPercent": "65",
+            "min": "33",
+            "max": "90",
+            "average": "61.559",
+            "median": "60"
+        },
+        "Final_B": {
+            "students": "68",
+            "passFail": "50\/18",
+            "passPercent": "74",
+            "min": "35",
+            "max": "92",
+            "average": "63.794",
+            "median": "62"
+        },
+        "Finals": {
+            "students": "214",
+            "passFail": "202\/12",
+            "passPercent": "94",
+            "min": "20",
+            "max": "98",
+            "average": "71.748",
+            "median": "73"
+        }
+    },
     "201901": {
         "Exam_A": {
             "students": "102",

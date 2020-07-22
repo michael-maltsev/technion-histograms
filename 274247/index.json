@@ -1,4 +1,58 @@
 {
+    "201702": {
+        "Staff": [
+            {
+                "name": "קליינברגר תמר",
+                "email": "tamark@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "163",
+            "passFail": "137\/26",
+            "passPercent": "84",
+            "min": "26",
+            "max": "98",
+            "average": "68.896",
+            "median": "71"
+        },
+        "Final_A": {
+            "students": "163",
+            "passFail": "145\/18",
+            "passPercent": "89",
+            "min": "30",
+            "max": "100",
+            "average": "72.871",
+            "median": "75"
+        },
+        "Exam_B": {
+            "students": "72",
+            "passFail": "61\/11",
+            "passPercent": "85",
+            "min": "33",
+            "max": "94",
+            "average": "68.472",
+            "median": "68"
+        },
+        "Final_B": {
+            "students": "72",
+            "passFail": "67\/5",
+            "passPercent": "93",
+            "min": "41",
+            "max": "100",
+            "average": "75.417",
+            "median": "74"
+        },
+        "Finals": {
+            "students": "206",
+            "passFail": "202\/4",
+            "passPercent": "98",
+            "min": "41",
+            "max": "100",
+            "average": "77.131",
+            "median": "79"
+        }
+    },
     "201901": {
         "Exam_A": {
             "students": "98",

@@ -1,4 +1,58 @@
 {
+    "201702": {
+        "Staff": [
+            {
+                "name": "מלמד דורון",
+                "email": "melamedd@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "175",
+            "passFail": "163\/12",
+            "passPercent": "93",
+            "min": "26",
+            "max": "96",
+            "average": "75.703",
+            "median": "78"
+        },
+        "Final_A": {
+            "students": "175",
+            "passFail": "169\/6",
+            "passPercent": "97",
+            "min": "30",
+            "max": "100",
+            "average": "80.286",
+            "median": "82"
+        },
+        "Exam_B": {
+            "students": "41",
+            "passFail": "35\/6",
+            "passPercent": "85",
+            "min": "42",
+            "max": "92",
+            "average": "70.634",
+            "median": "72"
+        },
+        "Final_B": {
+            "students": "41",
+            "passFail": "35\/6",
+            "passPercent": "85",
+            "min": "42",
+            "max": "92",
+            "average": "70.878",
+            "median": "72"
+        },
+        "Finals": {
+            "students": "191",
+            "passFail": "184\/7",
+            "passPercent": "96",
+            "min": "42",
+            "max": "100",
+            "average": "80.66",
+            "median": "82"
+        }
+    },
     "201802": {
         "Staff": [
             {
