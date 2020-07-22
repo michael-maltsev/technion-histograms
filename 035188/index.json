@@ -118,5 +118,28 @@
             "average": "83.469",
             "median": "87.5"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "פלמור זלמן",
+                "email": "palmor@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברקאי גל",
+                "email": "galbarkai@gmail.com,galbarkai@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "16\/16",
+            "passPercent": "50",
+            "min": "10",
+            "max": "100",
+            "average": "55.625",
+            "median": "56"
+        }
     }
 }
