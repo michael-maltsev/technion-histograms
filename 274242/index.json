@@ -1,4 +1,58 @@
 {
+    "201701": {
+        "Staff": [
+            {
+                "name": "בן-יוסף תמר",
+                "email": "benyosef@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "179",
+            "passFail": "179\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "98",
+            "average": "83.106",
+            "median": "84"
+        },
+        "Final_A": {
+            "students": "179",
+            "passFail": "179\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "98",
+            "average": "85.196",
+            "median": "86"
+        },
+        "Exam_B": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "74",
+            "max": "94",
+            "average": "85.92",
+            "median": "86"
+        },
+        "Final_B": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "74",
+            "max": "96",
+            "average": "86.08",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "188",
+            "passFail": "188\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "98",
+            "average": "86.223",
+            "median": "88"
+        }
+    },
     "201801": {
         "Staff": [
             {
