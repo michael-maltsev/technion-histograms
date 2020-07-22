@@ -1,4 +1,68 @@
 {
+    "201101": {
+        "Staff": [
+            {
+                "name": "אנטוב מיכאל",
+                "email": "entov@math.technion.ac.il,entov@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מסרווה חייריה",
+                "email": "massarwe@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "262",
+            "passFail": "219\/43",
+            "passPercent": "84",
+            "min": "13",
+            "max": "100",
+            "average": "69.431",
+            "median": "71"
+        },
+        "Final_B": {
+            "students": "81",
+            "passFail": "61\/20",
+            "passPercent": "75",
+            "min": "23",
+            "max": "96",
+            "average": "67.235",
+            "median": "68"
+        }
+    },
+    "201102": {
+        "Staff": [
+            {
+                "name": "אבידן דניאלה",
+                "email": "avidand@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מסרווה חייריה",
+                "email": "massarwe@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "70",
+            "passFail": "62\/8",
+            "passPercent": "89",
+            "min": "20",
+            "max": "100",
+            "average": "77.771",
+            "median": "82"
+        },
+        "Final_B": {
+            "students": "27",
+            "passFail": "24\/3",
+            "passPercent": "89",
+            "min": "15",
+            "max": "100",
+            "average": "73.667",
+            "median": "77"
+        }
+    },
     "201302": {
         "Exam_A": {
             "students": "60",
