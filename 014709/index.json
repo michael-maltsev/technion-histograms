@@ -1,0 +1,34 @@
+{
+    "201901": {
+        "Staff": [
+            {
+                "name": "סידס אריה",
+                "email": "sidess@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "19",
+            "passFail": "15\/4",
+            "passPercent": "79",
+            "min": "40",
+            "max": "96",
+            "average": "74.684",
+            "median": "77"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "22\/1",
+            "passPercent": "96",
+            "min": "40",
+            "max": "96",
+            "average": "80",
+            "median": "78"
+        }
+    }
+}
