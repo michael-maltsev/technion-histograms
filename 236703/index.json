@@ -106,5 +106,28 @@
             "average": "75.493",
             "median": "78"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "גיל יוסף",
+                "email": "yogi@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן דב בעז",
+                "email": "boaz.ben-dov@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "67",
+            "passFail": "54\/13",
+            "passPercent": "81",
+            "min": "15",
+            "max": "97",
+            "average": "69.881",
+            "median": "71"
+        }
     }
 }
