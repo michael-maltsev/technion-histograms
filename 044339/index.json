@@ -91,5 +91,46 @@
             "average": "81.667",
             "median": "85"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "הורוביץ משה",
+                "email": "horowitz@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ענני ליאור",
+                "email": "lioranany@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "15",
+            "passFail": "11\/4",
+            "passPercent": "73",
+            "min": "39",
+            "max": "94",
+            "average": "66.467",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "51",
+            "max": "100",
+            "average": "79.267",
+            "median": "79"
+        },
+        "Finals": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "51",
+            "max": "100",
+            "average": "79.267",
+            "median": "79"
+        }
     }
 }
