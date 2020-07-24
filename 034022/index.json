@@ -243,5 +243,37 @@
             "average": "75.219",
             "median": "81"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "גומיד חאלד",
+                "email": "gommed@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אלפיסי דניאל",
+                "email": "alfisidaniel@gmail.com,danielalfisi@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "24",
+            "passFail": "21\/3",
+            "passPercent": "88",
+            "min": "35",
+            "max": "90",
+            "average": "71.25",
+            "median": "72.5"
+        },
+        "Final_A": {
+            "students": "24",
+            "passFail": "21\/3",
+            "passPercent": "88",
+            "min": "35",
+            "max": "91",
+            "average": "72.583",
+            "median": "73.5"
+        }
     }
 }
