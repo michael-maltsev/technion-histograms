@@ -55,5 +55,57 @@
             "average": "82.789",
             "median": "85"
         }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "זהר אלון",
+                "email": "alonso@technion.ac.il",
+                "title": "מנחה פרויקטים  - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ליאונוב רות",
+                "email": "rut.leo@gmail.com",
+                "title": ""
+            },
+            {
+                "name": "בן-אברהם הדר",
+                "email": "hadar.benavraham@gmail.com,bhadar@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "אבן אורלי",
+                "email": "orly.ev@gmail.com",
+                "title": ""
+            },
+            {
+                "name": "שהם קרן",
+                "email": "shohamk@yahoo.com",
+                "title": ""
+            },
+            {
+                "name": "מילר ליאת",
+                "email": "liat@matterarc.com",
+                "title": ""
+            }
+        ],
+        "Final_A": {
+            "students": "66",
+            "passFail": "63\/3",
+            "passPercent": "95",
+            "min": "52",
+            "max": "95",
+            "average": "83.955",
+            "median": "86.5"
+        },
+        "Finals": {
+            "students": "67",
+            "passFail": "64\/3",
+            "passPercent": "96",
+            "min": "52",
+            "max": "95",
+            "average": "83.896",
+            "median": "86"
+        }
     }
 }
