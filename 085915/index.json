@@ -1,1 +1,48 @@
-[]
+{
+    "201902": {
+        "Staff": [
+            {
+                "name": "משנה דוד",
+                "email": "davidmishne@gmail.com,davidm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הרשקו דפנה",
+                "email": "ae.ugsec@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "וינרב עמית",
+                "email": "weinreba@hotmail.com,weinreba@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "48",
+            "passFail": "45\/3",
+            "passPercent": "94",
+            "min": "38",
+            "max": "99",
+            "average": "78.104",
+            "median": "82.5"
+        },
+        "Final_A": {
+            "students": "48",
+            "passFail": "48\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "99",
+            "average": "83.646",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "48",
+            "passFail": "48\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "99",
+            "average": "83.646",
+            "median": "87"
+        }
+    }
+}
