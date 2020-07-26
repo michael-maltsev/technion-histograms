@@ -38,5 +38,46 @@
             "average": "62.929",
             "median": "63.5"
         }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "מרקוס לודמילה",
+                "email": "epstin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ליטבינוב גלינה",
+                "email": "litvinov@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "80",
+            "passFail": "76\/4",
+            "passPercent": "95",
+            "min": "28",
+            "max": "100",
+            "average": "80.438",
+            "median": "83"
+        },
+        "Final_A": {
+            "students": "80",
+            "passFail": "78\/2",
+            "passPercent": "98",
+            "min": "38",
+            "max": "100",
+            "average": "82.575",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "81",
+            "passFail": "81\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "85.062",
+            "median": "87"
+        }
     }
 }
