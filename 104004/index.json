@@ -559,5 +559,37 @@
             "average": "66.27",
             "median": "69"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "אלעד דורון",
+                "email": "edorone@campus.technion.ac.il,edorone@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רוזנפלד ראוך איתמר",
+                "email": "itamar-ros@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "226",
+            "passFail": "180\/46",
+            "passPercent": "80",
+            "min": "19",
+            "max": "100",
+            "average": "71.199",
+            "median": "76"
+        },
+        "Final_A": {
+            "students": "226",
+            "passFail": "188\/38",
+            "passPercent": "83",
+            "min": "19",
+            "max": "100",
+            "average": "74.918",
+            "median": "81.12"
+        }
     }
 }
