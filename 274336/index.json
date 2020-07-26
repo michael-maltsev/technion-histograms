@@ -77,5 +77,71 @@
             "average": "78.456",
             "median": "80"
         }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "שילר ג'קי",
+                "email": "jackie@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קאהן איתמר",
+                "email": "kahn@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שפורן שירי",
+                "email": "musmach@technion.ac.il,shiris@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "כהן שרית",
+                "email": "saritc@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בוניאל מורן",
+                "email": "moranbo@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הלוי שרה",
+                "email": "shalevi@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "איינשטיין ליאת",
+                "email": "liate@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "94",
+            "passFail": "93\/1",
+            "passPercent": "99",
+            "min": "54",
+            "max": "94",
+            "average": "80.457",
+            "median": "82"
+        },
+        "Final_A": {
+            "students": "94",
+            "passFail": "94\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "96",
+            "average": "83.053",
+            "median": "84"
+        },
+        "Finals": {
+            "students": "102",
+            "passFail": "101\/1",
+            "passPercent": "99",
+            "min": "50",
+            "max": "96",
+            "average": "82.706",
+            "median": "84"
+        }
     }
 }
