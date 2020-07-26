@@ -786,5 +786,37 @@
             "average": "67.559",
             "median": "72"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "רבייב דניאל",
+                "email": "danielr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אביטל רבקה",
+                "email": "rivka_a@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "427",
+            "passFail": "268\/159",
+            "passPercent": "63",
+            "min": "0",
+            "max": "100",
+            "average": "62.728",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "427",
+            "passFail": "315\/112",
+            "passPercent": "74",
+            "min": "0",
+            "max": "100",
+            "average": "67.112",
+            "median": "73"
+        }
     }
 }
