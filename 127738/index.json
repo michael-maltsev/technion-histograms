@@ -1,0 +1,43 @@
+{
+    "201701": {
+        "Staff": [
+            {
+                "name": "מרק אילן",
+                "email": "chilanm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מסד איתי",
+                "email": "itaimassa@campus.technion.ac.il,itaimassad@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "100",
+            "average": "84.615",
+            "median": "85"
+        },
+        "Final_A": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "100",
+            "average": "86.615",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "100",
+            "average": "89.267",
+            "median": "87"
+        }
+    }
+}

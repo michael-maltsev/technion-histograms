@@ -1,4 +1,63 @@
 {
+    "201601": {
+        "Staff": [
+            {
+                "name": "אריאלי שמואל",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מרקוביץ' הדר",
+                "email": "shadarm@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "27",
+            "passFail": "25\/2",
+            "passPercent": "93",
+            "min": "52",
+            "max": "96",
+            "average": "76.259",
+            "median": "76"
+        },
+        "Final_A": {
+            "students": "27",
+            "passFail": "27\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "96",
+            "average": "78.481",
+            "median": "78"
+        },
+        "Exam_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "93",
+            "average": "76.5",
+            "median": "76"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "94",
+            "average": "77.917",
+            "median": "77.5"
+        },
+        "Finals": {
+            "students": "37",
+            "passFail": "37\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "96",
+            "average": "78.595",
+            "median": "79"
+        }
+    },
     "201701": {
         "Staff": [
             {

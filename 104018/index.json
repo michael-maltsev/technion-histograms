@@ -1,4 +1,36 @@
 {
+    "200901": {
+        "Staff": [
+            {
+                "name": "ציגלר תמר",
+                "email": "tamarzr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כהן יוסף",
+                "email": "coheny@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "293",
+            "passFail": "236\/57",
+            "passPercent": "81",
+            "min": "20",
+            "max": "100",
+            "average": "68.345",
+            "median": "69"
+        },
+        "Final_B": {
+            "students": "94",
+            "passFail": "66\/28",
+            "passPercent": "70",
+            "min": "20",
+            "max": "88",
+            "average": "62.074",
+            "median": "62"
+        }
+    },
     "201101": {
         "Staff": [
             {
