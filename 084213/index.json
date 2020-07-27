@@ -19,6 +19,56 @@
             "median": "85"
         }
     },
+    "201602": {
+        "Staff": [
+            {
+                "name": "שר ערן",
+                "email": "sher@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לידור אלון",
+                "email": "alidor@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "65",
+            "passFail": "58\/7",
+            "passPercent": "89",
+            "min": "41",
+            "max": "97",
+            "average": "78.754",
+            "median": "82"
+        },
+        "Final_A": {
+            "students": "65",
+            "passFail": "60\/5",
+            "passPercent": "92",
+            "min": "47",
+            "max": "97",
+            "average": "80.6",
+            "median": "84"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "13\/3",
+            "passPercent": "81",
+            "min": "30",
+            "max": "98",
+            "average": "70.125",
+            "median": "69"
+        },
+        "Finals": {
+            "students": "71",
+            "passFail": "68\/3",
+            "passPercent": "96",
+            "min": "30",
+            "max": "98",
+            "average": "81.676",
+            "median": "84"
+        }
+    },
     "201702": {
         "Staff": [
             {
