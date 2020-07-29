@@ -1,5 +1,17 @@
 {
     "201901": {
+        "Staff": [
+            {
+                "name": "ברטל גיא",
+                "email": "guy@ee.technion.ac.il,bartal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צסס שי",
+                "email": "tsesses2@gmail.com,tsesses@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "11",
             "passFail": "11\/0",
@@ -23,9 +35,9 @@
             "passFail": "12\/0",
             "passPercent": "100",
             "min": "82",
-            "max": "500",
-            "average": "157",
-            "median": "88.5"
+            "max": "95",
+            "average": "88.4",
+            "median": "88"
         }
     }
 }
