@@ -120,9 +120,7 @@ function process_course($course, &$stats) {
                 log_warning("$course/$semester/$category: Data with invalid max: {$data['max']}");
             }
 
-            $non_empty_count = count(array_filter($data, function ($str) {
-                return trim($str);
-            }));
+            $non_empty_count = count(array_filter($data));
             if ($non_empty_count == 0) {
                 $stats['histograms_empty']++;
             } else if ($non_empty_count < count($data)) {
