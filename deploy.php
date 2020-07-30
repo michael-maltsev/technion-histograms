@@ -36,7 +36,7 @@ file_put_contents('index.html', markdown_to_page('technion-histograms', $root_te
 
 echo "Processed {$stats['histograms']} histograms in {$stats['courses']} courses\n";
 $without_staff_info = $stats['semesters'] - $stats['staff'];
-echo "{$stats['semesters']} course-semesters, {$stats['staff']} with staff info, $without_staff_info without\n";
+echo "{$stats['semesters']} course-semesters, {$stats['staff']} with staff info ({$stats['staff_empty']} empty), $without_staff_info without\n";
 echo "Partial histogram details: {$stats['histograms_partial']}\n";
 echo "Empty histogram details: {$stats['histograms_empty']}\n";
 
@@ -120,9 +120,7 @@ function process_course($course, &$stats) {
                 log_warning("$course/$semester/$category: Data with invalid max: {$data['max']}");
             }
 
-            $non_empty_count = count(array_filter($data, function ($str) {
-                return trim($str);
-            }));
+            $non_empty_count = count(array_filter($data));
             if ($non_empty_count == 0) {
                 $stats['histograms_empty']++;
             } else if ($non_empty_count < count($data)) {
