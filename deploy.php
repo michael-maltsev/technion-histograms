@@ -9,7 +9,6 @@ $stats = [
     'histograms' => 0,
     'histograms_partial' => 0,
     'histograms_empty' => 0,
-    'histograms_single_space' => 0,
     'staff' => 0,
     'staff_empty' => 0,
 ];
@@ -40,7 +39,6 @@ $without_staff_info = $stats['semesters'] - $stats['staff'];
 echo "{$stats['semesters']} course-semesters, {$stats['staff']} with staff info, $without_staff_info without\n";
 echo "Partial histogram details: {$stats['histograms_partial']}\n";
 echo "Empty histogram details: {$stats['histograms_empty']}\n";
-echo "Histogram details with a single space: {$stats['histograms_single_space']}\n";
 
 function process_course($course, &$stats) {
     $stats['courses']++;
@@ -129,13 +127,6 @@ function process_course($course, &$stats) {
                 $stats['histograms_empty']++;
             } else if ($non_empty_count < count($data)) {
                 $stats['histograms_partial']++;
-            }
-
-            $single_space_count = count(array_filter($data, function ($str) {
-                return $str == ' ';
-            }));
-            if ($single_space_count > 0) {
-                $stats['histograms_single_space']++;
             }
 
             $root_text .= "### $category_name\n\n";
