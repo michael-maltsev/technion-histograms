@@ -1,0 +1,66 @@
+{
+    "200901": {
+        "Staff": [
+            {
+                "name": "הרמלין ראובן",
+                "email": "reuvenhe@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יחיא יורם",
+                "email": "yoramy@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "212",
+            "passFail": "148\/64",
+            "passPercent": "70",
+            "min": "6",
+            "max": "99",
+            "average": "62.613",
+            "median": "65"
+        },
+        "Final_B": {
+            "students": "163",
+            "passFail": "130\/33",
+            "passPercent": "80",
+            "min": "3",
+            "max": "100",
+            "average": "67.454",
+            "median": "70"
+        }
+    },
+    "200902": {
+        "Staff": [
+            {
+                "name": "ויסלטר עמי",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יחיא יורם",
+                "email": "yoramy@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "126",
+            "passFail": "101\/25",
+            "passPercent": "80",
+            "min": "11",
+            "max": "100",
+            "average": "65.849",
+            "median": "64"
+        },
+        "Final_B": {
+            "students": "93",
+            "passFail": "71\/22",
+            "passPercent": "76",
+            "min": "20",
+            "max": "95",
+            "average": "59.204",
+            "median": "58"
+        }
+    }
+}

@@ -1,4 +1,68 @@
 {
+    "200901": {
+        "Staff": [
+            {
+                "name": "בשותי דאוד",
+                "email": "daoud@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יחיא יורם",
+                "email": "yoramy@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "267",
+            "passFail": "223\/44",
+            "passPercent": "84",
+            "min": "5",
+            "max": "100",
+            "average": "70.191",
+            "median": "71"
+        },
+        "Final_B": {
+            "students": "219",
+            "passFail": "170\/49",
+            "passPercent": "78",
+            "min": "5",
+            "max": "100",
+            "average": "63.489",
+            "median": "64"
+        }
+    },
+    "200902": {
+        "Staff": [
+            {
+                "name": "וולנסקי גרשון",
+                "email": "gershonw@math.technion.ac.il,gershonw@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לנקביץ מיכל",
+                "email": "lemichal@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "195",
+            "passFail": "155\/40",
+            "passPercent": "79",
+            "min": "17",
+            "max": "100",
+            "average": "68.579",
+            "median": "70"
+        },
+        "Final_B": {
+            "students": "131",
+            "passFail": "106\/25",
+            "passPercent": "81",
+            "min": "26",
+            "max": "100",
+            "average": "66.915",
+            "median": "67.6"
+        }
+    },
     "201402": {
         "Exam_A": {
             "students": "33",

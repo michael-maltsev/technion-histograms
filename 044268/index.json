@@ -1,4 +1,36 @@
 {
+    "201001": {
+        "Staff": [
+            {
+                "name": "גינוסר רן",
+                "email": "ran@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בראנסה אכרם",
+                "email": "",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "100",
+            "passFail": "93\/7",
+            "passPercent": "93",
+            "min": "37",
+            "max": "100",
+            "average": "72.84",
+            "median": "72.5"
+        },
+        "Final_B": {
+            "students": "35",
+            "passFail": "34\/1",
+            "passPercent": "97",
+            "min": "26",
+            "max": "97",
+            "average": "73.543",
+            "median": "75"
+        }
+    },
     "201202": {
         "Staff": [
             {

@@ -1,4 +1,36 @@
 {
+    "200801": {
+        "Staff": [
+            {
+                "name": "גינוסר רן",
+                "email": "ran@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יעלי סטיב-ערן",
+                "email": "stevey@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "555",
+            "passFail": "502\/53",
+            "passPercent": "90",
+            "min": "27",
+            "max": "100",
+            "average": "73.53",
+            "median": "75"
+        },
+        "Final_B": {
+            "students": "120",
+            "passFail": "105\/15",
+            "passPercent": "88",
+            "min": "42",
+            "max": "97",
+            "average": "74.242",
+            "median": "77"
+        }
+    },
     "201001": {
         "Staff": [
             {

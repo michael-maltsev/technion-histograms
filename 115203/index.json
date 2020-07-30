@@ -1,4 +1,31 @@
 {
+    "200901": {
+        "Staff": [
+            {
+                "name": "אקרמן אריק",
+                "email": "eric@physics.technion.ac.il,eric@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "95",
+            "passFail": "61\/34",
+            "passPercent": "64",
+            "min": "23.55",
+            "max": "97.54",
+            "average": "59.739",
+            "median": "62.4"
+        },
+        "Final_B": {
+            "students": "88",
+            "passFail": "71\/17",
+            "passPercent": "81",
+            "min": "29",
+            "max": "97",
+            "average": "66.773",
+            "median": "66.5"
+        }
+    },
     "201402": {
         "Final_A": {
             "students": "132",

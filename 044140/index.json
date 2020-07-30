@@ -1,4 +1,83 @@
 {
+    "201001": {
+        "Staff": [
+            {
+                "name": "אורנשטיין מאיר",
+                "email": "meiro@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברקוביץ ניקולאי",
+                "email": "nikolaib@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "הירשפלד שחר",
+                "email": "hshahar@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "70",
+            "passFail": "46\/24",
+            "passPercent": "66",
+            "min": "18",
+            "max": "94",
+            "average": "59.857",
+            "median": "61.5"
+        }
+    },
+    "201102": {
+        "Staff": [
+            {
+                "name": "שכטר לוי",
+                "email": "levi@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הירשפלד שחר",
+                "email": "hshahar@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אסולין אייל",
+                "email": "",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ברקוביץ ניקולאי",
+                "email": "nikolaib@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "107",
+            "passFail": "74\/33",
+            "passPercent": "69",
+            "min": "12",
+            "max": "100",
+            "average": "61.336",
+            "median": "64"
+        },
+        "Final_A": {
+            "students": "107",
+            "passFail": "88\/19",
+            "passPercent": "82",
+            "min": "30",
+            "max": "100",
+            "average": "68.822",
+            "median": "71"
+        },
+        "Final_B": {
+            "students": "50",
+            "passFail": "41\/9",
+            "passPercent": "82",
+            "min": "36",
+            "max": "99",
+            "average": "66.3",
+            "median": "67.5"
+        }
+    },
     "201301": {
         "Staff": [
             {

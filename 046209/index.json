@@ -1,4 +1,50 @@
 {
+    "201202": {
+        "Staff": [
+            {
+                "name": "קידר עדית",
+                "email": "idish@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ווייצחוב דני",
+                "email": "dimavoi@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שלו נעם",
+                "email": "noams@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "45",
+            "passFail": "34\/11",
+            "passPercent": "76",
+            "min": "7",
+            "max": "100",
+            "average": "62.467",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "45",
+            "passFail": "35\/10",
+            "passPercent": "78",
+            "min": "7",
+            "max": "100",
+            "average": "65.311",
+            "median": "69"
+        },
+        "Final_B": {
+            "students": "28",
+            "passFail": "21\/7",
+            "passPercent": "75",
+            "min": "28",
+            "max": "87",
+            "average": "59.357",
+            "median": "60"
+        }
+    },
     "201401": {
         "Staff": [
             {
@@ -287,6 +333,70 @@
             "max": "100",
             "average": "73.516",
             "median": "73.5"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "זילברשטיין מרק",
+                "email": "mark@ee.technion.ac.il,silbmark@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שיף יאיר",
+                "email": "yair.s.schiff@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ברגמן שי",
+                "email": "shaiberg1@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "108",
+            "passFail": "86\/22",
+            "passPercent": "80",
+            "min": "33",
+            "max": "105",
+            "average": "66.694",
+            "median": "67"
+        },
+        "Final_A": {
+            "students": "108",
+            "passFail": "85\/23",
+            "passPercent": "79",
+            "min": "33",
+            "max": "100",
+            "average": "70.648",
+            "median": "72.5"
+        },
+        "Exam_B": {
+            "students": "60",
+            "passFail": "49\/11",
+            "passPercent": "82",
+            "min": "38",
+            "max": "93",
+            "average": "64.883",
+            "median": "67"
+        },
+        "Final_B": {
+            "students": "60",
+            "passFail": "49\/11",
+            "passPercent": "82",
+            "min": "38",
+            "max": "95",
+            "average": "69.533",
+            "median": "72.5"
+        },
+        "Finals": {
+            "students": "131",
+            "passFail": "121\/10",
+            "passPercent": "92",
+            "min": "38",
+            "max": "100",
+            "average": "74.939",
+            "median": "75"
         }
     },
     "201702": {

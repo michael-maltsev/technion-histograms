@@ -1,4 +1,36 @@
 {
+    "200802": {
+        "Staff": [
+            {
+                "name": "משה משה",
+                "email": "moshe@physics.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברק רביד",
+                "email": "ravid@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "137",
+            "passFail": "107\/30",
+            "passPercent": "78",
+            "min": "0",
+            "max": "0",
+            "average": "0",
+            "median": "0"
+        },
+        "Final_B": {
+            "students": "137",
+            "passFail": "14\/123",
+            "passPercent": "10",
+            "min": "0",
+            "max": "0",
+            "average": "0",
+            "median": "0"
+        }
+    },
     "201402": {
         "Finals": {
             "students": " ",
