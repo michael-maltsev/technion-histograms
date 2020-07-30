@@ -3,10 +3,16 @@
 require_once 'Parsedown.php';
 
 $courses = [];
-$course_count = 0;
-$semester_count = 0;
-$staff_count = 0;
-$histogram_count = 0;
+$stats = [
+    'courses' => 0,
+    'semesters' => 0,
+    'histograms' => 0,
+    'histograms_partial' => 0,
+    'histograms_empty' => 0,
+    'histograms_single_space' => 0,
+    'staff' => 0,
+    'staff_empty' => 0,
+];
 $dir = new DirectoryIterator('.');
 foreach ($dir as $fileinfo) {
     if ($fileinfo->getFilename()[0] == '.' || !$fileinfo->isDir()) {
@@ -14,12 +20,8 @@ foreach ($dir as $fileinfo) {
         continue;
     }
 
-    $course_count++;
     $course = $fileinfo->getFilename();
-    $count = process_course($course);
-    $semester_count += $count['semesters'];
-    $staff_count += $count['staff'];
-    $histogram_count += $count['histograms'];
+    process_course($course, $stats);
     $courses[] = $course;
 }
 
@@ -33,9 +35,16 @@ foreach ($courses as $course) {
 file_put_contents('README.md', $root_text);
 file_put_contents('index.html', markdown_to_page('technion-histograms', $root_text));
 
-echo "Processed $histogram_count histograms in $course_count courses, $semester_count course-semesters ($staff_count with staff info)\n";
+echo "Processed {$stats['histograms']} histograms in {$stats['courses']} courses\n";
+$without_staff_info = $stats['semesters'] - $stats['staff'];
+echo "{$stats['semesters']} course-semesters, {$stats['staff']} with staff info, $without_staff_info without\n";
+echo "Partial histogram details: {$stats['histograms_partial']}\n";
+echo "Empty histogram details: {$stats['histograms_empty']}\n";
+echo "Histogram details with a single space: {$stats['histograms_single_space']}\n";
 
-function process_course($course) {
+function process_course($course, &$stats) {
+    $stats['courses']++;
+
     $course_name = course_friendly_name($course);
     $root_text = "# $course_name\n\n";
     $root_object = [];
@@ -51,13 +60,8 @@ function process_course($course) {
     }
 
     natsort($semesters);
-    $count = [
-        'semesters' => 0,
-        'staff' => 0,
-        'histograms' => 0
-    ];
     foreach ($semesters as $semester) {
-        $count['semesters']++;
+        $stats['semesters']++;
         $semester_object = [];
 
         $semester_pretty = semester_friendly_name($semester);
@@ -66,14 +70,14 @@ function process_course($course) {
 
         $staff_filename = "$course/$semester/Staff.json";
         if (is_file($staff_filename)) {
-            $count['staff']++;
+            $stats['staff']++;
 
             $data = json_decode(file_get_contents($staff_filename), true);
             if (count($data) > 0) {
                 $root_text .= staff_data_to_table($data) . "\n";
                 $semester_object['Staff'] = $data;
             } else {
-                //log_warning("$course/$semester: Semester with empty staff info");
+                $stats['staff_empty']++;
             }
         } else {
             //log_warning("$course/$semester: Semester with missing staff info");
@@ -109,13 +113,29 @@ function process_course($course) {
                 }
             }
 
-            $count['histograms']++;
+            $stats['histograms']++;
             $category_count++;
 
             $data = json_decode(file_get_contents($filename), true);
 
             if ($data['max'] >= 200) {
                 log_warning("$course/$semester/$category: Data with invalid max: {$data['max']}");
+            }
+
+            $non_empty_count = count(array_filter($data, function ($str) {
+                return trim($str);
+            }));
+            if ($non_empty_count == 0) {
+                $stats['histograms_empty']++;
+            } else if ($non_empty_count < count($data)) {
+                $stats['histograms_partial']++;
+            }
+
+            $single_space_count = count(array_filter($data, function ($str) {
+                return $str == ' ';
+            }));
+            if ($single_space_count > 0) {
+                $stats['histograms_single_space']++;
             }
 
             $root_text .= "### $category_name\n\n";
@@ -134,8 +154,6 @@ function process_course($course) {
     file_put_contents("$course/index.html", markdown_to_page("$course_name | technion-histograms", $root_text));
     file_put_contents("$course/index.json", json_encode($root_object, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
     file_put_contents("$course/index.min.json", json_encode($root_object, JSON_UNESCAPED_UNICODE));
-
-    return $count;
 }
 
 function log_warning($msg) {
