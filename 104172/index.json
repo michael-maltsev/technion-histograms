@@ -412,5 +412,46 @@
             "average": "68",
             "median": "65"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "לזרוביץ ניר",
+                "email": "lazarovich@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברמן סתיו",
+                "email": "stav.berman@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "15",
+            "passFail": "7\/8",
+            "passPercent": "47",
+            "min": "8",
+            "max": "92",
+            "average": "51.8",
+            "median": "42"
+        },
+        "Final_A": {
+            "students": "15",
+            "passFail": "12\/3",
+            "passPercent": "80",
+            "min": "38",
+            "max": "96",
+            "average": "72.133",
+            "median": "69"
+        },
+        "Finals": {
+            "students": "15",
+            "passFail": "12\/3",
+            "passPercent": "80",
+            "min": "38",
+            "max": "96",
+            "average": "72.133",
+            "median": "69"
+        }
     }
 }
