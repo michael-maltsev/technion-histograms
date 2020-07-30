@@ -1,0 +1,34 @@
+{
+    "201902": {
+        "Staff": [
+            {
+                "name": "ירושלמי יורם",
+                "email": "yerushal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יעיש שיר",
+                "email": "shir.hageby@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "95",
+            "average": "81.69",
+            "median": "83"
+        },
+        "Final_A": {
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "96",
+            "average": "83.724",
+            "median": "84"
+        }
+    }
+}

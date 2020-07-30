@@ -1,5 +1,37 @@
 {
     "201901": {
+        "Staff": [
+            {
+                "name": "שלום-פוירשטי רובי",
+                "email": "shalomfe@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שפורן שירי",
+                "email": "musmach@technion.ac.il,shiris@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "כהן שרית",
+                "email": "saritc@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בוניאל מורן",
+                "email": "moranbo@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הלוי שרה",
+                "email": "shalevi@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "איינשטיין ליאת",
+                "email": "liate@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "115",
             "passFail": "113\/2",
@@ -14,8 +46,8 @@
             "passFail": "113\/4",
             "passPercent": "97",
             "min": "0",
-            "max": "600",
-            "average": "87.949",
+            "max": "94",
+            "average": "79.043",
             "median": "80"
         },
         "Finals": {
