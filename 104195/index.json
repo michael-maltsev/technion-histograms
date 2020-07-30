@@ -422,5 +422,37 @@
             "average": "75.183",
             "median": "81.5"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "ברוך אהוד",
+                "email": "embaruch@math.technion.ac.il,embaruch@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לייבזירר שקד",
+                "email": "leibzirers@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "20\/12",
+            "passPercent": "62",
+            "min": "29",
+            "max": "98",
+            "average": "62.594",
+            "median": "61"
+        },
+        "Final_A": {
+            "students": "32",
+            "passFail": "24\/8",
+            "passPercent": "75",
+            "min": "31",
+            "max": "98",
+            "average": "64.25",
+            "median": "62"
+        }
     }
 }
