@@ -1,0 +1,34 @@
+{
+    "201902": {
+        "Staff": [
+            {
+                "name": "ילין דביר",
+                "email": "yelin@bm.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חמרה מתן",
+                "email": "matanhamra@gmail.com,matanhamra@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "94",
+            "average": "84",
+            "median": "82.5"
+        },
+        "Final_A": {
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "95",
+            "average": "86.833",
+            "median": "85.5"
+        }
+    }
+}
