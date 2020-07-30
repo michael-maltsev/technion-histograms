@@ -121,5 +121,46 @@
             "average": "78.939",
             "median": "80"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "קורין נתנאל",
+                "email": "korin@bm.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אפשטיין מרק",
+                "email": "epshmark@technion.ac.il,epshmark@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "49",
+            "passFail": "38\/11",
+            "passPercent": "78",
+            "min": "35",
+            "max": "90",
+            "average": "65.51",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "49",
+            "passFail": "48\/1",
+            "passPercent": "98",
+            "min": "54",
+            "max": "97",
+            "average": "79.878",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "49",
+            "passFail": "48\/1",
+            "passPercent": "98",
+            "min": "54",
+            "max": "97",
+            "average": "79.878",
+            "median": "82"
+        }
     }
 }
