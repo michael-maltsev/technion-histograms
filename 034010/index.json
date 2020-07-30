@@ -452,5 +452,43 @@
             "average": "62.908",
             "median": "65"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "סטרוסבצקי יולי",
+                "email": "staryuli@technion.ac.il,noreplay@norplay.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רחמן גלינה",
+                "email": "galyrak@gmail.com,galina.rak@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שטיינר מתן",
+                "email": "bump50@gmail.com,mst@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "רוזנשטוק דוד",
+                "email": "rosenstock@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אהרוני זיו",
+                "email": "ahaziv@gmail.com,ahaziv@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "157",
+            "passFail": "129\/28",
+            "passPercent": "82",
+            "min": "19.4",
+            "max": "100",
+            "average": "68.169",
+            "median": "68.8"
+        }
     }
 }
