@@ -325,9 +325,24 @@
     "201802": {
         "Staff": [
             {
-                "name": "אלמוגי בת-אל",
-                "email": "academic@int.technion.ac.il",
+                "name": "דרימר נתאי",
+                "email": "nitaid@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אוסטרומוחוב נדיה",
+                "email": "nadya304@gmail.com,nadyaos@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ריז'נסקי אורן",
+                "email": "orenrij@technion.ac.il,orenrijensky@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שאוליאן הדר",
+                "email": "hadarei@gmail.com,hadar.sh@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -340,13 +355,13 @@
             "median": "52"
         },
         "Final_A": {
-            "students": "27",
-            "passFail": "25\/2",
+            "students": "138",
+            "passFail": "129\/9",
             "passPercent": "93",
-            "min": "46",
-            "max": "98",
-            "average": "80.667",
-            "median": "86"
+            "min": "43.3",
+            "max": "100",
+            "average": "77.109",
+            "median": "75.267"
         },
         "Exam_B": {
             "students": "27",
@@ -367,13 +382,13 @@
             "median": "79.267"
         },
         "Finals": {
-            "students": "28",
-            "passFail": "27\/1",
-            "passPercent": "96",
-            "min": "35",
-            "max": "98",
-            "average": "82.107",
-            "median": "86"
+            "students": "146",
+            "passFail": "144\/2",
+            "passPercent": "99",
+            "min": "41",
+            "max": "100",
+            "average": "81.185",
+            "median": "79.5"
         }
     }
 }
