@@ -1,4 +1,31 @@
 {
+    "201302": {
+        "Staff": [
+            {
+                "name": "שכטר ישראל",
+                "email": "israel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "58",
+            "passFail": "38\/20",
+            "passPercent": "66",
+            "min": "9",
+            "max": "96",
+            "average": "64.466",
+            "median": "68"
+        },
+        "Final_B": {
+            "students": "30",
+            "passFail": "19\/11",
+            "passPercent": "63",
+            "min": "0",
+            "max": "95",
+            "average": "63.333",
+            "median": "72.5"
+        }
+    },
     "201502": {
         "Staff": [
             {
