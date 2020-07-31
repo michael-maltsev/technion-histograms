@@ -1,4 +1,49 @@
 {
+    "201601": {
+        "Staff": [
+            {
+                "name": "זועבי מוחמד",
+                "email": "zhamody@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "59",
+            "passFail": "53\/6",
+            "passPercent": "90",
+            "min": "24",
+            "max": "97",
+            "average": "70.864",
+            "median": "74"
+        },
+        "Final_A": {
+            "students": "59",
+            "passFail": "53\/6",
+            "passPercent": "90",
+            "min": "24",
+            "max": "97",
+            "average": "70.864",
+            "median": "74"
+        },
+        "Final_B": {
+            "students": "31",
+            "passFail": "27\/4",
+            "passPercent": "87",
+            "min": "27",
+            "max": "97",
+            "average": "72.742",
+            "median": "70"
+        },
+        "Finals": {
+            "students": "67",
+            "passFail": "61\/6",
+            "passPercent": "91",
+            "min": "27",
+            "max": "97",
+            "average": "74.478",
+            "median": "77"
+        }
+    },
     "201701": {
         "Final_A": {
             "students": "28",
