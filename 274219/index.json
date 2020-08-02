@@ -88,5 +88,41 @@
             "average": "91.874",
             "median": "93"
         }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "וולף נעמה",
+                "email": "nwolf@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "17",
+            "passFail": "15\/2",
+            "passPercent": "88",
+            "min": "45",
+            "max": "98",
+            "average": "72.706",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "17",
+            "passFail": "15\/2",
+            "passPercent": "88",
+            "min": "65",
+            "max": "99",
+            "average": "81",
+            "median": "75"
+        },
+        "Finals": {
+            "students": "19",
+            "passFail": "16\/3",
+            "passPercent": "84",
+            "min": "65",
+            "max": "99",
+            "average": "80.875",
+            "median": "77"
+        }
     }
 }
