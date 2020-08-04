@@ -175,6 +175,75 @@
             "median": "78"
         }
     },
+    "201701": {
+        "Staff": [
+            {
+                "name": "כהן עמנואל",
+                "email": "emcohen@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חכמוביץ יואב",
+                "email": "syoavcha@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "דיסקין אלכסיי",
+                "email": "aleksd@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "קודנב אנה",
+                "email": "annakod@technion.ac.il,annakod@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "114",
+            "passFail": "98\/16",
+            "passPercent": "86",
+            "min": "26",
+            "max": "100",
+            "average": "73.886",
+            "median": "75.5"
+        },
+        "Final_A": {
+            "students": "113",
+            "passFail": "107\/6",
+            "passPercent": "95",
+            "min": "40.8",
+            "max": "100",
+            "average": "79.254",
+            "median": "81.4"
+        },
+        "Exam_B": {
+            "students": "61",
+            "passFail": "17\/44",
+            "passPercent": "28",
+            "min": "21",
+            "max": "89",
+            "average": "49.016",
+            "median": "47"
+        },
+        "Final_B": {
+            "students": "59",
+            "passFail": "57\/2",
+            "passPercent": "97",
+            "min": "50.181",
+            "max": "95.897",
+            "average": "71.143",
+            "median": "69.495"
+        },
+        "Finals": {
+            "students": "153",
+            "passFail": "152\/1",
+            "passPercent": "99",
+            "min": "50",
+            "max": "100",
+            "average": "78.725",
+            "median": "78"
+        }
+    },
     "201702": {
         "Staff": [
             {
