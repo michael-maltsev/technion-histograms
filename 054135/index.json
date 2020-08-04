@@ -277,5 +277,32 @@
             "average": "79.5",
             "median": "85"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "גרדר גדעון",
+                "email": "grader@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "68",
+            "passFail": "55\/13",
+            "passPercent": "81",
+            "min": "27",
+            "max": "100",
+            "average": "71.706",
+            "median": "76"
+        },
+        "Final_A": {
+            "students": "68",
+            "passFail": "55\/13",
+            "passPercent": "81",
+            "min": "27",
+            "max": "100",
+            "average": "74.191",
+            "median": "80"
+        }
     }
 }
