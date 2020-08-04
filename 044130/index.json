@@ -350,6 +350,65 @@
             "median": "79"
         }
     },
+    "201601": {
+        "Staff": [
+            {
+                "name": "צלניק ליהי",
+                "email": "lihi@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יאיר אור",
+                "email": "oryair@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "165",
+            "passFail": "145\/20",
+            "passPercent": "88",
+            "min": "27",
+            "max": "96",
+            "average": "69.768",
+            "median": "71"
+        },
+        "Final_A": {
+            "students": "165",
+            "passFail": "158\/7",
+            "passPercent": "96",
+            "min": "40.6",
+            "max": "98.15",
+            "average": "75.906",
+            "median": "77.5"
+        },
+        "Exam_B": {
+            "students": "72",
+            "passFail": "57\/15",
+            "passPercent": "79",
+            "min": "12",
+            "max": "95",
+            "average": "63.583",
+            "median": "64"
+        },
+        "Final_B": {
+            "students": "72",
+            "passFail": "66\/6",
+            "passPercent": "92",
+            "min": "30.75",
+            "max": "99.3",
+            "average": "72.615",
+            "median": "73.475"
+        },
+        "Finals": {
+            "students": "191",
+            "passFail": "183\/8",
+            "passPercent": "96",
+            "min": "31",
+            "max": "99",
+            "average": "76.644",
+            "median": "79"
+        }
+    },
     "201602": {
         "Staff": [
             {
