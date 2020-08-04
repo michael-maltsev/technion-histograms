@@ -198,5 +198,37 @@
             "average": "76.818",
             "median": "81.5"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "קסלסי יצחק",
+                "email": "isaac@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חלף מאג'ד",
+                "email": "majedkhalaf@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "33",
+            "passFail": "28\/5",
+            "passPercent": "85",
+            "min": "44",
+            "max": "94",
+            "average": "70.606",
+            "median": "73"
+        },
+        "Final_A": {
+            "students": "33",
+            "passFail": "32\/1",
+            "passPercent": "97",
+            "min": "44",
+            "max": "94",
+            "average": "72.909",
+            "median": "76"
+        }
     }
 }
