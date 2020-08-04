@@ -1,4 +1,40 @@
 {
+    "201601": {
+        "Staff": [
+            {
+                "name": "אופנהיים רועי",
+                "email": "openroy@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "33",
+            "passFail": "32\/1",
+            "passPercent": "97",
+            "min": "42",
+            "max": "100",
+            "average": "83.727",
+            "median": "87"
+        },
+        "Final_B": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "100",
+            "average": "94.176",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "100",
+            "average": "90.756",
+            "median": "91"
+        }
+    },
     "201701": {
         "Final_A": {
             "students": "47",

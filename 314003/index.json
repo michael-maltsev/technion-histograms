@@ -1,4 +1,45 @@
 {
+    "201601": {
+        "Staff": [
+            {
+                "name": "אטרש פואד",
+                "email": "atrash@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כהן חגית",
+                "email": "shagit@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "36",
+            "passFail": "29\/7",
+            "passPercent": "81",
+            "min": "24",
+            "max": "100",
+            "average": "68.25",
+            "median": "69"
+        },
+        "Final_B": {
+            "students": "18",
+            "passFail": "17\/1",
+            "passPercent": "94",
+            "min": "42",
+            "max": "96",
+            "average": "74.556",
+            "median": "75.5"
+        },
+        "Finals": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "81.122",
+            "median": "81"
+        }
+    },
     "201701": {
         "Staff": [
             {
