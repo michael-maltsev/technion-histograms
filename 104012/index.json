@@ -294,6 +294,52 @@
             "median": "71"
         }
     },
+    "201302": {
+        "Staff": [
+            {
+                "name": "פנחסי רום",
+                "email": "room@math.technion.ac.il,room@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בלקין אלכס",
+                "email": "abelkin@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "יעקביאן אבירם",
+                "email": "saviram1@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "117",
+            "passFail": "48\/69",
+            "passPercent": "41",
+            "min": "0",
+            "max": "100",
+            "average": "48.889",
+            "median": "48"
+        },
+        "Final_A": {
+            "students": "117",
+            "passFail": "67\/50",
+            "passPercent": "57",
+            "min": "5",
+            "max": "100",
+            "average": "59.855",
+            "median": "64"
+        },
+        "Final_B": {
+            "students": "76",
+            "passFail": "27\/49",
+            "passPercent": "36",
+            "min": "11",
+            "max": "100",
+            "average": "46.842",
+            "median": "41.5"
+        }
+    },
     "201401": {
         "Staff": [
             {
