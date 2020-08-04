@@ -1,4 +1,63 @@
 {
+    "201801": {
+        "Staff": [
+            {
+                "name": "סולל ברוך",
+                "email": "mabaruch@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אקרמן יונתן",
+                "email": "yonathanakker@gmail.com,yoniakkerman@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "17",
+            "passFail": "15\/2",
+            "passPercent": "88",
+            "min": "19",
+            "max": "97",
+            "average": "72.882",
+            "median": "74"
+        },
+        "Final_A": {
+            "students": "17",
+            "passFail": "15\/2",
+            "passPercent": "88",
+            "min": "19",
+            "max": "97",
+            "average": "74.118",
+            "median": "77"
+        },
+        "Exam_B": {
+            "students": "16",
+            "passFail": "9\/7",
+            "passPercent": "56",
+            "min": "26",
+            "max": "92",
+            "average": "62.375",
+            "median": "65.5"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "9\/7",
+            "passPercent": "56",
+            "min": "26",
+            "max": "92",
+            "average": "63",
+            "median": "66.5"
+        },
+        "Finals": {
+            "students": "27",
+            "passFail": "20\/7",
+            "passPercent": "74",
+            "min": "26",
+            "max": "97",
+            "average": "71.963",
+            "median": "78"
+        }
+    },
     "201901": {
         "Staff": [
             {
