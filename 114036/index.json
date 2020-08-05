@@ -221,5 +221,28 @@
             "average": "78.314",
             "median": "81.5"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "קרן עמית",
+                "email": "keren@physics.technion.ac.il,phkeren@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רבליה רוי",
+                "email": "sroyra@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "89",
+            "passFail": "73\/16",
+            "passPercent": "82",
+            "min": "16",
+            "max": "100",
+            "average": "72.809",
+            "median": "79"
+        }
     }
 }
