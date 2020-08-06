@@ -1,4 +1,36 @@
 {
+    "201202": {
+        "Staff": [
+            {
+                "name": "ז'יטומרסקי מיכאל",
+                "email": "mzhi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרומקין ולרי",
+                "email": "valeri@technion.ac.il,valeri@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "29",
+            "passFail": "23\/6",
+            "passPercent": "79",
+            "min": "0",
+            "max": "100",
+            "average": "70.448",
+            "median": "74"
+        },
+        "Final_A": {
+            "students": "29",
+            "passFail": "24\/5",
+            "passPercent": "83",
+            "min": "2",
+            "max": "100",
+            "average": "71.897",
+            "median": "76"
+        }
+    },
     "201602": {
         "Exam_A": {
             "students": "21",
