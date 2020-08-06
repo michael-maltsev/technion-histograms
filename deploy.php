@@ -209,6 +209,7 @@ function markdown_to_page($title, $content) {
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="Nps3LEfDaHCQolJfA4KJfgEA1c4hv6R04bCUijxBwdY" />
     <title>$title_html</title>
     <style>
       /* stolen from thebestmotherfucking.website */
