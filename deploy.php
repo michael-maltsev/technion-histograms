@@ -208,6 +208,7 @@ function markdown_to_page($title, $content) {
 <html lang="he" dir="rtl">
   <head>
     <meta charset="utf-8">
+    <link rel="shortcut icon" href="https://michael-maltsev.github.io/technion-histograms/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="Nps3LEfDaHCQolJfA4KJfgEA1c4hv6R04bCUijxBwdY" />
     <title>$title_html</title>
