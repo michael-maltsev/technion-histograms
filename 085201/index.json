@@ -1,4 +1,45 @@
 {
+    "201401": {
+        "Staff": [
+            {
+                "name": "שימא טל",
+                "email": "tal.shima@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אמונה ניר",
+                "email": "emuna@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "56",
+            "passFail": "55\/1",
+            "passPercent": "98",
+            "min": "42",
+            "max": "96",
+            "average": "78.482",
+            "median": "78"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "84",
+            "average": "74.571",
+            "median": "78"
+        },
+        "Finals": {
+            "students": "59",
+            "passFail": "59\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "96",
+            "average": "79.559",
+            "median": "78"
+        }
+    },
     "201501": {
         "Staff": [
             {
