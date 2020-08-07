@@ -40,6 +40,47 @@
             "median": "93"
         }
     },
+    "201702": {
+        "Staff": [
+            {
+                "name": "בר-יוסף צבי פנחס",
+                "email": "baryoseph@me.technion.ac.il,merbygr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברייטמן נינה ליאור",
+                "email": "nina.liora.rayzan@gmail.com,nrayzan@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "26\/6",
+            "passPercent": "81",
+            "min": "0",
+            "max": "100",
+            "average": "75.625",
+            "median": "83.5"
+        },
+        "Final_A": {
+            "students": "32",
+            "passFail": "27\/5",
+            "passPercent": "84",
+            "min": "0",
+            "max": "100",
+            "average": "77.531",
+            "median": "86.5"
+        },
+        "Finals": {
+            "students": "38",
+            "passFail": "32\/6",
+            "passPercent": "84",
+            "min": "10",
+            "max": "100",
+            "average": "77.895",
+            "median": "86"
+        }
+    },
     "201802": {
         "Staff": [
             {
