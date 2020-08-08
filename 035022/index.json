@@ -139,5 +139,37 @@
             "average": "74.487",
             "median": "80"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "קלפץ' דורון",
+                "email": "klepachd@berkeley.edu",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברייטמן נינה ליאור",
+                "email": "nina.liora.rayzan@gmail.com,nrayzan@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "55",
+            "passFail": "40\/15",
+            "passPercent": "73",
+            "min": "0",
+            "max": "99",
+            "average": "67",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "55",
+            "passFail": "40\/15",
+            "passPercent": "73",
+            "min": "0",
+            "max": "98",
+            "average": "71.636",
+            "median": "81"
+        }
     }
 }
