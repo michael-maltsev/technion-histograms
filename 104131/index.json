@@ -40,6 +40,47 @@
             "median": "77"
         }
     },
+    "201301": {
+        "Staff": [
+            {
+                "name": "קרוש-ברם מרינה",
+                "email": "mbram@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ליטבינוב גלינה",
+                "email": "litvinov@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "362",
+            "passFail": "229\/133",
+            "passPercent": "63",
+            "min": "7",
+            "max": "97",
+            "average": "61.315",
+            "median": "66"
+        },
+        "Final_A": {
+            "students": "362",
+            "passFail": "261\/101",
+            "passPercent": "72",
+            "min": "8",
+            "max": "97",
+            "average": "64.986",
+            "median": "68.5"
+        },
+        "Final_B": {
+            "students": "233",
+            "passFail": "196\/37",
+            "passPercent": "84",
+            "min": "0",
+            "max": "100",
+            "average": "70.27",
+            "median": "75"
+        }
+    },
     "201302": {
         "Staff": [
             {

@@ -63,6 +63,47 @@
             "median": "77"
         }
     },
+    "201202": {
+        "Staff": [
+            {
+                "name": "אבידן דניאלה",
+                "email": "avidand@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מסרווה חייריה",
+                "email": "massarwe@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "75",
+            "passFail": "53\/22",
+            "passPercent": "71",
+            "min": "19",
+            "max": "100",
+            "average": "67.773",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "75",
+            "passFail": "66\/9",
+            "passPercent": "88",
+            "min": "32",
+            "max": "100",
+            "average": "72.92",
+            "median": "75"
+        },
+        "Final_B": {
+            "students": "25",
+            "passFail": "19\/6",
+            "passPercent": "76",
+            "min": "33",
+            "max": "99",
+            "average": "67.48",
+            "median": "69"
+        }
+    },
     "201302": {
         "Exam_A": {
             "students": "60",
