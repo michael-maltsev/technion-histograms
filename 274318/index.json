@@ -1,15 +1,10 @@
 {
-    "201901": {
+    "201902": {
         "Staff": [
             {
-                "name": "מרום אסף",
-                "email": "assafma@technion.ac.il",
+                "name": "סליבא וליד",
+                "email": "salibuss@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בוניאל מורן",
-                "email": "moranbo@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "שפורן שירי",
@@ -22,33 +17,38 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "הלוי שרה",
-                "email": "shalevi@technion.ac.il",
+                "name": "בוניאל מורן",
+                "email": "moranbo@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "איינשטיין ליאת",
                 "email": "liate@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הלוי שרה",
+                "email": "shalevi@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
-        "Final_A": {
-            "students": "116",
-            "passFail": "113\/3",
-            "passPercent": "97",
-            "min": "61",
-            "max": "97",
-            "average": "83.434",
-            "median": "85"
+        "Exam_A": {
+            "students": "126",
+            "passFail": "123\/3",
+            "passPercent": "98",
+            "min": "30",
+            "max": "100",
+            "average": "82.484",
+            "median": "83"
         },
-        "Finals": {
-            "students": "118",
-            "passFail": "118\/0",
-            "passPercent": "100",
-            "min": "59",
-            "max": "97",
-            "average": "82.992",
-            "median": "85"
+        "Final_A": {
+            "students": "126",
+            "passFail": "123\/3",
+            "passPercent": "98",
+            "min": "30",
+            "max": "100",
+            "average": "82.484",
+            "median": "83"
         }
     }
 }
