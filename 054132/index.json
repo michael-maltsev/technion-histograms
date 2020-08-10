@@ -67,5 +67,33 @@
             "average": "95",
             "median": "95"
         }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "שרודר אברהם",
+                "email": "avids@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אביטל אבירם",
+                "email": "aviramavital@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אבו מנהל מצא חנאן",
+                "email": "hanan@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Finals": {
+            "students": "10",
+            "passFail": "10\/0",
+            "passPercent": "100",
+            "min": "95",
+            "max": "100",
+            "average": "98.2",
+            "median": "98"
+        }
     }
 }
