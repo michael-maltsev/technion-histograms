@@ -1,4 +1,63 @@
 {
+    "201501": {
+        "Staff": [
+            {
+                "name": "בהר סילביה",
+                "email": "silbehar@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בורדו אליהו",
+                "email": "elibordo@technion.ac.il,elibordo@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "37",
+            "passFail": "19\/18",
+            "passPercent": "51",
+            "min": "8.3",
+            "max": "100",
+            "average": "56.078",
+            "median": "58.3"
+        },
+        "Final_A": {
+            "students": "37",
+            "passFail": "27\/10",
+            "passPercent": "73",
+            "min": "21",
+            "max": "100",
+            "average": "63.811",
+            "median": "68"
+        },
+        "Exam_B": {
+            "students": "18",
+            "passFail": "9\/9",
+            "passPercent": "50",
+            "min": "16.7",
+            "max": "83.3",
+            "average": "53.711",
+            "median": "54.15"
+        },
+        "Final_B": {
+            "students": "18",
+            "passFail": "12\/6",
+            "passPercent": "67",
+            "min": "30",
+            "max": "84",
+            "average": "59.889",
+            "median": "61"
+        },
+        "Finals": {
+            "students": "53",
+            "passFail": "47\/6",
+            "passPercent": "89",
+            "min": "30",
+            "max": "100",
+            "average": "70.094",
+            "median": "71"
+        }
+    },
     "201601": {
         "Staff": [
             {
