@@ -1,5 +1,78 @@
 {
+    "201501": {
+        "Staff": [
+            {
+                "name": "מוריה יואב",
+                "email": "ymoriah@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מעין הילה",
+                "email": "ahila@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פייגין-קצוב יוליה",
+                "email": "julia.feigin@gmail.com,juliaf@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פירנקו רז",
+                "email": "razf680@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "יעקביאן אבירם",
+                "email": "saviram1@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "60",
+            "passFail": "52\/8",
+            "passPercent": "87",
+            "min": "31",
+            "max": "100",
+            "average": "71.117",
+            "median": "73"
+        },
+        "Final_B": {
+            "students": "30",
+            "passFail": "21\/9",
+            "passPercent": "70",
+            "min": "37",
+            "max": "95",
+            "average": "63.667",
+            "median": "62"
+        },
+        "Finals": {
+            "students": "76",
+            "passFail": "67\/9",
+            "passPercent": "88",
+            "min": "37",
+            "max": "100",
+            "average": "74.368",
+            "median": "75.5"
+        }
+    },
     "201502": {
+        "Staff": [
+            {
+                "name": "בן-דוד ניר",
+                "email": "benda@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מעין הילה",
+                "email": "ahila@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פייגין-קצוב יוליה",
+                "email": "julia.feigin@gmail.com,juliaf@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
         "Exam_A": {
             "students": "64",
             "passFail": "49\/15",
@@ -44,6 +117,43 @@
             "max": "100",
             "average": "74.513",
             "median": "75.5"
+        }
+    },
+    "201601": {
+        "Staff": [
+            {
+                "name": "מוריה יואב",
+                "email": "ymoriah@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פייגין-קצוב יוליה",
+                "email": "julia.feigin@gmail.com,juliaf@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פירנקו רז",
+                "email": "razf680@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "98",
+            "average": "79.583",
+            "median": "83.5"
+        },
+        "Finals": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "50",
+            "max": "98",
+            "average": "77.6",
+            "median": "81"
         }
     },
     "201602": {
