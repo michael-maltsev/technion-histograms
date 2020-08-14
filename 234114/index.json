@@ -18,6 +18,13 @@
         }
     },
     "201402": {
+        "Staff": [
+            {
+                "name": "אילון ניר",
+                "email": "nailon@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
         "Finals": {
             "students": "90",
             "passFail": "85\/5",
@@ -55,6 +62,24 @@
             "max": "100",
             "average": "76.587",
             "median": "81"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "בן-חן מירלה",
+                "email": "mirela@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "138",
+            "passFail": "124\/14",
+            "passPercent": "90",
+            "min": "25",
+            "max": "100",
+            "average": "75.181",
+            "median": "76.5"
         }
     },
     "201601": {
