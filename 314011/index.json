@@ -217,5 +217,51 @@
             "average": "82.392",
             "median": "83"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "פוקרוי בועז",
+                "email": "bpokroy@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דוד רותי",
+                "email": "ruthi@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "סנדר אושרית",
+                "email": "oshrits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "52",
+            "passFail": "46\/6",
+            "passPercent": "88",
+            "min": "25",
+            "max": "97",
+            "average": "75.404",
+            "median": "78.5"
+        },
+        "Final_A": {
+            "students": "52",
+            "passFail": "49\/3",
+            "passPercent": "94",
+            "min": "36",
+            "max": "97",
+            "average": "78.25",
+            "median": "81.5"
+        },
+        "Finals": {
+            "students": "52",
+            "passFail": "49\/3",
+            "passPercent": "94",
+            "min": "36",
+            "max": "97",
+            "average": "78.25",
+            "median": "81.5"
+        }
     }
 }
