@@ -32,6 +32,18 @@
         }
     },
     "201901": {
+        "Staff": [
+            {
+                "name": "מויסייב קונסטנטין",
+                "email": "mkostya@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דהאן מור מרדכי",
+                "email": "mord1994@gmail.com,mordahan@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
         "Exam_A": {
             "students": "12",
             "passFail": "9\/3",
@@ -55,9 +67,9 @@
             "passFail": "11\/1",
             "passPercent": "92",
             "min": "50",
-            "max": "500",
-            "average": "221.667",
-            "median": "92.5"
+            "max": "96",
+            "average": "84.625",
+            "median": "89.5"
         }
     }
 }
