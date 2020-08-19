@@ -1,4 +1,73 @@
 {
+    "201101": {
+        "Staff": [
+            {
+                "name": "שגב מרדכי",
+                "email": "msegev@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כפיר עופר",
+                "email": "ofertx@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "בקנשטיין רבקה",
+                "email": "beken@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קוולר טל",
+                "email": "kt@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "68",
+            "passFail": "46\/22",
+            "passPercent": "68",
+            "min": "2.833",
+            "max": "97.52",
+            "average": "62.752",
+            "median": "73.41"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "12\/2",
+            "passPercent": "86",
+            "min": "37",
+            "max": "92",
+            "average": "69.643",
+            "median": "73.5"
+        }
+    },
+    "201301": {
+        "Staff": [
+            {
+                "name": "קרן עמית",
+                "email": "keren@physics.technion.ac.il,phkeren@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "98",
+            "passFail": "69\/29",
+            "passPercent": "70",
+            "min": "19",
+            "max": "100",
+            "average": "66.194",
+            "median": "68"
+        },
+        "Final_B": {
+            "students": "60",
+            "passFail": "48\/12",
+            "passPercent": "80",
+            "min": "23",
+            "max": "98",
+            "average": "67.5",
+            "median": "69.5"
+        }
+    },
     "201501": {
         "Staff": [
             {

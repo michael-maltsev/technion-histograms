@@ -63,6 +63,38 @@
             "median": "67.6"
         }
     },
+    "201101": {
+        "Staff": [
+            {
+                "name": "בשותי דאוד",
+                "email": "daoud@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יחיא יורם",
+                "email": "yoramy@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "146",
+            "passFail": "106\/40",
+            "passPercent": "73",
+            "min": "14",
+            "max": "100",
+            "average": "61.582",
+            "median": "62"
+        },
+        "Final_B": {
+            "students": "96",
+            "passFail": "70\/26",
+            "passPercent": "73",
+            "min": "25",
+            "max": "100",
+            "average": "62.594",
+            "median": "64.5"
+        }
+    },
     "201402": {
         "Staff": [
             {
@@ -477,8 +509,8 @@
             "passPercent": "84",
             "min": "24",
             "max": "100",
-            "average": "75.573",
-            "median": "81"
+            "average": "77",
+            "median": "85.5"
         }
     }
 }
