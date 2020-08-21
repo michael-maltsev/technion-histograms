@@ -1,4 +1,45 @@
 {
+    "201502": {
+        "Staff": [
+            {
+                "name": "רבקין יוג'ין",
+                "email": "erabkin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "וינטר רועי",
+                "email": "winroy@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "43",
+            "passFail": "34\/9",
+            "passPercent": "79",
+            "min": "20",
+            "max": "100",
+            "average": "70.581",
+            "median": "70"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "10\/2",
+            "passPercent": "83",
+            "min": "35",
+            "max": "100",
+            "average": "64.333",
+            "median": "63.5"
+        },
+        "Finals": {
+            "students": "46",
+            "passFail": "43\/3",
+            "passPercent": "93",
+            "min": "35",
+            "max": "100",
+            "average": "74.174",
+            "median": "74.5"
+        }
+    },
     "201602": {
         "Staff": [
             {

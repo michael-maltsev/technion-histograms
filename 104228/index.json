@@ -86,6 +86,18 @@
         }
     },
     "201501": {
+        "Staff": [
+            {
+                "name": "ניפומניאשצ אלכסנדר",
+                "email": "nepom@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גרוזד מרינה",
+                "email": "gruzd@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
         "Final_A": {
             "students": "133",
             "passFail": "103\/30",
@@ -112,6 +124,65 @@
             "max": "100",
             "average": "73.593",
             "median": "78"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "נוביק-כהן איימי",
+                "email": "amync@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קרוש-ברם מרינה",
+                "email": "mbram@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "104",
+            "passFail": "65\/39",
+            "passPercent": "62",
+            "min": "0",
+            "max": "95",
+            "average": "56.615",
+            "median": "59"
+        },
+        "Final_A": {
+            "students": "104",
+            "passFail": "78\/26",
+            "passPercent": "75",
+            "min": "15",
+            "max": "100",
+            "average": "66.712",
+            "median": "70.5"
+        },
+        "Exam_B": {
+            "students": "70",
+            "passFail": "42\/28",
+            "passPercent": "60",
+            "min": "16",
+            "max": "96",
+            "average": "60.671",
+            "median": "61.5"
+        },
+        "Final_B": {
+            "students": "70",
+            "passFail": "55\/15",
+            "passPercent": "79",
+            "min": "28",
+            "max": "100",
+            "average": "69.914",
+            "median": "70.5"
+        },
+        "Finals": {
+            "students": "141",
+            "passFail": "122\/19",
+            "passPercent": "87",
+            "min": "9",
+            "max": "100",
+            "average": "72.291",
+            "median": "74"
         }
     },
     "201601": {
