@@ -1,4 +1,54 @@
 {
+    "201701": {
+        "Staff": [
+            {
+                "name": "גינוסר רן",
+                "email": "ran@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דאניאל לואי",
+                "email": "sloaidan@technion.ac.il,sloaidan@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "38",
+            "passFail": "31\/7",
+            "passPercent": "82",
+            "min": "43",
+            "max": "88",
+            "average": "66.553",
+            "median": "67.5"
+        },
+        "Final_A": {
+            "students": "38",
+            "passFail": "38\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "90",
+            "average": "80.105",
+            "median": "81"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "91",
+            "average": "74.273",
+            "median": "71"
+        },
+        "Finals": {
+            "students": "48",
+            "passFail": "48\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "91",
+            "average": "79.125",
+            "median": "80"
+        }
+    },
     "201702": {
         "Staff": [
             {
