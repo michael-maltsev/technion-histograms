@@ -1,4 +1,45 @@
 {
+    "201602": {
+        "Staff": [
+            {
+                "name": "ריטר דן",
+                "email": "ritter@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פאנה דמיטרי",
+                "email": "spanna@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "33",
+            "passFail": "25\/8",
+            "passPercent": "76",
+            "min": "17",
+            "max": "100",
+            "average": "65.636",
+            "median": "71"
+        },
+        "Final_A": {
+            "students": "33",
+            "passFail": "29\/4",
+            "passPercent": "88",
+            "min": "20",
+            "max": "100",
+            "average": "72.727",
+            "median": "78"
+        },
+        "Finals": {
+            "students": "34",
+            "passFail": "29\/5",
+            "passPercent": "85",
+            "min": "20",
+            "max": "100",
+            "average": "73.853",
+            "median": "80"
+        }
+    },
     "201802": {
         "Staff": [
             {
