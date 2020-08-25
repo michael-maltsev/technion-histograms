@@ -121,5 +121,37 @@
             "average": "61.033",
             "median": "59.5"
         }
+    },
+    "201401": {
+        "Staff": [
+            {
+                "name": "גולדברג פליקס",
+                "email": "felix.goldberg@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מסרווה חייריה",
+                "email": "massarwe@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "101",
+            "passFail": "94\/7",
+            "passPercent": "93",
+            "min": "39",
+            "max": "100",
+            "average": "84.446",
+            "median": "91"
+        },
+        "Finals": {
+            "students": "102",
+            "passFail": "94\/8",
+            "passPercent": "92",
+            "min": "31",
+            "max": "100",
+            "average": "84.706",
+            "median": "91"
+        }
     }
 }

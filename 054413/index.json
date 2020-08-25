@@ -1,4 +1,45 @@
 {
+    "201702": {
+        "Staff": [
+            {
+                "name": "ביאנקו-פלד חבצלת",
+                "email": "bianco@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אליהו שקד",
+                "email": "jayd33.shaked@gmail.com,shaked@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "45",
+            "passFail": "44\/1",
+            "passPercent": "98",
+            "min": "33",
+            "max": "100",
+            "average": "82.111",
+            "median": "84"
+        },
+        "Final_A": {
+            "students": "45",
+            "passFail": "44\/1",
+            "passPercent": "98",
+            "min": "45.956",
+            "max": "100.4",
+            "average": "86.755",
+            "median": "88.8"
+        },
+        "Finals": {
+            "students": "52",
+            "passFail": "52\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "87.385",
+            "median": "89"
+        }
+    },
     "201902": {
         "Staff": [
             {

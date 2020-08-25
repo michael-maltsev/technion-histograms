@@ -85,5 +85,28 @@
             "average": "58.714",
             "median": "56"
         }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "פינצ'ובר יהודה",
+                "email": "pincho@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גרוזד מרינה",
+                "email": "gruzd@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Finals": {
+            "students": "103",
+            "passFail": "80\/23",
+            "passPercent": "78",
+            "min": "19",
+            "max": "99",
+            "average": "64.505",
+            "median": "67"
+        }
     }
 }
