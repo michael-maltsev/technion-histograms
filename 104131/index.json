@@ -777,6 +777,11 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "ולך נתן שמע",
+                "email": "tani@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "ליטבינוב גלינה",
                 "email": "litvinov@technion.ac.il",
                 "title": "מתרגל"
@@ -788,26 +793,44 @@
             "passPercent": "74",
             "min": "5",
             "max": "99",
-            "average": "66.542",
+            "average": "66.582",
             "median": "70"
         },
         "Final_A": {
             "students": "201",
-            "passFail": "165\/36",
-            "passPercent": "82",
+            "passFail": "166\/35",
+            "passPercent": "83",
             "min": "8",
             "max": "100",
-            "average": "70.806",
+            "average": "70.846",
             "median": "75"
+        },
+        "Exam_B": {
+            "students": "96",
+            "passFail": "77\/19",
+            "passPercent": "80",
+            "min": "27",
+            "max": "100",
+            "average": "69.594",
+            "median": "70"
+        },
+        "Final_B": {
+            "students": "96",
+            "passFail": "82\/14",
+            "passPercent": "85",
+            "min": "28",
+            "max": "100",
+            "average": "70.177",
+            "median": "70"
         },
         "Finals": {
             "students": "202",
-            "passFail": "166\/36",
-            "passPercent": "82",
+            "passFail": "169\/33",
+            "passPercent": "84",
             "min": "8",
             "max": "100",
-            "average": "70.802",
-            "median": "74.5"
+            "average": "71.53",
+            "median": "75"
         }
     },
     "201902": {
