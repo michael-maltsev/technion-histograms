@@ -440,5 +440,59 @@
             "average": "75.032",
             "median": "76"
         }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "דיסקין אלכסיי",
+                "email": "aleksd@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "19",
+            "passFail": "5\/14",
+            "passPercent": "26",
+            "min": "15",
+            "max": "78",
+            "average": "43.579",
+            "median": "41"
+        },
+        "Final_A": {
+            "students": "19",
+            "passFail": "13\/6",
+            "passPercent": "68",
+            "min": "30.025",
+            "max": "87.883",
+            "average": "61.072",
+            "median": "59.806"
+        },
+        "Exam_B": {
+            "students": "19",
+            "passFail": "15\/4",
+            "passPercent": "79",
+            "min": "28",
+            "max": "100",
+            "average": "78.474",
+            "median": "80"
+        },
+        "Final_B": {
+            "students": "19",
+            "passFail": "15\/4",
+            "passPercent": "79",
+            "min": "28",
+            "max": "100",
+            "average": "79.976",
+            "median": "81"
+        },
+        "Finals": {
+            "students": "31",
+            "passFail": "25\/6",
+            "passPercent": "81",
+            "min": "28",
+            "max": "100",
+            "average": "74.548",
+            "median": "79"
+        }
     }
 }
