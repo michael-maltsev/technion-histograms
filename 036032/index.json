@@ -25,5 +25,37 @@
             "average": "93.412",
             "median": "94"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "פרץ אופק",
+                "email": "ofekperetz@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "גת אמיר",
+                "email": "amirgat@technion.ac.il,netanel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "39",
+            "passFail": "38\/1",
+            "passPercent": "97",
+            "min": "44",
+            "max": "100",
+            "average": "84.179",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "40",
+            "passFail": "39\/1",
+            "passPercent": "98",
+            "min": "44",
+            "max": "100",
+            "average": "84.475",
+            "median": "86"
+        }
     }
 }
