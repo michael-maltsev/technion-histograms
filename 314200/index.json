@@ -190,5 +190,47 @@
             "average": "76.908",
             "median": "78"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "הרשקו דפנה",
+                "email": "ae.ugsec@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "לויצקי ארטיום",
+                "email": "arteml@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דוד רותי",
+                "email": "ruthi@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "סנדר אושרית",
+                "email": "oshrits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "80",
+            "passFail": "69\/11",
+            "passPercent": "86",
+            "min": "41",
+            "max": "100",
+            "average": "71.925",
+            "median": "74"
+        },
+        "Finals": {
+            "students": "80",
+            "passFail": "69\/11",
+            "passPercent": "86",
+            "min": "41",
+            "max": "100",
+            "average": "71.925",
+            "median": "74"
+        }
     }
 }
