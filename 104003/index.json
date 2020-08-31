@@ -36,6 +36,47 @@
             "median": "71"
         }
     },
+    "201202": {
+        "Staff": [
+            {
+                "name": "פרס-הרי לידיה",
+                "email": "lydia@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בית-אהרון אור",
+                "email": "oba@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "48",
+            "passFail": "38\/10",
+            "passPercent": "79",
+            "min": "24",
+            "max": "100",
+            "average": "70.896",
+            "median": "74"
+        },
+        "Final_A": {
+            "students": "48",
+            "passFail": "43\/5",
+            "passPercent": "90",
+            "min": "28",
+            "max": "100",
+            "average": "73.5",
+            "median": "77"
+        },
+        "Final_B": {
+            "students": "21",
+            "passFail": "15\/6",
+            "passPercent": "71",
+            "min": "20",
+            "max": "100",
+            "average": "57.905",
+            "median": "62"
+        }
+    },
     "201301": {
         "Staff": [
             {
@@ -166,6 +207,80 @@
             "max": "100",
             "average": "79.1",
             "median": "82"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "מרקוס לודמילה",
+                "email": "epstin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מעין הילה",
+                "email": "ahila@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "הס-גרין רחל",
+                "email": "rachelg@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "בן-דוד ניר",
+                "email": "benda@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "דמיטריוק אלון",
+                "email": "alond@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "27",
+            "passFail": "13\/14",
+            "passPercent": "48",
+            "min": "12",
+            "max": "93",
+            "average": "56.037",
+            "median": "54"
+        },
+        "Final_A": {
+            "students": "27",
+            "passFail": "19\/8",
+            "passPercent": "70",
+            "min": "13",
+            "max": "98",
+            "average": "61.63",
+            "median": "64"
+        },
+        "Exam_B": {
+            "students": "14",
+            "passFail": "4\/10",
+            "passPercent": "29",
+            "min": "20",
+            "max": "73",
+            "average": "45.429",
+            "median": "46.5"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "8\/6",
+            "passPercent": "57",
+            "min": "25",
+            "max": "79",
+            "average": "52.714",
+            "median": "55.5"
+        },
+        "Finals": {
+            "students": "47",
+            "passFail": "37\/10",
+            "passPercent": "79",
+            "min": "13",
+            "max": "100",
+            "average": "67.298",
+            "median": "69"
         }
     },
     "201601": {
