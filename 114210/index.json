@@ -35,6 +35,61 @@
             "median": "78"
         }
     },
+    "201702": {
+        "Staff": [
+            {
+                "name": "שגב מרדכי",
+                "email": "msegev@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דיקופולצב אלכסנדר",
+                "email": "alexdiko@gmail.com",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שקדרוב קוסטה",
+                "email": "kostyas@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "60",
+            "passFail": "40\/20",
+            "passPercent": "67",
+            "min": "8.4",
+            "max": "98.7",
+            "average": "66.412",
+            "median": "71.4"
+        },
+        "Final_A": {
+            "students": "60",
+            "passFail": "52\/8",
+            "passPercent": "87",
+            "min": "17",
+            "max": "99",
+            "average": "73.033",
+            "median": "79"
+        },
+        "Final_B": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "56.014",
+            "max": "100",
+            "average": "76.284",
+            "median": "77.2925"
+        },
+        "Finals": {
+            "students": "65",
+            "passFail": "65\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "100",
+            "average": "79.938",
+            "median": "82"
+        }
+    },
     "201802": {
         "Staff": [
             {
