@@ -36,6 +36,13 @@
         }
     },
     "201502": {
+        "Staff": [
+            {
+                "name": "ברקוביץ מורן",
+                "email": "mberco@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
         "Exam_A": {
             "students": "96",
             "passFail": "27\/69",
@@ -62,6 +69,15 @@
             "max": "113",
             "average": "67.823",
             "median": "70"
+        },
+        "Finals": {
+            "students": "108",
+            "passFail": "89\/19",
+            "passPercent": "82",
+            "min": "22",
+            "max": "100",
+            "average": "68.213",
+            "median": "68.5"
         }
     },
     "201601": {

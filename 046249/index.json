@@ -1,4 +1,45 @@
 {
+    "201801": {
+        "Staff": [
+            {
+                "name": "שכנר יואב",
+                "email": "yoav@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צסס שי",
+                "email": "tsesses2@gmail.com,tsesses@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "25",
+            "passFail": "22\/3",
+            "passPercent": "88",
+            "min": "32",
+            "max": "98",
+            "average": "74.12",
+            "median": "76"
+        },
+        "Final_A": {
+            "students": "25",
+            "passFail": "24\/1",
+            "passPercent": "96",
+            "min": "51",
+            "max": "99",
+            "average": "80.8",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "28",
+            "passFail": "27\/1",
+            "passPercent": "96",
+            "min": "49",
+            "max": "99",
+            "average": "81.036",
+            "median": "82"
+        }
+    },
     "201901": {
         "Staff": [
             {
