@@ -1,0 +1,39 @@
+{
+    "201901": {
+        "Staff": [
+            {
+                "name": "לייטנר עמירם",
+                "email": "amileitner@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הרשקו דפנה",
+                "email": "ae.ugsec@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "איזנברג עידן ברוך",
+                "email": "idan.e@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "11",
+            "passFail": "9\/2",
+            "passPercent": "82",
+            "min": "32",
+            "max": "89",
+            "average": "68.455",
+            "median": "70"
+        },
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "92",
+            "average": "80.333",
+            "median": "80"
+        }
+    }
+}
