@@ -62,5 +62,46 @@
             "average": "92.692",
             "median": "95"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "בוכר יצחק",
+                "email": "bucher@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברוך איל",
+                "email": "eyalbaruch911@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "98",
+            "average": "89.941",
+            "median": "92"
+        },
+        "Final_B": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "100",
+            "average": "92.941",
+            "median": "94.5"
+        },
+        "Finals": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "100",
+            "average": "92.353",
+            "median": "94.5"
+        }
     }
 }
