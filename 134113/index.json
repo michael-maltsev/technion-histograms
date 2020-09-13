@@ -196,7 +196,7 @@
             },
             {
                 "name": "גור אלונה",
-                "email": "silailanag1601@gmail.com",
+                "email": "ilanag@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
@@ -229,22 +229,31 @@
             "median": "80"
         },
         "Exam_B": {
-            "students": "76",
-            "passFail": "60\/16",
+            "students": "78",
+            "passFail": "62\/16",
             "passPercent": "79",
             "min": "17",
             "max": "97",
-            "average": "70.079",
+            "average": "69.654",
             "median": "71"
         },
+        "Final_B": {
+            "students": "78",
+            "passFail": "62\/16",
+            "passPercent": "79",
+            "min": "17",
+            "max": "97",
+            "average": "71.09",
+            "median": "73"
+        },
         "Finals": {
-            "students": "112",
-            "passFail": "90\/22",
-            "passPercent": "80",
-            "min": "3",
+            "students": "157",
+            "passFail": "139\/18",
+            "passPercent": "89",
+            "min": "12",
             "max": "100",
-            "average": "74.062",
-            "median": "80"
+            "average": "77.35",
+            "median": "82"
         }
     }
 }
