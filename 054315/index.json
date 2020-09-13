@@ -1,4 +1,63 @@
 {
+    "201501": {
+        "Staff": [
+            {
+                "name": "חאיק חוסאם",
+                "email": "hhossam@technion.ac.il,noreplay@norplay.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "וישינקין רותם",
+                "email": "rvishinkin@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "91",
+            "passFail": "64\/27",
+            "passPercent": "70",
+            "min": "0",
+            "max": "100",
+            "average": "66.637",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "91",
+            "passFail": "78\/13",
+            "passPercent": "86",
+            "min": "2",
+            "max": "100",
+            "average": "70.473",
+            "median": "72"
+        },
+        "Exam_B": {
+            "students": "38",
+            "passFail": "32\/6",
+            "passPercent": "84",
+            "min": "40.5",
+            "max": "99",
+            "average": "73.039",
+            "median": "75.5"
+        },
+        "Final_B": {
+            "students": "38",
+            "passFail": "35\/3",
+            "passPercent": "92",
+            "min": "43",
+            "max": "99",
+            "average": "75.553",
+            "median": "77.5"
+        },
+        "Finals": {
+            "students": "100",
+            "passFail": "97\/3",
+            "passPercent": "97",
+            "min": "43",
+            "max": "100",
+            "average": "77.6",
+            "median": "78.5"
+        }
+    },
     "201601": {
         "Staff": [
             {
