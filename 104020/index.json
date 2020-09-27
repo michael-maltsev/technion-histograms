@@ -46,6 +46,65 @@
             "median": "77"
         }
     },
+    "201502": {
+        "Staff": [
+            {
+                "name": "גורן אבי",
+                "email": "avigoren@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אלעד דורון",
+                "email": "edorone@campus.technion.ac.il,edorone@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "73",
+            "passFail": "71\/2",
+            "passPercent": "97",
+            "min": "36",
+            "max": "100",
+            "average": "79.712",
+            "median": "81"
+        },
+        "Final_A": {
+            "students": "73",
+            "passFail": "71\/2",
+            "passPercent": "97",
+            "min": "42.4",
+            "max": "100",
+            "average": "81.465",
+            "median": "82.9"
+        },
+        "Exam_B": {
+            "students": "24",
+            "passFail": "22\/2",
+            "passPercent": "92",
+            "min": "34",
+            "max": "100",
+            "average": "78.958",
+            "median": "84.5"
+        },
+        "Final_B": {
+            "students": "24",
+            "passFail": "22\/2",
+            "passPercent": "92",
+            "min": "34",
+            "max": "100",
+            "average": "80.176",
+            "median": "86.05"
+        },
+        "Finals": {
+            "students": "85",
+            "passFail": "83\/2",
+            "passPercent": "98",
+            "min": "34",
+            "max": "100",
+            "average": "85.129",
+            "median": "89"
+        }
+    },
     "201601": {
         "Staff": [
             {
