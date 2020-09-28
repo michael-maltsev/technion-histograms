@@ -81,6 +81,75 @@
             "median": "87"
         }
     },
+    "201701": {
+        "Staff": [
+            {
+                "name": "עציון יואב",
+                "email": "yetsion@tce.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קורסיה גל",
+                "email": "galko@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מנוסקין אלכס",
+                "email": "alexmanuskin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "נאור עודד",
+                "email": "odednaor@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "160",
+            "passFail": "157\/3",
+            "passPercent": "98",
+            "min": "44",
+            "max": "96",
+            "average": "77.044",
+            "median": "78.5"
+        },
+        "Final_A": {
+            "students": "160",
+            "passFail": "157\/3",
+            "passPercent": "98",
+            "min": "44",
+            "max": "97",
+            "average": "80.65",
+            "median": "82.5"
+        },
+        "Exam_B": {
+            "students": "47",
+            "passFail": "42\/5",
+            "passPercent": "89",
+            "min": "48",
+            "max": "98",
+            "average": "77.681",
+            "median": "82"
+        },
+        "Final_B": {
+            "students": "47",
+            "passFail": "42\/5",
+            "passPercent": "89",
+            "min": "48",
+            "max": "98",
+            "average": "80.298",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "178",
+            "passFail": "174\/4",
+            "passPercent": "98",
+            "min": "48",
+            "max": "98",
+            "average": "83.331",
+            "median": "85"
+        }
+    },
     "201801": {
         "Staff": [
             {
