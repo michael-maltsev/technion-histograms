@@ -1,4 +1,51 @@
 {
+    "201501": {
+        "Staff": [
+            {
+                "name": "פרשטמן דורית",
+                "email": "dfershtman@yahoo.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יזהר דיקלה",
+                "email": "diklayizhar@gmail.com",
+                "title": "מרצה"
+            },
+            {
+                "name": "קפלן רות",
+                "email": "rutka@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ירניצקי רעות",
+                "email": "reutyar@gmail.com",
+                "title": "מתרגל"
+            },
+            {
+                "name": "לזימי ימית",
+                "email": "yamitla@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "100",
+            "passFail": "100\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "97",
+            "average": "85.28",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "100",
+            "passFail": "100\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "97",
+            "average": "85.28",
+            "median": "86"
+        }
+    },
     "201701": {
         "Staff": [
             {
