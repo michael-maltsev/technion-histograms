@@ -1,4 +1,40 @@
 {
+    "201501": {
+        "Staff": [
+            {
+                "name": "כרמל יוחאי",
+                "email": "yohay@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "56.7",
+            "max": "93.8",
+            "average": "81.268",
+            "median": "83.2"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "90",
+            "average": "77.667",
+            "median": "79"
+        },
+        "Finals": {
+            "students": "45",
+            "passFail": "45\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "94",
+            "average": "81.311",
+            "median": "83"
+        }
+    },
     "201601": {
         "Staff": [
             {
