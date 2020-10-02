@@ -115,5 +115,41 @@
             "average": "85.473",
             "median": "88"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "נוימן עדינה מיכל",
+                "email": "tamirneu@netvision.net.il,armichal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "98",
+            "passFail": "94\/4",
+            "passPercent": "96",
+            "min": "34",
+            "max": "100",
+            "average": "84.765",
+            "median": "89"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "46",
+            "max": "93",
+            "average": "77.812",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "102",
+            "passFail": "101\/1",
+            "passPercent": "99",
+            "min": "46",
+            "max": "100",
+            "average": "86.657",
+            "median": "89"
+        }
     }
 }
