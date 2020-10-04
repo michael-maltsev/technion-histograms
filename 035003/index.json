@@ -50,5 +50,46 @@
             "average": "81.842",
             "median": "81"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "פישר ענת",
+                "email": "meranath@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גוטליב גלעד",
+                "email": "gilad011@gmail.com,gilad011@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "18",
+            "passFail": "16\/2",
+            "passPercent": "89",
+            "min": "42",
+            "max": "91",
+            "average": "74.056",
+            "median": "75"
+        },
+        "Final_A": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "91.439",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "91.439",
+            "median": "94"
+        }
     }
 }
