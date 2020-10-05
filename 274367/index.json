@@ -1,4 +1,40 @@
 {
+    "201702": {
+        "Staff": [
+            {
+                "name": "אנגלנדר סימון",
+                "email": "simone@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "120",
+            "passFail": "120\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "98",
+            "average": "84.142",
+            "median": "85"
+        },
+        "Final_A": {
+            "students": "120",
+            "passFail": "120\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "98",
+            "average": "85.642",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "126",
+            "passFail": "126\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "98",
+            "average": "85.746",
+            "median": "86"
+        }
+    },
     "201902": {
         "Staff": [
             {
