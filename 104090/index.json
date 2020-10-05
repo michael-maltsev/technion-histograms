@@ -39,6 +39,65 @@
             "median": "63.5"
         }
     },
+    "201501": {
+        "Staff": [
+            {
+                "name": "פנחסי רום",
+                "email": "room@math.technion.ac.il,room@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קרוש-ברם מרינה",
+                "email": "mbram@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "156",
+            "passFail": "146\/10",
+            "passPercent": "94",
+            "min": "5",
+            "max": "100",
+            "average": "80.346",
+            "median": "84"
+        },
+        "Final_A": {
+            "students": "156",
+            "passFail": "152\/4",
+            "passPercent": "97",
+            "min": "15",
+            "max": "100",
+            "average": "82.955",
+            "median": "86"
+        },
+        "Exam_B": {
+            "students": "62",
+            "passFail": "47\/15",
+            "passPercent": "76",
+            "min": "18",
+            "max": "100",
+            "average": "64.145",
+            "median": "66"
+        },
+        "Final_B": {
+            "students": "62",
+            "passFail": "53\/9",
+            "passPercent": "85",
+            "min": "16",
+            "max": "100",
+            "average": "68.871",
+            "median": "72"
+        },
+        "Finals": {
+            "students": "165",
+            "passFail": "156\/9",
+            "passPercent": "95",
+            "min": "16",
+            "max": "100",
+            "average": "81.261",
+            "median": "85"
+        }
+    },
     "201701": {
         "Staff": [
             {

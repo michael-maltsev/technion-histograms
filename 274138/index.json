@@ -1,4 +1,58 @@
 {
+    "201501": {
+        "Staff": [
+            {
+                "name": "ברק עמרי",
+                "email": "omrib@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "173",
+            "passFail": "170\/3",
+            "passPercent": "98",
+            "min": "49",
+            "max": "100",
+            "average": "84.636",
+            "median": "86"
+        },
+        "Final_A": {
+            "students": "173",
+            "passFail": "170\/3",
+            "passPercent": "98",
+            "min": "49",
+            "max": "100",
+            "average": "86",
+            "median": "87"
+        },
+        "Exam_B": {
+            "students": "40",
+            "passFail": "38\/2",
+            "passPercent": "95",
+            "min": "49",
+            "max": "98",
+            "average": "77.275",
+            "median": "81.5"
+        },
+        "Final_B": {
+            "students": "40",
+            "passFail": "38\/2",
+            "passPercent": "95",
+            "min": "49",
+            "max": "98",
+            "average": "78.95",
+            "median": "83.5"
+        },
+        "Finals": {
+            "students": "183",
+            "passFail": "181\/2",
+            "passPercent": "99",
+            "min": "49",
+            "max": "100",
+            "average": "86.164",
+            "median": "87"
+        }
+    },
     "201701": {
         "Staff": [
             {
