@@ -1,4 +1,36 @@
 {
+    "200901": {
+        "Staff": [
+            {
+                "name": "מלק עליזה",
+                "email": "maliza@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ולך נתן שמע",
+                "email": "tani@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "432",
+            "passFail": "379\/53",
+            "passPercent": "88",
+            "min": "0",
+            "max": "100",
+            "average": "73.012",
+            "median": "75.39"
+        },
+        "Final_B": {
+            "students": "107",
+            "passFail": "70\/37",
+            "passPercent": "65",
+            "min": "19",
+            "max": "97.42",
+            "average": "60.758",
+            "median": "63.07"
+        }
+    },
     "201201": {
         "Staff": [
             {

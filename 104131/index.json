@@ -1,4 +1,36 @@
 {
+    "201001": {
+        "Staff": [
+            {
+                "name": "מוריה יואב",
+                "email": "ymoriah@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קויפמן אירנה",
+                "email": "mairina@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "339",
+            "passFail": "296\/43",
+            "passPercent": "87",
+            "min": "0.001",
+            "max": "100.001",
+            "average": "75.343",
+            "median": "80.001"
+        },
+        "Final_B": {
+            "students": "173",
+            "passFail": "136\/37",
+            "passPercent": "79",
+            "min": "4",
+            "max": "100",
+            "average": "68.639",
+            "median": "74"
+        }
+    },
     "201002": {
         "Staff": [
             {

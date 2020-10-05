@@ -1,4 +1,41 @@
 {
+    "201002": {
+        "Staff": [
+            {
+                "name": "פינצ'ובר יהודה",
+                "email": "pincho@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סעדון תפארת",
+                "email": "saadon@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "גרוזד מרינה",
+                "email": "gruzd@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "154",
+            "passFail": "113\/41",
+            "passPercent": "73",
+            "min": "18",
+            "max": "100",
+            "average": "64.584",
+            "median": "65.5"
+        },
+        "Final_B": {
+            "students": "143",
+            "passFail": "89\/54",
+            "passPercent": "62",
+            "min": "12",
+            "max": "100",
+            "average": "60.538",
+            "median": "61"
+        }
+    },
     "201201": {
         "Staff": [
             {

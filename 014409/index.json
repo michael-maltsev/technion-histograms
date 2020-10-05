@@ -1,4 +1,36 @@
 {
+    "201101": {
+        "Staff": [
+            {
+                "name": "קלר אסף",
+                "email": "klar@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "נורמנד איתן",
+                "email": "",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "131",
+            "passFail": "94\/37",
+            "passPercent": "72",
+            "min": "30",
+            "max": "100",
+            "average": "65.74",
+            "median": "65"
+        },
+        "Final_B": {
+            "students": "61",
+            "passFail": "50\/11",
+            "passPercent": "82",
+            "min": "30",
+            "max": "100",
+            "average": "64.672",
+            "median": "63"
+        }
+    },
     "201701": {
         "Staff": [
             {
