@@ -7,13 +7,13 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "הלוי שרה",
-                "email": "shalevi@technion.ac.il",
+                "name": "בוניאל מורן",
+                "email": "moranbo@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "בוניאל מורן",
-                "email": "moranbo@technion.ac.il",
+                "name": "רובין אלאד",
+                "email": "elad.r@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
@@ -40,6 +40,15 @@
             "max": "96",
             "average": "79.018",
             "median": "82"
+        },
+        "Exam_B": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "63",
+            "max": "80",
+            "average": "69.273",
+            "median": "68"
         }
     }
 }
