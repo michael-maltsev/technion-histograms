@@ -107,9 +107,19 @@
     "201501": {
         "Staff": [
             {
+                "name": "צנזור אביב",
+                "email": "avivc@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
                 "name": "פרומקין ולרי",
                 "email": "valeri@technion.ac.il,valeri@campus.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "title": "מתרגל"
+            },
+            {
+                "name": "מעין יוחאי",
+                "email": "ymaayan@technion.ac.il,ymaayan@campus.technion.ac.il",
+                "title": "מתרגל"
             }
         ],
         "Final_A": {
@@ -131,13 +141,13 @@
             "median": "61"
         },
         "Finals": {
-            "students": "21",
-            "passFail": "16\/5",
-            "passPercent": "76",
-            "min": "9",
+            "students": "686",
+            "passFail": "594\/92",
+            "passPercent": "87",
+            "min": "6",
             "max": "100",
-            "average": "68.476",
-            "median": "77"
+            "average": "73.517",
+            "median": "76"
         }
     },
     "201502": {
