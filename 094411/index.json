@@ -1,4 +1,45 @@
 {
+    "201601": {
+        "Staff": [
+            {
+                "name": "מיטניק לאוניד",
+                "email": "leonid@ie.technion.ac.il,leonidm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שלומוב שגב",
+                "email": "segevs@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "121",
+            "passFail": "99\/22",
+            "passPercent": "82",
+            "min": "24",
+            "max": "100",
+            "average": "68.281",
+            "median": "68"
+        },
+        "Final_B": {
+            "students": "66",
+            "passFail": "50\/16",
+            "passPercent": "76",
+            "min": "18",
+            "max": "98",
+            "average": "64.879",
+            "median": "65"
+        },
+        "Finals": {
+            "students": "148",
+            "passFail": "133\/15",
+            "passPercent": "90",
+            "min": "18",
+            "max": "100",
+            "average": "71.277",
+            "median": "73"
+        }
+    },
     "201602": {
         "Staff": [
             {
