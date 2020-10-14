@@ -1,4 +1,45 @@
 {
+    "201401": {
+        "Staff": [
+            {
+                "name": "כהן אורן",
+                "email": "oren.cohen@physics.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דביר-וולפמן אילת השחר",
+                "email": "ayeleth@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "90",
+            "passFail": "67\/23",
+            "passPercent": "74",
+            "min": "18.4",
+            "max": "100",
+            "average": "65.193",
+            "median": "65.6"
+        },
+        "Final_B": {
+            "students": "51",
+            "passFail": "39\/12",
+            "passPercent": "76",
+            "min": "16.4",
+            "max": "100",
+            "average": "64.237",
+            "median": "62.086"
+        },
+        "Finals": {
+            "students": "129",
+            "passFail": "119\/10",
+            "passPercent": "92",
+            "min": "16",
+            "max": "100",
+            "average": "71.225",
+            "median": "73"
+        }
+    },
     "201402": {
         "Staff": [
             {

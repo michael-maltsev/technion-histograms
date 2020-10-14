@@ -220,6 +220,61 @@
             "median": "77"
         }
     },
+    "201401": {
+        "Staff": [
+            {
+                "name": "אליאש אורי",
+                "email": "elias@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ליטבינוב גלינה",
+                "email": "litvinov@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "דמיטריוק אלון",
+                "email": "alond@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "89",
+            "passFail": "72\/17",
+            "passPercent": "81",
+            "min": "13",
+            "max": "100",
+            "average": "70.191",
+            "median": "76"
+        },
+        "Final_A": {
+            "students": "89",
+            "passFail": "75\/14",
+            "passPercent": "84",
+            "min": "22",
+            "max": "100",
+            "average": "73.202",
+            "median": "78"
+        },
+        "Final_B": {
+            "students": "44",
+            "passFail": "27\/17",
+            "passPercent": "61",
+            "min": "20",
+            "max": "99",
+            "average": "58.205",
+            "median": "56.5"
+        },
+        "Finals": {
+            "students": "106",
+            "passFail": "86\/20",
+            "passPercent": "81",
+            "min": "20",
+            "max": "100",
+            "average": "71.434",
+            "median": "78"
+        }
+    },
     "201402": {
         "Staff": [
             {
