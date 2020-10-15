@@ -1,4 +1,45 @@
 {
+    "201401": {
+        "Staff": [
+            {
+                "name": "רזניק אברהם",
+                "email": "reznick@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רום אורן",
+                "email": "orenrom8@gmail.com",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "96",
+            "passFail": "80\/16",
+            "passPercent": "83",
+            "min": "33",
+            "max": "102",
+            "average": "73.396",
+            "median": "77"
+        },
+        "Final_B": {
+            "students": "42",
+            "passFail": "38\/4",
+            "passPercent": "90",
+            "min": "43",
+            "max": "100",
+            "average": "75.119",
+            "median": "73.5"
+        },
+        "Finals": {
+            "students": "103",
+            "passFail": "98\/5",
+            "passPercent": "95",
+            "min": "43",
+            "max": "100",
+            "average": "80.184",
+            "median": "83"
+        }
+    },
     "201501": {
         "Exam_A": {
             "students": "74",
