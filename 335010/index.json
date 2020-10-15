@@ -1,4 +1,54 @@
 {
+    "201602": {
+        "Staff": [
+            {
+                "name": "ליכטנשטיין אוסקר",
+                "email": "oscar@bm.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הרבסט יאיר",
+                "email": "yair.herbst@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "40",
+            "passFail": "34\/6",
+            "passPercent": "85",
+            "min": "45",
+            "max": "93",
+            "average": "69.95",
+            "median": "68.5"
+        },
+        "Final_A": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "98",
+            "average": "85.765",
+            "median": "86.5"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "11\/2",
+            "passPercent": "85",
+            "min": "46",
+            "max": "99",
+            "average": "79.769",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "45",
+            "passFail": "43\/2",
+            "passPercent": "96",
+            "min": "46",
+            "max": "99",
+            "average": "83.822",
+            "median": "86"
+        }
+    },
     "201702": {
         "Staff": [
             {

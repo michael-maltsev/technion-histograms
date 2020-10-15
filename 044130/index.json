@@ -350,6 +350,65 @@
             "median": "79"
         }
     },
+    "201503": {
+        "Staff": [
+            {
+                "name": "קרמר יעקב",
+                "email": "koby@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יאיר אור",
+                "email": "oryair@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "13",
+            "passFail": "11\/2",
+            "passPercent": "85",
+            "min": "7",
+            "max": "94",
+            "average": "68.308",
+            "median": "77"
+        },
+        "Final_A": {
+            "students": "13",
+            "passFail": "11\/2",
+            "passPercent": "85",
+            "min": "16",
+            "max": "95",
+            "average": "75.231",
+            "median": "84"
+        },
+        "Exam_B": {
+            "students": "12",
+            "passFail": "8\/4",
+            "passPercent": "67",
+            "min": "39",
+            "max": "98",
+            "average": "67.75",
+            "median": "69"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "9\/3",
+            "passPercent": "75",
+            "min": "42",
+            "max": "100",
+            "average": "73.167",
+            "median": "75.5"
+        },
+        "Finals": {
+            "students": "21",
+            "passFail": "18\/3",
+            "passPercent": "86",
+            "min": "42",
+            "max": "100",
+            "average": "77.952",
+            "median": "83"
+        }
+    },
     "201601": {
         "Staff": [
             {

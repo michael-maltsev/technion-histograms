@@ -1,4 +1,58 @@
 {
+    "201601": {
+        "Staff": [
+            {
+                "name": "עבאסי זייד",
+                "email": "abassi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "49",
+            "passFail": "48\/1",
+            "passPercent": "98",
+            "min": "49",
+            "max": "93",
+            "average": "72.49",
+            "median": "74"
+        },
+        "Final_A": {
+            "students": "50",
+            "passFail": "49\/1",
+            "passPercent": "98",
+            "min": "49",
+            "max": "95",
+            "average": "80.08",
+            "median": "81"
+        },
+        "Exam_B": {
+            "students": "20",
+            "passFail": "19\/1",
+            "passPercent": "95",
+            "min": "54",
+            "max": "90",
+            "average": "73.65",
+            "median": "74"
+        },
+        "Final_B": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "93",
+            "average": "79.1",
+            "median": "80"
+        },
+        "Finals": {
+            "students": "63",
+            "passFail": "63\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "95",
+            "average": "80.968",
+            "median": "81"
+        }
+    },
     "201701": {
         "Staff": [
             {
