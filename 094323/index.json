@@ -1,4 +1,36 @@
 {
+    "201202": {
+        "Staff": [
+            {
+                "name": "טטרואשוילי לובה",
+                "email": "lubatet@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מלמד מיכל",
+                "email": "michalro@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "86",
+            "passFail": "70\/16",
+            "passPercent": "81",
+            "min": "0",
+            "max": "100",
+            "average": "70.942",
+            "median": "75"
+        },
+        "Final_B": {
+            "students": "44",
+            "passFail": "32\/12",
+            "passPercent": "73",
+            "min": "25",
+            "max": "89",
+            "average": "62.045",
+            "median": "62.5"
+        }
+    },
     "201602": {
         "Staff": [
             {
