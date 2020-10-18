@@ -1,5 +1,5 @@
 {
-    "201802": {
+    "201801": {
         "Staff": [
             {
                 "name": "משנה דוד",
@@ -10,25 +10,30 @@
                 "name": "מאייט נדב",
                 "email": "mailhotn@campus.technion.ac.il",
                 "title": "מרצה"
+            },
+            {
+                "name": "הרשקו דפנה",
+                "email": "ae.ugsec@technion.ac.il",
+                "title": "מרצה"
             }
         ],
         "Final_A": {
-            "students": "14",
-            "passFail": "14\/0",
+            "students": "22",
+            "passFail": "22\/0",
             "passPercent": "100",
-            "min": "73",
-            "max": "95",
-            "average": "85.714",
-            "median": "88"
+            "min": "59",
+            "max": "99",
+            "average": "86.682",
+            "median": "87.5"
         },
         "Finals": {
-            "students": "14",
-            "passFail": "14\/0",
+            "students": "26",
+            "passFail": "26\/0",
             "passPercent": "100",
-            "min": "73",
-            "max": "95",
-            "average": "85.714",
-            "median": "88"
+            "min": "59",
+            "max": "99",
+            "average": "87.577",
+            "median": "90"
         }
     }
 }
