@@ -1,4 +1,40 @@
 {
+    "201202": {
+        "Staff": [
+            {
+                "name": "סליקטר דרור",
+                "email": "dror@bm.technion.ac.il,bmdror@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "31",
+            "passFail": "30\/1",
+            "passPercent": "97",
+            "min": "51",
+            "max": "91",
+            "average": "74.032",
+            "median": "73"
+        },
+        "Final_A": {
+            "students": "31",
+            "passFail": "31\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "92",
+            "average": "75.839",
+            "median": "76"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "89",
+            "average": "75.625",
+            "median": "78.5"
+        }
+    },
     "201502": {
         "Final_A": {
             "students": "37",

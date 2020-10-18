@@ -193,6 +193,57 @@
             "median": "70"
         }
     },
+    "201202": {
+        "Staff": [
+            {
+                "name": "יהודיוף אמיר",
+                "email": "amir.yehudayoff@gmail.com,yehuday@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סיגלוב דניאל",
+                "email": "dansigal@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מעין יוחאי",
+                "email": "ymaayan@technion.ac.il,ymaayan@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קציר אורן",
+                "email": "",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "237",
+            "passFail": "143\/94",
+            "passPercent": "60",
+            "min": "1",
+            "max": "100",
+            "average": "60.03",
+            "median": "61"
+        },
+        "Final_A": {
+            "students": "237",
+            "passFail": "168\/69",
+            "passPercent": "71",
+            "min": "4",
+            "max": "100",
+            "average": "64.308",
+            "median": "66"
+        },
+        "Final_B": {
+            "students": "189",
+            "passFail": "167\/22",
+            "passPercent": "88",
+            "min": "10",
+            "max": "100",
+            "average": "75.101",
+            "median": "78"
+        }
+    },
     "201203": {
         "Staff": [
             {

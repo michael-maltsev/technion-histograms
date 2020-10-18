@@ -1,4 +1,36 @@
 {
+    "201301": {
+        "Staff": [
+            {
+                "name": "בינה עופר",
+                "email": "binah@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שבתאי-מוסי יעל",
+                "email": "resphys@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "35",
+            "passFail": "34\/1",
+            "passPercent": "97",
+            "min": "49",
+            "max": "94",
+            "average": "78.057",
+            "median": "79"
+        },
+        "Final_B": {
+            "students": "19",
+            "passFail": "14\/5",
+            "passPercent": "74",
+            "min": "39",
+            "max": "81",
+            "average": "65.105",
+            "median": "65"
+        }
+    },
     "201601": {
         "Staff": [
             {

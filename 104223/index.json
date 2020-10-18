@@ -1,4 +1,45 @@
 {
+    "201201": {
+        "Staff": [
+            {
+                "name": "ניפומניאשצ אלכסנדר",
+                "email": "nepom@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גרוזד מרינה",
+                "email": "gruzd@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "278",
+            "passFail": "215\/63",
+            "passPercent": "77",
+            "min": "18",
+            "max": "98",
+            "average": "65.572",
+            "median": "67"
+        },
+        "Final_A": {
+            "students": "278",
+            "passFail": "236\/42",
+            "passPercent": "85",
+            "min": "22",
+            "max": "99",
+            "average": "68.212",
+            "median": "69"
+        },
+        "Final_B": {
+            "students": "133",
+            "passFail": "87\/46",
+            "passPercent": "65",
+            "min": "5",
+            "max": "100",
+            "average": "59.917",
+            "median": "63"
+        }
+    },
     "201202": {
         "Staff": [
             {
@@ -34,6 +75,29 @@
             "max": "100",
             "average": "70.652",
             "median": "73"
+        }
+    },
+    "201203": {
+        "Staff": [
+            {
+                "name": "רדואן ניזאר",
+                "email": "rnizar@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גרוזד מרינה",
+                "email": "gruzd@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "97",
+            "average": "81.286",
+            "median": "82"
         }
     },
     "201301": {

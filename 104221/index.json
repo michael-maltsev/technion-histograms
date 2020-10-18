@@ -1,4 +1,45 @@
 {
+    "201201": {
+        "Staff": [
+            {
+                "name": "מאיר-וולף אדוארדו",
+                "email": "emw@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יחיא יורם",
+                "email": "yoramy@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "250",
+            "passFail": "190\/60",
+            "passPercent": "76",
+            "min": "19",
+            "max": "99",
+            "average": "67.812",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "250",
+            "passFail": "223\/27",
+            "passPercent": "89",
+            "min": "23",
+            "max": "99",
+            "average": "71.744",
+            "median": "73"
+        },
+        "Final_B": {
+            "students": "140",
+            "passFail": "124\/16",
+            "passPercent": "89",
+            "min": "21",
+            "max": "100",
+            "average": "67.371",
+            "median": "69"
+        }
+    },
     "201202": {
         "Staff": [
             {
