@@ -35,5 +35,42 @@
             "average": "88.976",
             "median": "90"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "אליאס ופא",
+                "email": "wafael@sce.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סרחאן מיי",
+                "email": "simai@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "58",
+            "passFail": "58\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "100",
+            "average": "91.552",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "58",
+            "passFail": "58\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "100",
+            "average": "91.621",
+            "median": "94"
+        }
     }
 }
