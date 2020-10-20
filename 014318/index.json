@@ -59,11 +59,6 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "סגל רחלי",
-                "email": "srachel@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
                 "name": "שביט שרית",
                 "email": "sarits@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -71,6 +66,11 @@
             {
                 "name": "קובלר קרן",
                 "email": "kovlerk@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מלכה אופירה",
+                "email": "ofiramalka@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -83,13 +83,22 @@
             "average": "82.349",
             "median": "80"
         },
-        "Finals": {
-            "students": "63",
-            "passFail": "63\/0",
+        "Final_B": {
+            "students": "13",
+            "passFail": "13\/0",
             "passPercent": "100",
-            "min": "56",
+            "min": "55",
             "max": "100",
-            "average": "83.302",
+            "average": "81.462",
+            "median": "81"
+        },
+        "Finals": {
+            "students": "68",
+            "passFail": "68\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "83.75",
             "median": "84"
         }
     }
