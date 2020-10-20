@@ -2,6 +2,11 @@
     "201902": {
         "Staff": [
             {
+                "name": "חמוד באסל",
+                "email": "bassel164@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "תמר אביב",
                 "email": "avivt@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
@@ -30,14 +35,32 @@
             "average": "77.527",
             "median": "76.888"
         },
+        "Exam_B": {
+            "students": "24",
+            "passFail": "11\/13",
+            "passPercent": "46",
+            "min": "33",
+            "max": "84",
+            "average": "53.833",
+            "median": "52.5"
+        },
+        "Final_B": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "59.953",
+            "max": "97.733",
+            "average": "72.426",
+            "median": "70.92"
+        },
         "Finals": {
-            "students": "61",
-            "passFail": "57\/4",
-            "passPercent": "93",
-            "min": "43",
+            "students": "71",
+            "passFail": "71\/0",
+            "passPercent": "100",
+            "min": "60",
             "max": "100",
-            "average": "77.803",
-            "median": "78"
+            "average": "79.169",
+            "median": "77"
         }
     }
 }
