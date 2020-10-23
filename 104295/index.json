@@ -52,5 +52,41 @@
             "average": "83.705",
             "median": "88.5"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "פנחסי רום",
+                "email": "room@math.technion.ac.il,room@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_B": {
+            "students": "13",
+            "passFail": "8\/5",
+            "passPercent": "62",
+            "min": "30",
+            "max": "100",
+            "average": "68.692",
+            "median": "70"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "11\/2",
+            "passPercent": "85",
+            "min": "42",
+            "max": "100",
+            "average": "74.308",
+            "median": "74"
+        },
+        "Finals": {
+            "students": "16",
+            "passFail": "14\/2",
+            "passPercent": "88",
+            "min": "42",
+            "max": "100",
+            "average": "75.938",
+            "median": "79.5"
+        }
     }
 }
