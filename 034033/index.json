@@ -457,5 +457,46 @@
             "average": "68.287",
             "median": "69"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "בר-יוסף צבי פנחס",
+                "email": "baryoseph@me.technion.ac.il,merbygr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טל אברהם",
+                "email": "avraham_tal@yahoo.com",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_B": {
+            "students": "12",
+            "passFail": "8\/4",
+            "passPercent": "67",
+            "min": "7",
+            "max": "82",
+            "average": "55.417",
+            "median": "58.5"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "8\/4",
+            "passPercent": "67",
+            "min": "7",
+            "max": "85",
+            "average": "56.25",
+            "median": "61"
+        },
+        "Finals": {
+            "students": "17",
+            "passFail": "13\/4",
+            "passPercent": "76",
+            "min": "7",
+            "max": "90",
+            "average": "62.118",
+            "median": "65"
+        }
     }
 }
