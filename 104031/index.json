@@ -870,5 +870,33 @@
             "average": "65.47",
             "median": "69"
         }
+    },
+    "201903": {
+        "Staff": [
+            {
+                "name": "צנזור אביב",
+                "email": "avivc@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פייגין-קצוב יוליה",
+                "email": "julia.feigin@gmail.com,juliaf@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "לייבזירר שקד",
+                "email": "leibzirers@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "58",
+            "passFail": "36\/22",
+            "passPercent": "62",
+            "min": "9",
+            "max": "100",
+            "average": "63.086",
+            "median": "66.5"
+        }
     }
 }
