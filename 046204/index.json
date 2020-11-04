@@ -1,1 +1,34 @@
-[]
+{
+    "201502": {
+        "Staff": [
+            {
+                "name": "נצרתי משה",
+                "email": "nazarat@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טולמץ' אלכסנדר",
+                "email": "talex@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "100",
+            "average": "86.412",
+            "median": "89"
+        },
+        "Finals": {
+            "students": "41",
+            "passFail": "40\/1",
+            "passPercent": "98",
+            "min": "31",
+            "max": "100",
+            "average": "84.073",
+            "median": "87"
+        }
+    }
+}
