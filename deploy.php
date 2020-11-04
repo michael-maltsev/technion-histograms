@@ -116,14 +116,16 @@ function process_course($course, &$stats) {
 
             $data = json_decode(file_get_contents($filename), true);
 
-            # Less files - less timeout errors in Github Pages deployment.
+            // Less files - less timeout errors in Github Pages deployment.
             unlink($filename);
 
             if ($data['max'] >= 200) {
                 log_warning("$course/$semester/$category: Data with invalid max: {$data['max']}");
             }
 
-            $non_empty_count = count(array_filter($data));
+            $non_empty_count = count(array_filter($data, function ($item) {
+                return $item != '';
+            }));
             if ($non_empty_count == 0) {
                 $stats['histograms_empty']++;
             } else if ($non_empty_count < count($data)) {
