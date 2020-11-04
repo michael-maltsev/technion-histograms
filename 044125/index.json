@@ -1,4 +1,36 @@
 {
+    "201202": {
+        "Staff": [
+            {
+                "name": "ריטר דן",
+                "email": "ritter@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בלאו יוחאי",
+                "email": "yochai@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "164",
+            "passFail": "145\/19",
+            "passPercent": "88",
+            "min": "31",
+            "max": "100",
+            "average": "74.561",
+            "median": "76.5"
+        },
+        "Final_B": {
+            "students": "92",
+            "passFail": "72\/20",
+            "passPercent": "78",
+            "min": "27",
+            "max": "90",
+            "average": "69.5",
+            "median": "73"
+        }
+    },
     "201301": {
         "Staff": [
             {

@@ -128,6 +128,47 @@
             "median": "71.88"
         }
     },
+    "201401": {
+        "Staff": [
+            {
+                "name": "שטינברג יוסף",
+                "email": "ysteinbe@ee.technion.ac.il,noreplay@norplay.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרג עוזיהו",
+                "email": "uzipereg@technion.ac.il,uzipereg@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "107",
+            "passFail": "87\/20",
+            "passPercent": "81",
+            "min": "22.88",
+            "max": "100",
+            "average": "71.184",
+            "median": "72.1"
+        },
+        "Final_B": {
+            "students": "61",
+            "passFail": "40\/21",
+            "passPercent": "66",
+            "min": "15",
+            "max": "100",
+            "average": "66.475",
+            "median": "70"
+        },
+        "Finals": {
+            "students": "140",
+            "passFail": "116\/24",
+            "passPercent": "83",
+            "min": "15",
+            "max": "100",
+            "average": "73.114",
+            "median": "77"
+        }
+    },
     "201402": {
         "Staff": [
             {
@@ -167,6 +208,15 @@
             "max": "100",
             "average": "70.484",
             "median": "75.5"
+        },
+        "Finals": {
+            "students": "144",
+            "passFail": "131\/13",
+            "passPercent": "91",
+            "min": "28",
+            "max": "100",
+            "average": "74.764",
+            "median": "77"
         }
     },
     "201502": {
