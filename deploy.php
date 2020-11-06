@@ -7,7 +7,6 @@ $stats = [
     'courses' => 0,
     'semesters' => 0,
     'histograms' => 0,
-    'histograms_partial' => 0,
     'histograms_empty' => 0,
     'staff' => 0,
     'staff_empty' => 0,
@@ -37,7 +36,6 @@ file_put_contents('index.html', markdown_to_page('הטכניון - מאגר הי
 echo "Processed {$stats['histograms']} histograms in {$stats['courses']} courses\n";
 $without_staff_info = $stats['semesters'] - $stats['staff'];
 echo "{$stats['semesters']} course-semesters, {$stats['staff']} with staff info ({$stats['staff_empty']} empty), $without_staff_info without\n";
-echo "Partial histogram details: {$stats['histograms_partial']}\n";
 echo "Empty histogram details: {$stats['histograms_empty']}\n";
 
 function process_course($course, &$stats) {
@@ -124,12 +122,14 @@ function process_course($course, &$stats) {
             }
 
             $non_empty_count = count(array_filter($data, function ($item) {
-                return $item != '';
+                // Trim with non-breaking spaces.
+                // https://stackoverflow.com/a/27990195
+                return trim($item, " \t\n\r\0\x0B\xC2\xA0") != '';
             }));
             if ($non_empty_count == 0) {
                 $stats['histograms_empty']++;
             } else if ($non_empty_count < count($data)) {
-                $stats['histograms_partial']++;
+                log_warning("$course/$semester/$category: Partial data");
             }
 
             $root_text .= "### $category_name\n\n";
