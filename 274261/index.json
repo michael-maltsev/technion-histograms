@@ -27,8 +27,8 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "הלוי שרה",
-                "email": "shalevi@technion.ac.il",
+                "name": "רובין אלאד",
+                "email": "elad.r@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -50,14 +50,32 @@
             "average": "81.66",
             "median": "85"
         },
+        "Exam_B": {
+            "students": "13",
+            "passFail": "12\/1",
+            "passPercent": "92",
+            "min": "53",
+            "max": "93",
+            "average": "82.154",
+            "median": "88"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "12\/1",
+            "passPercent": "92",
+            "min": "53",
+            "max": "95",
+            "average": "84.846",
+            "median": "89"
+        },
         "Finals": {
-            "students": "94",
-            "passFail": "91\/3",
-            "passPercent": "97",
-            "min": "31",
+            "students": "98",
+            "passFail": "97\/1",
+            "passPercent": "99",
+            "min": "53",
             "max": "100",
-            "average": "81.66",
-            "median": "85"
+            "average": "84.061",
+            "median": "86"
         }
     }
 }

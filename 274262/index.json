@@ -12,13 +12,13 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "הלוי שרה",
-                "email": "shalevi@technion.ac.il",
+                "name": "איינשטיין ליאת",
+                "email": "liate@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "איינשטיין ליאת",
-                "email": "liate@technion.ac.il",
+                "name": "רובין אלאד",
+                "email": "elad.r@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
@@ -49,6 +49,15 @@
             "max": "99",
             "average": "77.643",
             "median": "79.5"
+        },
+        "Exam_B": {
+            "students": "12",
+            "passFail": "9\/3",
+            "passPercent": "75",
+            "min": "46",
+            "max": "80",
+            "average": "65.333",
+            "median": "66"
         },
         "Finals": {
             "students": "98",
