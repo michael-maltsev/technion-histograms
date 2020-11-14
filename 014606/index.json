@@ -1,4 +1,59 @@
 {
+    "201601": {
+        "Staff": [
+            {
+                "name": "רוזנפלד יחיאל",
+                "email": "roseny@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ואנג גיל",
+                "email": "wang@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "לוי ידידיה",
+                "email": "yedlevi@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "178",
+            "passFail": "166\/12",
+            "passPercent": "93",
+            "min": "38",
+            "max": "98",
+            "average": "75.427",
+            "median": "77"
+        },
+        "Final_A": {
+            "students": "178",
+            "passFail": "168\/10",
+            "passPercent": "94",
+            "min": "39",
+            "max": "98",
+            "average": "80.126",
+            "median": "83.05"
+        },
+        "Exam_B": {
+            "students": "74",
+            "passFail": "74\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "95",
+            "average": "79.878",
+            "median": "80"
+        },
+        "Final_B": {
+            "students": "76",
+            "passFail": "76\/0",
+            "passPercent": "100",
+            "min": "63",
+            "max": "100",
+            "average": "84.461",
+            "median": "84"
+        }
+    },
     "201701": {
         "Staff": [
             {

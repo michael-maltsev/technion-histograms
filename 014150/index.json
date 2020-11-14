@@ -1,4 +1,40 @@
 {
+    "201602": {
+        "Staff": [
+            {
+                "name": "לבן אורן",
+                "email": "lavan@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "127",
+            "passFail": "68\/59",
+            "passPercent": "54",
+            "min": "7",
+            "max": "96",
+            "average": "56.953",
+            "median": "55"
+        },
+        "Final_B": {
+            "students": "73",
+            "passFail": "34\/39",
+            "passPercent": "47",
+            "min": "13",
+            "max": "93",
+            "average": "53.137",
+            "median": "51"
+        },
+        "Finals": {
+            "students": "138",
+            "passFail": "100\/38",
+            "passPercent": "72",
+            "min": "13",
+            "max": "96",
+            "average": "63.696",
+            "median": "69"
+        }
+    },
     "201702": {
         "Staff": [
             {
