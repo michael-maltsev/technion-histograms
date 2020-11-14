@@ -1,4 +1,58 @@
 {
+    "201701": {
+        "Staff": [
+            {
+                "name": "אלקיים איתי",
+                "email": "itaig@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "113",
+            "passFail": "106\/7",
+            "passPercent": "94",
+            "min": "37",
+            "max": "100",
+            "average": "77.168",
+            "median": "78"
+        },
+        "Final_A": {
+            "students": "113",
+            "passFail": "106\/7",
+            "passPercent": "94",
+            "min": "37",
+            "max": "99",
+            "average": "81.522",
+            "median": "84"
+        },
+        "Exam_B": {
+            "students": "17",
+            "passFail": "16\/1",
+            "passPercent": "94",
+            "min": "45",
+            "max": "94",
+            "average": "65.294",
+            "median": "64"
+        },
+        "Final_B": {
+            "students": "17",
+            "passFail": "16\/1",
+            "passPercent": "94",
+            "min": "45",
+            "max": "91",
+            "average": "70.412",
+            "median": "70"
+        },
+        "Finals": {
+            "students": "119",
+            "passFail": "118\/1",
+            "passPercent": "99",
+            "min": "45",
+            "max": "99",
+            "average": "82.076",
+            "median": "83"
+        }
+    },
     "201801": {
         "Staff": [
             {
