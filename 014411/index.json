@@ -170,13 +170,13 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "שביט שרית",
-                "email": "sarits@technion.ac.il",
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "צאצאשוילי תמי",
-                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -189,14 +189,23 @@
             "average": "73.948",
             "median": "76.825"
         },
+        "Final_B": {
+            "students": "47",
+            "passFail": "44\/3",
+            "passPercent": "94",
+            "min": "30.1",
+            "max": "97.85",
+            "average": "75.982",
+            "median": "75.162"
+        },
         "Finals": {
-            "students": "125",
-            "passFail": "105\/20",
-            "passPercent": "84",
+            "students": "148",
+            "passFail": "144\/4",
+            "passPercent": "97",
             "min": "2",
             "max": "100",
-            "average": "73.992",
-            "median": "77"
+            "average": "78.932",
+            "median": "81"
         }
     }
 }
