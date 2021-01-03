@@ -188,13 +188,13 @@
                 "title": "מתרגל"
             },
             {
-                "name": "פרידמן אברהם ברוך",
-                "email": "avfridman@campus.technion.ac.il",
+                "name": "גרהם סופיה",
+                "email": "sofiar@technion.ac.il,sofiar@campus.technion.ac.il",
                 "title": "מדריך מעבדה"
             },
             {
-                "name": "גרהם סופיה",
-                "email": "sofiar@technion.ac.il,sofiar@campus.technion.ac.il",
+                "name": "מלמוד מיטל",
+                "email": "smmeital@campus.technion.ac.il",
                 "title": "מדריך מעבדה"
             },
             {
@@ -203,12 +203,21 @@
                 "title": "מדריך מעבדה"
             },
             {
-                "name": "מלמוד מיטל",
-                "email": "smmeital@campus.technion.ac.il",
+                "name": "פרידמן אברהם ברוך",
+                "email": "avfridman@campus.technion.ac.il",
                 "title": "מדריך מעבדה"
             }
         ],
         "Final_A": {
+            "students": "36",
+            "passFail": "36\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "96",
+            "average": "86.556",
+            "median": "89.5"
+        },
+        "Finals": {
             "students": "36",
             "passFail": "36\/0",
             "passPercent": "100",
