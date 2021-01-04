@@ -62,5 +62,37 @@
             "average": "71.097",
             "median": "76"
         }
+    },
+    "201903": {
+        "Staff": [
+            {
+                "name": "פילין שגיא",
+                "email": "filin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "32",
+            "passFail": "25\/7",
+            "passPercent": "78",
+            "min": "30",
+            "max": "95",
+            "average": "72.625",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "35",
+            "passFail": "28\/7",
+            "passPercent": "80",
+            "min": "30",
+            "max": "95",
+            "average": "73.114",
+            "median": "81"
+        }
     }
 }
