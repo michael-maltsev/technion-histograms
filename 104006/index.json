@@ -226,5 +226,55 @@
             "average": "84.706",
             "median": "91"
         }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "ז'יטומרסקי מיכאל",
+                "email": "mzhi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מסרווה חייריה",
+                "email": "massarwe@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "48",
+            "passFail": "29\/19",
+            "passPercent": "60",
+            "min": "25",
+            "max": "81",
+            "average": "55.708",
+            "median": "59"
+        },
+        "Final_A": {
+            "students": "48",
+            "passFail": "36\/12",
+            "passPercent": "75",
+            "min": "30",
+            "max": "90",
+            "average": "65.104",
+            "median": "67.5"
+        },
+        "Final_B": {
+            "students": "17",
+            "passFail": "11\/6",
+            "passPercent": "65",
+            "min": "27",
+            "max": "90",
+            "average": "57.647",
+            "median": "57"
+        },
+        "Finals": {
+            "students": "51",
+            "passFail": "43\/8",
+            "passPercent": "84",
+            "min": "30",
+            "max": "96",
+            "average": "67.608",
+            "median": "69"
+        }
     }
 }
