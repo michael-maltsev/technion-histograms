@@ -36,6 +36,70 @@
             "median": "84"
         }
     },
+    "201502": {
+        "Staff": [
+            {
+                "name": "כץ יבגני",
+                "email": "e-katz@iec.co.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אייל אמנון",
+                "email": "amnoneyal@gmail.com,amnone@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "דרוקר ניר",
+                "email": "nird@technion.ac.il,nird@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "104",
+            "passFail": "81\/23",
+            "passPercent": "78",
+            "min": "0",
+            "max": "100",
+            "average": "67.913",
+            "median": "73"
+        },
+        "Final_A": {
+            "students": "104",
+            "passFail": "81\/23",
+            "passPercent": "78",
+            "min": "0",
+            "max": "100",
+            "average": "75.846",
+            "median": "85"
+        },
+        "Exam_B": {
+            "students": "58",
+            "passFail": "43\/15",
+            "passPercent": "74",
+            "min": "15",
+            "max": "100",
+            "average": "64.328",
+            "median": "65"
+        },
+        "Final_B": {
+            "students": "58",
+            "passFail": "43\/15",
+            "passPercent": "74",
+            "min": "15",
+            "max": "100",
+            "average": "71.586",
+            "median": "75"
+        },
+        "Finals": {
+            "students": "145",
+            "passFail": "130\/15",
+            "passPercent": "90",
+            "min": "15",
+            "max": "100",
+            "average": "81.572",
+            "median": "89"
+        }
+    },
     "201601": {
         "Staff": [
             {
