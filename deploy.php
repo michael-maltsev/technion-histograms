@@ -117,7 +117,7 @@ function process_course($course, &$stats) {
             // Less files - less timeout errors in Github Pages deployment.
             unlink($filename);
 
-            if ($data['max'] >= 200) {
+            if (intval($data['max']) >= 200) {
                 log_warning("$course/$semester/$category: Data with invalid max: {$data['max']}");
             }
 
