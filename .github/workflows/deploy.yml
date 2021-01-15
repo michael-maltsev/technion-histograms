@@ -1,0 +1,30 @@
+name: Deploy Static Content
+
+on: [push, workflow_dispatch]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Cancel Previous Runs
+      uses: styfle/cancel-workflow-action@0.7.0
+      with:
+        access_token: ${{ secrets.GITHUB_TOKEN }}
+    - uses: actions/checkout@v2
+    - name: Cancel Previous Runs Again
+      uses: styfle/cancel-workflow-action@0.7.0
+      with:
+        access_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Set up PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: latest
+    - name: Prepare Static Content
+      run: php deploy.php
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./
+        user_name: 'github-actions[bot]'
+        user_email: 'github-actions[bot]@users.noreply.github.com'
