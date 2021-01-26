@@ -593,13 +593,13 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "אבו זהיא אינס",
-                "email": "enasaz@campus.technion.ac.il",
+                "name": "ערמן ענבר",
+                "email": "inbararman@gmail.com,inbararman@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "ערמן ענבר",
-                "email": "inbararman@gmail.com,inbararman@campus.technion.ac.il",
+                "name": "אבו זהיא אינס",
+                "email": "enasaz@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
@@ -612,13 +612,22 @@
             "average": "76.135",
             "median": "82.045"
         },
+        "Final_B": {
+            "students": "17",
+            "passFail": "11\/6",
+            "passPercent": "65",
+            "min": "35",
+            "max": "85.12",
+            "average": "62.8",
+            "median": "63"
+        },
         "Finals": {
-            "students": "68",
-            "passFail": "59\/9",
-            "passPercent": "87",
-            "min": "18",
+            "students": "72",
+            "passFail": "65\/7",
+            "passPercent": "90",
+            "min": "35",
             "max": "100",
-            "average": "76.221",
+            "average": "78",
             "median": "82"
         }
     },
