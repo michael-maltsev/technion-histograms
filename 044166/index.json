@@ -335,5 +335,37 @@
             "average": "97.555",
             "median": "98"
         }
+    },
+    "201903": {
+        "Staff": [
+            {
+                "name": "כהן ישראל",
+                "email": "icohen@ee.technion.ac.il,cisrael@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טלמון אינה",
+                "email": "ina@ee.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "31",
+            "passFail": "31\/0",
+            "passPercent": "100",
+            "min": "95",
+            "max": "99",
+            "average": "97.129",
+            "median": "97"
+        },
+        "Finals": {
+            "students": "36",
+            "passFail": "36\/0",
+            "passPercent": "100",
+            "min": "95",
+            "max": "99",
+            "average": "97.278",
+            "median": "98"
+        }
     }
 }
