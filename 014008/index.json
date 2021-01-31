@@ -251,9 +251,19 @@
     "201702": {
         "Staff": [
             {
+                "name": "זקס רפאל",
+                "email": "cvsacks@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברק רונן",
+                "email": "ronen@rbarak.com,ronen.barak@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
                 "name": "הרוניאן ערן",
                 "email": "haronian.e@gmail.com,eranha@campus.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -293,13 +303,13 @@
             "median": "72.5"
         },
         "Finals": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "62",
-            "max": "89",
-            "average": "75.538",
-            "median": "78"
+            "students": "62",
+            "passFail": "55\/7",
+            "passPercent": "89",
+            "min": "34",
+            "max": "99",
+            "average": "74.887",
+            "median": "77"
         }
     },
     "201801": {
