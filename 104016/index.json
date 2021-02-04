@@ -1,4 +1,73 @@
 {
+    "200601": {
+        "Staff": [
+            {
+                "name": "נבו עמוס",
+                "email": "anevo@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טיאב שאול",
+                "email": "stayeb@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מלק עליזה",
+                "email": "maliza@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "559",
+            "passFail": "534\/25",
+            "passPercent": "96",
+            "min": "23.05",
+            "max": "100",
+            "average": "84.047",
+            "median": "87.2"
+        },
+        "Final_B": {
+            "students": "92",
+            "passFail": "62\/30",
+            "passPercent": "67",
+            "min": "21",
+            "max": "96",
+            "average": "60.109",
+            "median": "61.45"
+        }
+    },
+    "200602": {
+        "Staff": [
+            {
+                "name": "מוריה יואב",
+                "email": "ymoriah@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מלק עליזה",
+                "email": "maliza@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "186",
+            "passFail": "125\/61",
+            "passPercent": "67",
+            "min": "20.5",
+            "max": "95.2",
+            "average": "59.534",
+            "median": "57.45"
+        },
+        "Final_B": {
+            "students": "125",
+            "passFail": "105\/20",
+            "passPercent": "84",
+            "min": "24",
+            "max": "100",
+            "average": "71.469",
+            "median": "74.4"
+        }
+    },
     "200702": {
         "Staff": [
             {

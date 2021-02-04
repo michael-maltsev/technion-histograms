@@ -1,4 +1,86 @@
 {
+    "200601": {
+        "Staff": [
+            {
+                "name": "שמידט אשר",
+                "email": "chrschm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רטנר תמר",
+                "email": "tamar@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "דוברובצקי רומן",
+                "email": "sroma@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "טוביאס אולגה",
+                "email": "olgoosh@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "לוין ענת",
+                "email": "chanat@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "נודלמן איגור",
+                "email": "igornud@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "גרציקוב יוליה",
+                "email": "sgryulia@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "טלמון אינה",
+                "email": "ina@ee.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "רבין נירה",
+                "email": "nirar@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "הלוי גבריאלה",
+                "email": "gabriele@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שכטר טליה",
+                "email": "talias@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קלופר ויקי",
+                "email": "vitik@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "294",
+            "passFail": "235\/59",
+            "passPercent": "80",
+            "min": "10",
+            "max": "99",
+            "average": "67.276",
+            "median": "69"
+        },
+        "Final_B": {
+            "students": "140",
+            "passFail": "113\/27",
+            "passPercent": "81",
+            "min": "25",
+            "max": "95",
+            "average": "69.707",
+            "median": "71"
+        }
+    },
     "200901": {
         "Staff": [
             {

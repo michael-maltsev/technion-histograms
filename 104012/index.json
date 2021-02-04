@@ -1,4 +1,41 @@
 {
+    "200602": {
+        "Staff": [
+            {
+                "name": "הרי אסף ז\"ל",
+                "email": "assaph@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרלשטיין אמיתי",
+                "email": "amitaip@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "בית-אהרון אור",
+                "email": "oba@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "171",
+            "passFail": "117\/54",
+            "passPercent": "68",
+            "min": "22",
+            "max": "99",
+            "average": "61.041",
+            "median": "59"
+        },
+        "Final_B": {
+            "students": "75",
+            "passFail": "61\/14",
+            "passPercent": "81",
+            "min": "27",
+            "max": "91",
+            "average": "60.107",
+            "median": "58"
+        }
+    },
     "200702": {
         "Staff": [
             {

@@ -1,4 +1,36 @@
 {
+    "200602": {
+        "Staff": [
+            {
+                "name": "גייגר דן",
+                "email": "dang@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גלר ישי",
+                "email": "ishayg@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "206",
+            "passFail": "188\/18",
+            "passPercent": "91",
+            "min": "27",
+            "max": "100",
+            "average": "73.947",
+            "median": "76"
+        },
+        "Final_B": {
+            "students": "88",
+            "passFail": "76\/12",
+            "passPercent": "86",
+            "min": "28",
+            "max": "100",
+            "average": "70.455",
+            "median": "69.5"
+        }
+    },
     "201102": {
         "Staff": [
             {
