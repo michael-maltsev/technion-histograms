@@ -290,5 +290,37 @@
             "average": "77.93",
             "median": "78"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "מוזס יורם",
+                "email": "moses@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כהן שיר",
+                "email": "shir.co@gmail.com,shirco@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "33",
+            "passFail": "28\/5",
+            "passPercent": "85",
+            "min": "30",
+            "max": "95",
+            "average": "69.727",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "33",
+            "passFail": "31\/2",
+            "passPercent": "94",
+            "min": "30",
+            "max": "95",
+            "average": "72.727",
+            "median": "74"
+        }
     }
 }
