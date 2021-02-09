@@ -159,5 +159,52 @@
             "average": "93.914",
             "median": "97"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "פרידמן ירון",
+                "email": "dyitamar@yahoo.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בורנשטיין יעל",
+                "email": "byael@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הראל אילנה",
+                "email": "ilanah1@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "איסמן ליסה",
+                "email": "lisa@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "38",
+            "passFail": "38\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "100",
+            "average": "93.263",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "38",
+            "passFail": "38\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "100",
+            "average": "93.263",
+            "median": "95"
+        }
     }
 }
