@@ -913,5 +913,42 @@
             "average": "72.802",
             "median": "76"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "רבייב דניאל",
+                "email": "danielr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יעקביאן אבירם",
+                "email": "saviram1@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "יחיא יורם",
+                "email": "yoramy@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "336",
+            "passFail": "252\/84",
+            "passPercent": "75",
+            "min": "13",
+            "max": "105",
+            "average": "70.36",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "336",
+            "passFail": "310\/26",
+            "passPercent": "92",
+            "min": "32",
+            "max": "100",
+            "average": "76.158",
+            "median": "77"
+        }
     }
 }
