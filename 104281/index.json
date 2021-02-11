@@ -77,6 +77,57 @@
             "median": "61"
         }
     },
+    "201402": {
+        "Staff": [
+            {
+                "name": "פינסקי רוס",
+                "email": "pinsky@math.technion.ac.il,pinsky@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צוק רעות",
+                "email": "reut@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קרסיק יעקב",
+                "email": "theyakov@gmail.com",
+                "title": "מתרגל"
+            },
+            {
+                "name": "דוד אופיר",
+                "email": "ofirdav@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "60",
+            "passFail": "37\/23",
+            "passPercent": "62",
+            "min": "8",
+            "max": "98",
+            "average": "58.95",
+            "median": "63"
+        },
+        "Final_A": {
+            "students": "60",
+            "passFail": "38\/22",
+            "passPercent": "63",
+            "min": "8",
+            "max": "98",
+            "average": "62.167",
+            "median": "66.5"
+        },
+        "Exam_B": {
+            "students": "36",
+            "passFail": "19\/17",
+            "passPercent": "53",
+            "min": "18",
+            "max": "101",
+            "average": "53.389",
+            "median": "57.5"
+        }
+    },
     "201501": {
         "Staff": [
             {
