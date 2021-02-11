@@ -1,4 +1,54 @@
 {
+    "201502": {
+        "Staff": [
+            {
+                "name": "פינסקי רוס",
+                "email": "pinsky@math.technion.ac.il,pinsky@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קסיס אמיר",
+                "email": "",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "22",
+            "passFail": "16\/6",
+            "passPercent": "73",
+            "min": "15",
+            "max": "98",
+            "average": "65.955",
+            "median": "67.5"
+        },
+        "Final_A": {
+            "students": "22",
+            "passFail": "18\/4",
+            "passPercent": "82",
+            "min": "19",
+            "max": "99",
+            "average": "71.636",
+            "median": "72"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "12\/2",
+            "passPercent": "86",
+            "min": "6",
+            "max": "99",
+            "average": "76.143",
+            "median": "89.5"
+        },
+        "Finals": {
+            "students": "27",
+            "passFail": "25\/2",
+            "passPercent": "93",
+            "min": "6",
+            "max": "99",
+            "average": "79.259",
+            "median": "85"
+        }
+    },
     "201701": {
         "Staff": [
             {
