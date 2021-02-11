@@ -1,4 +1,95 @@
 {
+    "200502": {
+        "Staff": [
+            {
+                "name": "פנחסי רום",
+                "email": "room@math.technion.ac.il,room@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ענב עמית",
+                "email": "amite@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "16",
+            "passFail": "13\/3",
+            "passPercent": "81",
+            "min": "29",
+            "max": "98",
+            "average": "74.375",
+            "median": "81.5"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "7\/4",
+            "passPercent": "64",
+            "min": "31",
+            "max": "100",
+            "average": "68.818",
+            "median": "55"
+        }
+    },
+    "200602": {
+        "Staff": [
+            {
+                "name": "הראל צבי ז\"ל",
+                "email": "rl@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "22",
+            "passFail": "17\/5",
+            "passPercent": "77",
+            "min": "29",
+            "max": "100",
+            "average": "69",
+            "median": "69"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "6\/7",
+            "passPercent": "46",
+            "min": "21",
+            "max": "83",
+            "average": "55.077",
+            "median": "52"
+        }
+    },
+    "200701": {
+        "Staff": [
+            {
+                "name": "שפריר איתי",
+                "email": "shafrir@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברץ סדי",
+                "email": "bartz@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "43",
+            "passFail": "32\/11",
+            "passPercent": "74",
+            "min": "37",
+            "max": "100",
+            "average": "68.535",
+            "median": "68"
+        },
+        "Final_B": {
+            "students": "23",
+            "passFail": "18\/5",
+            "passPercent": "78",
+            "min": "33",
+            "max": "100",
+            "average": "65.87",
+            "median": "67"
+        }
+    },
     "201101": {
         "Staff": [
             {
