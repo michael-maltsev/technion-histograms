@@ -80,5 +80,37 @@
             "average": "87.417",
             "median": "86.5"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "טרטקובסקי לאוניד",
+                "email": "tartak@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בונטין דניס",
+                "email": "buntin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "90",
+            "average": "73.706",
+            "median": "74"
+        },
+        "Final_A": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "94",
+            "average": "83.353",
+            "median": "84"
+        }
     }
 }
