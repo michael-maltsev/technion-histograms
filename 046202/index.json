@@ -57,5 +57,37 @@
             "average": "80.856",
             "median": "81.5"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "לוי יהודה",
+                "email": "kfirylevy@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דניאל טל",
+                "email": "taldanielm@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "94",
+            "passFail": "74\/20",
+            "passPercent": "79",
+            "min": "15",
+            "max": "99",
+            "average": "68.415",
+            "median": "69.5"
+        },
+        "Final_A": {
+            "students": "91",
+            "passFail": "89\/2",
+            "passPercent": "98",
+            "min": "40.64",
+            "max": "99.955",
+            "average": "79.344",
+            "median": "79.29"
+        }
     }
 }
