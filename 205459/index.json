@@ -62,5 +62,28 @@
             "average": "81.877",
             "median": "87"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "עיד רמי",
+                "email": "rami.eid1@gmail.com,rami.eid@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "רז אופק",
+                "email": "ofek.goneen95@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "60",
+            "passFail": "56\/4",
+            "passPercent": "93",
+            "min": "0",
+            "max": "100",
+            "average": "87.117",
+            "median": "94"
+        }
     }
 }
