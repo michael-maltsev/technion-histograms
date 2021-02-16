@@ -135,5 +135,37 @@
             "average": "83.571",
             "median": "88"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "רוטשילד כרמל",
+                "email": "carmelr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מירון דרור",
+                "email": "drormiran@gmail.com,sdmiron@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "12\/4",
+            "passPercent": "75",
+            "min": "0",
+            "max": "100",
+            "average": "67.781",
+            "median": "70.75"
+        },
+        "Final_A": {
+            "students": "16",
+            "passFail": "12\/4",
+            "passPercent": "75",
+            "min": "0",
+            "max": "99.7",
+            "average": "73.112",
+            "median": "81.6"
+        }
     }
 }
