@@ -106,6 +106,75 @@
             "median": "78.5"
         }
     },
+    "201502": {
+        "Staff": [
+            {
+                "name": "שכנר יואב",
+                "email": "yoav@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מנגיסנוב אלון",
+                "email": "alonm@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "בריט אורי",
+                "email": "stinger@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ששון עדן",
+                "email": "sassoon1@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "128",
+            "passFail": "114\/14",
+            "passPercent": "89",
+            "min": "28",
+            "max": "94",
+            "average": "71.242",
+            "median": "72.5"
+        },
+        "Final_A": {
+            "students": "128",
+            "passFail": "125\/3",
+            "passPercent": "98",
+            "min": "39",
+            "max": "95",
+            "average": "76.5",
+            "median": "77"
+        },
+        "Exam_B": {
+            "students": "49",
+            "passFail": "42\/7",
+            "passPercent": "86",
+            "min": "32",
+            "max": "93",
+            "average": "69.857",
+            "median": "72"
+        },
+        "Final_B": {
+            "students": "49",
+            "passFail": "46\/3",
+            "passPercent": "94",
+            "min": "46",
+            "max": "94",
+            "average": "74.98",
+            "median": "76"
+        },
+        "Finals": {
+            "students": "167",
+            "passFail": "162\/5",
+            "passPercent": "97",
+            "min": "40",
+            "max": "98",
+            "average": "79.425",
+            "median": "82"
+        }
+    },
     "201601": {
         "Staff": [
             {

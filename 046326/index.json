@@ -1,4 +1,63 @@
 {
+    "201601": {
+        "Staff": [
+            {
+                "name": "מאיר רון",
+                "email": "rmeir@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הרוש עמרי",
+                "email": "omri.harosh@campus",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "42",
+            "passFail": "29\/13",
+            "passPercent": "69",
+            "min": "20",
+            "max": "98",
+            "average": "66",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "42",
+            "passFail": "37\/5",
+            "passPercent": "88",
+            "min": "38",
+            "max": "100",
+            "average": "76.143",
+            "median": "80"
+        },
+        "Exam_B": {
+            "students": "16",
+            "passFail": "12\/4",
+            "passPercent": "75",
+            "min": "25",
+            "max": "93",
+            "average": "64.938",
+            "median": "67"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "42",
+            "max": "97",
+            "average": "73.062",
+            "median": "74"
+        },
+        "Finals": {
+            "students": "48",
+            "passFail": "47\/1",
+            "passPercent": "98",
+            "min": "42",
+            "max": "100",
+            "average": "79.5",
+            "median": "80.5"
+        }
+    },
     "201701": {
         "Staff": [
             {

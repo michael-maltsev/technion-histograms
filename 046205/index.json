@@ -1,4 +1,45 @@
 {
+    "201601": {
+        "Staff": [
+            {
+                "name": "ששון יגאל",
+                "email": "sason@ee.technion.ac.il,eeigal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כהן רמי",
+                "email": "rc@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "35",
+            "passFail": "35\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "100",
+            "average": "90.371",
+            "median": "92"
+        },
+        "Final_A": {
+            "students": "35",
+            "passFail": "35\/0",
+            "passPercent": "100",
+            "min": "77",
+            "max": "100",
+            "average": "92.229",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "36",
+            "passFail": "36\/0",
+            "passPercent": "100",
+            "min": "77",
+            "max": "100",
+            "average": "92.611",
+            "median": "94"
+        }
+    },
     "201701": {
         "Staff": [
             {
