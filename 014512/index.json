@@ -35,5 +35,42 @@
             "average": "95.188",
             "median": "97"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "דייאן פרוספר",
+                "email": "pdayan777@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "94.143",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "93.955",
+            "median": "95"
+        }
     }
 }
