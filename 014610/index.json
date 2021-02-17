@@ -43,9 +43,19 @@
     "201802": {
         "Staff": [
             {
-                "name": "רביב גבריאל",
-                "email": "gabi@technion.ac.il",
+                "name": "מעין עתיר",
+                "email": "maayan.eng@gmail.com",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -58,12 +68,12 @@
             "median": "82"
         },
         "Final_A": {
-            "students": "15",
-            "passFail": "14\/1",
-            "passPercent": "93",
-            "min": "46",
-            "max": "95",
-            "average": "80.6",
+            "students": "144",
+            "passFail": "144\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "99",
+            "average": "80.715",
             "median": "83"
         },
         "Final_B": {
@@ -76,13 +86,13 @@
             "median": "83"
         },
         "Finals": {
-            "students": "19",
-            "passFail": "18\/1",
-            "passPercent": "95",
-            "min": "46",
-            "max": "95",
-            "average": "80.789",
-            "median": "82"
+            "students": "162",
+            "passFail": "162\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "99",
+            "average": "81.586",
+            "median": "83"
         }
     }
 }
