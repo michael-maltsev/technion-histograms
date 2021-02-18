@@ -271,6 +271,70 @@
             "median": "81"
         }
     },
+    "201601": {
+        "Staff": [
+            {
+                "name": "זילברשטיין מרק",
+                "email": "mark@ee.technion.ac.il,silbmark@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ווייצחוב דני",
+                "email": "dimavoi@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ברגמן שי",
+                "email": "shaiberg1@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "73",
+            "passFail": "57\/16",
+            "passPercent": "78",
+            "min": "31",
+            "max": "105",
+            "average": "67.548",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "73",
+            "passFail": "61\/12",
+            "passPercent": "84",
+            "min": "31",
+            "max": "100",
+            "average": "71.192",
+            "median": "74"
+        },
+        "Exam_B": {
+            "students": "38",
+            "passFail": "28\/10",
+            "passPercent": "74",
+            "min": "31",
+            "max": "98",
+            "average": "65.053",
+            "median": "66"
+        },
+        "Final_B": {
+            "students": "38",
+            "passFail": "33\/5",
+            "passPercent": "87",
+            "min": "31",
+            "max": "97",
+            "average": "69.5",
+            "median": "72"
+        },
+        "Finals": {
+            "students": "88",
+            "passFail": "82\/6",
+            "passPercent": "93",
+            "min": "31",
+            "max": "100",
+            "average": "75.193",
+            "median": "77"
+        }
+    },
     "201602": {
         "Staff": [
             {
