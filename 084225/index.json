@@ -280,5 +280,51 @@
             "average": "61.823",
             "median": "64"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "אינדלמן ואדים",
+                "email": "vadim.indelman@technion.ac.il,vadimind@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רחמן גלינה",
+                "email": "galyrak@gmail.com,galina.rak@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שטיינר מתן",
+                "email": "mst@technion.ac.il,mst@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "108",
+            "passFail": "83\/25",
+            "passPercent": "77",
+            "min": "5",
+            "max": "95",
+            "average": "64.63",
+            "median": "66"
+        },
+        "Final_A": {
+            "students": "108",
+            "passFail": "94\/14",
+            "passPercent": "87",
+            "min": "20.888",
+            "max": "95.85",
+            "average": "70.786",
+            "median": "71.8935"
+        },
+        "Finals": {
+            "students": "108",
+            "passFail": "95\/13",
+            "passPercent": "88",
+            "min": "21",
+            "max": "96",
+            "average": "70.769",
+            "median": "72"
+        }
     }
 }
