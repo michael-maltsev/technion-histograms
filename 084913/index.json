@@ -188,5 +188,28 @@
             "average": "77.875",
             "median": "82.5"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "שפרמן ויטלי",
+                "email": "vitalysh@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "פושקוב מיכל",
+                "email": "pushkov@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "33",
+            "passFail": "27\/6",
+            "passPercent": "82",
+            "min": "20",
+            "max": "98",
+            "average": "68.182",
+            "median": "67"
+        }
     }
 }

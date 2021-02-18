@@ -207,5 +207,37 @@
             "average": "60.443",
             "median": "61"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "יוסילבסקי גיל",
+                "email": "igil@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "וינרב עמית",
+                "email": "weinreba@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "87",
+            "passFail": "43\/44",
+            "passPercent": "49",
+            "min": "0",
+            "max": "100",
+            "average": "52.205",
+            "median": "50"
+        },
+        "Final_A": {
+            "students": "87",
+            "passFail": "69\/18",
+            "passPercent": "79",
+            "min": "24.255",
+            "max": "100",
+            "average": "63.654",
+            "median": "64.362"
+        }
     }
 }
