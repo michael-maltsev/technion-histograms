@@ -594,5 +594,37 @@
             "average": "70.843",
             "median": "76"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "בן-דוד ניר",
+                "email": "benda@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מזרחי גלית",
+                "email": "galitm@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "591",
+            "passFail": "345\/246",
+            "passPercent": "58",
+            "min": "0",
+            "max": "100",
+            "average": "58.635",
+            "median": "62"
+        },
+        "Final_A": {
+            "students": "591",
+            "passFail": "405\/186",
+            "passPercent": "69",
+            "min": "4",
+            "max": "104",
+            "average": "65.651",
+            "median": "71"
+        }
     }
 }
