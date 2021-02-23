@@ -764,5 +764,42 @@
             "average": "74.143",
             "median": "74"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "טל עדו",
+                "email": "idotal@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רוטנשטרייך אורי",
+                "email": "or@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "פלג עמית",
+                "email": "samit22@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "221",
+            "passFail": "190\/31",
+            "passPercent": "86",
+            "min": "0",
+            "max": "100",
+            "average": "70.079",
+            "median": "71"
+        },
+        "Final_A": {
+            "students": "221",
+            "passFail": "209\/12",
+            "passPercent": "95",
+            "min": "15",
+            "max": "100",
+            "average": "74.792",
+            "median": "76"
+        }
     }
 }
