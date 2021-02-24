@@ -543,5 +543,72 @@
             "average": "81.421",
             "median": "82"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "עמירב דרורי לילך",
+                "email": "lilac@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרברי גלית ורד",
+                "email": "galitpar@technion.ac.il,galitpar@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "ברנע אייל",
+                "email": "chbarnea@012.net.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "גילרי עידו",
+                "email": "chgilary@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "לוי מורן",
+                "email": "smoran22@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "עיד עימאד",
+                "email": "semadeid_m@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שפירא רעות",
+                "email": "reutavr@technion.ac.il,reutavr@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מן גיא",
+                "email": "guymann22@gmail.com",
+                "title": "מתרגל"
+            },
+            {
+                "name": "לוי רומי",
+                "email": "romyl@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "336",
+            "passFail": "268\/68",
+            "passPercent": "80",
+            "min": "0",
+            "max": "100",
+            "average": "68.586",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "336",
+            "passFail": "284\/52",
+            "passPercent": "85",
+            "min": "13",
+            "max": "100",
+            "average": "72.818",
+            "median": "73.5"
+        }
     }
 }
