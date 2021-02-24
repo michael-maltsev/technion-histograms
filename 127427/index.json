@@ -180,5 +180,37 @@
             "average": "77.459",
             "median": "82"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "ליפשיץ אפרת",
+                "email": "ssefrat@technion.ac.il,efrat.l@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ציגנוק אנטון",
+                "email": "antonts@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "23",
+            "passFail": "17\/6",
+            "passPercent": "74",
+            "min": "24",
+            "max": "96",
+            "average": "73.043",
+            "median": "79"
+        },
+        "Final_A": {
+            "students": "23",
+            "passFail": "17\/6",
+            "passPercent": "74",
+            "min": "24",
+            "max": "97",
+            "average": "75.043",
+            "median": "83"
+        }
     }
 }
