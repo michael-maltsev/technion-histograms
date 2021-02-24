@@ -196,5 +196,55 @@
             "average": "74.71",
             "median": "75"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "ארד זאב",
+                "email": "zarad@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ירושלמי יורם",
+                "email": "yerushal@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "17",
+            "passFail": "15\/2",
+            "passPercent": "88",
+            "min": "50.5",
+            "max": "85",
+            "average": "69.412",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "14",
+            "passFail": "13\/1",
+            "passPercent": "93",
+            "min": "47",
+            "max": "88",
+            "average": "69.786",
+            "median": "71"
+        },
+        "Exam_B": {
+            "students": "13",
+            "passFail": "11\/2",
+            "passPercent": "85",
+            "min": "43",
+            "max": "90",
+            "average": "72",
+            "median": "75.5"
+        },
+        "Finals": {
+            "students": "14",
+            "passFail": "13\/1",
+            "passPercent": "93",
+            "min": "47",
+            "max": "88",
+            "average": "69.786",
+            "median": "71"
+        }
     }
 }
