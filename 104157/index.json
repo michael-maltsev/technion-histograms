@@ -34,5 +34,28 @@
             "average": "87.36",
             "median": "91"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "ברוך אהוד",
+                "email": "embaruch@math.technion.ac.il,embaruch@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גל אלעד",
+                "email": "galelad@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "26",
+            "passFail": "22\/4",
+            "passPercent": "85",
+            "min": "18",
+            "max": "100",
+            "average": "75.462",
+            "median": "80.5"
+        }
     }
 }
