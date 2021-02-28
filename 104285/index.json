@@ -505,5 +505,37 @@
             "average": "82.857",
             "median": "84"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "מרקוס לודמילה",
+                "email": "epstin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פת ניקה",
+                "email": "nika.pat@gmail.com",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "45",
+            "passFail": "27\/18",
+            "passPercent": "60",
+            "min": "20",
+            "max": "88",
+            "average": "57.6",
+            "median": "60"
+        },
+        "Final_A": {
+            "students": "45",
+            "passFail": "34\/11",
+            "passPercent": "76",
+            "min": "28",
+            "max": "96",
+            "average": "66.978",
+            "median": "71"
+        }
     }
 }
