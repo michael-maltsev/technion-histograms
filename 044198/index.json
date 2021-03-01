@@ -704,5 +704,28 @@
             "average": "74.978",
             "median": "77"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "טלמון רונן",
+                "email": "ronen@ee.technion.ac.il,ronenta2@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סילמן יובל",
+                "email": "yuvalsilman@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "63",
+            "passFail": "42\/21",
+            "passPercent": "67",
+            "min": "10",
+            "max": "95",
+            "average": "64.476",
+            "median": "64"
+        }
     }
 }
