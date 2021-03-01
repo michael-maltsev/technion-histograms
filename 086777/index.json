@@ -1,4 +1,45 @@
 {
+    "201802": {
+        "Staff": [
+            {
+                "name": "אושמן יעקב",
+                "email": "oshman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מודריק לירז",
+                "email": "sliraz@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "13\/3",
+            "passPercent": "81",
+            "min": "50",
+            "max": "100",
+            "average": "73.75",
+            "median": "72.5"
+        },
+        "Final_A": {
+            "students": "15",
+            "passFail": "12\/3",
+            "passPercent": "80",
+            "min": "50",
+            "max": "100",
+            "average": "81.467",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "100",
+            "average": "90.067",
+            "median": "88"
+        }
+    },
     "201902": {
         "Staff": [
             {
