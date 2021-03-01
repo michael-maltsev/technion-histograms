@@ -115,5 +115,46 @@
             "average": "84.357",
             "median": "88.5"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "בכר אהוד",
+                "email": "behar@physics.technion.ac.il,ebehar@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רחין רועי",
+                "email": "roirahin@gmail.com,roir@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "34",
+            "passFail": "30\/4",
+            "passPercent": "88",
+            "min": "38",
+            "max": "98",
+            "average": "73.794",
+            "median": "77"
+        },
+        "Final_A": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "100",
+            "average": "82.559",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "100",
+            "average": "82.559",
+            "median": "85"
+        }
     }
 }
