@@ -1,4 +1,45 @@
 {
+    "201501": {
+        "Staff": [
+            {
+                "name": "פסקין אורי",
+                "email": "uri@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גולדזק תמר",
+                "email": "tami82@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "30",
+            "passFail": "24\/6",
+            "passPercent": "80",
+            "min": "13",
+            "max": "100",
+            "average": "71.767",
+            "median": "78"
+        },
+        "Final_A": {
+            "students": "30",
+            "passFail": "24\/6",
+            "passPercent": "80",
+            "min": "27",
+            "max": "100",
+            "average": "75.9",
+            "median": "81"
+        },
+        "Final_B": {
+            "students": "22",
+            "passFail": "20\/2",
+            "passPercent": "91",
+            "min": "37",
+            "max": "100",
+            "average": "78.273",
+            "median": "84"
+        }
+    },
     "201601": {
         "Staff": [
             {
