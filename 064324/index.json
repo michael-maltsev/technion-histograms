@@ -108,5 +108,28 @@
             "average": "76.761",
             "median": "75.5"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "נפומניאשי אינה",
+                "email": "sinanapo@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פישמן אילת",
+                "email": "afishman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "34",
+            "passFail": "24\/10",
+            "passPercent": "71",
+            "min": "26.5",
+            "max": "90.5",
+            "average": "62.882",
+            "median": "64.25"
+        }
     }
 }
