@@ -1,4 +1,63 @@
 {
+    "201502": {
+        "Staff": [
+            {
+                "name": "רהב סער",
+                "email": "rahavs@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סאפר גדיאל",
+                "email": "gadisap@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "33",
+            "passFail": "21\/12",
+            "passPercent": "64",
+            "min": "14",
+            "max": "97",
+            "average": "66.606",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "33",
+            "passFail": "21\/12",
+            "passPercent": "64",
+            "min": "14",
+            "max": "98",
+            "average": "69.03",
+            "median": "78"
+        },
+        "Exam_B": {
+            "students": "15",
+            "passFail": "10\/5",
+            "passPercent": "67",
+            "min": "20",
+            "max": "78",
+            "average": "53.133",
+            "median": "55"
+        },
+        "Final_B": {
+            "students": "15",
+            "passFail": "10\/5",
+            "passPercent": "67",
+            "min": "20",
+            "max": "82",
+            "average": "58.2",
+            "median": "64"
+        },
+        "Finals": {
+            "students": "38",
+            "passFail": "32\/6",
+            "passPercent": "84",
+            "min": "20",
+            "max": "98",
+            "average": "72.447",
+            "median": "72.5"
+        }
+    },
     "201602": {
         "Staff": [
             {
