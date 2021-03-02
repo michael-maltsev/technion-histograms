@@ -352,5 +352,28 @@
             "average": "79.578",
             "median": "82"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "קסוטו יובל",
+                "email": "ycassuto@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יחזקאל עידו",
+                "email": "idoye@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "33",
+            "passFail": "27\/6",
+            "passPercent": "82",
+            "min": "35",
+            "max": "97",
+            "average": "69.364",
+            "median": "72"
+        }
     }
 }
