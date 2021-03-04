@@ -813,5 +813,37 @@
             "average": "73.642",
             "median": "78"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "רוזנטל אמיר",
+                "email": "amir.r@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אילין יגאל",
+                "email": "yigali@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "66",
+            "passFail": "52\/14",
+            "passPercent": "79",
+            "min": "0",
+            "max": "98",
+            "average": "70.152",
+            "median": "75"
+        },
+        "Final_A": {
+            "students": "66",
+            "passFail": "53\/13",
+            "passPercent": "80",
+            "min": "9",
+            "max": "98",
+            "average": "71.182",
+            "median": "75"
+        }
     }
 }
