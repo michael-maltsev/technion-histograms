@@ -67,5 +67,47 @@
             "average": "88.656",
             "median": "95"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "שלומאי פנחס",
+                "email": "intelect@netvision.net.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מרחב רעות",
+                "email": "reutmerhav@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "גלי סיון",
+                "email": "sivan.gelley@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "פיגנבוים-אור רותם",
+                "email": "rotemfo@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "44",
+            "passFail": "33\/11",
+            "passPercent": "75",
+            "min": "0",
+            "max": "96",
+            "average": "63.545",
+            "median": "66"
+        },
+        "Final_A": {
+            "students": "44",
+            "passFail": "33\/11",
+            "passPercent": "75",
+            "min": "0",
+            "max": "97",
+            "average": "70.818",
+            "median": "79.5"
+        }
     }
 }
