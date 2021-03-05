@@ -117,5 +117,52 @@
             "average": "82.737",
             "median": "85.5"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "פורטל לוטן",
+                "email": "lotan.portal@gmail.com,lotan.portal@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קפלן וויין",
+                "email": "kaplan@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "לנג ערד",
+                "email": "aradlang@gmail.com,aradlang@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "סנדר אושרית",
+                "email": "oshrits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דוד רותי",
+                "email": "ruthi@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "30",
+            "passFail": "29\/1",
+            "passPercent": "97",
+            "min": "50",
+            "max": "100",
+            "average": "82.3",
+            "median": "87"
+        },
+        "Final_A": {
+            "students": "30",
+            "passFail": "29\/1",
+            "passPercent": "97",
+            "min": "50",
+            "max": "100",
+            "average": "82.533",
+            "median": "88"
+        }
     }
 }
