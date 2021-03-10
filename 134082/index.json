@@ -180,5 +180,42 @@
             "average": "80.236",
             "median": "82"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "ערבה יואב",
+                "email": "arava@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כהן בר",
+                "email": "bar.cohen711@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "לוי עופרי",
+                "email": "ofri.le@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "52",
+            "passFail": "52\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "100",
+            "average": "88.5",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "52",
+            "passFail": "52\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "100",
+            "average": "88.5",
+            "median": "90"
+        }
     }
 }
