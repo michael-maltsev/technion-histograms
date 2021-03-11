@@ -41,6 +41,57 @@
             "median": "69"
         }
     },
+    "201201": {
+        "Staff": [
+            {
+                "name": "בן-דוד גל",
+                "email": "gal.bendavid@gmail.com,noreplay@norplay.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צ'רניאקובה טטיאנה",
+                "email": "ctanya@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "יריחוב מירי",
+                "email": "mirier@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פקטור תומר",
+                "email": "tomerfa@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "83",
+            "passFail": "58\/25",
+            "passPercent": "70",
+            "min": "24",
+            "max": "99",
+            "average": "64.602",
+            "median": "67"
+        },
+        "Final_A": {
+            "students": "83",
+            "passFail": "69\/14",
+            "passPercent": "83",
+            "min": "36",
+            "max": "99",
+            "average": "69.952",
+            "median": "72"
+        },
+        "Final_B": {
+            "students": "60",
+            "passFail": "56\/4",
+            "passPercent": "93",
+            "min": "39",
+            "max": "97",
+            "average": "71.117",
+            "median": "73"
+        }
+    },
     "201401": {
         "Staff": [
             {

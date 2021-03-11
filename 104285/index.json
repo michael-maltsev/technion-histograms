@@ -515,26 +515,35 @@
             },
             {
                 "name": "פת ניקה",
-                "email": "nika.pat@gmail.com",
+                "email": "nika.pat@gmail.com,nikapat@technion.ac.il",
                 "title": "מתרגל"
             }
         ],
         "Exam_A": {
             "students": "45",
-            "passFail": "28\/17",
-            "passPercent": "62",
+            "passFail": "30\/15",
+            "passPercent": "67",
             "min": "20",
-            "max": "88",
-            "average": "57.756",
-            "median": "60"
+            "max": "92",
+            "average": "59.756",
+            "median": "61"
         },
         "Final_A": {
             "students": "45",
             "passFail": "34\/11",
             "passPercent": "76",
             "min": "28",
-            "max": "96",
-            "average": "67.111",
+            "max": "99",
+            "average": "68.933",
+            "median": "71"
+        },
+        "Finals": {
+            "students": "45",
+            "passFail": "34\/11",
+            "passPercent": "76",
+            "min": "28",
+            "max": "99",
+            "average": "68.933",
             "median": "71"
         }
     }

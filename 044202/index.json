@@ -45,6 +45,52 @@
             "median": "59.7875"
         }
     },
+    "201201": {
+        "Staff": [
+            {
+                "name": "ששון יגאל",
+                "email": "sason@ee.technion.ac.il,eeigal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סיגלוב דניאל",
+                "email": "dansigal@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ישצ'נקו דמיטרי",
+                "email": "dmitry@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "127",
+            "passFail": "69\/58",
+            "passPercent": "54",
+            "min": "4",
+            "max": "99",
+            "average": "55.614",
+            "median": "58"
+        },
+        "Final_A": {
+            "students": "127",
+            "passFail": "92\/35",
+            "passPercent": "72",
+            "min": "14",
+            "max": "100",
+            "average": "65.488",
+            "median": "68"
+        },
+        "Final_B": {
+            "students": "83",
+            "passFail": "66\/17",
+            "passPercent": "80",
+            "min": "17",
+            "max": "100",
+            "average": "64.145",
+            "median": "61"
+        }
+    },
     "201202": {
         "Staff": [
             {
