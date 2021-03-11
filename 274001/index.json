@@ -1,4 +1,31 @@
 {
+    "201001": {
+        "Staff": [
+            {
+                "name": "רזניק אברהם",
+                "email": "reznick@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "69",
+            "passFail": "66\/3",
+            "passPercent": "96",
+            "min": "44",
+            "max": "98",
+            "average": "74.188",
+            "median": "72"
+        },
+        "Final_B": {
+            "students": "38",
+            "passFail": "36\/2",
+            "passPercent": "95",
+            "min": "43",
+            "max": "100",
+            "average": "75.158",
+            "median": "78.5"
+        }
+    },
     "201201": {
         "Staff": [
             {
@@ -417,6 +444,15 @@
             "max": "98",
             "average": "74.833",
             "median": "78.5"
+        },
+        "Exam_B": {
+            "students": "37",
+            "passFail": "34\/3",
+            "passPercent": "92",
+            "min": "45",
+            "max": "95",
+            "average": "74.243",
+            "median": "75"
         },
         "Finals": {
             "students": "71",

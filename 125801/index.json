@@ -1,4 +1,31 @@
 {
+    "200902": {
+        "Staff": [
+            {
+                "name": "סמעאן סמאח",
+                "email": "samahsi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "287",
+            "passFail": "277\/10",
+            "passPercent": "97",
+            "min": "42",
+            "max": "100",
+            "average": "83.718",
+            "median": "86"
+        },
+        "Final_B": {
+            "students": "106",
+            "passFail": "89\/17",
+            "passPercent": "84",
+            "min": "10",
+            "max": "100",
+            "average": "72.349",
+            "median": "76"
+        }
+    },
     "201002": {
         "Final_A": {
             "students": "243",

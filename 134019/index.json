@@ -1,5 +1,30 @@
 {
+    "201001": {
+        "Staff": [
+            {
+                "name": "גליקמן חגי-מיכאל",
+                "email": "glickman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "143",
+            "passFail": "140\/3",
+            "passPercent": "98",
+            "min": "40",
+            "max": "100",
+            "average": "79.594",
+            "median": "82"
+        }
+    },
     "201002": {
+        "Staff": [
+            {
+                "name": "אדמון אריה",
+                "email": "admon@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
         "Final_B": {
             "students": "80",
             "passFail": "52\/28",
@@ -628,7 +653,7 @@
             "passPercent": "89",
             "min": "14",
             "max": "103",
-            "average": "75.116",
+            "average": "75.181",
             "median": "78"
         },
         "Final_A": {
@@ -637,7 +662,7 @@
             "passPercent": "89",
             "min": "14",
             "max": "102.092",
-            "average": "77.697",
+            "average": "77.752",
             "median": "80.934"
         }
     }
