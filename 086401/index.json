@@ -97,5 +97,41 @@
             "average": "87.517",
             "median": "90"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "שר ערן",
+                "email": "sher@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "35",
+            "passFail": "35\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "97",
+            "average": "87",
+            "median": "87"
+        },
+        "Final_A": {
+            "students": "35",
+            "passFail": "35\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "97",
+            "average": "86.486",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "37",
+            "passFail": "37\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "97",
+            "average": "87.081",
+            "median": "88"
+        }
     }
 }
