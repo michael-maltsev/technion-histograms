@@ -97,5 +97,46 @@
             "average": "77.235",
             "median": "80"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "נוביק-כהן איימי",
+                "email": "amync@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דרקץ' ודים",
+                "email": "vadder@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "13",
+            "passFail": "10\/3",
+            "passPercent": "77",
+            "min": "25",
+            "max": "100",
+            "average": "70.462",
+            "median": "80"
+        },
+        "Final_A": {
+            "students": "13",
+            "passFail": "11\/2",
+            "passPercent": "85",
+            "min": "44.425",
+            "max": "99.52",
+            "average": "78.382",
+            "median": "84.78"
+        },
+        "Finals": {
+            "students": "13",
+            "passFail": "11\/2",
+            "passPercent": "85",
+            "min": "44",
+            "max": "100",
+            "average": "78.462",
+            "median": "85"
+        }
     }
 }
