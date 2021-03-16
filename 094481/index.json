@@ -533,18 +533,13 @@
     "201902": {
         "Staff": [
             {
-                "name": "לוין אלה",
-                "email": "iealla@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "name": "בורדו נדיה",
+                "email": "nadiap@technion.ac.il,nadiabordo@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "רוטבוים אביעד",
                 "email": "",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בורדו נדיה",
-                "email": "nadiap@technion.ac.il,nadiabordo@technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
@@ -670,13 +665,22 @@
             "average": "82.095",
             "median": "85"
         },
-        "Finals": {
-            "students": "137",
-            "passFail": "129\/8",
-            "passPercent": "94",
-            "min": "39",
+        "Final_B": {
+            "students": "44",
+            "passFail": "39\/5",
+            "passPercent": "89",
+            "min": "29",
             "max": "100",
-            "average": "82.095",
+            "average": "73.795",
+            "median": "77.5"
+        },
+        "Finals": {
+            "students": "159",
+            "passFail": "153\/6",
+            "passPercent": "96",
+            "min": "29",
+            "max": "100",
+            "average": "82.472",
             "median": "85"
         }
     }
