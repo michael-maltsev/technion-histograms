@@ -756,5 +756,76 @@
             "average": "83.586",
             "median": "85"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "דליות שגיא",
+                "email": "dalyot@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מלג'אק איתמר",
+                "email": "itamarm@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "וידרו יוליה",
+                "email": "yuliav@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "עווד רידא",
+                "email": "awadrida@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ג'לג'ולה רובא",
+                "email": "sruba93@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "וייל שחף",
+                "email": "shachafona@gmail.com,shaweil@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "כהן אחיטוב",
+                "email": "achic19@gmail.com,achituv@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "57",
+            "passFail": "55\/2",
+            "passPercent": "96",
+            "min": "21",
+            "max": "103",
+            "average": "78.018",
+            "median": "81"
+        },
+        "Final_A": {
+            "students": "53",
+            "passFail": "51\/2",
+            "passPercent": "96",
+            "min": "21",
+            "max": "106",
+            "average": "84",
+            "median": "84"
+        },
+        "Finals": {
+            "students": "53",
+            "passFail": "51\/2",
+            "passPercent": "96",
+            "min": "21",
+            "max": "100",
+            "average": "83.792",
+            "median": "84"
+        }
     }
 }
