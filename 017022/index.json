@@ -71,5 +71,42 @@
             "average": "81.533",
             "median": "82"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "אפשטיין רזי",
+                "email": "raziepsztein@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מלכה אופירה",
+                "email": "ofiramalka@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "15",
+            "passFail": "13\/2",
+            "passPercent": "87",
+            "min": "17",
+            "max": "100",
+            "average": "80.4",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "19",
+            "passFail": "18\/1",
+            "passPercent": "95",
+            "min": "17",
+            "max": "100",
+            "average": "81.842",
+            "median": "82"
+        }
     }
 }
