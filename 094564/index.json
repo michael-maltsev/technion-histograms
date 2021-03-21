@@ -273,16 +273,6 @@
                 "name": "איוב מחמוד",
                 "email": "mahmoda@yvc.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "אגסי זיוה",
-                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
@@ -344,6 +334,15 @@
             "max": "99",
             "average": "70.212",
             "median": "72"
+        },
+        "Final_B": {
+            "students": "47",
+            "passFail": "33\/14",
+            "passPercent": "70",
+            "min": "27",
+            "max": "100",
+            "average": "62.191",
+            "median": "61"
         },
         "Finals": {
             "students": "85",
