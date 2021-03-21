@@ -251,7 +251,7 @@
             },
             {
                 "name": "גרשקוביץ ממן רינת שרית",
-                "email": "rinatgm@technion.ac.il,noreplay@norplay.com",
+                "email": "rinatgm@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -272,6 +272,15 @@
             "max": "100",
             "average": "83.88",
             "median": "85"
+        },
+        "Exam_B": {
+            "students": "13",
+            "passFail": "12\/1",
+            "passPercent": "92",
+            "min": "45",
+            "max": "96",
+            "average": "75.923",
+            "median": "83"
         },
         "Finals": {
             "students": "95",
