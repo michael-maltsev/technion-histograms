@@ -1231,21 +1231,30 @@
             }
         ],
         "Exam_A": {
-            "students": "72",
-            "passFail": "60\/12",
+            "students": "71",
+            "passFail": "59\/12",
             "passPercent": "83",
             "min": "16",
             "max": "99",
-            "average": "70.854",
+            "average": "70.937",
             "median": "78"
         },
         "Final_A": {
-            "students": "72",
-            "passFail": "64\/8",
+            "students": "71",
+            "passFail": "63\/8",
             "passPercent": "89",
             "min": "28",
             "max": "99",
-            "average": "75.917",
+            "average": "76.141",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "71",
+            "passFail": "63\/8",
+            "passPercent": "89",
+            "min": "28",
+            "max": "99",
+            "average": "76.141",
             "median": "82"
         }
     }
