@@ -103,5 +103,46 @@
             "average": "89.717",
             "median": "90"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "ריטל דניאל",
+                "email": "merittel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חן שגיא",
+                "email": "sagich@technion.ac.il,sagich@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "31",
+            "passFail": "29\/2",
+            "passPercent": "94",
+            "min": "5",
+            "max": "100",
+            "average": "84.419",
+            "median": "89"
+        },
+        "Final_B": {
+            "students": "31",
+            "passFail": "5\/26",
+            "passPercent": "16",
+            "min": "5",
+            "max": "93.5",
+            "average": "50.161",
+            "median": "48"
+        },
+        "Finals": {
+            "students": "31",
+            "passFail": "29\/2",
+            "passPercent": "94",
+            "min": "5",
+            "max": "100",
+            "average": "84.419",
+            "median": "89"
+        }
     }
 }
