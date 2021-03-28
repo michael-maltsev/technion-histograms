@@ -128,5 +128,32 @@
             "average": "84.141",
             "median": "85"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "בן-אריה רונן",
+                "email": "ronnen.ba@gmail.com,ronnen@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "95",
+            "passFail": "95\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "97",
+            "average": "85.768",
+            "median": "87"
+        },
+        "Final_A": {
+            "students": "95",
+            "passFail": "95\/0",
+            "passPercent": "100",
+            "min": "72.8",
+            "max": "97",
+            "average": "88.109",
+            "median": "88.6"
+        }
     }
 }
