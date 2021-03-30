@@ -117,9 +117,14 @@
                 "title": "מתרגל"
             },
             {
+                "name": "יחזקאלי עומר",
+                "email": "y.omer@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
                 "name": "פישמן אילת",
                 "email": "afishman@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "title": "מרצה"
             }
         ],
         "Exam_A": {
@@ -140,14 +145,32 @@
             "average": "73.426",
             "median": "75.625"
         },
+        "Exam_B": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "90.5",
+            "average": "77.692",
+            "median": "79"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "12\/1",
+            "passPercent": "92",
+            "min": "52",
+            "max": "92.3",
+            "average": "80.119",
+            "median": "83.05"
+        },
         "Finals": {
-            "students": "34",
-            "passFail": "30\/4",
-            "passPercent": "88",
-            "min": "33",
+            "students": "38",
+            "passFail": "37\/1",
+            "passPercent": "97",
+            "min": "52",
             "max": "97",
-            "average": "73.471",
-            "median": "75.5"
+            "average": "79.553",
+            "median": "81"
         }
     }
 }
