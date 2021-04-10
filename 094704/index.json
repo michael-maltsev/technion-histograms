@@ -3,7 +3,7 @@
         "Staff": [
             {
                 "name": "כהן נועם אשר",
-                "email": "noam1023@gmail.com,cnoam@technion.ac.il",
+                "email": "cnoam@technion.ac.il",
                 "title": "מרצה"
             },
             {
@@ -23,8 +23,26 @@
             "passPercent": "86",
             "min": "41.508",
             "max": "96.354",
-            "average": "71.904",
+            "average": "72.091",
             "median": "74.377"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "6\/5",
+            "passPercent": "55",
+            "min": "50",
+            "max": "84",
+            "average": "64.545",
+            "median": "50"
+        },
+        "Finals": {
+            "students": "49",
+            "passFail": "42\/7",
+            "passPercent": "86",
+            "min": "42",
+            "max": "96",
+            "average": "72.143",
+            "median": "74"
         }
     }
 }
