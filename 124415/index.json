@@ -153,5 +153,28 @@
             "average": "72.2",
             "median": "73.5"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "קולודני אלי",
+                "email": "eliko@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גבע מורן",
+                "email": "mg569@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Finals": {
+            "students": "12",
+            "passFail": "11\/1",
+            "passPercent": "92",
+            "min": "15",
+            "max": "100",
+            "average": "74.667",
+            "median": "75"
+        }
     }
 }
