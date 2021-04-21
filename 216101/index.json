@@ -1,1 +1,25 @@
-[]
+{
+    "201901": {
+        "Staff": [
+            {
+                "name": "ברק מרים",
+                "email": "bmiriam@technion.ac.il,noreplay@norplay.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "עסאקלה שאדי",
+                "email": "as.shadi@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "10",
+            "passFail": "10\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "98",
+            "average": "93.6",
+            "median": "95.5"
+        }
+    }
+}
