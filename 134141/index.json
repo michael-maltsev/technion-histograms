@@ -30,5 +30,37 @@
             "average": "91.955",
             "median": "93"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "שטרן שי",
+                "email": "sstern@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "בירן הדס",
+                "email": "hadas.biran@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "92.1",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "92.1",
+            "median": "95"
+        }
     }
 }
