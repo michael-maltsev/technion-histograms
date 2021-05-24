@@ -159,5 +159,42 @@
             "average": "86.667",
             "median": "88"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "גרופר מורל",
+                "email": "morelg@netvision.net.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שומינוב מאור",
+                "email": "maor1991sh@gmail.com,maorshu@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "כץ שמואל",
+                "email": "katzshm@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "60",
+            "passFail": "60\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "98",
+            "average": "86",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "60",
+            "passFail": "60\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "98",
+            "average": "86",
+            "median": "86"
+        }
     }
 }
