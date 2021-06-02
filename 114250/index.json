@@ -89,5 +89,37 @@
             "average": "85.19",
             "median": "88"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "גרשוני דוד",
+                "email": "dg@physics.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גולדמן אנטולי",
+                "email": "goldman@physics.technion.ac.il,anatolyg@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "92",
+            "average": "84.5",
+            "median": "86.5"
+        },
+        "Finals": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "92",
+            "average": "84.5",
+            "median": "86.5"
+        }
     }
 }
