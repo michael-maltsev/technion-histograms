@@ -62,5 +62,37 @@
             "average": "79.536",
             "median": "80"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "גרינפלד יהושע",
+                "email": "greenfeld@njit.edu",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "26",
+            "passFail": "25\/1",
+            "passPercent": "96",
+            "min": "54",
+            "max": "93",
+            "average": "78.385",
+            "median": "78.5"
+        },
+        "Finals": {
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "93",
+            "average": "79.31",
+            "median": "79"
+        }
     }
 }

@@ -80,5 +80,37 @@
             "average": "65.471",
             "median": "65"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "שטיין צחי",
+                "email": "shtain@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "29",
+            "passFail": "21\/8",
+            "passPercent": "72",
+            "min": "37",
+            "max": "92",
+            "average": "64.483",
+            "median": "69"
+        },
+        "Finals": {
+            "students": "31",
+            "passFail": "27\/4",
+            "passPercent": "87",
+            "min": "34",
+            "max": "92",
+            "average": "67.355",
+            "median": "68"
+        }
     }
 }
