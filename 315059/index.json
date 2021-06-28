@@ -18,5 +18,42 @@
             "average": "86.909",
             "median": "86"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "סלימאן מוחמד",
+                "email": "sleman18@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "סנדר אושרית",
+                "email": "oshrits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דוד רותי",
+                "email": "ruthi@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "83",
+            "max": "93",
+            "average": "89.75",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "83",
+            "max": "93",
+            "average": "89.688",
+            "median": "90"
+        }
     }
 }

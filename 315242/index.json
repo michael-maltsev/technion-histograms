@@ -81,5 +81,37 @@
             "average": "83.444",
             "median": "82"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "סנדר אושרית",
+                "email": "oshrits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דוד רותי",
+                "email": "ruthi@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "89.231",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "89.789",
+            "median": "91"
+        }
     }
 }
