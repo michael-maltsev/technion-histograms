@@ -98,5 +98,46 @@
             "average": "84.6",
             "median": "86"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "סאס מתי",
+                "email": "mesuss@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קייסר דוד",
+                "email": "keisar@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "14\/2",
+            "passPercent": "88",
+            "min": "39",
+            "max": "98",
+            "average": "73",
+            "median": "72.5"
+        },
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "97",
+            "average": "79.562",
+            "median": "78.5"
+        },
+        "Finals": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "97",
+            "average": "79.381",
+            "median": "79"
+        }
     }
 }
