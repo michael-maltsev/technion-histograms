@@ -48,11 +48,6 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "רובין אלאד",
-                "email": "elad.r@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
                 "name": "איינשטיין ליאת",
                 "email": "liate@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -66,6 +61,11 @@
                 "name": "שפורן שירי",
                 "email": "musmach@technion.ac.il,shiris@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "גרשקוביץ ממן רינת שרית",
+                "email": "rinatgm@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -75,6 +75,24 @@
             "min": "50",
             "max": "100",
             "average": "85.2",
+            "median": "88"
+        },
+        "Final_A": {
+            "students": "40",
+            "passFail": "39\/1",
+            "passPercent": "98",
+            "min": "50",
+            "max": "100",
+            "average": "85.55",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "42",
+            "passFail": "41\/1",
+            "passPercent": "98",
+            "min": "53",
+            "max": "100",
+            "average": "85.048",
             "median": "88"
         }
     }
