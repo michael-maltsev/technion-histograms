@@ -250,5 +250,66 @@
             "average": "75.667",
             "median": "76"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "רהב סער",
+                "email": "rahavs@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן אשר אנאל",
+                "email": "anaelba0@gmail.com,sanaelb@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "דה-רויטר גראהם",
+                "email": "graham@technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "אטרש מוחמד",
+                "email": "mohammed.att@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "זלנר-יפע משה מיכאל",
+                "email": "szemicha@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "הלוי גבריאלה",
+                "email": "gabriele@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "53",
+            "max": "88",
+            "average": "73.031",
+            "median": "75"
+        },
+        "Final_A": {
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "53",
+            "max": "91",
+            "average": "79.875",
+            "median": "83"
+        },
+        "Finals": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "91",
+            "average": "81.824",
+            "median": "84"
+        }
     }
 }
