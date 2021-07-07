@@ -462,5 +462,46 @@
             "average": "82.472",
             "median": "86"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "אנטוב מיכאל",
+                "email": "entov@math.technion.ac.il,entov@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברמן סתיו",
+                "email": "stav.berman@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_B": {
+            "students": "11",
+            "passFail": "2\/9",
+            "passPercent": "18",
+            "min": "14",
+            "max": "95",
+            "average": "42.182",
+            "median": "37"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "2\/9",
+            "passPercent": "18",
+            "min": "23",
+            "max": "96",
+            "average": "46.364",
+            "median": "37"
+        },
+        "Finals": {
+            "students": "14",
+            "passFail": "5\/9",
+            "passPercent": "36",
+            "min": "23",
+            "max": "100",
+            "average": "54.857",
+            "median": "48.5"
+        }
     }
 }
