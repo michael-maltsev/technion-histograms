@@ -116,5 +116,28 @@
             "average": "83.12",
             "median": "83"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "גליץ' פבל",
+                "email": "galich.pi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פושקוב מיכל",
+                "email": "pushkov@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "75",
+            "passFail": "67\/8",
+            "passPercent": "89",
+            "min": "24",
+            "max": "100",
+            "average": "70.133",
+            "median": "68"
+        }
     }
 }
