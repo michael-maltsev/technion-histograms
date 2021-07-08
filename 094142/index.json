@@ -182,9 +182,14 @@
     "202001": {
         "Staff": [
             {
+                "name": "גורפינקל אירינה",
+                "email": "cirina@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
                 "name": "שניץ בוריס",
                 "email": "shnitsb@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "title": "מרצה"
             },
             {
                 "name": "אגסי זיוה",
@@ -206,13 +211,22 @@
             "average": "65.259",
             "median": "69"
         },
+        "Final_B": {
+            "students": "15",
+            "passFail": "12\/3",
+            "passPercent": "80",
+            "min": "47",
+            "max": "93",
+            "average": "65.067",
+            "median": "64"
+        },
         "Finals": {
-            "students": "27",
-            "passFail": "21\/6",
-            "passPercent": "78",
-            "min": "34",
-            "max": "91",
-            "average": "65.259",
+            "students": "36",
+            "passFail": "32\/4",
+            "passPercent": "89",
+            "min": "41",
+            "max": "93",
+            "average": "68.028",
             "median": "69"
         }
     }
