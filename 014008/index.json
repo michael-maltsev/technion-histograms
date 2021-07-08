@@ -573,5 +573,38 @@
             "average": "78.007",
             "median": "81"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "שחף מרדכי עודד",
+                "email": "mordeschaap@gmail.com,schaap@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברק רונן",
+                "email": "ronen@rbarak.com,ronen.barak@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "78",
+            "passFail": "69\/9",
+            "passPercent": "88",
+            "min": "18",
+            "max": "95",
+            "average": "69.949",
+            "median": "72"
+        }
     }
 }
