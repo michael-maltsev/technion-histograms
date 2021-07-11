@@ -100,7 +100,7 @@
             "passPercent": "95",
             "min": "53",
             "max": "100",
-            "average": "80.7",
+            "average": "80.95",
             "median": "82.5"
         },
         "Final_A": {
@@ -109,8 +109,17 @@
             "passPercent": "100",
             "min": "67",
             "max": "100",
-            "average": "86.9",
+            "average": "87.05",
             "median": "88.5"
+        },
+        "Finals": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "87.333",
+            "median": "89"
         }
     }
 }
