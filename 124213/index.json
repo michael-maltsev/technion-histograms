@@ -262,5 +262,37 @@
             "average": "78.912",
             "median": "84"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "אמדורסקי נדב",
+                "email": "amdursky@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יוחנובסקי אנה",
+                "email": "y.anna@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "70",
+            "passFail": "59\/11",
+            "passPercent": "84",
+            "min": "8",
+            "max": "97",
+            "average": "70.629",
+            "median": "73.5"
+        },
+        "Final_A": {
+            "students": "70",
+            "passFail": "62\/8",
+            "passPercent": "89",
+            "min": "11",
+            "max": "100",
+            "average": "74.743",
+            "median": "77.5"
+        }
     }
 }
