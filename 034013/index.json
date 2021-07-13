@@ -577,5 +577,38 @@
             "average": "71.381",
             "median": "70"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "ברקוביץ מורן",
+                "email": "mberco@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גבאי ישראל",
+                "email": "israelgabay1@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "וידקר דניאל",
+                "email": "capojam@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אלגריסי מור",
+                "email": "morelgarisi24@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "93",
+            "passFail": "68\/25",
+            "passPercent": "73",
+            "min": "5",
+            "max": "98",
+            "average": "62.774",
+            "median": "64"
+        }
     }
 }
