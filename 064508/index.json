@@ -50,5 +50,57 @@
             "average": "93.259",
             "median": "92"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "שולמי סמדר",
+                "email": "smadars@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרלה עדן",
+                "email": "eden.perle@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "בן דוד נועה",
+                "email": "noazinn@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "לייטרר קרולינה",
+                "email": "lajterer@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "חמלניק אולג",
+                "email": "solegc@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "פיגנבוים-אור רותם",
+                "email": "rotemfo@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            }
+        ],
+        "Exam_A": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "98",
+            "average": "89.02",
+            "median": "92"
+        },
+        "Final_A": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "97",
+            "average": "90",
+            "median": "91"
+        }
     }
 }
