@@ -34,5 +34,37 @@
             "average": "86.75",
             "median": "87"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "מויסייב קונסטנטין",
+                "email": "mkostya@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סטניסלבסקי אמנון",
+                "email": "amnons@marvell.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "12",
+            "passFail": "9\/3",
+            "passPercent": "75",
+            "min": "47",
+            "max": "87",
+            "average": "65.583",
+            "median": "67.5"
+        },
+        "Final_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "89.5",
+            "average": "78.542",
+            "median": "79.25"
+        }
     }
 }
