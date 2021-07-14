@@ -123,5 +123,38 @@
             "average": "78.868",
             "median": "80"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "סגל אסתר",
+                "email": "esegal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דוידוביץ-פנח מאיה",
+                "email": "dmaya@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "פרינץ סתר עופר",
+                "email": "ofer.afr@gmail.com,oferp@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שמעוני נטע",
+                "email": "netashimony@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "28",
+            "passFail": "27\/1",
+            "passPercent": "96",
+            "min": "50",
+            "max": "94",
+            "average": "80.286",
+            "median": "82"
+        }
     }
 }
