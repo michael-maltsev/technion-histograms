@@ -99,5 +99,42 @@
             "average": "81.463",
             "median": "81"
         }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "אל ולי פיסל",
+                "email": "faisal.al@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "105",
+            "passFail": "105\/0",
+            "passPercent": "100",
+            "min": "64.183",
+            "max": "98.4",
+            "average": "85.296",
+            "median": "86.637"
+        },
+        "Finals": {
+            "students": "106",
+            "passFail": "106\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "98",
+            "average": "85.425",
+            "median": "86.5"
+        }
     }
 }
