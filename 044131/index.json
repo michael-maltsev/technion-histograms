@@ -260,7 +260,7 @@
         "Staff": [
             {
                 "name": "שורץ אדם",
-                "email": "adam@ee.technion.ac.il,noreplay@norplay.com",
+                "email": "adam@ee.technion.ac.il,adam@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -377,6 +377,43 @@
             "max": "99",
             "average": "76.905",
             "median": "80"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "שורץ אדם",
+                "email": "adam@ee.technion.ac.il,adam@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-דוד גל",
+                "email": "gal.bendavid@gmail.com,noreplay@norplay.com",
+                "title": "מרצה"
+            },
+            {
+                "name": "זיו רון",
+                "email": "ronziv@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "302",
+            "passFail": "234\/68",
+            "passPercent": "77",
+            "min": "15",
+            "max": "96",
+            "average": "63.278",
+            "median": "64"
+        },
+        "Final_A": {
+            "students": "302",
+            "passFail": "258\/44",
+            "passPercent": "85",
+            "min": "15",
+            "max": "99",
+            "average": "72.993",
+            "median": "77"
         }
     }
 }
