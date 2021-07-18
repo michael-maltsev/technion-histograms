@@ -1206,5 +1206,32 @@
             "average": "75.568",
             "median": "80"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "גובר שלומי",
+                "email": "shlomigo@technion.ac.il,shlomigo@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "93",
+            "passFail": "62\/31",
+            "passPercent": "67",
+            "min": "8",
+            "max": "90",
+            "average": "58.935",
+            "median": "61"
+        },
+        "Final_A": {
+            "students": "93",
+            "passFail": "79\/14",
+            "passPercent": "85",
+            "min": "14",
+            "max": "97",
+            "average": "69.011",
+            "median": "71"
+        }
     }
 }
