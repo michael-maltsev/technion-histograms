@@ -62,5 +62,32 @@
             "average": "85.356",
             "median": "88"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "משנה דוד",
+                "email": "davidm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "30",
+            "passFail": "29\/1",
+            "passPercent": "97",
+            "min": "47",
+            "max": "99",
+            "average": "77.833",
+            "median": "77"
+        },
+        "Final_A": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "99",
+            "average": "83.333",
+            "median": "84"
+        }
     }
 }
