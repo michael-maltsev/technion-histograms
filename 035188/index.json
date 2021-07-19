@@ -218,5 +218,28 @@
             "average": "73.872",
             "median": "76"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "פלמור זלמן",
+                "email": "palmor@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברקאי גל",
+                "email": "galbarkai@gmail.com,galbarkai@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "31",
+            "passFail": "19\/12",
+            "passPercent": "61",
+            "min": "36",
+            "max": "84",
+            "average": "60.226",
+            "median": "60"
+        }
     }
 }
