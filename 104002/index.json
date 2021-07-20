@@ -153,5 +153,37 @@
             "average": "72.18",
             "median": "75"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "אהרוני רון",
+                "email": "ra@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דולב אור",
+                "email": "ordolev@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "26",
+            "passFail": "9\/17",
+            "passPercent": "35",
+            "min": "0",
+            "max": "100",
+            "average": "44.231",
+            "median": "42"
+        },
+        "Final_A": {
+            "students": "26",
+            "passFail": "18\/8",
+            "passPercent": "69",
+            "min": "29",
+            "max": "100",
+            "average": "67.077",
+            "median": "67"
+        }
     }
 }
