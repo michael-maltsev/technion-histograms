@@ -127,13 +127,13 @@
     "202002": {
         "Staff": [
             {
-                "name": "סגל אסתר",
-                "email": "esegal@technion.ac.il",
+                "name": "דוידוביץ-פנח מאיה",
+                "email": "dmaya@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "דוידוביץ-פנח מאיה",
-                "email": "dmaya@technion.ac.il",
+                "name": "סגל אסתר",
+                "email": "esegal@technion.ac.il",
                 "title": "מרצה"
             },
             {
@@ -155,6 +155,15 @@
             "max": "94",
             "average": "80.286",
             "median": "82"
+        },
+        "Final_A": {
+            "students": "28",
+            "passFail": "27\/1",
+            "passPercent": "96",
+            "min": "50",
+            "max": "95",
+            "average": "82.643",
+            "median": "84"
         }
     }
 }
