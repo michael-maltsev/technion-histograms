@@ -57,5 +57,37 @@
             "average": "73.795",
             "median": "74"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "אהרוני רון",
+                "email": "ra@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בדר שקד",
+                "email": "shaked.bader@gmail.com,shaked.bader@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "25",
+            "passFail": "11\/14",
+            "passPercent": "44",
+            "min": "14",
+            "max": "95",
+            "average": "53.12",
+            "median": "49"
+        },
+        "Final_A": {
+            "students": "25",
+            "passFail": "18\/7",
+            "passPercent": "72",
+            "min": "34.475",
+            "max": "100",
+            "average": "69.114",
+            "median": "65.3"
+        }
     }
 }
