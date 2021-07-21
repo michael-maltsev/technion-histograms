@@ -121,5 +121,28 @@
             "average": "77.618",
             "median": "78"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "דגן יובל",
+                "email": "yuvalda@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חמו עומרי",
+                "email": "shemo@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "74",
+            "passFail": "64\/10",
+            "passPercent": "86",
+            "min": "19",
+            "max": "100",
+            "average": "72.986",
+            "median": "77"
+        }
     }
 }
