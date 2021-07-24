@@ -620,5 +620,42 @@
             "average": "80.111",
             "median": "79"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "קרצו בן",
+                "email": "benkretzu@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אלפסי עמית",
+                "email": "amit.alfassy@gmail.com",
+                "title": "מתרגל"
+            },
+            {
+                "name": "כפתורי רן",
+                "email": "kaftoryr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "90",
+            "passFail": "71\/19",
+            "passPercent": "79",
+            "min": "21",
+            "max": "100",
+            "average": "69.556",
+            "median": "73"
+        },
+        "Final_A": {
+            "students": "90",
+            "passFail": "76\/14",
+            "passPercent": "84",
+            "min": "29",
+            "max": "100",
+            "average": "73.244",
+            "median": "76.5"
+        }
     }
 }
