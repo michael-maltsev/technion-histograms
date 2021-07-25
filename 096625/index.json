@@ -72,5 +72,38 @@
             "average": "90.657",
             "median": "91"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "פרוש אבי",
+                "email": "aparush@ie.technion.ac.il,aparush@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן עוז רון",
+                "email": "ronshh@gmail.com,ronbenoz@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אגסי זיוה",
+                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "114",
+            "passFail": "114\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "100",
+            "average": "95.605",
+            "median": "97"
+        }
     }
 }
