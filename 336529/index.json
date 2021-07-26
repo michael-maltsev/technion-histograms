@@ -71,5 +71,37 @@
             "average": "93.293",
             "median": "94"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "לבנברג שולמית",
+                "email": "shulamit@bm.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ניומן אביגיל",
+                "email": "abigail.ne@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "37",
+            "passFail": "36\/1",
+            "passPercent": "97",
+            "min": "54",
+            "max": "100",
+            "average": "79.162",
+            "median": "79"
+        },
+        "Final_A": {
+            "students": "36",
+            "passFail": "36\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "99",
+            "average": "84.167",
+            "median": "84"
+        }
     }
 }
