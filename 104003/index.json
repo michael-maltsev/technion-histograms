@@ -814,5 +814,37 @@
             "average": "72.609",
             "median": "77"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "כהן יוסף",
+                "email": "coheny@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אביטל רבקה",
+                "email": "rivka_a@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "34",
+            "passFail": "13\/21",
+            "passPercent": "38",
+            "min": "3",
+            "max": "78",
+            "average": "40.971",
+            "median": "43.5"
+        },
+        "Final_A": {
+            "students": "34",
+            "passFail": "18\/16",
+            "passPercent": "53",
+            "min": "11",
+            "max": "86",
+            "average": "51.971",
+            "median": "55"
+        }
     }
 }
