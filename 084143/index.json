@@ -112,5 +112,37 @@
             "average": "72.127",
             "median": "72"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "יודילביץ גיל",
+                "email": "gily@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יואלס צוף",
+                "email": "tsoof.joels@gmail.com,tsoof@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "78",
+            "passFail": "77\/1",
+            "passPercent": "99",
+            "min": "43.57",
+            "max": "98.3",
+            "average": "87.907",
+            "median": "89.615"
+        },
+        "Finals": {
+            "students": "78",
+            "passFail": "77\/1",
+            "passPercent": "99",
+            "min": "44",
+            "max": "98",
+            "average": "87.962",
+            "median": "90"
+        }
     }
 }
