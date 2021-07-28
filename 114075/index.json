@@ -1088,5 +1088,32 @@
             "average": "79.467",
             "median": "80"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "בונין גיא",
+                "email": "buning@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "230",
+            "passFail": "160\/70",
+            "passPercent": "70",
+            "min": "29.167",
+            "max": "100",
+            "average": "67.681",
+            "median": "70.833"
+        },
+        "Final_A": {
+            "students": "230",
+            "passFail": "193\/37",
+            "passPercent": "84",
+            "min": "39.625",
+            "max": "100",
+            "average": "72.391",
+            "median": "75.071"
+        }
     }
 }
