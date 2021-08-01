@@ -1,4 +1,37 @@
 {
+    "200302": {
+        "Staff": [
+            {
+                "name": "קולודני אבינועם",
+                "email": "kolodny@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מורד תומר",
+                "email": "tomerm@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "בולוטין יבגני",
+                "email": "evgeny.bolotin@intel.com",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אפרימוב מדלנה",
+                "email": "madlena@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "94",
+            "passFail": "90\/4",
+            "passPercent": "96",
+            "min": "39",
+            "max": "94",
+            "average": "73.447",
+            "median": "74"
+        }
+    },
     "201701": {
         "Staff": [
             {

@@ -1,4 +1,51 @@
 {
+    "200401": {
+        "Staff": [
+            {
+                "name": "כהן ישראל",
+                "email": "icohen@ee.technion.ac.il,cisrael@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סבג ארז",
+                "email": "erezs@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ארז יעל",
+                "email": "yael.erez@gmail.com",
+                "title": "מתרגל"
+            },
+            {
+                "name": "לנדה זויה",
+                "email": "lzoya@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "כהן אסף",
+                "email": "soofsoof@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "85",
+            "passFail": "66\/19",
+            "passPercent": "78",
+            "min": "34",
+            "max": "100",
+            "average": "65.318",
+            "median": "63"
+        },
+        "Final_B": {
+            "students": "54",
+            "passFail": "33\/21",
+            "passPercent": "61",
+            "min": "6",
+            "max": "87",
+            "average": "56.019",
+            "median": "56.5"
+        }
+    },
     "201102": {
         "Staff": [
             {
