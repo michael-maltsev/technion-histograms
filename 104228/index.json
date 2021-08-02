@@ -761,5 +761,32 @@
             "average": "72.679",
             "median": "75"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "קרוש-ברם מרינה",
+                "email": "mbram@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "121",
+            "passFail": "79\/42",
+            "passPercent": "65",
+            "min": "6",
+            "max": "100",
+            "average": "60.14",
+            "median": "64"
+        },
+        "Final_A": {
+            "students": "121",
+            "passFail": "94\/27",
+            "passPercent": "78",
+            "min": "12",
+            "max": "100",
+            "average": "67.041",
+            "median": "71"
+        }
     }
 }
