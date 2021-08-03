@@ -225,5 +225,42 @@
             "average": "92.97",
             "median": "94"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "ונגרוביץ ניבה",
+                "email": "nivawen@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "אגסי זיוה",
+                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "71",
+            "passFail": "71\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "99",
+            "average": "93.127",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "71",
+            "passFail": "71\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "99",
+            "average": "93.127",
+            "median": "93"
+        }
     }
 }
