@@ -36,11 +36,57 @@
             "median": "48"
         }
     },
+    "201101": {
+        "Staff": [
+            {
+                "name": "שטינברג יוסף",
+                "email": "ysteinbe@ee.technion.ac.il,noreplay@norplay.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ישצ'נקו דמיטרי",
+                "email": "dmitry@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "סיגלוב דניאל",
+                "email": "dansigal@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "132",
+            "passFail": "102\/30",
+            "passPercent": "77",
+            "min": "27",
+            "max": "100",
+            "average": "66.129",
+            "median": "67"
+        },
+        "Final_A": {
+            "students": "132",
+            "passFail": "111\/21",
+            "passPercent": "84",
+            "min": "34.15",
+            "max": "100",
+            "average": "69.039",
+            "median": "69.0375"
+        },
+        "Final_B": {
+            "students": "73",
+            "passFail": "60\/13",
+            "passPercent": "82",
+            "min": "13.5",
+            "max": "100",
+            "average": "68.38",
+            "median": "67.6"
+        }
+    },
     "201102": {
         "Staff": [
             {
                 "name": "ששון יגאל",
-                "email": "sason@ee.technion.ac.il",
+                "email": "sason@ee.technion.ac.il,eeigal@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {

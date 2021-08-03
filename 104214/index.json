@@ -131,5 +131,37 @@
             "average": "75.918",
             "median": "78"
         }
+    },
+    "201003": {
+        "Staff": [
+            {
+                "name": "הרמלין ראובן",
+                "email": "reuvenhe@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זלקמן-סמירין אולגה",
+                "email": "olgasm@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "15",
+            "passFail": "11\/4",
+            "passPercent": "73",
+            "min": "32",
+            "max": "93",
+            "average": "63.267",
+            "median": "58"
+        },
+        "Final_B": {
+            "students": "25",
+            "passFail": "16\/9",
+            "passPercent": "64",
+            "min": "2",
+            "max": "91",
+            "average": "55.48",
+            "median": "55"
+        }
     }
 }
