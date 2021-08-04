@@ -565,5 +565,37 @@
             "average": "76.917",
             "median": "83.5"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "קניגל עמית",
+                "email": "amitk@physics.technion.ac.il,phamit@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אגמון דוד",
+                "email": "agmon1@gmail.com,agmon1@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Final_A": {
+            "students": "53",
+            "passFail": "46\/7",
+            "passPercent": "87",
+            "min": "19.999",
+            "max": "99.998",
+            "average": "67.755",
+            "median": "70.159"
+        },
+        "Finals": {
+            "students": "53",
+            "passFail": "46\/7",
+            "passPercent": "87",
+            "min": "20",
+            "max": "100",
+            "average": "67.755",
+            "median": "70"
+        }
     }
 }
