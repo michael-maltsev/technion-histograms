@@ -310,5 +310,28 @@
             "average": "85.053",
             "median": "89"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "ירון סימה",
+                "email": "simay@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "בז'ה עודד",
+                "email": "beja@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "35",
+            "passFail": "31\/4",
+            "passPercent": "89",
+            "min": "35",
+            "max": "99",
+            "average": "76.829",
+            "median": "80"
+        }
     }
 }
