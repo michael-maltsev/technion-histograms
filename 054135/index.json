@@ -423,5 +423,37 @@
             "average": "80.889",
             "median": "86"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "גרדר גדעון",
+                "email": "grader@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קרלין ענת",
+                "email": "anatkarlin@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "96",
+            "passFail": "78\/18",
+            "passPercent": "81",
+            "min": "11",
+            "max": "100",
+            "average": "76.698",
+            "median": "85.5"
+        },
+        "Final_A": {
+            "students": "96",
+            "passFail": "78\/18",
+            "passPercent": "81",
+            "min": "11",
+            "max": "100",
+            "average": "77.448",
+            "median": "86"
+        }
     }
 }
