@@ -158,5 +158,38 @@
             "average": "75.639",
             "median": "76"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "שם-טוב תומר",
+                "email": "tomerst@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אבו האני ג'ואל",
+                "email": "abu.h@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "51",
+            "passFail": "50\/1",
+            "passPercent": "98",
+            "min": "46",
+            "max": "99",
+            "average": "83.235",
+            "median": "83"
+        }
     }
 }
