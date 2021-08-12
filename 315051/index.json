@@ -217,11 +217,40 @@
     "202002": {
         "Staff": [
             {
-                "name": "וונג חואן",
-                "email": "wang.yuan@technion.ac.il",
+                "name": "רבקין יוג'ין",
+                "email": "erabkin@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "צימרמן יהונתן",
+                "email": "yoni3246@gmail.com,jonathan-zim@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אלבז יובל",
+                "email": "eyuvalb@gmail.com,eyuval@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "סנדר אושרית",
+                "email": "oshrits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דוד רותי",
+                "email": "ruthi@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
+        "Final_A": {
+            "students": "34",
+            "passFail": "32\/2",
+            "passPercent": "94",
+            "min": "25",
+            "max": "97",
+            "average": "72.206",
+            "median": "74"
+        },
         "Finals": {
             "students": "86",
             "passFail": "72\/14",
