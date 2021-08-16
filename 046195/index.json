@@ -690,13 +690,22 @@
             }
         ],
         "Exam_A": {
-            "students": "145",
-            "passFail": "113\/32",
-            "passPercent": "78",
+            "students": "146",
+            "passFail": "113\/33",
+            "passPercent": "77",
             "min": "14",
             "max": "100",
-            "average": "70.876",
+            "average": "70.63",
             "median": "75"
+        },
+        "Final_A": {
+            "students": "146",
+            "passFail": "130\/16",
+            "passPercent": "89",
+            "min": "30.8",
+            "max": "99.825",
+            "average": "75.894",
+            "median": "79.775"
         }
     }
 }
