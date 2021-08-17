@@ -1,4 +1,45 @@
 {
+    "201701": {
+        "Staff": [
+            {
+                "name": "טרטקובסקי לאוניד",
+                "email": "tartak@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אייל אמנון",
+                "email": "amnoneyal@gmail.com,amnone@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "95",
+            "average": "86.188",
+            "median": "88"
+        },
+        "Final_A": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "97",
+            "average": "90.8",
+            "median": "91"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "97",
+            "average": "88.5",
+            "median": "91"
+        }
+    },
     "201801": {
         "Staff": [
             {

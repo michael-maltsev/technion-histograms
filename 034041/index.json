@@ -17,6 +17,65 @@
             "median": "84.5"
         }
     },
+    "201601": {
+        "Staff": [
+            {
+                "name": "שפירא מיכאל",
+                "email": "mersm01@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חביב שמרי",
+                "email": "shimry@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "84",
+            "passFail": "55\/29",
+            "passPercent": "65",
+            "min": "0",
+            "max": "111",
+            "average": "64.929",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "84",
+            "passFail": "60\/24",
+            "passPercent": "71",
+            "min": "10",
+            "max": "100",
+            "average": "68.048",
+            "median": "72"
+        },
+        "Exam_B": {
+            "students": "34",
+            "passFail": "27\/7",
+            "passPercent": "79",
+            "min": "30",
+            "max": "103",
+            "average": "68.853",
+            "median": "69"
+        },
+        "Final_B": {
+            "students": "34",
+            "passFail": "29\/5",
+            "passPercent": "85",
+            "min": "34",
+            "max": "100",
+            "average": "71.353",
+            "median": "73"
+        },
+        "Finals": {
+            "students": "96",
+            "passFail": "84\/12",
+            "passPercent": "88",
+            "min": "29",
+            "max": "100",
+            "average": "75.25",
+            "median": "77"
+        }
+    },
     "201602": {
         "Exam_A": {
             "students": "71",
