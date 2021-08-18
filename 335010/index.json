@@ -185,5 +185,42 @@
             "average": "84.047",
             "median": "86"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "ליכטנשטיין אוסקר",
+                "email": "oscar@bm.technion.ac.il,oscar@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דבי ליאור",
+                "email": "debbbi6@yahoo.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הרבסט יאיר",
+                "email": "yair.herbst@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "46",
+            "passFail": "43\/3",
+            "passPercent": "93",
+            "min": "49",
+            "max": "96",
+            "average": "80.978",
+            "median": "82.5"
+        },
+        "Finals": {
+            "students": "46",
+            "passFail": "43\/3",
+            "passPercent": "93",
+            "min": "49",
+            "max": "96",
+            "average": "80.978",
+            "median": "82.5"
+        }
     }
 }
