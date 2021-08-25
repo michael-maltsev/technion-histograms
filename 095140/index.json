@@ -1,4 +1,45 @@
 {
+    "201701": {
+        "Staff": [
+            {
+                "name": "כהן יצחק",
+                "email": "izikc@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ירון נחמיה",
+                "email": "nyaron@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "23",
+            "passFail": "18\/5",
+            "passPercent": "78",
+            "min": "42",
+            "max": "89",
+            "average": "64.304",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "23",
+            "passFail": "20\/3",
+            "passPercent": "87",
+            "min": "53",
+            "max": "91",
+            "average": "70.304",
+            "median": "71"
+        },
+        "Finals": {
+            "students": "27",
+            "passFail": "26\/1",
+            "passPercent": "96",
+            "min": "51",
+            "max": "95",
+            "average": "72.704",
+            "median": "72"
+        }
+    },
     "201801": {
         "Staff": [
             {
