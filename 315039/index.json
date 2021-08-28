@@ -1,4 +1,45 @@
 {
+    "201602": {
+        "Staff": [
+            {
+                "name": "ריוס פבלו פביאן",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גזית נמרוד",
+                "email": "ng@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "34",
+            "passFail": "27\/7",
+            "passPercent": "79",
+            "min": "31",
+            "max": "100",
+            "average": "74.588",
+            "median": "80"
+        },
+        "Final_B": {
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "75.111",
+            "median": "73"
+        },
+        "Finals": {
+            "students": "45",
+            "passFail": "44\/1",
+            "passPercent": "98",
+            "min": "31",
+            "max": "100",
+            "average": "79.133",
+            "median": "78"
+        }
+    },
     "201702": {
         "Staff": [
             {

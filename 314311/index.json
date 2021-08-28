@@ -1,4 +1,55 @@
 {
+    "201602": {
+        "Staff": [
+            {
+                "name": "עברי יכין",
+                "email": "ivry@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אופן ענבל",
+                "email": "inbaloffen@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פרנקנשטיין הדר",
+                "email": "hadarf@technion.ac.il,hadarf@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קוזאצ'קביץ סטניסלב",
+                "email": "stas99@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "26",
+            "passFail": "25\/1",
+            "passPercent": "96",
+            "min": "2",
+            "max": "98",
+            "average": "77.038",
+            "median": "84"
+        },
+        "Final_B": {
+            "students": "20",
+            "passFail": "16\/4",
+            "passPercent": "80",
+            "min": "20",
+            "max": "83",
+            "average": "63.85",
+            "median": "67"
+        },
+        "Finals": {
+            "students": "39",
+            "passFail": "36\/3",
+            "passPercent": "92",
+            "min": "20",
+            "max": "98",
+            "average": "73.795",
+            "median": "71"
+        }
+    },
     "201702": {
         "Staff": [
             {
