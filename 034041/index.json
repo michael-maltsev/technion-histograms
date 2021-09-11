@@ -264,18 +264,18 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "בטחיש בהיג'",
-                "email": "baheej.91@hotmail.com",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
                 "name": "עברון יגאל",
                 "email": "shmigal@technion.ac.il,shmigal@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "חביב שמרי",
-                "email": "shimry@technion.ac.il,shimry@campus.technion.ac.il",
+                "email": "shimry@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בטחיש בהיג'",
+                "email": "baheej.91@hotmail.com",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
@@ -317,11 +317,11 @@
         },
         "Finals": {
             "students": "99",
-            "passFail": "91\/8",
-            "passPercent": "92",
+            "passFail": "92\/7",
+            "passPercent": "93",
             "min": "14",
             "max": "100",
-            "average": "76.465",
+            "average": "76.667",
             "median": "79"
         }
     },
