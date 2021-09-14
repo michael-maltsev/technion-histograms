@@ -214,22 +214,17 @@
         "Staff": [
             {
                 "name": "בן-עוז חנן",
-                "email": "benoz@technion.ac.il",
+                "email": "benoz@technion.ac.il,noreplay@norplay.com",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "סימון רן",
-                "email": "ran@su-cpa.org",
-                "title": "מרצה"
-            },
-            {
-                "name": "צאצאשוילי תמי",
-                "email": "tami@technion.ac.il,noreplay@norplay.com",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "שביט שרית",
                 "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -243,12 +238,12 @@
             "median": "81"
         },
         "Finals": {
-            "students": "39",
-            "passFail": "33\/6",
+            "students": "40",
+            "passFail": "34\/6",
             "passPercent": "85",
             "min": "10",
             "max": "99",
-            "average": "73.538",
+            "average": "74.175",
             "median": "81"
         }
     }
