@@ -674,6 +674,11 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "אלקובי נועה",
+                "email": "snoaa@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "יאיר עומר",
                 "email": "omeryair@gmail.com,omer.yair@campus.technion.ac.il",
                 "title": "מרצה"
@@ -695,7 +700,7 @@
             "passPercent": "77",
             "min": "14",
             "max": "100",
-            "average": "70.644",
+            "average": "70.733",
             "median": "75"
         },
         "Final_A": {
@@ -704,8 +709,17 @@
             "passPercent": "89",
             "min": "30.8",
             "max": "99.825",
-            "average": "75.905",
+            "average": "75.994",
             "median": "79.775"
+        },
+        "Finals": {
+            "students": "146",
+            "passFail": "130\/16",
+            "passPercent": "89",
+            "min": "31",
+            "max": "100",
+            "average": "75.993",
+            "median": "80"
         }
     }
 }
