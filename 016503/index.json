@@ -44,5 +44,42 @@
             "average": "86.932",
             "median": "90"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "קובלר קונסטנט",
+                "email": "cvrkost@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "55",
+            "passFail": "54\/1",
+            "passPercent": "98",
+            "min": "43",
+            "max": "100",
+            "average": "84.582",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "55",
+            "passFail": "54\/1",
+            "passPercent": "98",
+            "min": "43",
+            "max": "100",
+            "average": "84.582",
+            "median": "87"
+        }
     }
 }
