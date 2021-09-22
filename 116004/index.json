@@ -259,5 +259,41 @@
             "average": "84.5",
             "median": "87"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "רוזן יורם",
+                "email": "rozen@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "97",
+            "average": "87",
+            "median": "88"
+        },
+        "Final_A": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "97",
+            "average": "89.261",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "97",
+            "average": "89.304",
+            "median": "90"
+        }
     }
 }
