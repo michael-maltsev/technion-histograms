@@ -669,8 +669,8 @@
             "passPercent": "65",
             "min": "0",
             "max": "110",
-            "average": "62.363",
-            "median": "63"
+            "average": "62.561",
+            "median": "64"
         },
         "Final_A": {
             "students": "171",
@@ -678,8 +678,17 @@
             "passPercent": "65",
             "min": "0",
             "max": "110",
-            "average": "64.146",
+            "average": "64.327",
             "median": "68"
+        },
+        "Finals": {
+            "students": "170",
+            "passFail": "111\/59",
+            "passPercent": "65",
+            "min": "3",
+            "max": "100",
+            "average": "64.476",
+            "median": "68.5"
         }
     }
 }
