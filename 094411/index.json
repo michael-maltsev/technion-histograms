@@ -431,7 +431,7 @@
             },
             {
                 "name": "מעין יוחאי",
-                "email": "ymaayan@technion.ac.il,ymaayan@campus.technion.ac.il",
+                "email": "ymaayan@campus.technion.ac.il",
                 "title": "מרצה"
             },
             {
@@ -455,6 +455,15 @@
             "median": "44"
         },
         "Final_A": {
+            "students": "100",
+            "passFail": "68\/32",
+            "passPercent": "68",
+            "min": "27",
+            "max": "100",
+            "average": "63.18",
+            "median": "63.5"
+        },
+        "Finals": {
             "students": "100",
             "passFail": "68\/32",
             "passPercent": "68",
