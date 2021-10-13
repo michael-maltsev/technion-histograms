@@ -187,13 +187,8 @@
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "דוד רותי",
-                "email": "ruthi@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "סנדר אושרית",
-                "email": "oshrits@technion.ac.il",
+                "name": "קיסלוב יוליה",
+                "email": "yuliak@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -203,7 +198,7 @@
             "passPercent": "100",
             "min": "56",
             "max": "100",
-            "average": "81.909",
+            "average": "81.939",
             "median": "81"
         },
         "Final_A": {
@@ -212,7 +207,16 @@
             "passPercent": "100",
             "min": "64",
             "max": "100",
-            "average": "84.909",
+            "average": "84.939",
+            "median": "84"
+        },
+        "Finals": {
+            "students": "33",
+            "passFail": "33\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "100",
+            "average": "84.939",
             "median": "84"
         }
     }
