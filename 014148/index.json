@@ -146,5 +146,42 @@
             "average": "77.108",
             "median": "75"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "אשור מיכל",
+                "email": "struct@amymetom.co.il,mashour@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "100",
+            "passFail": "91\/9",
+            "passPercent": "91",
+            "min": "32",
+            "max": "94",
+            "average": "77.33",
+            "median": "80"
+        },
+        "Finals": {
+            "students": "100",
+            "passFail": "91\/9",
+            "passPercent": "91",
+            "min": "32",
+            "max": "94",
+            "average": "77.33",
+            "median": "80"
+        }
     }
 }

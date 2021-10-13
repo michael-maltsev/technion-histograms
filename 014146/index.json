@@ -162,5 +162,42 @@
             "average": "72.115",
             "median": "75"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "גולדפלד יסכה",
+                "email": "yiska@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "103",
+            "passFail": "46\/57",
+            "passPercent": "45",
+            "min": "6",
+            "max": "93",
+            "average": "49.922",
+            "median": "46"
+        },
+        "Finals": {
+            "students": "103",
+            "passFail": "46\/57",
+            "passPercent": "45",
+            "min": "6",
+            "max": "93",
+            "average": "50.019",
+            "median": "46"
+        }
     }
 }
