@@ -26,6 +26,47 @@
             "median": "70.5"
         }
     },
+    "201302": {
+        "Staff": [
+            {
+                "name": "פן מיכל",
+                "email": "mpenn@ie.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרבשטיין בועז",
+                "email": "boazf@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "139",
+            "passFail": "81\/58",
+            "passPercent": "58",
+            "min": "0",
+            "max": "97",
+            "average": "60.252",
+            "median": "59"
+        },
+        "Final_A": {
+            "students": "139",
+            "passFail": "99\/40",
+            "passPercent": "71",
+            "min": "10",
+            "max": "97",
+            "average": "63.978",
+            "median": "62"
+        },
+        "Final_B": {
+            "students": "45",
+            "passFail": "29\/16",
+            "passPercent": "64",
+            "min": "27",
+            "max": "89",
+            "average": "59.822",
+            "median": "58"
+        }
+    },
     "201502": {
         "Staff": [
             {

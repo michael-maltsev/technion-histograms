@@ -1,4 +1,50 @@
 {
+    "201502": {
+        "Staff": [
+            {
+                "name": "חזן תמיר",
+                "email": "tamir.hazan@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "עזריאל דוד",
+                "email": "davidazr@ie.technion.ac.il,davidazr@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "ענבי ליאון",
+                "email": "anavy@cs.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "108",
+            "passFail": "104\/4",
+            "passPercent": "96",
+            "min": "8",
+            "max": "99",
+            "average": "82.769",
+            "median": "85.5"
+        },
+        "Final_A": {
+            "students": "108",
+            "passFail": "106\/2",
+            "passPercent": "98",
+            "min": "24",
+            "max": "98",
+            "average": "84.222",
+            "median": "86.5"
+        },
+        "Finals": {
+            "students": "111",
+            "passFail": "109\/2",
+            "passPercent": "98",
+            "min": "50",
+            "max": "98",
+            "average": "84.324",
+            "median": "86"
+        }
+    },
     "201702": {
         "Staff": [
             {

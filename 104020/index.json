@@ -1,4 +1,36 @@
 {
+    "201302": {
+        "Staff": [
+            {
+                "name": "צנזור אביב",
+                "email": "avivc@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מעין הילה",
+                "email": "ahila@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "110",
+            "passFail": "72\/38",
+            "passPercent": "65",
+            "min": "12",
+            "max": "99",
+            "average": "62.573",
+            "median": "68.5"
+        },
+        "Final_B": {
+            "students": "55",
+            "passFail": "37\/18",
+            "passPercent": "67",
+            "min": "20",
+            "max": "98",
+            "average": "64.509",
+            "median": "66"
+        }
+    },
     "201501": {
         "Exam_A": {
             "students": "24",
