@@ -160,5 +160,46 @@
             "average": "85.365",
             "median": "86"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "זקסנהויז מרים",
+                "email": "mermz@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דמצ'נקו איגור",
+                "email": "sigord@technion.ac.il,sigord@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "28\/4",
+            "passPercent": "88",
+            "min": "20",
+            "max": "95",
+            "average": "75.531",
+            "median": "82"
+        },
+        "Final_A": {
+            "students": "32",
+            "passFail": "28\/4",
+            "passPercent": "88",
+            "min": "20",
+            "max": "96",
+            "average": "80.844",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "32",
+            "passFail": "28\/4",
+            "passPercent": "88",
+            "min": "20",
+            "max": "96",
+            "average": "80.844",
+            "median": "88"
+        }
     }
 }
