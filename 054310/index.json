@@ -109,12 +109,21 @@
             }
         ],
         "Final_A": {
-            "students": "42",
-            "passFail": "40\/2",
-            "passPercent": "95",
-            "min": "30",
+            "students": "40",
+            "passFail": "40\/0",
+            "passPercent": "100",
+            "min": "76",
             "max": "96",
-            "average": "86.643",
+            "average": "89.175",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "40",
+            "passFail": "40\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "96",
+            "average": "89.175",
             "median": "90"
         }
     }
