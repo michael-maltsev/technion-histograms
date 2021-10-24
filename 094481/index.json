@@ -702,6 +702,11 @@
     "202002": {
         "Staff": [
             {
+                "name": "סלם בלוקה נעמי",
+                "email": "nbalouka@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
                 "name": "לוין אלה",
                 "email": "iealla@technion.ac.il",
                 "title": "מרצה"
@@ -730,6 +735,24 @@
             "max": "100",
             "average": "77.418",
             "median": "82"
+        },
+        "Exam_B": {
+            "students": "29",
+            "passFail": "18\/11",
+            "passPercent": "62",
+            "min": "28",
+            "max": "100",
+            "average": "65.586",
+            "median": "63"
+        },
+        "Final_B": {
+            "students": "29",
+            "passFail": "23\/6",
+            "passPercent": "79",
+            "min": "37",
+            "max": "100",
+            "average": "70.655",
+            "median": "72"
         },
         "Finals": {
             "students": "67",
