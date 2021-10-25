@@ -193,5 +193,51 @@
             "average": "81.649",
             "median": "85"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "דור אורי",
+                "email": "ory@orydor.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "138",
+            "passFail": "123\/15",
+            "passPercent": "89",
+            "min": "35",
+            "max": "96.84",
+            "average": "73.944",
+            "median": "75.04"
+        },
+        "Final_B": {
+            "students": "50",
+            "passFail": "45\/5",
+            "passPercent": "90",
+            "min": "49",
+            "max": "83.85",
+            "average": "66.882",
+            "median": "66.925"
+        },
+        "Finals": {
+            "students": "171",
+            "passFail": "165\/6",
+            "passPercent": "96",
+            "min": "48",
+            "max": "97",
+            "average": "74.386",
+            "median": "75"
+        }
     }
 }
