@@ -573,5 +573,37 @@
             "average": "77.751",
             "median": "82"
         }
+    },
+    "202003": {
+        "Staff": [
+            {
+                "name": "קוטינסקי שחר",
+                "email": "skva@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הדר אלעד",
+                "email": "eladhadar@gmail.com,ehadar@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "39",
+            "passFail": "35\/4",
+            "passPercent": "90",
+            "min": "22",
+            "max": "100",
+            "average": "75.538",
+            "median": "75"
+        },
+        "Final_A": {
+            "students": "39",
+            "passFail": "35\/4",
+            "passPercent": "90",
+            "min": "22",
+            "max": "100",
+            "average": "82.949",
+            "median": "86"
+        }
     }
 }
