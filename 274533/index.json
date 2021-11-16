@@ -45,5 +45,57 @@
             "average": "90.084",
             "median": "90"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "שפיגל רונן",
+                "email": "ronensp@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כהן שרית",
+                "email": "saritc@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בוניאל מורן",
+                "email": "moranbo@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "איינשטיין ליאת",
+                "email": "liate@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "גרשקוביץ ממן רינת שרית",
+                "email": "rinatgm@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שפורן שירי",
+                "email": "musmach@technion.ac.il,shiris@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "54",
+            "passFail": "54\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "98",
+            "average": "90",
+            "median": "90.5"
+        },
+        "Finals": {
+            "students": "55",
+            "passFail": "55\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "98",
+            "average": "89.891",
+            "median": "90"
+        }
     }
 }
