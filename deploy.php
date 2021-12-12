@@ -104,8 +104,8 @@ function process_course($course, &$stats) {
                 $size = getimagesize($image_filename);
                 if (!$size) {
                     log_warning("$course/$semester/$category: Data with invalid image");
-                } else if ($size[0] != 800 || $size[1] != 450) {
-                    log_warning("$course/$semester/$category: Data with invalid image demensions: {$size[0]}x{$size[1]}");
+                } else if (($size[0] != 800 || $size[1] != 450) && ($size[0] != 720 || $size[1] != 405)) {
+                    log_warning("$course/$semester/$category: Data with invalid image dimensions: {$size[0]}x{$size[1]}");
                 }
             }
 
