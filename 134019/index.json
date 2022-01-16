@@ -688,7 +688,7 @@
         "Staff": [
             {
                 "name": "לנדאו מיטל",
-                "email": "landau.meytal@gmail.com,mlandau@technion.ac.il",
+                "email": "mlandau@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -725,13 +725,31 @@
             "average": "77.209",
             "median": "81.75"
         },
+        "Exam_B": {
+            "students": "31",
+            "passFail": "24\/7",
+            "passPercent": "77",
+            "min": "30",
+            "max": "95",
+            "average": "67.258",
+            "median": "66"
+        },
+        "Final_B": {
+            "students": "30",
+            "passFail": "23\/7",
+            "passPercent": "77",
+            "min": "30",
+            "max": "94.6",
+            "average": "68.588",
+            "median": "71.4"
+        },
         "Finals": {
-            "students": "117",
-            "passFail": "103\/14",
-            "passPercent": "88",
-            "min": "25",
+            "students": "130",
+            "passFail": "122\/8",
+            "passPercent": "94",
+            "min": "30",
             "max": "97",
-            "average": "77.231",
+            "average": "78.623",
             "median": "82"
         }
     }
