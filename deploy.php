@@ -10,6 +10,8 @@ $stats = [
     'histograms_empty' => 0,
     'staff' => 0,
     'staff_empty' => 0,
+    'format_old' => 0,
+    'format_new' => 0,
 ];
 $dir = new DirectoryIterator('.');
 foreach ($dir as $fileinfo) {
@@ -34,6 +36,7 @@ file_put_contents('README.md', $root_text);
 file_put_contents('index.html', markdown_to_page('הטכניון - מאגר היסטוגרמות', $root_text));
 
 echo "Processed {$stats['histograms']} histograms in {$stats['courses']} courses\n";
+echo "Old/new format: {$stats['format_old']}/{$stats['format_new']}\n";
 $without_staff_info = $stats['semesters'] - $stats['staff'];
 echo "{$stats['semesters']} course-semesters, {$stats['staff']} with staff info ({$stats['staff_empty']} empty), $without_staff_info without\n";
 echo "Empty histogram details: {$stats['histograms_empty']}\n";
@@ -104,7 +107,11 @@ function process_course($course, &$stats) {
                 $size = getimagesize($image_filename);
                 if (!$size) {
                     log_warning("$course/$semester/$category: Data with invalid image");
-                } else if (($size[0] != 800 || $size[1] != 450) && ($size[0] != 720 || $size[1] != 405)) {
+                } else if ($size[0] == 800 && $size[1] == 450) {
+                    $stats['format_old']++;
+                } else if ($size[0] == 720 && $size[1] == 405) {
+                    $stats['format_new']++;
+                } else {
                     log_warning("$course/$semester/$category: Data with invalid image dimensions: {$size[0]}x{$size[1]}");
                 }
             }
