@@ -49,5 +49,42 @@
             "average": "91.583",
             "median": "91.5"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "בושר שלמה",
+                "email": "shlomi.bouscher@gmail.com,shlomib@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "כהן אזרזר דנה",
+                "email": "danacohen@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קורנבלום ליאור",
+                "email": "liork@ee.technion.ac.il,liork@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "97",
+            "average": "88.923",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "97",
+            "average": "88.6",
+            "median": "88"
+        }
     }
 }
