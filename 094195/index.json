@@ -146,5 +146,47 @@
             "average": "89.953",
             "median": "92"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "כהן חיים",
+                "email": "haimc@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "הרר יל",
+                "email": "yale@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אגסי זיוה",
+                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_B": {
+            "students": "32",
+            "passFail": "32\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "96",
+            "average": "88.906",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "53",
+            "passFail": "53\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "96",
+            "average": "90.17",
+            "median": "92"
+        }
     }
 }
