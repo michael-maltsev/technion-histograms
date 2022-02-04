@@ -1264,7 +1264,7 @@
     "202002": {
         "Staff": [
             {
-                "name": "מעיין גליה",
+                "name": "מעין גליה",
                 "email": "gm92@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
@@ -1294,22 +1294,40 @@
             "median": "72.5"
         },
         "Final_A": {
-            "students": "174",
-            "passFail": "155\/19",
-            "passPercent": "89",
+            "students": "170",
+            "passFail": "154\/16",
+            "passPercent": "91",
             "min": "18",
             "max": "104",
-            "average": "76.69",
-            "median": "79.5"
+            "average": "77.247",
+            "median": "80"
+        },
+        "Exam_B": {
+            "students": "44",
+            "passFail": "25\/19",
+            "passPercent": "57",
+            "min": "25",
+            "max": "95",
+            "average": "56.591",
+            "median": "55"
+        },
+        "Final_B": {
+            "students": "44",
+            "passFail": "31\/13",
+            "passPercent": "70",
+            "min": "30",
+            "max": "96",
+            "average": "63.386",
+            "median": "63.5"
         },
         "Finals": {
-            "students": "174",
-            "passFail": "155\/19",
-            "passPercent": "89",
+            "students": "203",
+            "passFail": "185\/18",
+            "passPercent": "91",
             "min": "18",
             "max": "100",
-            "average": "76.598",
-            "median": "79.5"
+            "average": "76.054",
+            "median": "79"
         }
     }
 }
