@@ -571,7 +571,7 @@
         "Staff": [
             {
                 "name": "יהודיוף אמיר",
-                "email": "amir.yehudayoff@gmail.com,yehuday@technion.ac.il",
+                "email": "yehuday@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -598,14 +598,23 @@
             "average": "64.432",
             "median": "62"
         },
+        "Final_B": {
+            "students": "17",
+            "passFail": "15\/2",
+            "passPercent": "88",
+            "min": "39",
+            "max": "84",
+            "average": "65.765",
+            "median": "67"
+        },
         "Finals": {
-            "students": "44",
-            "passFail": "29\/15",
-            "passPercent": "66",
-            "min": "25",
+            "students": "47",
+            "passFail": "42\/5",
+            "passPercent": "89",
+            "min": "28",
             "max": "100",
-            "average": "64.432",
-            "median": "62"
+            "average": "71.532",
+            "median": "70"
         }
     }
 }
