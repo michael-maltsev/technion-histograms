@@ -95,6 +95,11 @@
                 "title": "מרצה"
             },
             {
+                "name": "כהן חיים",
+                "email": "haimc@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
                 "name": "אגסי זיוה",
                 "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -106,13 +111,13 @@
             }
         ],
         "Final_A": {
-            "students": "21",
-            "passFail": "21\/0",
+            "students": "46",
+            "passFail": "46\/0",
             "passPercent": "100",
             "min": "82",
             "max": "96",
-            "average": "92.905",
-            "median": "94"
+            "average": "92.739",
+            "median": "93"
         },
         "Final_B": {
             "students": "13",
@@ -124,12 +129,12 @@
             "median": "92"
         },
         "Finals": {
-            "students": "34",
-            "passFail": "34\/0",
+            "students": "61",
+            "passFail": "61\/0",
             "passPercent": "100",
             "min": "82",
-            "max": "96",
-            "average": "92.353",
+            "max": "100",
+            "average": "92.623",
             "median": "93"
         }
     }
