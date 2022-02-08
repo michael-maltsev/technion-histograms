@@ -245,5 +245,28 @@
             "average": "84.215",
             "median": "85"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "זלזו דניאל",
+                "email": "dzelazo@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מודריק לירז",
+                "email": "sliraz@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "69",
+            "passFail": "64\/5",
+            "passPercent": "93",
+            "min": "37",
+            "max": "97",
+            "average": "75.087",
+            "median": "77"
+        }
     }
 }
