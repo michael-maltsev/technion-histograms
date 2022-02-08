@@ -344,5 +344,37 @@
             "average": "71.367",
             "median": "72"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "אינדלמן ואדים",
+                "email": "vadim.indelman@technion.ac.il,vadimind@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן אשר תומר",
+                "email": "tomerb@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "70",
+            "passFail": "60\/10",
+            "passPercent": "86",
+            "min": "17",
+            "max": "98",
+            "average": "73.6",
+            "median": "77.5"
+        },
+        "Final_A": {
+            "students": "70",
+            "passFail": "63\/7",
+            "passPercent": "90",
+            "min": "24.7",
+            "max": "98",
+            "average": "75.61",
+            "median": "78.5"
+        }
     }
 }
