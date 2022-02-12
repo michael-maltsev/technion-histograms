@@ -337,5 +337,42 @@
             "average": "75.14",
             "median": "77"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "גולן רוני",
+                "email": "golan.roni@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אקסמן קליינג שלום דוד",
+                "email": "solly@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "אלמוגי בת-אל",
+                "email": "academic@int.technion.ac.il,batella@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Final_A": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "41",
+            "max": "100",
+            "average": "80.467",
+            "median": "79"
+        },
+        "Finals": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "100",
+            "average": "77.737",
+            "median": "70"
+        }
     }
 }
