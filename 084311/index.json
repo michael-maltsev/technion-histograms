@@ -40,6 +40,65 @@
             "median": "72"
         }
     },
+    "201502": {
+        "Staff": [
+            {
+                "name": "מנלה אבשלום",
+                "email": "amanela@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טיומקין סוניה",
+                "email": "sonyk.tmk@gmail.com",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "37",
+            "passFail": "22\/15",
+            "passPercent": "59",
+            "min": "14",
+            "max": "97",
+            "average": "58.514",
+            "median": "62"
+        },
+        "Final_A": {
+            "students": "37",
+            "passFail": "29\/8",
+            "passPercent": "78",
+            "min": "25",
+            "max": "100",
+            "average": "65.405",
+            "median": "69"
+        },
+        "Exam_B": {
+            "students": "17",
+            "passFail": "10\/7",
+            "passPercent": "59",
+            "min": "25",
+            "max": "81",
+            "average": "54",
+            "median": "56"
+        },
+        "Final_B": {
+            "students": "17",
+            "passFail": "13\/4",
+            "passPercent": "76",
+            "min": "36",
+            "max": "87",
+            "average": "62.412",
+            "median": "64"
+        },
+        "Finals": {
+            "students": "43",
+            "passFail": "38\/5",
+            "passPercent": "88",
+            "min": "36",
+            "max": "100",
+            "average": "69.256",
+            "median": "70"
+        }
+    },
     "201602": {
         "Staff": [
             {
