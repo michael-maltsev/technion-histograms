@@ -247,5 +247,37 @@
             "average": "77.711",
             "median": "79"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "גורפיל פנחס",
+                "email": "pgurfil@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חמו עומרי",
+                "email": "shemo@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "60",
+            "passFail": "53\/7",
+            "passPercent": "88",
+            "min": "12",
+            "max": "100",
+            "average": "79.117",
+            "median": "83"
+        },
+        "Final_A": {
+            "students": "60",
+            "passFail": "55\/5",
+            "passPercent": "92",
+            "min": "27",
+            "max": "99",
+            "average": "81.55",
+            "median": "84.5"
+        }
     }
 }
