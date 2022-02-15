@@ -437,7 +437,7 @@
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Final_A": {
+        "Exam_A": {
             "students": "128",
             "passFail": "111\/17",
             "passPercent": "87",
@@ -446,14 +446,23 @@
             "average": "69.117",
             "median": "70"
         },
-        "Finals": {
-            "students": "127",
-            "passFail": "117\/10",
+        "Final_A": {
+            "students": "128",
+            "passFail": "118\/10",
             "passPercent": "92",
             "min": "19",
             "max": "99",
-            "average": "72.693",
+            "average": "72.555",
             "median": "73"
+        },
+        "Finals": {
+            "students": "128",
+            "passFail": "118\/10",
+            "passPercent": "92",
+            "min": "27",
+            "max": "99",
+            "average": "73.398",
+            "median": "74"
         }
     }
 }
