@@ -1,4 +1,31 @@
 {
+    "201402": {
+        "Staff": [
+            {
+                "name": "שלהיים ישראל",
+                "email": "schall@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Final_A": {
+            "students": "39",
+            "passFail": "30\/9",
+            "passPercent": "77",
+            "min": "24",
+            "max": "100",
+            "average": "74.772",
+            "median": "83"
+        },
+        "Finals": {
+            "students": "52",
+            "passFail": "50\/2",
+            "passPercent": "96",
+            "min": "24",
+            "max": "100",
+            "average": "80.981",
+            "median": "84"
+        }
+    },
     "201602": {
         "Final_A": {
             "students": "39",

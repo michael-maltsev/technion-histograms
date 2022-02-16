@@ -1,4 +1,36 @@
 {
+    "201302": {
+        "Staff": [
+            {
+                "name": "הלוי יורם",
+                "email": "yoramh@me.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-דוד דניאל",
+                "email": "",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "174",
+            "passFail": "169\/5",
+            "passPercent": "97",
+            "min": "25",
+            "max": "100",
+            "average": "85.862",
+            "median": "90"
+        },
+        "Final_A": {
+            "students": "174",
+            "passFail": "172\/2",
+            "passPercent": "99",
+            "min": "38",
+            "max": "100",
+            "average": "88.713",
+            "median": "92"
+        }
+    },
     "201402": {
         "Staff": [
             {
