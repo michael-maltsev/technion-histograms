@@ -263,6 +263,11 @@
                 "name": "בר- שדה בן",
                 "email": "benbsg@gmail.com,bbs@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן דוד רז",
+                "email": "razbe@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -282,6 +287,15 @@
             "max": "93.32",
             "average": "85.962",
             "median": "88.7"
+        },
+        "Finals": {
+            "students": "27",
+            "passFail": "24\/3",
+            "passPercent": "89",
+            "min": "37",
+            "max": "93",
+            "average": "79.519",
+            "median": "86"
         }
     }
 }
