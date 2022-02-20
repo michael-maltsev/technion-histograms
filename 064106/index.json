@@ -173,5 +173,33 @@
             "average": "77.588",
             "median": "82.5"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "ליבני יואב",
+                "email": "livney@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אבוחצירה-כהן ירדן",
+                "email": "yardenabu@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בר בכר אורן",
+                "email": "orenchus@gmail.com,orenchus@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "44",
+            "passFail": "20\/24",
+            "passPercent": "45",
+            "min": "17.8",
+            "max": "100.467",
+            "average": "56.823",
+            "median": "52.9665"
+        }
     }
 }
