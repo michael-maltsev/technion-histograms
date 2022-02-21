@@ -939,5 +939,37 @@
             "average": "61.66",
             "median": "63"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "ברוך אהוד משה",
+                "email": "embaruch@math.technion.ac.il,embaruch@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קליינשטרן מיכל",
+                "email": "mklinst@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "70",
+            "passFail": "62\/8",
+            "passPercent": "89",
+            "min": "15",
+            "max": "100",
+            "average": "78.743",
+            "median": "84.5"
+        },
+        "Final_A": {
+            "students": "69",
+            "passFail": "64\/5",
+            "passPercent": "93",
+            "min": "17",
+            "max": "100",
+            "average": "80.855",
+            "median": "87"
+        }
     }
 }
