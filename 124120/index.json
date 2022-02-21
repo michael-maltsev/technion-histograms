@@ -637,5 +637,67 @@
             "average": "78.397",
             "median": "79"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "עמירב דרורי לילך",
+                "email": "lilac@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גילרי עידו",
+                "email": "chgilary@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "פרברי גלית ורד",
+                "email": "galitpar@technion.ac.il,galitpar@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "לוי רומי",
+                "email": "romyl@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שפירא רעות",
+                "email": "reutavr@technion.ac.il,reutavr@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מנור ערמון עמית",
+                "email": "amit.ma@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מן גיא",
+                "email": "guymann22@gmail.com",
+                "title": "מתרגל"
+            },
+            {
+                "name": "בן ארי נטע",
+                "email": "b.neta@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "302",
+            "passFail": "270\/32",
+            "passPercent": "89",
+            "min": "25",
+            "max": "100",
+            "average": "76.904",
+            "median": "80"
+        },
+        "Final_A": {
+            "students": "302",
+            "passFail": "270\/32",
+            "passPercent": "89",
+            "min": "25",
+            "max": "100",
+            "average": "78.561",
+            "median": "82"
+        }
     }
 }
