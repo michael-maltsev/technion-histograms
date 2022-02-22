@@ -442,5 +442,37 @@
             "average": "77.736",
             "median": "80"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "בן-דוד גל",
+                "email": "gal.bendavid@gmail.com,noreplay@norplay.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיו רון",
+                "email": "ronziv@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "71",
+            "passFail": "65\/6",
+            "passPercent": "92",
+            "min": "39",
+            "max": "99",
+            "average": "72.831",
+            "median": "73"
+        },
+        "Final_A": {
+            "students": "71",
+            "passFail": "68\/3",
+            "passPercent": "96",
+            "min": "39",
+            "max": "100",
+            "average": "78.873",
+            "median": "80"
+        }
     }
 }
