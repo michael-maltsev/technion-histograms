@@ -1,1 +1,35 @@
-[]
+{
+    "202101": {
+        "Staff": [
+            {
+                "name": "דבשי הדס",
+                "email": "hadasd@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אברהם גרשון",
+                "email": "sgershon@campus.technion.ac.il,sgershon@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אזולאי מיקה",
+                "email": "amika@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שחל אתי",
+                "email": "ettys@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "285",
+            "passFail": "171\/114",
+            "passPercent": "60",
+            "min": "0",
+            "max": "100",
+            "average": "58.649",
+            "median": "61"
+        }
+    }
+}
