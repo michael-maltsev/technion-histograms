@@ -183,5 +183,37 @@
             "average": "67.208",
             "median": "76"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "פוליאק מיכאל",
+                "email": "polyak@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שמן ליטל",
+                "email": "litalsh@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "56",
+            "passFail": "42\/14",
+            "passPercent": "75",
+            "min": "25",
+            "max": "100",
+            "average": "71.196",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "56",
+            "passFail": "46\/10",
+            "passPercent": "82",
+            "min": "26",
+            "max": "100",
+            "average": "73.768",
+            "median": "76"
+        }
     }
 }
