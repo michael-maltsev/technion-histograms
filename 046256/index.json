@@ -144,5 +144,46 @@
             "average": "83.238",
             "median": "86"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "אפשטיין אריאל",
+                "email": "epsteina@ee.technion.ac.il,epsteina@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דיקריוב דניס",
+                "email": "dikarov@ee.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "12",
+            "passFail": "8\/4",
+            "passPercent": "67",
+            "min": "24",
+            "max": "98",
+            "average": "67.583",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "12",
+            "passFail": "10\/2",
+            "passPercent": "83",
+            "min": "38",
+            "max": "98",
+            "average": "73.417",
+            "median": "75.5"
+        },
+        "Finals": {
+            "students": "12",
+            "passFail": "10\/2",
+            "passPercent": "83",
+            "min": "38",
+            "max": "98",
+            "average": "73.417",
+            "median": "75.5"
+        }
     }
 }
