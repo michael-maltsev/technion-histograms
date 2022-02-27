@@ -121,5 +121,37 @@
             "average": "93.488",
             "median": "96"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "דיזנדרוק צ'רלס",
+                "email": "charles@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אגרוואל קניקה",
+                "email": "kanika@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "90.769",
+            "median": "92.5"
+        },
+        "Final_A": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "66.5",
+            "max": "100",
+            "average": "92.185",
+            "median": "94.75"
+        }
     }
 }
