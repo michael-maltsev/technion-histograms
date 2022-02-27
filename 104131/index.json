@@ -1210,5 +1210,37 @@
             "average": "70.01",
             "median": "74.5"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "פוגרבניאק ילנה",
+                "email": "elena@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ליטבינוב גלינה",
+                "email": "litvinov@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "214",
+            "passFail": "161\/53",
+            "passPercent": "75",
+            "min": "7",
+            "max": "100",
+            "average": "67.136",
+            "median": "70.5"
+        },
+        "Final_A": {
+            "students": "214",
+            "passFail": "172\/42",
+            "passPercent": "80",
+            "min": "7",
+            "max": "100",
+            "average": "69.897",
+            "median": "73"
+        }
     }
 }
