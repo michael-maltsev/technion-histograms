@@ -1213,5 +1213,37 @@
             "average": "70.831",
             "median": "75"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "וולף עדי",
+                "email": "adiw@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גורליק אירנה",
+                "email": "iragor@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "169",
+            "passFail": "123\/46",
+            "passPercent": "73",
+            "min": "7",
+            "max": "100",
+            "average": "67.024",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "169",
+            "passFail": "128\/41",
+            "passPercent": "76",
+            "min": "7",
+            "max": "100",
+            "average": "69.817",
+            "median": "74"
+        }
     }
 }
