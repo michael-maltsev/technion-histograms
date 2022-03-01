@@ -126,5 +126,42 @@
             "average": "80.267",
             "median": "78"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "ויזר אורי",
+                "email": "uri.weiser@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אדמוני נמרוד",
+                "email": "nimrodadmoni@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "כורזום סאמר",
+                "email": "ssamer15@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "21",
+            "passFail": "17\/4",
+            "passPercent": "81",
+            "min": "33",
+            "max": "94",
+            "average": "69.619",
+            "median": "71"
+        },
+        "Final_A": {
+            "students": "21",
+            "passFail": "18\/3",
+            "passPercent": "86",
+            "min": "40",
+            "max": "99",
+            "average": "76.571",
+            "median": "80"
+        }
     }
 }
