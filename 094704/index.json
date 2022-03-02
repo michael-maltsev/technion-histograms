@@ -44,5 +44,33 @@
             "average": "73.698",
             "median": "75"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "כהן נועם אשר",
+                "email": "cnoam@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אגסי זיוה",
+                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "49",
+            "passFail": "41\/8",
+            "passPercent": "84",
+            "min": "43",
+            "max": "100",
+            "average": "72.449",
+            "median": "75"
+        }
     }
 }
