@@ -99,18 +99,8 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "איסמן ליסה",
-                "email": "lisa@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
                 "name": "בן ענת רוחמה",
                 "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בורנשטיין יעל",
-                "email": "byael@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
@@ -126,6 +116,15 @@
             "min": "83",
             "max": "100",
             "average": "98.696",
+            "median": "100"
+        },
+        "Finals": {
+            "students": "80",
+            "passFail": "80\/0",
+            "passPercent": "100",
+            "min": "83",
+            "max": "100",
+            "average": "98.7",
             "median": "100"
         }
     }
