@@ -36,6 +36,65 @@
             "median": "84"
         }
     },
+    "201602": {
+        "Staff": [
+            {
+                "name": "ויגלר אריאל",
+                "email": "srelwg2@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ילין דביר",
+                "email": "yelin@bm.technion.ac.il,yelin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "52",
+            "passFail": "50\/2",
+            "passPercent": "96",
+            "min": "41",
+            "max": "96",
+            "average": "76.096",
+            "median": "76"
+        },
+        "Final_A": {
+            "students": "52",
+            "passFail": "51\/1",
+            "passPercent": "98",
+            "min": "53",
+            "max": "97",
+            "average": "80.423",
+            "median": "80.5"
+        },
+        "Exam_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "96",
+            "average": "77.417",
+            "median": "77"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "97",
+            "average": "81.417",
+            "median": "81"
+        },
+        "Finals": {
+            "students": "56",
+            "passFail": "56\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "97",
+            "average": "82.482",
+            "median": "84"
+        }
+    },
     "201701": {
         "Staff": [
             {
