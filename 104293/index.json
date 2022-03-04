@@ -107,5 +107,37 @@
             "average": "77.906",
             "median": "82"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "אבן זוהר חיים",
+                "email": "chaime@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בדר שקד",
+                "email": "shaked.bader@gmail.com,shaked.bader@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "34",
+            "passFail": "27\/7",
+            "passPercent": "79",
+            "min": "36",
+            "max": "100",
+            "average": "69.618",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "34",
+            "passFail": "29\/5",
+            "passPercent": "85",
+            "min": "48",
+            "max": "100",
+            "average": "77.029",
+            "median": "81"
+        }
     }
 }
