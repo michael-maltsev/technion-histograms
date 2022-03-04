@@ -339,5 +339,42 @@
             "average": "82.24",
             "median": "83"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "לפקוביץ יוסף",
+                "email": "joseph.lef@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חסין דוד",
+                "email": "davidhasin@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "ארד לוי גיא",
+                "email": "sguy_al@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "62",
+            "passFail": "61\/1",
+            "passPercent": "98",
+            "min": "27",
+            "max": "96",
+            "average": "82.452",
+            "median": "86.5"
+        },
+        "Finals": {
+            "students": "62",
+            "passFail": "61\/1",
+            "passPercent": "98",
+            "min": "27",
+            "max": "96",
+            "average": "82.339",
+            "median": "85.5"
+        }
     }
 }
