@@ -1,4 +1,45 @@
 {
+    "201601": {
+        "Staff": [
+            {
+                "name": "צ'ונטונוב לב",
+                "email": "chunt@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ילפימצ'ב סרגיי",
+                "email": "sergeyel@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "97",
+            "average": "85.762",
+            "median": "86"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "93",
+            "average": "82.5",
+            "median": "81.5"
+        },
+        "Finals": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "97",
+            "average": "84.941",
+            "median": "84"
+        }
+    },
     "201701": {
         "Staff": [
             {

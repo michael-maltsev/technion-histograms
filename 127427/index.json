@@ -1,4 +1,63 @@
 {
+    "201601": {
+        "Staff": [
+            {
+                "name": "ליפשיץ אפרת",
+                "email": "ssefrat@technion.ac.il,efrat.l@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ציגנוק אנטון",
+                "email": "antonts@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "23",
+            "passFail": "19\/4",
+            "passPercent": "83",
+            "min": "38",
+            "max": "90",
+            "average": "68.348",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "23",
+            "passFail": "19\/4",
+            "passPercent": "83",
+            "min": "41",
+            "max": "95",
+            "average": "74.957",
+            "median": "75"
+        },
+        "Exam_B": {
+            "students": "13",
+            "passFail": "9\/4",
+            "passPercent": "69",
+            "min": "39",
+            "max": "95",
+            "average": "72.462",
+            "median": "80"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "9\/4",
+            "passPercent": "69",
+            "min": "39",
+            "max": "96",
+            "average": "73.923",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "28",
+            "passFail": "24\/4",
+            "passPercent": "86",
+            "min": "39",
+            "max": "96",
+            "average": "79.143",
+            "median": "87.5"
+        }
+    },
     "201701": {
         "Staff": [
             {
