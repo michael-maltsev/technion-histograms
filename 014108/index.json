@@ -374,5 +374,42 @@
             "average": "77.737",
             "median": "70"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "אמיר עודד",
+                "email": "odedamir@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "117",
+            "passFail": "85\/32",
+            "passPercent": "73",
+            "min": "8",
+            "max": "94",
+            "average": "62.342",
+            "median": "66"
+        },
+        "Final_A": {
+            "students": "117",
+            "passFail": "85\/32",
+            "passPercent": "73",
+            "min": "8",
+            "max": "97",
+            "average": "67.957",
+            "median": "74"
+        }
     }
 }

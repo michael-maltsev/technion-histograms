@@ -229,5 +229,51 @@
             "average": "75.517",
             "median": "77"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "רבינוביץ' עודד",
+                "email": "cvoded@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "70",
+            "passFail": "58\/12",
+            "passPercent": "83",
+            "min": "31",
+            "max": "100",
+            "average": "67.057",
+            "median": "67.5"
+        },
+        "Final_A": {
+            "students": "70",
+            "passFail": "58\/12",
+            "passPercent": "83",
+            "min": "31",
+            "max": "100",
+            "average": "69.571",
+            "median": "69.5"
+        },
+        "Finals": {
+            "students": "70",
+            "passFail": "58\/12",
+            "passPercent": "83",
+            "min": "31",
+            "max": "100",
+            "average": "69.571",
+            "median": "69.5"
+        }
     }
 }
