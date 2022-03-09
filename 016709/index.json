@@ -35,5 +35,42 @@
             "average": "90.784",
             "median": "91"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "קטושבסקי רחל",
+                "email": "krachel@bgu.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "100",
+            "average": "90.073",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "100",
+            "average": "90.244",
+            "median": "93"
+        }
     }
 }
