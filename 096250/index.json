@@ -219,6 +219,11 @@
     "202101": {
         "Staff": [
             {
+                "name": "גיל יובל",
+                "email": "yuval.gil@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "הרלב נגה",
                 "email": "nogazur08@gmail.com,snogazur@campus.technion.ac.il",
                 "title": "מרצה"
@@ -243,6 +248,15 @@
             "average": "81.881",
             "median": "86"
         },
+        "Final_A": {
+            "students": "97",
+            "passFail": "96\/1",
+            "passPercent": "99",
+            "min": "51",
+            "max": "100",
+            "average": "83.423",
+            "median": "86"
+        },
         "Exam_B": {
             "students": "17",
             "passFail": "16\/1",
@@ -250,6 +264,15 @@
             "min": "52",
             "max": "100",
             "average": "72.588",
+            "median": "74"
+        },
+        "Final_B": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "100",
+            "average": "75.294",
             "median": "74"
         }
     }
