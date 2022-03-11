@@ -348,11 +348,6 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "ח'ורי ראני",
-                "email": "ranik@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
                 "name": "אברהם אלדר",
                 "email": "aldar.abraham@gmail.com,eldar.a@campus.technion.ac.il",
                 "title": "מתרגל"
@@ -361,6 +356,11 @@
                 "name": "שליט אורי",
                 "email": "urishalit@technion.ac.il",
                 "title": "מרצה"
+            },
+            {
+                "name": "ח'ורי ראני",
+                "email": "ranik@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "זיו דוד מורן",
@@ -374,6 +374,15 @@
             }
         ],
         "Final_A": {
+            "students": "73",
+            "passFail": "65\/8",
+            "passPercent": "89",
+            "min": "42",
+            "max": "100",
+            "average": "74.822",
+            "median": "76"
+        },
+        "Finals": {
             "students": "73",
             "passFail": "65\/8",
             "passPercent": "89",
