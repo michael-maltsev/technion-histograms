@@ -131,5 +131,52 @@
             "average": "67.378",
             "median": "63"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "גרבר דן",
+                "email": "dangar@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "מרקובצקי אור",
+                "email": "ormar@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בוצר עידו",
+                "email": "idobotzer@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אגסי זיוה",
+                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "107",
+            "passFail": "81\/26",
+            "passPercent": "76",
+            "min": "34",
+            "max": "100",
+            "average": "66.019",
+            "median": "64"
+        },
+        "Finals": {
+            "students": "107",
+            "passFail": "81\/26",
+            "passPercent": "76",
+            "min": "34",
+            "max": "100",
+            "average": "66.019",
+            "median": "64"
+        }
     }
 }
