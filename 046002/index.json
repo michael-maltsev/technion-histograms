@@ -408,5 +408,55 @@
             "average": "76.149",
             "median": "77"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "מוזס יורם",
+                "email": "moses@ee.technion.ac.il,moses@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כהן שיר",
+                "email": "shir.co@gmail.com,shirco@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "24\/8",
+            "passPercent": "75",
+            "min": "22",
+            "max": "98",
+            "average": "68.125",
+            "median": "73.5"
+        },
+        "Final_A": {
+            "students": "32",
+            "passFail": "25\/7",
+            "passPercent": "78",
+            "min": "25",
+            "max": "100",
+            "average": "73.188",
+            "median": "79.5"
+        },
+        "Exam_B": {
+            "students": "13",
+            "passFail": "7\/6",
+            "passPercent": "54",
+            "min": "25",
+            "max": "76",
+            "average": "52.231",
+            "median": "60"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "8\/5",
+            "passPercent": "62",
+            "min": "35",
+            "max": "89",
+            "average": "64.923",
+            "median": "73"
+        }
     }
 }
