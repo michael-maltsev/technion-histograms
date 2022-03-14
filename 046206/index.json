@@ -399,5 +399,64 @@
             "average": "82.158",
             "median": "85"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "שטינברג יוסף",
+                "email": "ysteinbe@ee.technion.ac.il,noreplay@norplay.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צביאלי עמית",
+                "email": "amit.tsvieli@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "13",
+            "passFail": "7\/6",
+            "passPercent": "54",
+            "min": "8",
+            "max": "100",
+            "average": "59.308",
+            "median": "56"
+        },
+        "Final_A": {
+            "students": "13",
+            "passFail": "10\/3",
+            "passPercent": "77",
+            "min": "25.55",
+            "max": "100",
+            "average": "66.003",
+            "median": "63.9"
+        },
+        "Exam_B": {
+            "students": "13",
+            "passFail": "6\/7",
+            "passPercent": "46",
+            "min": "32",
+            "max": "100",
+            "average": "65.308",
+            "median": "53"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "9\/4",
+            "passPercent": "69",
+            "min": "39",
+            "max": "100",
+            "average": "69.395",
+            "median": "55.95"
+        },
+        "Finals": {
+            "students": "14",
+            "passFail": "11\/3",
+            "passPercent": "79",
+            "min": "26",
+            "max": "100",
+            "average": "67.214",
+            "median": "70"
+        }
     }
 }
