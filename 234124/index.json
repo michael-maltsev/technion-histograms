@@ -121,5 +121,28 @@
             "average": "77.342",
             "median": "81.5"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "ברקת גיל",
+                "email": "barequet@cs.technion.ac.il,barequet@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ליפובצקי איבגני",
+                "email": "eug@post.com",
+                "title": "מרצה"
+            }
+        ],
+        "Finals": {
+            "students": "155",
+            "passFail": "127\/28",
+            "passPercent": "82",
+            "min": "21",
+            "max": "100",
+            "average": "74.219",
+            "median": "79"
+        }
     }
 }
