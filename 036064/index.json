@@ -48,7 +48,7 @@
         "Staff": [
             {
                 "name": "פריד מאור",
-                "email": "maorfarid@gmail.com,faridm@campus.technion.ac.il",
+                "email": "farifm@campus.tecgnion.ac.il,faridm@campus.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
@@ -58,8 +58,17 @@
             "passPercent": "100",
             "min": "76.8",
             "max": "98.8",
-            "average": "92.456",
+            "average": "92.75",
             "median": "94.7"
+        },
+        "Finals": {
+            "students": "32",
+            "passFail": "32\/0",
+            "passPercent": "100",
+            "min": "77",
+            "max": "99",
+            "average": "93.312",
+            "median": "95"
         }
     }
 }
