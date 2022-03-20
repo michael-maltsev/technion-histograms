@@ -154,5 +154,37 @@
             "average": "90.833",
             "median": "92"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "גלבוע גיא",
+                "email": "guy.gilboa@ee.technion.ac.il,ggilboa@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיגדון יוסף",
+                "email": "ronaldgo@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "19",
+            "passFail": "16\/3",
+            "passPercent": "84",
+            "min": "41",
+            "max": "100",
+            "average": "78.158",
+            "median": "80"
+        },
+        "Finals": {
+            "students": "21",
+            "passFail": "20\/1",
+            "passPercent": "95",
+            "min": "41",
+            "max": "100",
+            "average": "82.81",
+            "median": "86"
+        }
     }
 }
