@@ -39,5 +39,64 @@
             "average": "79.842",
             "median": "82"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "מודריק לירז",
+                "email": "sliraz@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אושמן יעקב",
+                "email": "oshman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "21",
+            "passFail": "15\/6",
+            "passPercent": "71",
+            "min": "20",
+            "max": "100",
+            "average": "65",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "21",
+            "passFail": "15\/6",
+            "passPercent": "71",
+            "min": "20",
+            "max": "100",
+            "average": "67.905",
+            "median": "70"
+        },
+        "Exam_B": {
+            "students": "12",
+            "passFail": "6\/6",
+            "passPercent": "50",
+            "min": "5",
+            "max": "90",
+            "average": "45.167",
+            "median": "44"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "6\/6",
+            "passPercent": "50",
+            "min": "5",
+            "max": "91",
+            "average": "49.417",
+            "median": "49.5"
+        },
+        "Finals": {
+            "students": "21",
+            "passFail": "15\/6",
+            "passPercent": "71",
+            "min": "20",
+            "max": "100",
+            "average": "67.905",
+            "median": "70"
+        }
     }
 }
