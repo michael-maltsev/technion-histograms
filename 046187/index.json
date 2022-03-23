@@ -99,5 +99,37 @@
             "average": "89.667",
             "median": "91"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "אל בחר רוני",
+                "email": "roni.elbahar@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מלמד איתמר",
+                "email": "itamar.m@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "84.5",
+            "max": "100",
+            "average": "97.062",
+            "median": "98.3125"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "97.2",
+            "median": "98.5"
+        }
     }
 }
