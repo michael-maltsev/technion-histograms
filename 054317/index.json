@@ -107,6 +107,15 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
+        "Exam_A": {
+            "students": "45",
+            "passFail": "44\/1",
+            "passPercent": "98",
+            "min": "45",
+            "max": "100",
+            "average": "86.178",
+            "median": "90"
+        },
         "Final_A": {
             "students": "45",
             "passFail": "45\/0",
@@ -116,14 +125,32 @@
             "average": "88.667",
             "median": "92"
         },
-        "Finals": {
-            "students": "45",
-            "passFail": "45\/0",
+        "Exam_B": {
+            "students": "15",
+            "passFail": "12\/3",
+            "passPercent": "80",
+            "min": "46",
+            "max": "100",
+            "average": "69.067",
+            "median": "61"
+        },
+        "Final_B": {
+            "students": "15",
+            "passFail": "15\/0",
             "passPercent": "100",
             "min": "62",
-            "max": "99",
-            "average": "89.156",
-            "median": "92"
+            "max": "100",
+            "average": "77.467",
+            "median": "73"
+        },
+        "Finals": {
+            "students": "57",
+            "passFail": "57\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "100",
+            "average": "87.018",
+            "median": "91"
         }
     }
 }

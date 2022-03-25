@@ -188,9 +188,14 @@
     "202101": {
         "Staff": [
             {
+                "name": "סגל-פרץ תמר",
+                "email": "tamarps@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
                 "name": "ראשד נגם",
                 "email": "nagham156@campus.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "title": "מרצה"
             }
         ],
         "Exam_A": {
@@ -199,7 +204,7 @@
             "passPercent": "64",
             "min": "0",
             "max": "95",
-            "average": "61.75",
+            "average": "61.821",
             "median": "63"
         },
         "Final_A": {
@@ -207,9 +212,27 @@
             "passFail": "54\/2",
             "passPercent": "96",
             "min": "34",
-            "max": "96",
-            "average": "73.571",
+            "max": "100",
+            "average": "73.982",
             "median": "75"
+        },
+        "Exam_B": {
+            "students": "23",
+            "passFail": "16\/7",
+            "passPercent": "70",
+            "min": "25",
+            "max": "90",
+            "average": "63.391",
+            "median": "63"
+        },
+        "Final_B": {
+            "students": "23",
+            "passFail": "21\/2",
+            "passPercent": "91",
+            "min": "51",
+            "max": "89",
+            "average": "73.174",
+            "median": "70"
         }
     }
 }
