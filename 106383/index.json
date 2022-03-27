@@ -16,5 +16,41 @@
             "average": "92.6",
             "median": "95"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "משולם רועי",
+                "email": "meshulam@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "17",
+            "passFail": "14\/3",
+            "passPercent": "82",
+            "min": "23",
+            "max": "98",
+            "average": "65.529",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "17",
+            "passFail": "14\/3",
+            "passPercent": "82",
+            "min": "40.7",
+            "max": "100",
+            "average": "77.718",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "17",
+            "passFail": "16\/1",
+            "passPercent": "94",
+            "min": "41",
+            "max": "100",
+            "average": "84.176",
+            "median": "84"
+        }
     }
 }
