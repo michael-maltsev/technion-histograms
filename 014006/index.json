@@ -439,5 +439,41 @@
             "average": "72.601",
             "median": "75"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "פריגוזין עמית",
+                "email": "prigozin@technion.ac.il,prigozin@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "12",
+            "passFail": "11\/1",
+            "passPercent": "92",
+            "min": "43",
+            "max": "84",
+            "average": "68.583",
+            "median": "68.5"
+        },
+        "Final_A": {
+            "students": "12",
+            "passFail": "11\/1",
+            "passPercent": "92",
+            "min": "43",
+            "max": "88",
+            "average": "73.917",
+            "median": "75.5"
+        },
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "94",
+            "average": "76.5",
+            "median": "76.5"
+        }
     }
 }
