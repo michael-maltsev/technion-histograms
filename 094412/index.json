@@ -736,11 +736,6 @@
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "אגסי זיוה",
-                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
                 "name": "זיו דוד מורן",
                 "email": "moran.z@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -763,6 +758,24 @@
             "max": "100",
             "average": "69.874",
             "median": "70"
+        },
+        "Exam_B": {
+            "students": "151",
+            "passFail": "55\/96",
+            "passPercent": "36",
+            "min": "2",
+            "max": "90",
+            "average": "48.689",
+            "median": "47"
+        },
+        "Final_B": {
+            "students": "151",
+            "passFail": "101\/50",
+            "passPercent": "67",
+            "min": "13",
+            "max": "100",
+            "average": "62.291",
+            "median": "61"
         }
     }
 }
