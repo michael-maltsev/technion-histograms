@@ -248,5 +248,42 @@
             "average": "79.133",
             "median": "81"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "טלסניק מרק",
+                "email": "talesnik@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "104",
+            "passFail": "92\/12",
+            "passPercent": "88",
+            "min": "22",
+            "max": "99.5",
+            "average": "74.671",
+            "median": "79.105"
+        },
+        "Finals": {
+            "students": "104",
+            "passFail": "92\/12",
+            "passPercent": "88",
+            "min": "22",
+            "max": "100",
+            "average": "74.692",
+            "median": "79"
+        }
     }
 }
