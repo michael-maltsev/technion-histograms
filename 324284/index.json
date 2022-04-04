@@ -189,16 +189,6 @@
                 "name": "בן ענת רוחמה",
                 "email": "ruchamab@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "איסמן ליסה",
-                "email": "lisa@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בורנשטיין יעל",
-                "email": "byael@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
@@ -209,6 +199,15 @@
             "max": "100",
             "average": "90.212",
             "median": "92.2"
+        },
+        "Finals": {
+            "students": "54",
+            "passFail": "53\/1",
+            "passPercent": "98",
+            "min": "44",
+            "max": "100",
+            "average": "90.37",
+            "median": "92"
         }
     }
 }
