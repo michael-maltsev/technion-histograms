@@ -72,5 +72,42 @@
             "average": "84.286",
             "median": "87.5"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "דביר חגי",
+                "email": "hd@hd-arch.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "97",
+            "average": "90.25",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "97",
+            "average": "90.25",
+            "median": "90"
+        }
     }
 }
