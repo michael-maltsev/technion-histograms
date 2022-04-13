@@ -251,5 +251,37 @@
             "average": "86",
             "median": "86"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "גרופר מורל",
+                "email": "morelg@netvision.net.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רייך חן",
+                "email": "schenr@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "42",
+            "passFail": "42\/0",
+            "passPercent": "100",
+            "min": "58.675",
+            "max": "94.062",
+            "average": "79.959",
+            "median": "81.3565"
+        },
+        "Finals": {
+            "students": "42",
+            "passFail": "42\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "93",
+            "average": "79.381",
+            "median": "81"
+        }
     }
 }
