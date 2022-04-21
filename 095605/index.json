@@ -354,5 +354,42 @@
             "average": "85.957",
             "median": "86"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "ערב-יהנה ורד",
+                "email": "vered.erev@gmail.com",
+                "title": "מרצה"
+            },
+            {
+                "name": "שטיין משולמי רינה",
+                "email": "rinameshulami@gmail.com,riname@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "97",
+            "average": "82.75",
+            "median": "81"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "97",
+            "average": "82.75",
+            "median": "81"
+        }
     }
 }
