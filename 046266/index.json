@@ -176,5 +176,37 @@
             "average": "82",
             "median": "81.5"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "זקס איל",
+                "email": "ayal.zaks@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "עודה סאהר",
+                "email": "saherodeh@gmail.com,sahero@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "24",
+            "passFail": "23\/1",
+            "passPercent": "96",
+            "min": "49",
+            "max": "99",
+            "average": "84.917",
+            "median": "87.5"
+        },
+        "Finals": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "99",
+            "average": "85.267",
+            "median": "85.5"
+        }
     }
 }
