@@ -36,7 +36,7 @@ file_put_contents('README.md', $root_text);
 file_put_contents('index.html', markdown_to_page('הטכניון - מאגר היסטוגרמות', $root_text));
 
 echo "Processed {$stats['histograms']} histograms in {$stats['courses']} courses\n";
-echo "Old/new format: {$stats['format_old']}/{$stats['format_new']}\n";
+echo "Old&new format: {$stats['format_old']}&{$stats['format_new']}\n";
 $without_staff_info = $stats['semesters'] - $stats['staff'];
 echo "{$stats['semesters']} course-semesters, {$stats['staff']} with staff info ({$stats['staff_empty']} empty), $without_staff_info without\n";
 echo "Empty histogram details: {$stats['histograms_empty']}\n";
@@ -87,6 +87,8 @@ function process_course($course, &$stats) {
             'Final_A' => 'סופי מועד א\'',
             'Exam_B' => 'מבחן מועד ב\'',
             'Final_B' => 'סופי מועד ב\'',
+            'Exam_C' => 'מבחן מועד ג\'',
+            'Final_C' => 'סופי מועד ג\'',
             'Finals' => 'סופי',
         ];
 
