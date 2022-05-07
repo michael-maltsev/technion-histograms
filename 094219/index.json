@@ -471,30 +471,52 @@
                 "name": "זיו דוד מורן",
                 "email": "moran.z@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "אגסי זיוה",
-                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
             "students": "39",
-            "passFail": "34\/5",
-            "passPercent": "87",
+            "passFail": "35\/4",
+            "passPercent": "90",
             "min": "45.72",
             "max": "87.26",
-            "average": "66.026",
+            "average": "66.164",
             "median": "63.81"
         },
         "Final_A": {
-            "students": "39",
-            "passFail": "34\/5",
-            "passPercent": "87",
+            "students": "40",
+            "passFail": "37\/3",
+            "passPercent": "92",
             "min": "46",
             "max": "90",
-            "average": "69.59",
-            "median": "69"
+            "average": "69.675",
+            "median": "69.5"
+        },
+        "Exam_B": {
+            "students": "13",
+            "passFail": "10\/3",
+            "passPercent": "77",
+            "min": "46.71",
+            "max": "72.26",
+            "average": "59.064",
+            "median": "56.2"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "11\/2",
+            "passPercent": "85",
+            "min": "47",
+            "max": "77",
+            "average": "64.077",
+            "median": "64"
+        },
+        "Finals": {
+            "students": "51",
+            "passFail": "46\/5",
+            "passPercent": "90",
+            "min": "46",
+            "max": "90",
+            "average": "68.725",
+            "median": "68"
         }
     }
 }
