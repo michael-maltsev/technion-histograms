@@ -182,6 +182,11 @@
                 "name": "ליסובסקי נורית",
                 "email": "arnurit@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רקדזון ניצן",
+                "email": "nitzan.r@campus.technion.ac.il",
+                "title": "מרצה"
             }
         ],
         "Exam_A": {
@@ -194,12 +199,12 @@
             "median": "84"
         },
         "Final_A": {
-            "students": "101",
-            "passFail": "96\/5",
-            "passPercent": "95",
+            "students": "100",
+            "passFail": "96\/4",
+            "passPercent": "96",
             "min": "43",
             "max": "100",
-            "average": "82.782",
+            "average": "83.07",
             "median": "87"
         },
         "Exam_B": {
@@ -210,6 +215,15 @@
             "max": "94",
             "average": "73.294",
             "median": "77"
+        },
+        "Finals": {
+            "students": "100",
+            "passFail": "96\/4",
+            "passPercent": "96",
+            "min": "43",
+            "max": "100",
+            "average": "83.11",
+            "median": "87"
         }
     }
 }
