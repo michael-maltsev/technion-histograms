@@ -72,11 +72,6 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "אגסי זיוה",
-                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
                 "name": "זיו דוד מורן",
                 "email": "moran.z@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -89,6 +84,15 @@
             "min": "74",
             "max": "98",
             "average": "86.333",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "33",
+            "passFail": "33\/0",
+            "passPercent": "100",
+            "min": "74",
+            "max": "98",
+            "average": "86.636",
             "median": "86"
         }
     }
