@@ -277,5 +277,43 @@
             "average": "89.692",
             "median": "91"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "טננבאום עמי",
+                "email": "ami040@walla.co.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "צוק דב",
+                "email": "dubytzuk@gmail.com",
+                "title": "מרצה"
+            },
+            {
+                "name": "בונן אריאל",
+                "email": "arielbo@rafael.co.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "ברכה עידו",
+                "email": "ido.bracha@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "ארקה חבייר",
+                "email": "arcajavier@gmail.com",
+                "title": "מרצה"
+            }
+        ],
+        "Finals": {
+            "students": "61",
+            "passFail": "59\/2",
+            "passPercent": "97",
+            "min": "40",
+            "max": "97",
+            "average": "87.41",
+            "median": "89"
+        }
     }
 }
