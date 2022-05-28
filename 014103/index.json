@@ -459,7 +459,7 @@
             },
             {
                 "name": "צאצאשוילי תמי",
-                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "email": "tami@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -545,13 +545,38 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מלכה אופירה",
+                "email": "ofiramalka@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "לוינסקי יעל",
+                "email": "yaellevi@technion.ac.il,yaelly@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
                 "name": "שביט שרית",
                 "email": "sarits@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "צאצאשוילי תמי",
-                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "email": "tami@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -573,14 +598,32 @@
             "average": "55.561",
             "median": "59.5"
         },
+        "Exam_B": {
+            "students": "97",
+            "passFail": "63\/34",
+            "passPercent": "65",
+            "min": "5",
+            "max": "85",
+            "average": "58.309",
+            "median": "63"
+        },
+        "Final_B": {
+            "students": "97",
+            "passFail": "63\/34",
+            "passPercent": "65",
+            "min": "5",
+            "max": "86",
+            "average": "60.278",
+            "median": "65"
+        },
         "Finals": {
-            "students": "163",
-            "passFail": "86\/77",
-            "passPercent": "53",
-            "min": "1",
+            "students": "184",
+            "passFail": "137\/47",
+            "passPercent": "74",
+            "min": "4",
             "max": "95",
-            "average": "55.902",
-            "median": "58"
+            "average": "63.897",
+            "median": "69"
         }
     }
 }

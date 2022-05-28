@@ -1245,14 +1245,23 @@
             "average": "63.007",
             "median": "65"
         },
-        "Finals": {
-            "students": "323",
-            "passFail": "253\/70",
-            "passPercent": "78",
-            "min": "11",
+        "Exam_C": {
+            "students": "85",
+            "passFail": "59\/26",
+            "passPercent": "69",
+            "min": "7",
             "max": "100",
-            "average": "68.783",
-            "median": "72"
+            "average": "65.588",
+            "median": "67"
+        },
+        "Finals": {
+            "students": "341",
+            "passFail": "303\/38",
+            "passPercent": "89",
+            "min": "7",
+            "max": "100",
+            "average": "73.848",
+            "median": "77"
         }
     }
 }
