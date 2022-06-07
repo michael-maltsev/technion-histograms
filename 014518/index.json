@@ -66,5 +66,46 @@
             "average": "92.554",
             "median": "95"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "אגרנטי יוכבד גלית",
+                "email": "agalit@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "62",
+            "passFail": "62\/0",
+            "passPercent": "100",
+            "min": "70.188",
+            "max": "100",
+            "average": "89.55",
+            "median": "91.2955"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "84.28",
+            "max": "95.5",
+            "average": "90.623",
+            "median": "91.144"
+        },
+        "Finals": {
+            "students": "74",
+            "passFail": "74\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "100",
+            "average": "89.986",
+            "median": "91"
+        }
     }
 }

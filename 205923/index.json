@@ -99,5 +99,46 @@
             "average": "91.432",
             "median": "92"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "ברט שני",
+                "email": "barathshany@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "עוזרי עזרא",
+                "email": "ezraozery@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "98",
+            "passFail": "98\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "100",
+            "average": "92.878",
+            "median": "94"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "87.417",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "107",
+            "passFail": "107\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "92.355",
+            "median": "93"
+        }
     }
 }
