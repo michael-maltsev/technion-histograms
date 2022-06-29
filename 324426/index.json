@@ -142,5 +142,33 @@
             "average": "95.19",
             "median": "95"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "טל אלכסנדר",
+                "email": "msaltal@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הראל אילנה",
+                "email": "ilanah1@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "60",
+            "passFail": "60\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "100",
+            "average": "95",
+            "median": "95"
+        }
     }
 }
