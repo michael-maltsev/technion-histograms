@@ -362,7 +362,7 @@
         "Staff": [
             {
                 "name": "שינולד שרי",
-                "email": "surke@cs.huji.ac.il",
+                "email": "surke@cs.huji.ac.il,surke@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -389,14 +389,32 @@
             "average": "72.826",
             "median": "74"
         },
+        "Exam_B": {
+            "students": "17",
+            "passFail": "12\/5",
+            "passPercent": "71",
+            "min": "23",
+            "max": "90",
+            "average": "61.235",
+            "median": "62"
+        },
+        "Final_B": {
+            "students": "17",
+            "passFail": "14\/3",
+            "passPercent": "82",
+            "min": "33",
+            "max": "94",
+            "average": "70.412",
+            "median": "73"
+        },
         "Finals": {
-            "students": "23",
-            "passFail": "20\/3",
-            "passPercent": "87",
-            "min": "45",
-            "max": "92",
-            "average": "72.826",
-            "median": "74"
+            "students": "41",
+            "passFail": "36\/5",
+            "passPercent": "88",
+            "min": "33",
+            "max": "94",
+            "average": "72.024",
+            "median": "73"
         }
     }
 }
