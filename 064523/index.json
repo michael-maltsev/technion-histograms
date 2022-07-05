@@ -332,7 +332,7 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "סקיטל מיכל",
+                "name": "משה מיכל",
                 "email": "michalsk@technion.ac.il,michalsk@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
@@ -366,8 +366,26 @@
             "passPercent": "64",
             "min": "9",
             "max": "100",
-            "average": "59.818",
-            "median": "62"
+            "average": "59.909",
+            "median": "63"
+        },
+        "Final_B": {
+            "students": "22",
+            "passFail": "14\/8",
+            "passPercent": "64",
+            "min": "27",
+            "max": "100",
+            "average": "67.5",
+            "median": "70.5"
+        },
+        "Finals": {
+            "students": "60",
+            "passFail": "57\/3",
+            "passPercent": "95",
+            "min": "27",
+            "max": "100",
+            "average": "80.117",
+            "median": "81.5"
         }
     }
 }
