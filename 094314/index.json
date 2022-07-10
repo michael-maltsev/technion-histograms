@@ -488,5 +488,42 @@
             "average": "67.459",
             "median": "65"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "צאפנין אלכסנדר",
+                "email": "alexander.chapanin@gmail.com,shtota@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מיטניק לאוניד",
+                "email": "leonid@ie.technion.ac.il,leonidm@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "218",
+            "passFail": "173\/45",
+            "passPercent": "79",
+            "min": "19",
+            "max": "100",
+            "average": "66.055",
+            "median": "67"
+        },
+        "Final_A": {
+            "students": "218",
+            "passFail": "200\/18",
+            "passPercent": "92",
+            "min": "35",
+            "max": "100",
+            "average": "72.661",
+            "median": "74"
+        }
     }
 }
