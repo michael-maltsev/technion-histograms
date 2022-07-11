@@ -138,5 +138,37 @@
             "average": "95.833",
             "median": "96.5"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "קרפ מיכאל",
+                "email": "mkarp@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ג'קובי איאן",
+                "email": "ijacobi@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "12",
+            "passFail": "11\/1",
+            "passPercent": "92",
+            "min": "0",
+            "max": "99",
+            "average": "84.558",
+            "median": "94.25"
+        },
+        "Finals": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "99",
+            "average": "92.273",
+            "median": "94"
+        }
     }
 }
