@@ -300,8 +300,18 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "דייטשמן רויטל",
+                "email": "revital.d@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
                 "name": "איינשטיין ליאת",
                 "email": "liate@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "רגב עירית",
+                "email": "iritlevi@technion.ac.il,irit.levit@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
@@ -310,8 +320,13 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "בוניאל מורן",
-                "email": "moranbo@technion.ac.il",
+                "name": "אהרון אברהם קארין",
+                "email": "mdteams@technion.ac.il,karinaron@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מאיר קובה אילנית",
+                "email": "ilanit.k@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
@@ -361,14 +376,23 @@
             "average": "75.9",
             "median": "80"
         },
-        "Finals": {
-            "students": "41",
-            "passFail": "36\/5",
-            "passPercent": "88",
-            "min": "42",
+        "Exam_C": {
+            "students": "16",
+            "passFail": "13\/3",
+            "passPercent": "81",
+            "min": "36",
             "max": "98",
-            "average": "74.39",
-            "median": "74"
+            "average": "64.75",
+            "median": "63"
+        },
+        "Finals": {
+            "students": "45",
+            "passFail": "42\/3",
+            "passPercent": "93",
+            "min": "36",
+            "max": "98",
+            "average": "75.867",
+            "median": "78"
         }
     }
 }
