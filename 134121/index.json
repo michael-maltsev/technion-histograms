@@ -394,5 +394,37 @@
             "average": "84.829",
             "median": "87"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "ירון סימה",
+                "email": "simay@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "בז'ה עודד",
+                "email": "beja@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "26",
+            "passFail": "25\/1",
+            "passPercent": "96",
+            "min": "47",
+            "max": "91",
+            "average": "78.269",
+            "median": "81"
+        },
+        "Final_A": {
+            "students": "26",
+            "passFail": "25\/1",
+            "passPercent": "96",
+            "min": "51",
+            "max": "95.5",
+            "average": "85.73",
+            "median": "88.8835"
+        }
     }
 }
