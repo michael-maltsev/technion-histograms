@@ -673,5 +673,37 @@
             "average": "72.102",
             "median": "73"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "ז'יטומרסקי מיכאל",
+                "email": "mzhi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אגרא ערן",
+                "email": "eran.igra@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "45",
+            "passFail": "26\/19",
+            "passPercent": "58",
+            "min": "2",
+            "max": "96",
+            "average": "60.578",
+            "median": "63"
+        },
+        "Final_A": {
+            "students": "45",
+            "passFail": "34\/11",
+            "passPercent": "76",
+            "min": "25",
+            "max": "102",
+            "average": "69.089",
+            "median": "72"
+        }
     }
 }
