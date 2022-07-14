@@ -467,5 +467,37 @@
             "average": "76.897",
             "median": "81"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "דרקסלר כהן דנה",
+                "email": "ddana@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בשרי משי",
+                "email": "meshi.b@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "61",
+            "passFail": "35\/26",
+            "passPercent": "57",
+            "min": "23",
+            "max": "92",
+            "average": "59.5",
+            "median": "59"
+        },
+        "Final_A": {
+            "students": "61",
+            "passFail": "57\/4",
+            "passPercent": "93",
+            "min": "34",
+            "max": "100",
+            "average": "73.738",
+            "median": "73"
+        }
     }
 }
