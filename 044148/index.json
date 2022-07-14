@@ -1491,5 +1491,37 @@
             "average": "82.552",
             "median": "85"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "אורנשטיין מאיר",
+                "email": "meiro@ee.technion.ac.il,meiro@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כהן יעקב קובי",
+                "email": "kob.cohen@gmail.com,kobicohen@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "33",
+            "passFail": "20\/13",
+            "passPercent": "61",
+            "min": "5",
+            "max": "96",
+            "average": "56.152",
+            "median": "60"
+        },
+        "Final_A": {
+            "students": "33",
+            "passFail": "23\/10",
+            "passPercent": "70",
+            "min": "17",
+            "max": "100",
+            "average": "68.8",
+            "median": "72"
+        }
     }
 }
