@@ -251,17 +251,32 @@
         "Staff": [
             {
                 "name": "בן-עוז חנן",
-                "email": "benoz@technion.ac.il,noreplay@norplay.com",
+                "email": "benoz@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
                 "name": "צאצאשוילי תמי",
-                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "email": "tami@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "שביט שרית",
                 "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מלכה אופירה",
+                "email": "ofiramalka@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -274,13 +289,22 @@
             "average": "70.6",
             "median": "83"
         },
-        "Finals": {
-            "students": "30",
-            "passFail": "24\/6",
-            "passPercent": "80",
+        "Final_B": {
+            "students": "11",
+            "passFail": "9\/2",
+            "passPercent": "82",
             "min": "10",
             "max": "96",
-            "average": "70.6",
+            "average": "65.909",
+            "median": "74"
+        },
+        "Finals": {
+            "students": "37",
+            "passFail": "35\/2",
+            "passPercent": "95",
+            "min": "10",
+            "max": "96",
+            "average": "77.892",
             "median": "83"
         }
     },
