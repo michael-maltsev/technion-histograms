@@ -162,5 +162,32 @@
             "average": "89.583",
             "median": "89.5"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "ביאנקו-פלד חבצלת",
+                "email": "bianco@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "41",
+            "passFail": "40\/1",
+            "passPercent": "98",
+            "min": "45",
+            "max": "97",
+            "average": "78.927",
+            "median": "79"
+        },
+        "Final_A": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "100",
+            "average": "86.902",
+            "median": "86"
+        }
     }
 }
