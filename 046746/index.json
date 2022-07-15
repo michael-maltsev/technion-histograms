@@ -354,5 +354,37 @@
             "average": "82.364",
             "median": "83.5"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "צלניק ליהי",
+                "email": "lihi@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מנור הילה",
+                "email": "hila.manor@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "48",
+            "passFail": "44\/4",
+            "passPercent": "92",
+            "min": "51.2",
+            "max": "88.5",
+            "average": "70.075",
+            "median": "68.75"
+        },
+        "Final_A": {
+            "students": "48",
+            "passFail": "45\/3",
+            "passPercent": "94",
+            "min": "51",
+            "max": "93",
+            "average": "80.125",
+            "median": "81.5"
+        }
     }
 }
