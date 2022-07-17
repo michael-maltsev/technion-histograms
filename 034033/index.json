@@ -680,5 +680,32 @@
             "average": "75.984",
             "median": "78"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "כהן יגאל",
+                "email": "igalcohen@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "18",
+            "passFail": "6\/12",
+            "passPercent": "33",
+            "min": "5",
+            "max": "80",
+            "average": "39.111",
+            "median": "33"
+        },
+        "Final_A": {
+            "students": "18",
+            "passFail": "6\/12",
+            "passPercent": "33",
+            "min": "5",
+            "max": "90",
+            "average": "41.833",
+            "median": "33"
+        }
     }
 }
