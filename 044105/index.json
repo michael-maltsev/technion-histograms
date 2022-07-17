@@ -1174,14 +1174,23 @@
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
+        "Exam_A": {
+            "students": "101",
+            "passFail": "35\/66",
+            "passPercent": "35",
+            "min": "13",
+            "max": "89",
+            "average": "49.248",
+            "median": "47"
+        },
         "Final_A": {
             "students": "101",
             "passFail": "59\/42",
             "passPercent": "58",
             "min": "24",
             "max": "100",
-            "average": "60.248",
-            "median": "58"
+            "average": "64.901",
+            "median": "68"
         }
     }
 }

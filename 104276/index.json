@@ -171,5 +171,32 @@
             "average": "79.526",
             "median": "81"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "רותם לירן",
+                "email": "lrotem@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "35",
+            "passFail": "19\/16",
+            "passPercent": "54",
+            "min": "17",
+            "max": "100",
+            "average": "60.4",
+            "median": "61"
+        },
+        "Final_A": {
+            "students": "35",
+            "passFail": "24\/11",
+            "passPercent": "69",
+            "min": "29",
+            "max": "100",
+            "average": "66.229",
+            "median": "64"
+        }
     }
 }
