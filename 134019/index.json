@@ -811,5 +811,32 @@
             "average": "81.254",
             "median": "84"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "לנדאו מיטל",
+                "email": "mlandau@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "133",
+            "passFail": "123\/10",
+            "passPercent": "92",
+            "min": "0",
+            "max": "98",
+            "average": "75.861",
+            "median": "77.5"
+        },
+        "Final_A": {
+            "students": "133",
+            "passFail": "123\/10",
+            "passPercent": "92",
+            "min": "0",
+            "max": "97.412",
+            "average": "77.819",
+            "median": "80.15"
+        }
     }
 }
