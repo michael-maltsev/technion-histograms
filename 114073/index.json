@@ -737,5 +737,32 @@
             "average": "76.562",
             "median": "80"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "הכהן ג'ורג'י שי",
+                "email": "shayhh@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "134",
+            "passFail": "125\/9",
+            "passPercent": "93",
+            "min": "33",
+            "max": "102",
+            "average": "78.769",
+            "median": "81"
+        },
+        "Final_A": {
+            "students": "134",
+            "passFail": "130\/4",
+            "passPercent": "97",
+            "min": "39.92",
+            "max": "100",
+            "average": "81.934",
+            "median": "83.645"
+        }
     }
 }
