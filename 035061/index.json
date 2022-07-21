@@ -79,5 +79,32 @@
             "average": "92.29",
             "median": "92"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "אשד שלמה",
+                "email": "meseshed@me.technion.ac.il,meseshed@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "47",
+            "passFail": "45\/2",
+            "passPercent": "96",
+            "min": "33",
+            "max": "100",
+            "average": "88.745",
+            "median": "91"
+        },
+        "Final_A": {
+            "students": "47",
+            "passFail": "47\/0",
+            "passPercent": "100",
+            "min": "65.01",
+            "max": "98.68",
+            "average": "91.998",
+            "median": "92.59"
+        }
     }
 }
