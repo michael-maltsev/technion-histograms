@@ -981,16 +981,39 @@
     "202102": {
         "Staff": [
             {
-                "name": "וונג חואן",
-                "email": "wang.yuan@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+                "name": "בונין גיא",
+                "email": "buning@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "צ'רניקר איתי",
-                "email": "itay.cherniker@gtiit.edu.cn,gtiit-itay@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+                "name": "מרטיסקאינן חנה",
+                "email": "hanna.martiskainen@gmail.com,hannam@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "בסלר רון",
+                "email": "ron.bessler@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
+        "Exam_A": {
+            "students": "411",
+            "passFail": "375\/36",
+            "passPercent": "91",
+            "min": "8.333",
+            "max": "100",
+            "average": "83.433",
+            "median": "91.664"
+        },
+        "Final_A": {
+            "students": "411",
+            "passFail": "387\/24",
+            "passPercent": "94",
+            "min": "19.203",
+            "max": "100",
+            "average": "85.513",
+            "median": "92.748"
+        },
         "Finals": {
             "students": "78",
             "passFail": "42\/36",
