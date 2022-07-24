@@ -242,5 +242,46 @@
             "average": "71.687",
             "median": "71"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "פנחסי רום",
+                "email": "room@math.technion.ac.il,room@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שמן ליטל",
+                "email": "litalsh@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "11",
+            "passFail": "5\/6",
+            "passPercent": "45",
+            "min": "30",
+            "max": "86",
+            "average": "56.545",
+            "median": "50"
+        },
+        "Final_A": {
+            "students": "11",
+            "passFail": "7\/4",
+            "passPercent": "64",
+            "min": "37",
+            "max": "92",
+            "average": "62.727",
+            "median": "55"
+        },
+        "Finals": {
+            "students": "11",
+            "passFail": "7\/4",
+            "passPercent": "64",
+            "min": "37",
+            "max": "92",
+            "average": "62.727",
+            "median": "55"
+        }
     }
 }
