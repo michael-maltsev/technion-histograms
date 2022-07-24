@@ -177,5 +177,28 @@
             "average": "90.016",
             "median": "90"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "לוי מרק",
+                "email": "markl@bm.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "משעור מג'ד",
+                "email": "majd.machour@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "47",
+            "passFail": "47\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "95",
+            "average": "76.468",
+            "median": "74"
+        }
     }
 }
