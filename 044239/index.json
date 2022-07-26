@@ -86,5 +86,52 @@
             "average": "88.6",
             "median": "88"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "קורנבלום ליאור",
+                "email": "liork@ee.technion.ac.il,liork@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לויט אור",
+                "email": "lovitor90@gmail.com,orlevit@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "ניר הארווד רבקה גליה",
+                "email": "rivka-galya@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "כהן אזרזר דנה",
+                "email": "danacohen@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "שמאליה דועאא",
+                "email": "doaa.sh@campus.technion.ac.il",
+                "title": ""
+            }
+        ],
+        "Exam_A": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "96",
+            "average": "83.364",
+            "median": "87"
+        },
+        "Final_A": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "97",
+            "average": "90.455",
+            "median": "92"
+        }
     }
 }
