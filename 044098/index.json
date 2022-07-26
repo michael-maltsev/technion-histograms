@@ -212,5 +212,37 @@
             "average": "85.128",
             "median": "86"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "אפלבוים אליעזר",
+                "email": "eliap@ee.technion.ac.il,eaea@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בצר רועי",
+                "email": "roybe@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "51",
+            "passFail": "49\/2",
+            "passPercent": "96",
+            "min": "27",
+            "max": "100",
+            "average": "77.137",
+            "median": "77"
+        },
+        "Final_A": {
+            "students": "51",
+            "passFail": "49\/2",
+            "passPercent": "96",
+            "min": "27",
+            "max": "100",
+            "average": "83.765",
+            "median": "85"
+        }
     }
 }
