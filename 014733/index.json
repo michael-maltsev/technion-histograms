@@ -121,6 +121,26 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "לוינסקי יעל",
+                "email": "yaellevi@technion.ac.il,yaelly@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
                 "name": "בן-סימון ציפורה",
                 "email": "transeng@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -135,14 +155,23 @@
             "average": "72.216",
             "median": "76"
         },
+        "Final_B": {
+            "students": "21",
+            "passFail": "16\/5",
+            "passPercent": "76",
+            "min": "13",
+            "max": "89",
+            "average": "68.381",
+            "median": "73"
+        },
         "Finals": {
-            "students": "51",
-            "passFail": "41\/10",
-            "passPercent": "80",
-            "min": "36",
+            "students": "66",
+            "passFail": "56\/10",
+            "passPercent": "85",
+            "min": "34",
             "max": "97",
-            "average": "72.216",
-            "median": "76"
+            "average": "73.136",
+            "median": "77"
         }
     }
 }
