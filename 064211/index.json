@@ -106,5 +106,32 @@
             "average": "87.171",
             "median": "89"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "ליבני יואב",
+                "email": "livney@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "83.333",
+            "max": "96.667",
+            "average": "89.375",
+            "median": "88.3335"
+        },
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "97",
+            "average": "90.875",
+            "median": "90.5"
+        }
     }
 }
