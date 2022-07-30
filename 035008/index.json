@@ -261,5 +261,41 @@
             "average": "79.867",
             "median": "79.5"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "קנושר דן",
+                "email": "kanusher@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "20",
+            "passFail": "15\/5",
+            "passPercent": "75",
+            "min": "12",
+            "max": "100",
+            "average": "71.45",
+            "median": "75.5"
+        },
+        "Final_A": {
+            "students": "20",
+            "passFail": "15\/5",
+            "passPercent": "75",
+            "min": "12",
+            "max": "100",
+            "average": "71.45",
+            "median": "75.5"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "15\/5",
+            "passPercent": "75",
+            "min": "12",
+            "max": "100",
+            "average": "71.45",
+            "median": "75.5"
+        }
     }
 }
