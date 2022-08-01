@@ -153,6 +153,11 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "גור אייל",
+                "email": "eyal.gur@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
                 "name": "זיו דוד מורן",
                 "email": "moran.z@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -160,11 +165,20 @@
         ],
         "Final_A": {
             "students": "141",
-            "passFail": "130\/11",
-            "passPercent": "92",
+            "passFail": "131\/10",
+            "passPercent": "93",
             "min": "30",
             "max": "99",
-            "average": "71.894",
+            "average": "72.121",
+            "median": "73"
+        },
+        "Finals": {
+            "students": "141",
+            "passFail": "131\/10",
+            "passPercent": "93",
+            "min": "30",
+            "max": "99",
+            "average": "72.085",
             "median": "73"
         }
     }
