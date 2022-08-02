@@ -600,5 +600,42 @@
             "average": "66.363",
             "median": "70"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "אריאלי איתי",
+                "email": "iarieli@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "בילואוס גילי",
+                "email": "gili.bielous@gmail.com,gili.bielous@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "73",
+            "passFail": "14\/59",
+            "passPercent": "19",
+            "min": "6",
+            "max": "78",
+            "average": "37.616",
+            "median": "37"
+        },
+        "Final_A": {
+            "students": "73",
+            "passFail": "49\/24",
+            "passPercent": "67",
+            "min": "30",
+            "max": "100",
+            "average": "64.808",
+            "median": "63"
+        }
     }
 }
