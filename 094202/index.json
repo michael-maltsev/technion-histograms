@@ -109,5 +109,28 @@
             "average": "80.118",
             "median": "83"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "עמיר עפרה",
+                "email": "oamir@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "109",
+            "passFail": "92\/17",
+            "passPercent": "84",
+            "min": "12",
+            "max": "95",
+            "average": "70.211",
+            "median": "73"
+        }
     }
 }
