@@ -298,5 +298,37 @@
             "average": "64.98",
             "median": "70"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "רהב סער",
+                "email": "rahavs@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כצנלסון הילה",
+                "email": "hilawe3@gmail.com,hilaweissman@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "56",
+            "passFail": "33\/23",
+            "passPercent": "59",
+            "min": "24",
+            "max": "98",
+            "average": "56.196",
+            "median": "55"
+        },
+        "Final_A": {
+            "students": "56",
+            "passFail": "38\/18",
+            "passPercent": "68",
+            "min": "30",
+            "max": "100",
+            "average": "65.75",
+            "median": "69"
+        }
     }
 }
