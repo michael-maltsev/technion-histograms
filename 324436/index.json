@@ -108,5 +108,42 @@
             "average": "86.255",
             "median": "90"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "כהן דן",
+                "email": "dancahn.is@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "27",
+            "passFail": "27\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "100",
+            "average": "88.074",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "27",
+            "passFail": "27\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "100",
+            "average": "88.481",
+            "median": "87"
+        }
     }
 }
