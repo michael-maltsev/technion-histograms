@@ -264,11 +264,11 @@
         ],
         "Exam_A": {
             "students": "18",
-            "passFail": "10\/8",
-            "passPercent": "56",
+            "passFail": "11\/7",
+            "passPercent": "61",
             "min": "21",
             "max": "100",
-            "average": "58.056",
+            "average": "58.889",
             "median": "62"
         },
         "Final_A": {
@@ -277,8 +277,17 @@
             "passPercent": "61",
             "min": "26",
             "max": "100",
-            "average": "65.889",
-            "median": "74.5"
+            "average": "66.5",
+            "median": "75"
+        },
+        "Finals": {
+            "students": "18",
+            "passFail": "11\/7",
+            "passPercent": "61",
+            "min": "26",
+            "max": "100",
+            "average": "66.5",
+            "median": "75"
         }
     }
 }
