@@ -1,4 +1,73 @@
 {
+    "201701": {
+        "Staff": [
+            {
+                "name": "ליבני יואב",
+                "email": "livney@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בר זאב מאיה",
+                "email": "mayawe@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "גיחז שלו",
+                "email": "shalevg@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דוד שלומית",
+                "email": "shlomit2@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "62",
+            "passFail": "58\/4",
+            "passPercent": "94",
+            "min": "1",
+            "max": "96",
+            "average": "75.274",
+            "median": "78"
+        },
+        "Final_A": {
+            "students": "62",
+            "passFail": "58\/4",
+            "passPercent": "94",
+            "min": "1",
+            "max": "100",
+            "average": "82.968",
+            "median": "88"
+        },
+        "Exam_B": {
+            "students": "17",
+            "passFail": "14\/3",
+            "passPercent": "82",
+            "min": "28",
+            "max": "99",
+            "average": "72.529",
+            "median": "68"
+        },
+        "Final_B": {
+            "students": "17",
+            "passFail": "14\/3",
+            "passPercent": "82",
+            "min": "28",
+            "max": "100",
+            "average": "77",
+            "median": "73"
+        },
+        "Finals": {
+            "students": "75",
+            "passFail": "73\/2",
+            "passPercent": "97",
+            "min": "47",
+            "max": "100",
+            "average": "85.48",
+            "median": "88"
+        }
+    },
     "201801": {
         "Staff": [
             {

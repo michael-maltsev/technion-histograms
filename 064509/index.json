@@ -1,4 +1,73 @@
 {
+    "201801": {
+        "Staff": [
+            {
+                "name": "שלומאי פנחס",
+                "email": "intelect@netvision.net.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גלי סיון",
+                "email": "sivan.gelley@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "טרזי הילה",
+                "email": "tarazihila@gmail.com,tarazihila@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "גרהם סופיה",
+                "email": "sofi.arshavsky7@gmail.com,sofiar@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "65",
+            "passFail": "59\/6",
+            "passPercent": "91",
+            "min": "16",
+            "max": "100",
+            "average": "84.738",
+            "median": "97"
+        },
+        "Final_A": {
+            "students": "65",
+            "passFail": "59\/6",
+            "passPercent": "91",
+            "min": "16",
+            "max": "100",
+            "average": "87.615",
+            "median": "97"
+        },
+        "Exam_B": {
+            "students": "12",
+            "passFail": "6\/6",
+            "passPercent": "50",
+            "min": "38",
+            "max": "92",
+            "average": "59.667",
+            "median": "54.5"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "6\/6",
+            "passPercent": "50",
+            "min": "38",
+            "max": "94",
+            "average": "64.083",
+            "median": "59"
+        },
+        "Finals": {
+            "students": "70",
+            "passFail": "64\/6",
+            "passPercent": "91",
+            "min": "38",
+            "max": "100",
+            "average": "87.771",
+            "median": "95"
+        }
+    },
     "201901": {
         "Staff": [
             {
