@@ -202,14 +202,23 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
+        "Exam_A": {
+            "students": "122",
+            "passFail": "122\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "96",
+            "average": "80.852",
+            "median": "82"
+        },
         "Final_A": {
             "students": "122",
-            "passFail": "113\/9",
+            "passFail": "114\/8",
             "passPercent": "93",
-            "min": "62",
-            "max": "89",
-            "average": "77.947",
-            "median": "78"
+            "min": "60",
+            "max": "92",
+            "average": "80.763",
+            "median": "81"
         },
         "Finals": {
             "students": "122",
