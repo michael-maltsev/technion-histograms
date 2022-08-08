@@ -153,5 +153,41 @@
             "average": "84.348",
             "median": "89"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "אבן זוהר חיים",
+                "email": "chaime@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "24",
+            "passFail": "11\/13",
+            "passPercent": "46",
+            "min": "13",
+            "max": "92",
+            "average": "51.25",
+            "median": "51"
+        },
+        "Final_A": {
+            "students": "24",
+            "passFail": "17\/7",
+            "passPercent": "71",
+            "min": "37",
+            "max": "100",
+            "average": "67.625",
+            "median": "68.5"
+        },
+        "Finals": {
+            "students": "24",
+            "passFail": "17\/7",
+            "passPercent": "71",
+            "min": "37",
+            "max": "100",
+            "average": "67.625",
+            "median": "68.5"
+        }
     }
 }
