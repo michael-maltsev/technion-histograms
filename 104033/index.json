@@ -638,5 +638,32 @@
             "average": "70.436",
             "median": "71"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "לנדסמן גיא",
+                "email": "guylandsman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "49",
+            "passFail": "31\/18",
+            "passPercent": "63",
+            "min": "15",
+            "max": "100",
+            "average": "65.265",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "49",
+            "passFail": "35\/14",
+            "passPercent": "71",
+            "min": "15",
+            "max": "100",
+            "average": "67.469",
+            "median": "75"
+        }
     }
 }
