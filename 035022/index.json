@@ -290,5 +290,42 @@
             "average": "75.231",
             "median": "76"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "קלפץ' דורון",
+                "email": "klepachd@berkeley.edu",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רוזנשטוק דוד",
+                "email": "rosenstock@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "לוי סיון",
+                "email": "sivlevi@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "24",
+            "passFail": "17\/7",
+            "passPercent": "71",
+            "min": "31",
+            "max": "106",
+            "average": "63.25",
+            "median": "58.5"
+        },
+        "Final_A": {
+            "students": "24",
+            "passFail": "17\/7",
+            "passPercent": "71",
+            "min": "31",
+            "max": "100",
+            "average": "67.792",
+            "median": "69"
+        }
     }
 }

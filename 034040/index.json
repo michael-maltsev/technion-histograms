@@ -632,5 +632,50 @@
             "average": "75.807",
             "median": "76"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "שיריזלי אלון",
+                "email": "alon.shirizly@gmail.com,alon.shirizly@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "13",
+            "passFail": "10\/3",
+            "passPercent": "77",
+            "min": "40",
+            "max": "110",
+            "average": "65.846",
+            "median": "57"
+        },
+        "Final_A": {
+            "students": "13",
+            "passFail": "10\/3",
+            "passPercent": "77",
+            "min": "40",
+            "max": "100",
+            "average": "69.154",
+            "median": "69"
+        },
+        "Exam_B": {
+            "students": "14",
+            "passFail": "13\/1",
+            "passPercent": "93",
+            "min": "26",
+            "max": "104",
+            "average": "83",
+            "median": "85.5"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "13\/1",
+            "passPercent": "93",
+            "min": "30",
+            "max": "100",
+            "average": "83.143",
+            "median": "85"
+        }
     }
 }
