@@ -835,5 +835,42 @@
             "average": "75.94",
             "median": "80"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "איוב נביה",
+                "email": "ayoubn@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-עוז בלה",
+                "email": "bella.goldstien@gmail.com,sbellag@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ערמן ענבר",
+                "email": "inbararman@gmail.com,inbararman@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "79",
+            "passFail": "62\/17",
+            "passPercent": "78",
+            "min": "8",
+            "max": "100",
+            "average": "68.835",
+            "median": "70.5"
+        },
+        "Final_A": {
+            "students": "79",
+            "passFail": "62\/17",
+            "passPercent": "78",
+            "min": "8",
+            "max": "100",
+            "average": "70.037",
+            "median": "72.6"
+        }
     }
 }
