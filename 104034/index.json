@@ -1518,20 +1518,29 @@
         ],
         "Exam_A": {
             "students": "267",
-            "passFail": "99\/168",
+            "passFail": "100\/167",
             "passPercent": "37",
             "min": "0",
             "max": "100",
-            "average": "50.94",
+            "average": "51.112",
             "median": "47"
         },
         "Final_A": {
             "students": "267",
-            "passFail": "158\/109",
-            "passPercent": "59",
+            "passFail": "159\/108",
+            "passPercent": "60",
             "min": "14",
             "max": "100",
-            "average": "59.94",
+            "average": "60.105",
+            "median": "57"
+        },
+        "Finals": {
+            "students": "267",
+            "passFail": "159\/108",
+            "passPercent": "60",
+            "min": "14",
+            "max": "100",
+            "average": "60.105",
             "median": "57"
         }
     }
