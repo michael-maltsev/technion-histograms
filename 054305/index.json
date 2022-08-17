@@ -183,5 +183,41 @@
             "average": "76.589",
             "median": "77"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "פרגר ויאצסלב",
+                "email": "vfreger@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "56",
+            "passFail": "52\/4",
+            "passPercent": "93",
+            "min": "46",
+            "max": "89",
+            "average": "73.929",
+            "median": "75.5"
+        },
+        "Final_A": {
+            "students": "56",
+            "passFail": "52\/4",
+            "passPercent": "93",
+            "min": "46",
+            "max": "90",
+            "average": "76.304",
+            "median": "78.5"
+        },
+        "Finals": {
+            "students": "56",
+            "passFail": "52\/4",
+            "passPercent": "93",
+            "min": "46",
+            "max": "90",
+            "average": "76.286",
+            "median": "78.5"
+        }
     }
 }
