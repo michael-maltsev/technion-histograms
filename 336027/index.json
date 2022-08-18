@@ -39,5 +39,37 @@
             "average": "84.583",
             "median": "85.5"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "פריימן מוטי",
+                "email": "moti.freiman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אבידן ניצן",
+                "email": "nitzanavidan@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "96",
+            "average": "76.708",
+            "median": "78.5"
+        },
+        "Final_A": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "74",
+            "max": "97",
+            "average": "85.75",
+            "median": "86.5"
+        }
     }
 }
