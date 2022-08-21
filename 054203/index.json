@@ -255,24 +255,28 @@
     "202102": {
         "Staff": [
             {
-                "name": "צ'רניקר איתי",
-                "email": "itay.cherniker@gtiit.edu.cn,gtiit-itay@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "וונג חואן",
-                "email": "wang.yuan@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+                "name": "לישנסקי אלכסנדר",
+                "email": "lisha@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
             }
         ],
+        "Final_A": {
+            "students": "72",
+            "passFail": "65\/7",
+            "passPercent": "90",
+            "min": "35.227",
+            "max": "100",
+            "average": "74.028",
+            "median": "74.75"
+        },
         "Finals": {
-            "students": "26",
-            "passFail": "17\/9",
-            "passPercent": "65",
-            "min": "21",
-            "max": "96",
-            "average": "63.385",
-            "median": "65.5"
+            "students": "72",
+            "passFail": "66\/6",
+            "passPercent": "92",
+            "min": "35",
+            "max": "100",
+            "average": "74.028",
+            "median": "75"
         }
     }
 }
