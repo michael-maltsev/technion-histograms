@@ -34,24 +34,33 @@
     "202101": {
         "Staff": [
             {
-                "name": "ונדורנה קתרין",
-                "email": "k.vandoorne@technion.ac.il",
+                "name": "קריספל יונתן",
+                "email": "y_crispel@rmc.gov.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "פישר אליענה",
-                "email": "selianaf@campus.technion.ac.il",
-                "title": "מרצה"
+                "name": "רז טלי",
+                "email": "taliraz@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
-        "Finals": {
-            "students": "13",
-            "passFail": "12\/1",
-            "passPercent": "92",
-            "min": "53",
+        "Final_A": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "60",
             "max": "100",
-            "average": "86.077",
-            "median": "89"
+            "average": "81.714",
+            "median": "83"
+        },
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "83.6",
+            "median": "82"
         }
     }
 }
