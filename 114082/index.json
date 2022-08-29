@@ -359,5 +359,37 @@
             "average": "91.257",
             "median": "91.268"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "סטיינהאור ג'ף",
+                "email": "jeffs@physics.technion.ac.il,jeffs@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פריזאנט יוליה",
+                "email": "jammia@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "80",
+            "passFail": "80\/0",
+            "passPercent": "100",
+            "min": "66.17",
+            "max": "98.43",
+            "average": "93.127",
+            "median": "94.225"
+        },
+        "Finals": {
+            "students": "80",
+            "passFail": "80\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "98",
+            "average": "93.1",
+            "median": "94"
+        }
     }
 }
