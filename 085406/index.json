@@ -98,5 +98,46 @@
             "average": "79.63",
             "median": "84"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "ברוד חיים איליה",
+                "email": "lifeb@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "מייקלס דן",
+                "email": "danm@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "63",
+            "passFail": "56\/7",
+            "passPercent": "89",
+            "min": "6",
+            "max": "99",
+            "average": "75.048",
+            "median": "80"
+        },
+        "Final_A": {
+            "students": "63",
+            "passFail": "58\/5",
+            "passPercent": "92",
+            "min": "20",
+            "max": "100",
+            "average": "79.095",
+            "median": "83"
+        },
+        "Finals": {
+            "students": "63",
+            "passFail": "58\/5",
+            "passPercent": "92",
+            "min": "20",
+            "max": "100",
+            "average": "79.095",
+            "median": "83"
+        }
     }
 }
