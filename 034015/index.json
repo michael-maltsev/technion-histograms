@@ -493,5 +493,47 @@
             "average": "77.692",
             "median": "78"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "ברנד מאיר",
+                "email": "br.meir@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גרון ימית",
+                "email": "yamit.geron@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זריהן נועם",
+                "email": "noamzr26@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שומינוב מאור",
+                "email": "maor1991sh@gmail.com,maorshu@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "126",
+            "passFail": "107\/19",
+            "passPercent": "85",
+            "min": "20",
+            "max": "100",
+            "average": "75.159",
+            "median": "81"
+        },
+        "Finals": {
+            "students": "126",
+            "passFail": "107\/19",
+            "passPercent": "85",
+            "min": "20",
+            "max": "100",
+            "average": "75.159",
+            "median": "81"
+        }
     }
 }
