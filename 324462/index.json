@@ -236,5 +236,33 @@
             "average": "96.927",
             "median": "100"
         }
+    },
+    "202103": {
+        "Staff": [
+            {
+                "name": "רוזנברג פנינה",
+                "email": "pninarose@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "47",
+            "passFail": "47\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "100",
+            "average": "89.872",
+            "median": "96"
+        }
     }
 }
