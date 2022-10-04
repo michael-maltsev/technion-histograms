@@ -196,5 +196,37 @@
             "average": "86.585",
             "median": "89"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "פישר ענת",
+                "email": "meranath@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מדניקוב מקסים",
+                "email": "mednikov@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "13",
+            "passFail": "12\/1",
+            "passPercent": "92",
+            "min": "35",
+            "max": "89",
+            "average": "70.385",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "91",
+            "average": "78.667",
+            "median": "79"
+        }
     }
 }
