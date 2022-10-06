@@ -302,5 +302,42 @@
             "average": "97.111",
             "median": "100"
         }
+    },
+    "202103": {
+        "Staff": [
+            {
+                "name": "מעין ארז",
+                "email": "maayaner@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "34",
+            "passFail": "33\/1",
+            "passPercent": "97",
+            "min": "21",
+            "max": "100",
+            "average": "93.206",
+            "median": "96.5"
+        },
+        "Finals": {
+            "students": "34",
+            "passFail": "33\/1",
+            "passPercent": "97",
+            "min": "21",
+            "max": "100",
+            "average": "93.206",
+            "median": "96.5"
+        }
     }
 }
