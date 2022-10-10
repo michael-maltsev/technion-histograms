@@ -44,8 +44,8 @@ echo "Empty histogram details: {$stats['histograms_empty']}\n";
 function process_course($course, &$stats) {
     $stats['courses']++;
 
-    $course_name = course_friendly_name($course);
-    $root_text = "# $course_name\n\n";
+    $root_text = '';
+    $toc = '';
     $root_object = [];
 
     $semesters = [];
@@ -65,7 +65,8 @@ function process_course($course, &$stats) {
 
         $semester_pretty = semester_friendly_name($semester);
 
-        $root_text .= "## $semester_pretty\n\n";
+        $root_text .= "<h2 id=\"$semester\">$semester_pretty</h2>\n\n";
+        $toc .= "* [$semester_pretty](#$semester)\n";
 
         $staff_filename = "$course/$semester/Staff.json";
         if (is_file($staff_filename)) {
@@ -141,9 +142,10 @@ function process_course($course, &$stats) {
                 log_warning("$course/$semester/$category: Partial data");
             }
 
-            $root_text .= "### $category_name\n\n";
+            $root_text .= "<h3 id=\"$semester-$category\">$category_name</h3>\n\n";
             $root_text .= "![$semester $category]($semester/$category.png)\n\n";
             $root_text .= histogram_data_to_table($data) . "\n";
+            $toc .= "  * [$category_name](#$semester-$category)\n";
 
             $semester_object[$category] = $data;
         }
@@ -153,8 +155,15 @@ function process_course($course, &$stats) {
         }
     }
 
-    file_put_contents("$course/README.md", $root_text);
-    file_put_contents("$course/index.html", markdown_to_page("$course_name - הטכניון - מאגר היסטוגרמות", $root_text));
+    $course_name = course_friendly_name($course);
+    $note = '**הערה**: ' .
+        'מאגר ההיסטוגרמות הוקם עבור [CheeseFork](https://cheesefork.cf/), כלי בניית מערכת שעות עבור סטודנטים בטכניון. ' .
+        'באתר בו אתם גולשים ניתן לעיין בהיסטוגרמות, אך הדרך היותר נוחה היא לעיין בהיסטוגרמות, ובמידע נוסף כגון חוות דעת של סטודנטים, באתר CheeseFork.';
+
+    $content = "# $course_name\n\n$note\n\n$toc\n$root_text";
+
+    file_put_contents("$course/README.md", $content);
+    file_put_contents("$course/index.html", markdown_to_page("$course_name - הטכניון - מאגר היסטוגרמות", $content));
     file_put_contents("$course/index.json", json_encode($root_object, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
     file_put_contents("$course/index.min.json", json_encode($root_object, JSON_UNESCAPED_UNICODE));
 }
