@@ -687,8 +687,8 @@
     "202102": {
         "Staff": [
             {
-                "name": "הנו פדריקו",
-                "email": "fedejano@gmail.com",
+                "name": "רבקין אורית",
+                "email": "rabkinorit@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -708,7 +708,16 @@
             "passPercent": "99",
             "min": "0",
             "max": "100.37",
-            "average": "90.776",
+            "average": "90.893",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "260",
+            "passFail": "260\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "100",
+            "average": "91.615",
             "median": "92"
         }
     }
