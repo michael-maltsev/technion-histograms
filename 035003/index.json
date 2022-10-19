@@ -19,6 +19,57 @@
             "median": "87.5"
         }
     },
+    "201602": {
+        "Staff": [
+            {
+                "name": "פישר ענת",
+                "email": "meranath@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גזאל מג'די",
+                "email": "majdi.gzal@gmail.com,majdi.gzal@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן שבת יצחק",
+                "email": "sitzikbs@technion.ac.il,sitzikbs@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דולב צבר",
+                "email": "tzabardolev@gmail.com,tzabar@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "35",
+            "passFail": "35\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "98",
+            "average": "81.886",
+            "median": "84"
+        },
+        "Final_B": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "98",
+            "average": "89.133",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "50",
+            "passFail": "50\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "98",
+            "average": "84.06",
+            "median": "86"
+        }
+    },
     "201702": {
         "Staff": [
             {
