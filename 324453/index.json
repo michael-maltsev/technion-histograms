@@ -173,5 +173,51 @@
             "average": "97.811",
             "median": "100"
         }
+    },
+    "202103": {
+        "Staff": [
+            {
+                "name": "פלד כץ תמר",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "70",
+            "passFail": "70\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "95.7",
+            "median": "97"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "100",
+            "average": "95.455",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "70",
+            "passFail": "70\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "95.7",
+            "median": "97"
+        }
     }
 }
