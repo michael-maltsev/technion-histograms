@@ -366,6 +366,11 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "מירון-ספקט אלה",
+                "email": "ellams@ie.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
                 "name": "זיו דוד מורן",
                 "email": "moran.z@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -389,14 +394,23 @@
             "average": "69.727",
             "median": "72"
         },
-        "Finals": {
-            "students": "138",
-            "passFail": "138\/0",
+        "Final_B": {
+            "students": "13",
+            "passFail": "13\/0",
             "passPercent": "100",
-            "min": "62",
-            "max": "98",
-            "average": "84.986",
-            "median": "85"
+            "min": "91",
+            "max": "97",
+            "average": "94.308",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "97",
+            "average": "92.067",
+            "median": "93"
         }
     }
 }
