@@ -823,5 +823,41 @@
             "average": "83.686",
             "median": "88"
         }
+    },
+    "202103": {
+        "Staff": [
+            {
+                "name": "שפיר אורן",
+                "email": "orenshafir@gmail.com,orenshafir@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "30",
+            "passFail": "28\/2",
+            "passPercent": "93",
+            "min": "46.154",
+            "max": "100",
+            "average": "86.923",
+            "median": "92.308"
+        },
+        "Final_A": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "56.264",
+            "max": "100",
+            "average": "88.921",
+            "median": "93.6335"
+        },
+        "Finals": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "100",
+            "average": "89.033",
+            "median": "94"
+        }
     }
 }
