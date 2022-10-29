@@ -64,40 +64,35 @@
             {
                 "name": "סמואל רועי",
                 "email": "roeesamuel@gmail.com,samuelro@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "רז טלי",
-                "email": "taliraz@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
-            "students": "14",
-            "passFail": "14\/0",
+            "students": "22",
+            "passFail": "22\/0",
             "passPercent": "100",
-            "min": "55",
+            "min": "65",
             "max": "100",
-            "average": "80.357",
-            "median": "82.5"
+            "average": "85.682",
+            "median": "85"
         },
         "Final_A": {
-            "students": "16",
-            "passFail": "16\/0",
+            "students": "22",
+            "passFail": "22\/0",
             "passPercent": "100",
-            "min": "77",
+            "min": "83",
             "max": "100",
-            "average": "88.625",
-            "median": "89"
+            "average": "91.364",
+            "median": "90.5"
         },
         "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "77",
+            "students": "32",
+            "passFail": "31\/1",
+            "passPercent": "97",
+            "min": "50",
             "max": "100",
-            "average": "88.812",
-            "median": "89"
+            "average": "88.719",
+            "median": "90"
         }
     }
 }
