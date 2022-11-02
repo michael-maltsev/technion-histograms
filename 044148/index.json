@@ -1500,6 +1500,11 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "ח'יר-אלדין יעקב",
+                "email": "jjacob@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
                 "name": "כהן יעקב קובי",
                 "email": "kob.cohen@gmail.com,kobicohen@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
@@ -1511,7 +1516,7 @@
             "passPercent": "61",
             "min": "5",
             "max": "96",
-            "average": "56.152",
+            "average": "56.424",
             "median": "60"
         },
         "Final_A": {
@@ -1520,8 +1525,35 @@
             "passPercent": "70",
             "min": "17",
             "max": "100",
-            "average": "68.8",
+            "average": "69.018",
             "median": "72"
+        },
+        "Exam_B": {
+            "students": "20",
+            "passFail": "12\/8",
+            "passPercent": "60",
+            "min": "0",
+            "max": "95",
+            "average": "52.5",
+            "median": "60"
+        },
+        "Final_B": {
+            "students": "20",
+            "passFail": "15\/5",
+            "passPercent": "75",
+            "min": "12",
+            "max": "100",
+            "average": "64.535",
+            "median": "72"
+        },
+        "Finals": {
+            "students": "43",
+            "passFail": "36\/7",
+            "passPercent": "84",
+            "min": "12",
+            "max": "100",
+            "average": "71.372",
+            "median": "74"
         }
     },
     "202103": {
