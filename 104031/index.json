@@ -1303,5 +1303,41 @@
             "average": "67.431",
             "median": "69"
         }
+    },
+    "202103": {
+        "Staff": [
+            {
+                "name": "דמיטריוק אלון",
+                "email": "alond@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "23",
+            "passFail": "8\/15",
+            "passPercent": "35",
+            "min": "18",
+            "max": "100",
+            "average": "51.087",
+            "median": "46"
+        },
+        "Final_A": {
+            "students": "23",
+            "passFail": "13\/10",
+            "passPercent": "57",
+            "min": "22",
+            "max": "100",
+            "average": "57.826",
+            "median": "59"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "13\/10",
+            "passPercent": "57",
+            "min": "22",
+            "max": "100",
+            "average": "57.826",
+            "median": "59"
+        }
     }
 }
