@@ -1350,7 +1350,7 @@
             },
             {
                 "name": "אבירם אפרת",
-                "email": "efratoz@campus.technion.ac.il",
+                "email": "efratoz@technion.ac.il,efratoz@campus.technion.ac.il",
                 "title": "מתרגל"
             }
         ],
@@ -1364,6 +1364,33 @@
             "median": "50.5"
         },
         "Final_A": {
+            "students": "16",
+            "passFail": "10\/6",
+            "passPercent": "62",
+            "min": "26",
+            "max": "100",
+            "average": "63.688",
+            "median": "61.5"
+        },
+        "Exam_B": {
+            "students": "16",
+            "passFail": "7\/9",
+            "passPercent": "44",
+            "min": "23",
+            "max": "83",
+            "average": "52.188",
+            "median": "52"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "7\/9",
+            "passPercent": "44",
+            "min": "23",
+            "max": "85",
+            "average": "52.625",
+            "median": "52"
+        },
+        "Finals": {
             "students": "16",
             "passFail": "10\/6",
             "passPercent": "62",
