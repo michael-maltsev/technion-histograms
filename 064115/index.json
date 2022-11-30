@@ -323,7 +323,7 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "פרייליך ענבר",
+                "name": "פרייליך עינבר",
                 "email": "inbarel@campus.technion.ac.il",
                 "title": "מתרגל"
             },
@@ -344,17 +344,44 @@
             "passPercent": "57",
             "min": "22",
             "max": "100",
-            "average": "61.51",
+            "average": "61.653",
             "median": "58"
         },
         "Final_A": {
             "students": "49",
-            "passFail": "32\/17",
-            "passPercent": "65",
+            "passFail": "33\/16",
+            "passPercent": "67",
             "min": "34",
             "max": "100",
-            "average": "69.163",
+            "average": "69.306",
             "median": "66"
+        },
+        "Exam_B": {
+            "students": "29",
+            "passFail": "21\/8",
+            "passPercent": "72",
+            "min": "0",
+            "max": "99",
+            "average": "62.414",
+            "median": "66"
+        },
+        "Final_B": {
+            "students": "29",
+            "passFail": "24\/5",
+            "passPercent": "83",
+            "min": "0",
+            "max": "99",
+            "average": "68.379",
+            "median": "73"
+        },
+        "Finals": {
+            "students": "60",
+            "passFail": "55\/5",
+            "passPercent": "92",
+            "min": "49",
+            "max": "100",
+            "average": "75.117",
+            "median": "76"
         }
     }
 }
