@@ -769,6 +769,11 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
+                "name": "לוינסקי יעל",
+                "email": "yaellevi@technion.ac.il,yaelly@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
                 "name": "שביט שרית",
                 "email": "sarits@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -797,14 +802,32 @@
             "average": "55.929",
             "median": "58.5"
         },
+        "Exam_B": {
+            "students": "30",
+            "passFail": "11\/19",
+            "passPercent": "37",
+            "min": "6",
+            "max": "85",
+            "average": "42.1",
+            "median": "46.5"
+        },
+        "Final_B": {
+            "students": "30",
+            "passFail": "11\/19",
+            "passPercent": "37",
+            "min": "6",
+            "max": "87",
+            "average": "44.033",
+            "median": "46.5"
+        },
         "Finals": {
-            "students": "28",
-            "passFail": "14\/14",
-            "passPercent": "50",
-            "min": "3",
+            "students": "43",
+            "passFail": "24\/19",
+            "passPercent": "56",
+            "min": "6",
             "max": "92",
-            "average": "55.929",
-            "median": "58.5"
+            "average": "53",
+            "median": "63"
         }
     }
 }
