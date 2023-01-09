@@ -111,5 +111,46 @@
             "average": "88.8",
             "median": "93"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "שפיר ארן",
+                "email": "oshapir@gmail.com,oshapir@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מג'אר טליה",
+                "email": "talia@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "74",
+            "passFail": "74\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "100",
+            "average": "90.432",
+            "median": "93"
+        },
+        "Final_B": {
+            "students": "31",
+            "passFail": "31\/0",
+            "passPercent": "100",
+            "min": "78",
+            "max": "100",
+            "average": "89.742",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "107",
+            "passFail": "107\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "100",
+            "average": "90.075",
+            "median": "92"
+        }
     }
 }
