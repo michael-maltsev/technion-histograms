@@ -64,13 +64,18 @@
     "202102": {
         "Staff": [
             {
-                "name": "קדושין יצחק",
-                "email": "itzchak.k@technion.ac.il",
+                "name": "שפונד זלמן",
+                "email": "shlomo.shp@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
                 "name": "נווה עודד",
                 "email": "odedn@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "קדושין יצחק",
+                "email": "itzchak.k@technion.ac.il",
                 "title": "מרצה"
             },
             {
@@ -92,11 +97,6 @@
                 "name": "דיסקין דוד",
                 "email": "david.diskin149@gmail.com,david.diskin@campus.technion.ac.il",
                 "title": "מרצה"
-            },
-            {
-                "name": "שפונד זלמן",
-                "email": "shlomo.shp@technion.ac.il",
-                "title": "מרצה"
             }
         ],
         "Final_A": {
@@ -108,14 +108,23 @@
             "average": "93.088",
             "median": "96"
         },
+        "Final_B": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "92",
+            "average": "89.8",
+            "median": "90"
+        },
         "Finals": {
-            "students": "34",
-            "passFail": "34\/0",
+            "students": "59",
+            "passFail": "59\/0",
             "passPercent": "100",
             "min": "55",
             "max": "100",
-            "average": "93.088",
-            "median": "96"
+            "average": "92.424",
+            "median": "94"
         }
     }
 }
