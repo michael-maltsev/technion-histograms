@@ -506,5 +506,89 @@
             "average": "75.333",
             "median": "77"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "עמירב דרורי לילך",
+                "email": "lilac@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גבע מורן",
+                "email": "mg569@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "דורון דינה",
+                "email": "dinad@technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "כספין נטע",
+                "email": "scneta@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "יוחנובסקי אנה",
+                "email": "y.anna@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "בהר אנסטסיה אס",
+                "email": "ganastasia@technion.ac.il,ganastasia@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "הלוי גבריאלה",
+                "email": "gabriele@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "48",
+            "passFail": "37\/11",
+            "passPercent": "77",
+            "min": "28",
+            "max": "100",
+            "average": "67.906",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "44",
+            "passFail": "33\/11",
+            "passPercent": "75",
+            "min": "28",
+            "max": "100",
+            "average": "71.932",
+            "median": "77.5"
+        },
+        "Exam_B": {
+            "students": "14",
+            "passFail": "9\/5",
+            "passPercent": "64",
+            "min": "37",
+            "max": "96",
+            "average": "65.929",
+            "median": "71.5"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "8\/5",
+            "passPercent": "62",
+            "min": "37",
+            "max": "96",
+            "average": "66.538",
+            "median": "77"
+        },
+        "Finals": {
+            "students": "48",
+            "passFail": "40\/8",
+            "passPercent": "83",
+            "min": "37",
+            "max": "100",
+            "average": "75.667",
+            "median": "79.5"
+        }
     }
 }
