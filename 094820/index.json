@@ -130,5 +130,46 @@
             "average": "87.786",
             "median": "90"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "חושקובר ירון",
+                "email": "yaronch@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "55",
+            "passFail": "55\/0",
+            "passPercent": "100",
+            "min": "63",
+            "max": "99",
+            "average": "86.582",
+            "median": "88"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "12\/1",
+            "passPercent": "92",
+            "min": "52",
+            "max": "92",
+            "average": "75.692",
+            "median": "77"
+        },
+        "Finals": {
+            "students": "65",
+            "passFail": "64\/1",
+            "passPercent": "98",
+            "min": "52",
+            "max": "99",
+            "average": "85.231",
+            "median": "87"
+        }
     }
 }
