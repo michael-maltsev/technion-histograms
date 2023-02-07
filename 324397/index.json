@@ -234,5 +234,33 @@
             "average": "94.346",
             "median": "94"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "קול-רון נועם",
+                "email": "noamron1@gmail.com,noamron@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "95",
+            "passFail": "95\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "100",
+            "average": "90.305",
+            "median": "90"
+        }
     }
 }
