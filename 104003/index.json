@@ -932,5 +932,37 @@
             "average": "68.091",
             "median": "70"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "ארושס שוקי",
+                "email": "aroshas@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קליס אולג",
+                "email": "okelis@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "115",
+            "passFail": "74\/41",
+            "passPercent": "64",
+            "min": "11",
+            "max": "100",
+            "average": "61.252",
+            "median": "64"
+        },
+        "Final_A": {
+            "students": "115",
+            "passFail": "83\/32",
+            "passPercent": "72",
+            "min": "11",
+            "max": "100",
+            "average": "64.8",
+            "median": "70"
+        }
     }
 }
