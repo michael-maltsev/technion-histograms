@@ -52,5 +52,32 @@
             "average": "64.343",
             "median": "63"
         }
+    },
+    "201101": {
+        "Staff": [
+            {
+                "name": "שמידט אשר",
+                "email": "chrschm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "335",
+            "passFail": "247\/88",
+            "passPercent": "74",
+            "min": "29",
+            "max": "100",
+            "average": "69.063",
+            "median": "69"
+        },
+        "Final_B": {
+            "students": "125",
+            "passFail": "95\/30",
+            "passPercent": "76",
+            "min": "34",
+            "max": "96",
+            "average": "65.096",
+            "median": "65"
+        }
     }
 }
