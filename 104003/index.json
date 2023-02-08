@@ -933,6 +933,65 @@
             "median": "70"
         }
     },
+    "202102": {
+        "Staff": [
+            {
+                "name": "פרס הרי לידיה",
+                "email": "lydia@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ליטבינוב גלינה",
+                "email": "litvinov@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "33",
+            "passFail": "9\/24",
+            "passPercent": "27",
+            "min": "0",
+            "max": "96",
+            "average": "45",
+            "median": "41"
+        },
+        "Final_A": {
+            "students": "33",
+            "passFail": "17\/16",
+            "passPercent": "52",
+            "min": "14",
+            "max": "100",
+            "average": "55.667",
+            "median": "55"
+        },
+        "Exam_B": {
+            "students": "33",
+            "passFail": "11\/22",
+            "passPercent": "33",
+            "min": "5",
+            "max": "82",
+            "average": "45.97",
+            "median": "50"
+        },
+        "Final_B": {
+            "students": "33",
+            "passFail": "22\/11",
+            "passPercent": "67",
+            "min": "19",
+            "max": "89",
+            "average": "56.727",
+            "median": "60"
+        },
+        "Finals": {
+            "students": "55",
+            "passFail": "37\/18",
+            "passPercent": "67",
+            "min": "14",
+            "max": "100",
+            "average": "58.782",
+            "median": "60"
+        }
+    },
     "202201": {
         "Staff": [
             {
