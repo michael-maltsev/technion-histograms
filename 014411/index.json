@@ -277,11 +277,6 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "בן-סימון ציפורה",
-                "email": "transeng@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
                 "name": "שביט שרית",
                 "email": "sarits@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -296,14 +291,23 @@
             "average": "66.946",
             "median": "69"
         },
+        "Final_B": {
+            "students": "47",
+            "passFail": "23\/24",
+            "passPercent": "49",
+            "min": "10",
+            "max": "87.919",
+            "average": "54.702",
+            "median": "49"
+        },
         "Finals": {
-            "students": "92",
-            "passFail": "66\/26",
-            "passPercent": "72",
-            "min": "30",
+            "students": "114",
+            "passFail": "90\/24",
+            "passPercent": "79",
+            "min": "10",
             "max": "98",
-            "average": "66.946",
-            "median": "69"
+            "average": "67.579",
+            "median": "71.5"
         }
     }
 }
