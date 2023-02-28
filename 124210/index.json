@@ -186,5 +186,37 @@
             "average": "80.588",
             "median": "80"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "גרוס זאב",
+                "email": "chr10zg@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שפירא רעות",
+                "email": "reutavr@technion.ac.il,reutavr@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "50",
+            "max": "98",
+            "average": "80.812",
+            "median": "83"
+        },
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "55.4",
+            "max": "98",
+            "average": "82.678",
+            "median": "84.575"
+        }
     }
 }
