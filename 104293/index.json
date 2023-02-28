@@ -211,5 +211,32 @@
             "average": "71.205",
             "median": "73"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "גורביץ מקסים",
+                "email": "maxg@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "18",
+            "passFail": "12\/6",
+            "passPercent": "67",
+            "min": "8",
+            "max": "100",
+            "average": "69.833",
+            "median": "71.5"
+        },
+        "Final_A": {
+            "students": "18",
+            "passFail": "13\/5",
+            "passPercent": "72",
+            "min": "27",
+            "max": "100",
+            "average": "73.333",
+            "median": "77"
+        }
     }
 }
