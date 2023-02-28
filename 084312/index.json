@@ -380,5 +380,37 @@
             "average": "78.043",
             "median": "79"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "קרפ מיכאל",
+                "email": "mkarp@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פופלינגר ליאור",
+                "email": "lior.pop@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "68",
+            "passFail": "61\/7",
+            "passPercent": "90",
+            "min": "24",
+            "max": "99",
+            "average": "77.809",
+            "median": "80.5"
+        },
+        "Final_A": {
+            "students": "68",
+            "passFail": "64\/4",
+            "passPercent": "94",
+            "min": "27",
+            "max": "99.2",
+            "average": "81.867",
+            "median": "86.75"
+        }
     }
 }
