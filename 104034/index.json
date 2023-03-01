@@ -1620,5 +1620,37 @@
             "average": "73.69",
             "median": "73"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "סאלח פתחי",
+                "email": "fathi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מעין הילה",
+                "email": "ahila@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "149",
+            "passFail": "62\/87",
+            "passPercent": "42",
+            "min": "0",
+            "max": "100",
+            "average": "49.919",
+            "median": "49"
+        },
+        "Final_A": {
+            "students": "149",
+            "passFail": "93\/56",
+            "passPercent": "62",
+            "min": "13",
+            "max": "100",
+            "average": "60.577",
+            "median": "60"
+        }
     }
 }
