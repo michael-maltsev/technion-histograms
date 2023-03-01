@@ -552,5 +552,37 @@
             "average": "73.331",
             "median": "74"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "מיטניק לאוניד",
+                "email": "leonid@ie.technion.ac.il,leonidm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "49",
+            "passFail": "36\/13",
+            "passPercent": "73",
+            "min": "27",
+            "max": "100",
+            "average": "68.531",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "49",
+            "passFail": "42\/7",
+            "passPercent": "86",
+            "min": "34",
+            "max": "100",
+            "average": "71.51",
+            "median": "73"
+        }
     }
 }
