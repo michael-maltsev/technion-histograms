@@ -618,5 +618,67 @@
             "average": "79.958",
             "median": "80"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "חסן מהדי",
+                "email": "mahdi.hasan@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פורן רננה",
+                "email": "rporanne@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כספין נטע",
+                "email": "scneta@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "לוצקי גיא",
+                "email": "guylutzky@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ברנובסקי אלינה",
+                "email": "elinabar77@gmail.com",
+                "title": "מתרגל"
+            },
+            {
+                "name": "עוזרי ענבל",
+                "email": "inbaloz@technion.ac.il,inbaloz@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "שחף יאיר",
+                "email": "yair.shahaf@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "הלוי גבריאלה",
+                "email": "gabriele@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "50",
+            "passFail": "37\/13",
+            "passPercent": "74",
+            "min": "21",
+            "max": "96",
+            "average": "64.96",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "50",
+            "passFail": "37\/13",
+            "passPercent": "74",
+            "min": "28",
+            "max": "98",
+            "average": "71.08",
+            "median": "77.5"
+        }
     }
 }
