@@ -357,5 +357,46 @@
             "average": "86.2",
             "median": "91"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "איזנברג דוד",
+                "email": "eisenberg@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אילן אמיר",
+                "email": "amilan@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "19",
+            "passFail": "13\/6",
+            "passPercent": "68",
+            "min": "18",
+            "max": "100",
+            "average": "67.895",
+            "median": "79"
+        },
+        "Final_A": {
+            "students": "18",
+            "passFail": "12\/6",
+            "passPercent": "67",
+            "min": "18",
+            "max": "99",
+            "average": "67.5",
+            "median": "81"
+        },
+        "Finals": {
+            "students": "21",
+            "passFail": "17\/4",
+            "passPercent": "81",
+            "min": "25",
+            "max": "99",
+            "average": "74",
+            "median": "82"
+        }
     }
 }

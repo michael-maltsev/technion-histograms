@@ -488,5 +488,33 @@
             "average": "62",
             "median": "55"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "בביצ'נקו יעקב",
+                "email": "yakovbab@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אברהם אופק",
+                "email": "ofekavraham@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "233",
+            "passFail": "162\/71",
+            "passPercent": "70",
+            "min": "17",
+            "max": "100",
+            "average": "61.532",
+            "median": "60"
+        }
     }
 }
