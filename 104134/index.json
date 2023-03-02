@@ -1399,5 +1399,42 @@
             "average": "63.04",
             "median": "61"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "גורליק אירנה",
+                "email": "iragor@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "וולף עדי",
+                "email": "adiw@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "נפטין דני",
+                "email": "dneftin@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "215",
+            "passFail": "147\/68",
+            "passPercent": "68",
+            "min": "12",
+            "max": "100",
+            "average": "62.777",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "215",
+            "passFail": "161\/54",
+            "passPercent": "75",
+            "min": "12",
+            "max": "100",
+            "average": "66.288",
+            "median": "70"
+        }
     }
 }
