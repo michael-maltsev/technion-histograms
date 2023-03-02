@@ -726,5 +726,77 @@
             "average": "80.253",
             "median": "82"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "אייזן מוריס",
+                "email": "chmoris@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרברי גלית ורד",
+                "email": "galitpar@technion.ac.il,galitpar@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "גילרי עידו",
+                "email": "chgilary@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "בן ארי נטע",
+                "email": "b.neta@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "חנא רואד",
+                "email": "srawad@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ברנובסקי אלינה",
+                "email": "elinabar77@gmail.com",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מנור ערמון עמית",
+                "email": "amit.ma@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "עיד עימאד",
+                "email": "semadeid@technion.ac.il,semadeid_m@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אביגדורי עידן",
+                "email": "sidan89@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שרון אוריה",
+                "email": "uriahsharon@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "309",
+            "passFail": "242\/67",
+            "passPercent": "78",
+            "min": "25",
+            "max": "100",
+            "average": "69.175",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "309",
+            "passFail": "242\/67",
+            "passPercent": "78",
+            "min": "25",
+            "max": "100",
+            "average": "70.942",
+            "median": "73"
+        }
     }
 }
