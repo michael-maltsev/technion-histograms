@@ -1164,5 +1164,37 @@
             "average": "76.062",
             "median": "79"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "אורנשטיין מאיר",
+                "email": "meiro@ee.technion.ac.il,meiro@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אילין יגאל",
+                "email": "yigali@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "35",
+            "passFail": "9\/26",
+            "passPercent": "26",
+            "min": "5",
+            "max": "77",
+            "average": "43.743",
+            "median": "43"
+        },
+        "Final_A": {
+            "students": "35",
+            "passFail": "27\/8",
+            "passPercent": "77",
+            "min": "21",
+            "max": "91",
+            "average": "62.114",
+            "median": "63"
+        }
     }
 }
