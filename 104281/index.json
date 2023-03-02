@@ -930,5 +930,28 @@
             "average": "66.882",
             "median": "68.5"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "שפריר איתי",
+                "email": "shafrir@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קירי רן",
+                "email": "rankiri@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "25",
+            "passFail": "19\/6",
+            "passPercent": "76",
+            "min": "4",
+            "max": "99",
+            "average": "65.24",
+            "median": "76"
+        }
     }
 }
