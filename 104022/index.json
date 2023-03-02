@@ -1074,5 +1074,37 @@
             "average": "72.8",
             "median": "77"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "אגא נאדר",
+                "email": "anader@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ליטבינוב גלינה",
+                "email": "litvinov@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "58",
+            "passFail": "18\/40",
+            "passPercent": "31",
+            "min": "4",
+            "max": "83",
+            "average": "44.121",
+            "median": "43.5"
+        },
+        "Final_A": {
+            "students": "58",
+            "passFail": "33\/25",
+            "passPercent": "57",
+            "min": "12",
+            "max": "93",
+            "average": "55.931",
+            "median": "58"
+        }
     }
 }
