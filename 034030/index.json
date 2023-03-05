@@ -612,13 +612,13 @@
     "202201": {
         "Staff": [
             {
-                "name": "זוסמן איל",
-                "email": "meeyal@technion.ac.il",
+                "name": "שוחאט שלום",
+                "email": "sholom@campus.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "שוחאט שלום",
-                "email": "sholom@campus.technion.ac.il",
+                "name": "זוסמן איל",
+                "email": "meeyal@technion.ac.il",
                 "title": "מרצה"
             },
             {
@@ -628,6 +628,15 @@
             }
         ],
         "Final_A": {
+            "students": "31",
+            "passFail": "31\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "94",
+            "average": "81.613",
+            "median": "81"
+        },
+        "Finals": {
             "students": "31",
             "passFail": "31\/0",
             "passPercent": "100",
