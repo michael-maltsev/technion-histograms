@@ -81,5 +81,37 @@
             "average": "87.75",
             "median": "87"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "נסראלדין חוסיין",
+                "email": "nhussein@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "12",
+            "passFail": "11\/1",
+            "passPercent": "92",
+            "min": "0",
+            "max": "92",
+            "average": "78.5",
+            "median": "88.5"
+        },
+        "Finals": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "92",
+            "average": "85.636",
+            "median": "88"
+        }
     }
 }
