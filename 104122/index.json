@@ -534,5 +534,37 @@
             "average": "69.741",
             "median": "69"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "פינסקי רוס",
+                "email": "pinsky@math.technion.ac.il,pinsky@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קירי רן",
+                "email": "rankiri@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "82",
+            "passFail": "70\/12",
+            "passPercent": "85",
+            "min": "17",
+            "max": "100",
+            "average": "74.073",
+            "median": "78.5"
+        },
+        "Final_A": {
+            "students": "82",
+            "passFail": "72\/10",
+            "passPercent": "88",
+            "min": "25",
+            "max": "100",
+            "average": "78.024",
+            "median": "81"
+        }
     }
 }
