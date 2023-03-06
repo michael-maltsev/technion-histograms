@@ -167,5 +167,37 @@
             "average": "90.083",
             "median": "92"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "פוקרוי בועז",
+                "email": "bpokroy@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קיסלוב יוליה",
+                "email": "yuliak@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "26",
+            "passFail": "25\/1",
+            "passPercent": "96",
+            "min": "44",
+            "max": "94",
+            "average": "79.769",
+            "median": "83"
+        },
+        "Final_A": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "97",
+            "average": "90.192",
+            "median": "91.5"
+        }
     }
 }
