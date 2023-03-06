@@ -680,5 +680,37 @@
             "average": "70.72",
             "median": "72"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "רפפורט אריאל",
+                "email": "arapaport@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברמן סתיו",
+                "email": "stav.berman@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "19",
+            "passFail": "11\/8",
+            "passPercent": "58",
+            "min": "22",
+            "max": "97",
+            "average": "59.211",
+            "median": "55"
+        },
+        "Final_A": {
+            "students": "18",
+            "passFail": "12\/6",
+            "passPercent": "67",
+            "min": "22",
+            "max": "97.3",
+            "average": "62.372",
+            "median": "58.489"
+        }
     }
 }
