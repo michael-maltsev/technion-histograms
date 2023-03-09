@@ -72,5 +72,42 @@
             "average": "80.217",
             "median": "81"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "נוה איתן",
+                "email": "naveh@ie.technion.ac.il,naveh@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גורפינקל אירינה",
+                "email": "cirina@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "44",
+            "passFail": "44\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "93",
+            "average": "83.659",
+            "median": "86.5"
+        },
+        "Finals": {
+            "students": "44",
+            "passFail": "44\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "93",
+            "average": "83.659",
+            "median": "86.5"
+        }
     }
 }
