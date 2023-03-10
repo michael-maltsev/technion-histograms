@@ -153,5 +153,37 @@
             "average": "83.706",
             "median": "84"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "גולדויין גדעון",
+                "email": "gidi.goldwine@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בונטין דניס",
+                "email": "buntin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "90",
+            "average": "75.562",
+            "median": "77.5"
+        },
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "74",
+            "max": "95",
+            "average": "86.125",
+            "median": "87"
+        }
     }
 }
