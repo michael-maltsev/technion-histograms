@@ -570,5 +570,46 @@
             "average": "78.087",
             "median": "81.5"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "קסוטו יובל",
+                "email": "ycassuto@ee.technion.ac.il,ycassuto@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רזניק יבגני",
+                "email": "evgeniy.rez@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "26",
+            "passFail": "15\/11",
+            "passPercent": "58",
+            "min": "31",
+            "max": "100",
+            "average": "57.846",
+            "median": "61.5"
+        },
+        "Final_A": {
+            "students": "26",
+            "passFail": "16\/10",
+            "passPercent": "62",
+            "min": "35",
+            "max": "100",
+            "average": "65",
+            "median": "72"
+        },
+        "Finals": {
+            "students": "26",
+            "passFail": "16\/10",
+            "passPercent": "62",
+            "min": "35",
+            "max": "100",
+            "average": "65",
+            "median": "72"
+        }
     }
 }
