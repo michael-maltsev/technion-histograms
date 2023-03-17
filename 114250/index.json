@@ -185,5 +185,37 @@
             "average": "88.333",
             "median": "86"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "קרסיק יעקב",
+                "email": "fnkrasik@physics.technion.ac.il,fnkrasik@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גולדמן אנטולי",
+                "email": "goldman@physics.technion.ac.il,anatolyg@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "27",
+            "passFail": "27\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "94",
+            "average": "88.63",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "31",
+            "passFail": "31\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "94",
+            "average": "88.806",
+            "median": "89"
+        }
     }
 }
