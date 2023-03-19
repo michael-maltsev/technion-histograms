@@ -322,5 +322,46 @@
             "average": "76.014",
             "median": "76.5"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "פסקין אורי",
+                "email": "uri@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "נגר שאול לינוי",
+                "email": "linoy-nagar@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "49",
+            "passFail": "41\/8",
+            "passPercent": "84",
+            "min": "20.947",
+            "max": "99.54",
+            "average": "72.675",
+            "median": "77.83"
+        },
+        "Final_B": {
+            "students": "23",
+            "passFail": "20\/3",
+            "passPercent": "87",
+            "min": "46.7",
+            "max": "100",
+            "average": "77.726",
+            "median": "81"
+        },
+        "Finals": {
+            "students": "49",
+            "passFail": "41\/8",
+            "passPercent": "84",
+            "min": "21",
+            "max": "100",
+            "average": "74.408",
+            "median": "80"
+        }
     }
 }
