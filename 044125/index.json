@@ -145,7 +145,7 @@
         "Staff": [
             {
                 "name": "ריטר דן",
-                "email": "ritter@ee.technion.ac.il",
+                "email": "ritter@ee.technion.ac.il,ritter@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -191,7 +191,7 @@
         "Staff": [
             {
                 "name": "קולודני אבינועם",
-                "email": "kolodny@ee.technion.ac.il",
+                "email": "kolodny@ee.technion.ac.il,kolodny@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -217,6 +217,15 @@
             "max": "100",
             "average": "72.966",
             "median": "75.569"
+        },
+        "Finals": {
+            "students": "128",
+            "passFail": "118\/10",
+            "passPercent": "92",
+            "min": "32",
+            "max": "100",
+            "average": "80.852",
+            "median": "84.5"
         }
     },
     "201402": {

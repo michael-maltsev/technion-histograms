@@ -258,7 +258,7 @@
         "Staff": [
             {
                 "name": "לברון יואש",
-                "email": "yoashl@ee.technion.ac.il",
+                "email": "yoashl@ee.technion.ac.il,yoashl@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -307,6 +307,70 @@
             "max": "100",
             "average": "79.267",
             "median": "81.5"
+        }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "לברון יואש",
+                "email": "yoashl@ee.technion.ac.il,yoashl@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דיסקין אלכסיי",
+                "email": "aleksd@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "צפריר חגי",
+                "email": "hagaitza@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "132",
+            "passFail": "89\/43",
+            "passPercent": "67",
+            "min": "16",
+            "max": "100",
+            "average": "60.545",
+            "median": "62"
+        },
+        "Final_A": {
+            "students": "132",
+            "passFail": "105\/27",
+            "passPercent": "80",
+            "min": "19.36",
+            "max": "100",
+            "average": "72.819",
+            "median": "78.854"
+        },
+        "Exam_B": {
+            "students": "58",
+            "passFail": "44\/14",
+            "passPercent": "76",
+            "min": "19",
+            "max": "96",
+            "average": "66.31",
+            "median": "67"
+        },
+        "Final_B": {
+            "students": "58",
+            "passFail": "50\/8",
+            "passPercent": "86",
+            "min": "19",
+            "max": "97",
+            "average": "73.759",
+            "median": "77.5"
+        },
+        "Finals": {
+            "students": "159",
+            "passFail": "150\/9",
+            "passPercent": "94",
+            "min": "19",
+            "max": "100",
+            "average": "78.987",
+            "median": "81"
         }
     },
     "201502": {
