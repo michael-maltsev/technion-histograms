@@ -25,5 +25,32 @@
             "average": "92.5",
             "median": "94"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "וולק אלעזר",
+                "email": "elazarvo@moag.gov.il,elazarv@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "100",
+            "average": "83.333",
+            "median": "81.5"
+        },
+        "Final_A": {
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "97",
+            "average": "85.778",
+            "median": "84.5"
+        }
     }
 }
