@@ -1,1 +1,38 @@
-[]
+{
+    "202201": {
+        "Staff": [
+            {
+                "name": "אידן משה",
+                "email": "moshe.idan@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "26",
+            "passFail": "22\/4",
+            "passPercent": "85",
+            "min": "9",
+            "max": "100",
+            "average": "77.038",
+            "median": "85.5"
+        },
+        "Final_A": {
+            "students": "26",
+            "passFail": "22\/4",
+            "passPercent": "85",
+            "min": "9",
+            "max": "100",
+            "average": "78.115",
+            "median": "86.5"
+        },
+        "Finals": {
+            "students": "26",
+            "passFail": "22\/4",
+            "passPercent": "85",
+            "min": "9",
+            "max": "100",
+            "average": "78.115",
+            "median": "86.5"
+        }
+    }
+}
