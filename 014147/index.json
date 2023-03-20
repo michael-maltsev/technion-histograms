@@ -173,5 +173,51 @@
             "average": "80.573",
             "median": "81"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "אל ולי פיסל",
+                "email": "faisal.al@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "57",
+            "passFail": "46\/11",
+            "passPercent": "81",
+            "min": "6",
+            "max": "89",
+            "average": "67.561",
+            "median": "73"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "5\/11",
+            "passPercent": "31",
+            "min": "18",
+            "max": "76",
+            "average": "44.812",
+            "median": "41.5"
+        },
+        "Finals": {
+            "students": "57",
+            "passFail": "46\/11",
+            "passPercent": "81",
+            "min": "6",
+            "max": "89",
+            "average": "67.561",
+            "median": "73"
+        }
     }
 }
