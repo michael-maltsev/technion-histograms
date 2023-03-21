@@ -221,5 +221,64 @@
             "average": "86.023",
             "median": "86"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "וייס דפנה",
+                "email": "daphnew@bm.technion.ac.il,daphnew@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לוטן איילת",
+                "email": "ayeletm@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "100",
+            "average": "83.967",
+            "median": "85"
+        },
+        "Final_A": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "100",
+            "average": "86.1",
+            "median": "87"
+        },
+        "Exam_B": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "99",
+            "average": "82.429",
+            "median": "81"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "99",
+            "average": "84.929",
+            "median": "84"
+        },
+        "Finals": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "100",
+            "average": "86.1",
+            "median": "87"
+        }
     }
 }
