@@ -759,5 +759,46 @@
             "average": "66.968",
             "median": "63"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "רוזנטל רון",
+                "email": "ron.ro@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סופר אהרונוב נוי",
+                "email": "noyso@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "41",
+            "passFail": "33\/8",
+            "passPercent": "80",
+            "min": "16",
+            "max": "100",
+            "average": "73.146",
+            "median": "77"
+        },
+        "Final_A": {
+            "students": "41",
+            "passFail": "34\/7",
+            "passPercent": "83",
+            "min": "16",
+            "max": "100",
+            "average": "74.561",
+            "median": "79"
+        },
+        "Finals": {
+            "students": "41",
+            "passFail": "34\/7",
+            "passPercent": "83",
+            "min": "16",
+            "max": "100",
+            "average": "74.561",
+            "median": "79"
+        }
     }
 }
