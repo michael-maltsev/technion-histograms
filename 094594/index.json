@@ -562,5 +562,33 @@
             "average": "65",
             "median": "67.5"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "פרץ חובב",
+                "email": "perets@ie.technion.ac.il,perets@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-חקון אליקים",
+                "email": "ebh@technion.ac.il,ebh@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "76",
+            "passFail": "63\/13",
+            "passPercent": "83",
+            "min": "29",
+            "max": "100",
+            "average": "70.697",
+            "median": "71"
+        }
     }
 }
