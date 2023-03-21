@@ -268,6 +268,11 @@
                 "name": "רותם לירן",
                 "email": "lrotem@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שפריר איתי",
+                "email": "shafrir@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
@@ -277,6 +282,24 @@
             "min": "19",
             "max": "100",
             "average": "73.745",
+            "median": "75"
+        },
+        "Exam_B": {
+            "students": "23",
+            "passFail": "19\/4",
+            "passPercent": "83",
+            "min": "25",
+            "max": "100",
+            "average": "75.261",
+            "median": "74"
+        },
+        "Final_B": {
+            "students": "23",
+            "passFail": "20\/3",
+            "passPercent": "87",
+            "min": "25",
+            "max": "100",
+            "average": "77.174",
             "median": "75"
         },
         "Finals": {
