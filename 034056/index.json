@@ -18,7 +18,7 @@
             },
             {
                 "name": "ברנמן מארק",
-                "email": "marc.berneman@outlook.com",
+                "email": "marc.berneman@outlook.com,marcberneman@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
@@ -46,8 +46,17 @@
             "passPercent": "61",
             "min": "23",
             "max": "96",
-            "average": "60.788",
+            "average": "60.825",
             "median": "60"
+        },
+        "Finals": {
+            "students": "114",
+            "passFail": "68\/46",
+            "passPercent": "60",
+            "min": "18",
+            "max": "100",
+            "average": "63.368",
+            "median": "69"
         }
     }
 }
