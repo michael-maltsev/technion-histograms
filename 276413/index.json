@@ -388,11 +388,6 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "גרשקוביץ ממן רינת שרית",
-                "email": "rinatgm@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
                 "name": "אהרון אברהם קארין",
                 "email": "mdteams@technion.ac.il,karinaron@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -413,6 +408,11 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
+                "name": "גמליאל חוה",
+                "email": "hava.g@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
                 "name": "רגב עירית",
                 "email": "iritlevi@technion.ac.il,irit.levit@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -426,6 +426,33 @@
             "max": "96",
             "average": "74.159",
             "median": "74"
+        },
+        "Final_A": {
+            "students": "63",
+            "passFail": "55\/8",
+            "passPercent": "87",
+            "min": "56",
+            "max": "96",
+            "average": "77.891",
+            "median": "76"
+        },
+        "Exam_B": {
+            "students": "29",
+            "passFail": "23\/6",
+            "passPercent": "79",
+            "min": "32",
+            "max": "98",
+            "average": "69.586",
+            "median": "72"
+        },
+        "Finals": {
+            "students": "63",
+            "passFail": "55\/8",
+            "passPercent": "87",
+            "min": "56",
+            "max": "96",
+            "average": "77.891",
+            "median": "76"
         }
     }
 }
