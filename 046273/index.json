@@ -270,5 +270,32 @@
             "average": "78.167",
             "median": "80"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "גזית חובב",
+                "email": "hovav@ee.technion.ac.il,hovav@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "49",
+            "passFail": "45\/4",
+            "passPercent": "92",
+            "min": "32",
+            "max": "99",
+            "average": "74.571",
+            "median": "76"
+        },
+        "Final_A": {
+            "students": "49",
+            "passFail": "46\/3",
+            "passPercent": "94",
+            "min": "32",
+            "max": "99",
+            "average": "79",
+            "median": "80"
+        }
     }
 }
