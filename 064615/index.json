@@ -116,5 +116,37 @@
             "average": "80.286",
             "median": "81"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "אשקר ערין",
+                "email": "areen92@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מירון-הולץ אסתר",
+                "email": "meyron@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "46",
+            "passFail": "46\/0",
+            "passPercent": "100",
+            "min": "58.6",
+            "max": "97.2",
+            "average": "82.385",
+            "median": "82.275"
+        },
+        "Finals": {
+            "students": "46",
+            "passFail": "46\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "97",
+            "average": "82.413",
+            "median": "82"
+        }
     }
 }
