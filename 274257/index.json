@@ -37,13 +37,13 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "שפורן שירי",
-                "email": "musmach@technion.ac.il,shiris@technion.ac.il",
+                "name": "גמליאל חוה",
+                "email": "hava.g@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "גרשקוביץ ממן רינת שרית",
-                "email": "rinatgm@technion.ac.il",
+                "name": "שפורן שירי",
+                "email": "musmach@technion.ac.il,shiris@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -56,14 +56,41 @@
             "average": "81.237",
             "median": "82"
         },
+        "Final_A": {
+            "students": "135",
+            "passFail": "124\/11",
+            "passPercent": "92",
+            "min": "66",
+            "max": "95",
+            "average": "81.839",
+            "median": "82.5"
+        },
         "Exam_B": {
             "students": "14",
             "passFail": "13\/1",
             "passPercent": "93",
-            "min": "52",
-            "max": "83",
+            "min": "53",
+            "max": "82",
             "average": "72",
-            "median": "75"
+            "median": "74"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "12\/2",
+            "passPercent": "86",
+            "min": "64",
+            "max": "86",
+            "average": "76.833",
+            "median": "78.5"
+        },
+        "Finals": {
+            "students": "135",
+            "passFail": "124\/11",
+            "passPercent": "92",
+            "min": "66",
+            "max": "95",
+            "average": "81.839",
+            "median": "82.5"
         }
     }
 }
