@@ -354,5 +354,64 @@
             "average": "78.411",
             "median": "79"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "חייט אלכסנדר",
+                "email": "alex.hayat@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גדבאן באסל",
+                "email": "ghadbanbasel@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "93",
+            "passFail": "75\/18",
+            "passPercent": "81",
+            "min": "33",
+            "max": "100",
+            "average": "69.075",
+            "median": "71"
+        },
+        "Final_A": {
+            "students": "93",
+            "passFail": "86\/7",
+            "passPercent": "92",
+            "min": "47.675",
+            "max": "100",
+            "average": "78.432",
+            "median": "79.5"
+        },
+        "Exam_B": {
+            "students": "29",
+            "passFail": "21\/8",
+            "passPercent": "72",
+            "min": "37",
+            "max": "86",
+            "average": "64.103",
+            "median": "64"
+        },
+        "Final_B": {
+            "students": "29",
+            "passFail": "28\/1",
+            "passPercent": "97",
+            "min": "53.275",
+            "max": "93.875",
+            "average": "76.026",
+            "median": "75.8"
+        },
+        "Finals": {
+            "students": "93",
+            "passFail": "87\/6",
+            "passPercent": "94",
+            "min": "48",
+            "max": "100",
+            "average": "78.495",
+            "median": "80"
+        }
     }
 }
