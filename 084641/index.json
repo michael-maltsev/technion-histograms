@@ -139,5 +139,33 @@
             "average": "74.965",
             "median": "76"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "קליין גריגורי",
+                "email": "gregy.kl@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הרשקו דפנה",
+                "email": "ae.ugsec@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "אבני אור",
+                "email": "oravni@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "78",
+            "passFail": "59\/19",
+            "passPercent": "76",
+            "min": "0",
+            "max": "94",
+            "average": "62.474",
+            "median": "78"
+        }
     }
 }
