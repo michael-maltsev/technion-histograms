@@ -100,5 +100,46 @@
             "average": "87.582",
             "median": "88"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "59",
+            "passFail": "58\/1",
+            "passPercent": "98",
+            "min": "40",
+            "max": "100",
+            "average": "87.78",
+            "median": "88"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "40",
+            "max": "97",
+            "average": "76.25",
+            "median": "76.5"
+        },
+        "Finals": {
+            "students": "74",
+            "passFail": "73\/1",
+            "passPercent": "99",
+            "min": "40",
+            "max": "100",
+            "average": "85.932",
+            "median": "87"
+        }
     }
 }
