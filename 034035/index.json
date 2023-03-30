@@ -720,7 +720,7 @@
             "passPercent": "60",
             "min": "13",
             "max": "100",
-            "average": "59.222",
+            "average": "59.373",
             "median": "58"
         },
         "Final_A": {
@@ -729,8 +729,17 @@
             "passPercent": "64",
             "min": "17",
             "max": "100",
-            "average": "61.23",
+            "average": "61.349",
             "median": "63"
+        },
+        "Exam_B": {
+            "students": "93",
+            "passFail": "81\/12",
+            "passPercent": "87",
+            "min": "23",
+            "max": "99",
+            "average": "72.71",
+            "median": "73"
         }
     }
 }
