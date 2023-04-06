@@ -72,5 +72,46 @@
             "average": "87.677",
             "median": "91"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "אסחאק רוברט",
+                "email": "roberti@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "32",
+            "passFail": "26\/6",
+            "passPercent": "81",
+            "min": "16",
+            "max": "92",
+            "average": "73.625",
+            "median": "77.5"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "90",
+            "average": "73.5",
+            "median": "72.5"
+        },
+        "Finals": {
+            "students": "40",
+            "passFail": "40\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "92",
+            "average": "78.65",
+            "median": "77.5"
+        }
     }
 }
