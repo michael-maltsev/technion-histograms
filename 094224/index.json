@@ -296,5 +296,51 @@
             "average": "78.529",
             "median": "79"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "עמק יובל",
+                "email": "yemek@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גיל יובל",
+                "email": "yuval.gil@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "144",
+            "passFail": "111\/33",
+            "passPercent": "77",
+            "min": "24",
+            "max": "100",
+            "average": "71.549",
+            "median": "72"
+        },
+        "Final_B": {
+            "students": "62",
+            "passFail": "38\/24",
+            "passPercent": "61",
+            "min": "30",
+            "max": "100",
+            "average": "58.129",
+            "median": "56"
+        },
+        "Finals": {
+            "students": "163",
+            "passFail": "136\/27",
+            "passPercent": "83",
+            "min": "30",
+            "max": "100",
+            "average": "72.018",
+            "median": "70"
+        }
     }
 }
