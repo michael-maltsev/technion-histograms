@@ -86,5 +86,42 @@
             "average": "84.182",
             "median": "85"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "סטרוסבצקי יולי",
+                "email": "staryuli@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טננבאום אלעד",
+                "email": "eltenen@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ברוך איל",
+                "email": "eyalbaruch911@gmail.com,eyalbaruch@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "59",
+            "passFail": "50\/9",
+            "passPercent": "85",
+            "min": "29",
+            "max": "100",
+            "average": "76.831",
+            "median": "79"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "12\/4",
+            "passPercent": "75",
+            "min": "36",
+            "max": "95",
+            "average": "70.5",
+            "median": "78"
+        }
     }
 }

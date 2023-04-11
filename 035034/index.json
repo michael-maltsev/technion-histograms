@@ -217,5 +217,46 @@
             "average": "94.96",
             "median": "97"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "ריטל דניאל",
+                "email": "merittel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דוד תאיר",
+                "email": "tair.david@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "93",
+            "average": "81.795",
+            "median": "81"
+        },
+        "Final_A": {
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "94",
+            "average": "85.795",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "94",
+            "average": "85.795",
+            "median": "87"
+        }
     }
 }
