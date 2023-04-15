@@ -52,5 +52,28 @@
             "average": "92.25",
             "median": "100"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "מרטינושי ולדימיר",
+                "email": "vmartinusi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הרשקו דפנה",
+                "email": "ae.ugsec@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "18",
+            "passFail": "17\/1",
+            "passPercent": "94",
+            "min": "50",
+            "max": "100",
+            "average": "79.722",
+            "median": "85"
+        }
     }
 }
