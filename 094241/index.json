@@ -443,5 +443,42 @@
             "average": "81.095",
             "median": "84"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "קניג בתיה",
+                "email": "batyak@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גנוסר בר",
+                "email": "bargenossar@gmail.com,sbargen@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "177",
+            "passFail": "141\/36",
+            "passPercent": "80",
+            "min": "15",
+            "max": "98",
+            "average": "71.74",
+            "median": "78"
+        },
+        "Final_B": {
+            "students": "76",
+            "passFail": "58\/18",
+            "passPercent": "76",
+            "min": "11",
+            "max": "99",
+            "average": "70.171",
+            "median": "76"
+        }
     }
 }
