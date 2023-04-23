@@ -117,5 +117,37 @@
             "average": "95.4",
             "median": "97"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "בן משה אלון",
+                "email": "alonbenmoshe@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן אליעזר רותם",
+                "email": "beneliezerrotem@gmail.com,rotembe@campus.technion.ac.il",
+                "title": ""
+            }
+        ],
+        "Final_A": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "89.25",
+            "max": "97.05",
+            "average": "93.487",
+            "median": "93.975"
+        },
+        "Finals": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "89",
+            "max": "97",
+            "average": "93.367",
+            "median": "94"
+        }
     }
 }
