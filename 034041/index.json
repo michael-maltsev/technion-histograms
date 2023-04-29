@@ -753,12 +753,12 @@
         },
         "Exam_B": {
             "students": "68",
-            "passFail": "38\/30",
-            "passPercent": "56",
+            "passFail": "39\/29",
+            "passPercent": "57",
             "min": "21",
             "max": "97",
-            "average": "54.603",
-            "median": "56"
+            "average": "54.912",
+            "median": "56.5"
         },
         "Final_B": {
             "students": "68",
@@ -766,8 +766,17 @@
             "passPercent": "69",
             "min": "27",
             "max": "100",
-            "average": "66.956",
+            "average": "67.176",
             "median": "73"
+        },
+        "Finals": {
+            "students": "138",
+            "passFail": "96\/42",
+            "passPercent": "70",
+            "min": "22",
+            "max": "100",
+            "average": "68.275",
+            "median": "74"
         }
     }
 }
