@@ -228,5 +228,46 @@
             "average": "93.233",
             "median": "94"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "קרבצ'יק ולריה",
+                "email": "kra.valeriia@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מרחר יוליה",
+                "email": "merkher@technion.ac.il",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "96.263",
+            "median": "96"
+        },
+        "Final_A": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "99",
+            "average": "95.158",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "92",
+            "max": "99",
+            "average": "94.905",
+            "median": "94"
+        }
     }
 }

@@ -32,26 +32,35 @@
             "passPercent": "99",
             "min": "10",
             "max": "100",
-            "average": "88.641",
+            "average": "88.779",
             "median": "91"
         },
         "Exam_B": {
             "students": "48",
-            "passFail": "42\/6",
-            "passPercent": "88",
-            "min": "30",
+            "passFail": "45\/3",
+            "passPercent": "94",
+            "min": "40",
             "max": "100",
-            "average": "79.688",
-            "median": "85"
+            "average": "85.312",
+            "median": "90"
         },
         "Final_B": {
             "students": "49",
-            "passFail": "43\/6",
-            "passPercent": "88",
+            "passFail": "46\/3",
+            "passPercent": "94",
             "min": "10",
             "max": "100",
-            "average": "80.195",
-            "median": "86.5"
+            "average": "86.143",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "135",
+            "passFail": "131\/4",
+            "passPercent": "97",
+            "min": "10",
+            "max": "100",
+            "average": "88.007",
+            "median": "93"
         }
     }
 }
