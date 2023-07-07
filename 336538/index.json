@@ -126,5 +126,37 @@
             "average": "93.042",
             "median": "93"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "מלר עמית",
+                "email": "ameller@bm.technion.ac.il,ameller@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרוינדליך נעם",
+                "email": "noamfr9@gmail.com,freundlich@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "14",
+            "passFail": "12\/2",
+            "passPercent": "86",
+            "min": "0",
+            "max": "97",
+            "average": "78.5",
+            "median": "90.5"
+        },
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "87",
+            "max": "97",
+            "average": "91.583",
+            "median": "91.5"
+        }
     }
 }
