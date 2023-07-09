@@ -244,5 +244,60 @@
             "average": "75.84",
             "median": "85"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "עיד רמי",
+                "email": "rami.eid1@gmail.com,rami.eid@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "מג'אר טליה",
+                "email": "talia@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "בהנסי אמיר",
+                "email": "amir.bhnasi@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "70",
+            "passFail": "30\/40",
+            "passPercent": "43",
+            "min": "0",
+            "max": "99",
+            "average": "49.686",
+            "median": "45"
+        },
+        "Exam_B": {
+            "students": "48",
+            "passFail": "35\/13",
+            "passPercent": "73",
+            "min": "5",
+            "max": "100",
+            "average": "65.521",
+            "median": "75"
+        },
+        "Final_B": {
+            "students": "48",
+            "passFail": "35\/13",
+            "passPercent": "73",
+            "min": "5",
+            "max": "99",
+            "average": "68.354",
+            "median": "80.5"
+        },
+        "Finals": {
+            "students": "81",
+            "passFail": "71\/10",
+            "passPercent": "88",
+            "min": "5",
+            "max": "99",
+            "average": "75.975",
+            "median": "82"
+        }
     }
 }
