@@ -311,5 +311,42 @@
             "average": "95.706",
             "median": "95"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "קוסובסקי בטי",
+                "email": "normako@court.gov.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "93.833",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "94.667",
+            "median": "95"
+        }
     }
 }
