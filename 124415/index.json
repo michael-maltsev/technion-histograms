@@ -199,5 +199,46 @@
             "average": "82.364",
             "median": "85"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "הופמן אלון",
+                "email": "choffman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גבע מורן",
+                "email": "mg569@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "99",
+            "average": "78.75",
+            "median": "79"
+        },
+        "Final_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "100",
+            "average": "81.333",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "100",
+            "average": "80.769",
+            "median": "82"
+        }
     }
 }
