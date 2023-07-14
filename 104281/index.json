@@ -989,5 +989,37 @@
             "average": "64.697",
             "median": "70"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "שפירא אוריאל",
+                "email": "ushapira@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שכטר אלון",
+                "email": "alonschejter@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "71",
+            "passFail": "36\/35",
+            "passPercent": "51",
+            "min": "4",
+            "max": "100",
+            "average": "57.225",
+            "median": "53"
+        },
+        "Final_A": {
+            "students": "71",
+            "passFail": "36\/35",
+            "passPercent": "51",
+            "min": "4",
+            "max": "100",
+            "average": "57.434",
+            "median": "53"
+        }
     }
 }
