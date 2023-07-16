@@ -132,5 +132,46 @@
             "average": "85.074",
             "median": "85.5"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "לויפר שלומי",
+                "email": "laufer@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "57",
+            "passFail": "57\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "97",
+            "average": "84.456",
+            "median": "87"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "88",
+            "average": "80.091",
+            "median": "81"
+        },
+        "Finals": {
+            "students": "60",
+            "passFail": "60\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "97",
+            "average": "85.483",
+            "median": "87"
+        }
     }
 }
