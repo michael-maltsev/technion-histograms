@@ -1302,5 +1302,37 @@
             "average": "74.995",
             "median": "76"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "רדואן ניזאר",
+                "email": "rnizar@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פייגין-קצוב יוליה",
+                "email": "julia.feigin@gmail.com,juliaf@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "146",
+            "passFail": "92\/54",
+            "passPercent": "63",
+            "min": "22",
+            "max": "96",
+            "average": "59.014",
+            "median": "60.5"
+        },
+        "Final_A": {
+            "students": "146",
+            "passFail": "108\/38",
+            "passPercent": "74",
+            "min": "22",
+            "max": "97",
+            "average": "62.514",
+            "median": "66"
+        }
     }
 }
