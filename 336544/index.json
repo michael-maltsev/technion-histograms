@@ -94,5 +94,28 @@
             "average": "89.469",
             "median": "90"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "דאניאל ראמז",
+                "email": "ramizda@bm.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סמואל רועי",
+                "email": "roeesamuel@gmail.com,samuelro@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "31",
+            "passFail": "31\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "85.806",
+            "median": "90"
+        }
     }
 }
