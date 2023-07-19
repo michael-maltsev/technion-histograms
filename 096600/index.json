@@ -407,5 +407,33 @@
             "average": "85.68",
             "median": "87"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "הררי-חמם דנה",
+                "email": "hararid@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מלצר לטם",
+                "email": "lotemm@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "134",
+            "passFail": "134\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "85.858",
+            "median": "87.5"
+        }
     }
 }
