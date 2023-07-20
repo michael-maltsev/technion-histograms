@@ -825,5 +825,37 @@
             "average": "60.655",
             "median": "61"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "קליינשטרן מיכל",
+                "email": "mklinst@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פייגין-קצוב יוליה",
+                "email": "julia.feigin@gmail.com,juliaf@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "321",
+            "passFail": "215\/106",
+            "passPercent": "67",
+            "min": "15",
+            "max": "100",
+            "average": "62.539",
+            "median": "64"
+        },
+        "Final_A": {
+            "students": "321",
+            "passFail": "233\/88",
+            "passPercent": "73",
+            "min": "15",
+            "max": "100",
+            "average": "64.224",
+            "median": "67"
+        }
     }
 }
