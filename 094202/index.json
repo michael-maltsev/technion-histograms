@@ -168,5 +168,33 @@
             "average": "80.658",
             "median": "85"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "פלונסקי אורי",
+                "email": "plonsky@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גרשוב ספיר",
+                "email": "sapirgershov@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "116",
+            "passFail": "104\/12",
+            "passPercent": "90",
+            "min": "33",
+            "max": "94",
+            "average": "72.905",
+            "median": "75"
+        }
     }
 }
