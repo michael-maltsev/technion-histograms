@@ -250,5 +250,32 @@
             "average": "79",
             "median": "80"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "שורק יותם",
+                "email": "soreqy@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "67",
+            "passFail": "39\/28",
+            "passPercent": "58",
+            "min": "0",
+            "max": "100",
+            "average": "61.866",
+            "median": "61"
+        },
+        "Final_A": {
+            "students": "67",
+            "passFail": "39\/28",
+            "passPercent": "58",
+            "min": "0",
+            "max": "100",
+            "average": "64.448",
+            "median": "67"
+        }
     }
 }
