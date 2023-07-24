@@ -1568,5 +1568,37 @@
             "average": "77.529",
             "median": "79"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "שמן ליטל",
+                "email": "litalsh@campus.technion.ac.il,litalsh@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "רבייב דניאל",
+                "email": "danielr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "86",
+            "passFail": "67\/19",
+            "passPercent": "78",
+            "min": "7",
+            "max": "95",
+            "average": "65.547",
+            "median": "65.5"
+        },
+        "Final_A": {
+            "students": "86",
+            "passFail": "72\/14",
+            "passPercent": "84",
+            "min": "7",
+            "max": "95",
+            "average": "68.686",
+            "median": "70.5"
+        }
     }
 }
