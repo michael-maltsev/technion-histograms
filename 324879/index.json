@@ -120,5 +120,37 @@
             "average": "96.571",
             "median": "97"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "פרידמן עירית",
+                "email": "irithf@gmail.com,irithf@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "היימן עדי",
+                "email": "undergrad@me.technion.ac.il,heyman.adi-l@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "69.3",
+            "max": "100",
+            "average": "97.5",
+            "median": "100"
+        },
+        "Finals": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "100",
+            "average": "97.559",
+            "median": "100"
+        }
     }
 }
