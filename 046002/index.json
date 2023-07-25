@@ -585,5 +585,37 @@
             "average": "75.925",
             "median": "74.5"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "שינולד שרי",
+                "email": "surke@cs.huji.ac.il,surke@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גדות אורי",
+                "email": "uri.gad@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "61",
+            "passFail": "48\/13",
+            "passPercent": "79",
+            "min": "26",
+            "max": "100",
+            "average": "70.049",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "61",
+            "passFail": "57\/4",
+            "passPercent": "93",
+            "min": "26",
+            "max": "100",
+            "average": "73.607",
+            "median": "74"
+        }
     }
 }
