@@ -275,5 +275,32 @@
             "average": "75.103",
             "median": "75"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "נואר צבי יעקב",
+                "email": "hnuer@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "41",
+            "passFail": "33\/8",
+            "passPercent": "80",
+            "min": "33",
+            "max": "100",
+            "average": "74",
+            "median": "79"
+        },
+        "Final_A": {
+            "students": "41",
+            "passFail": "33\/8",
+            "passPercent": "80",
+            "min": "38",
+            "max": "100",
+            "average": "76.098",
+            "median": "81"
+        }
     }
 }
