@@ -195,7 +195,7 @@
             },
             {
                 "name": "דיקריוב דניס",
-                "email": "dikarov@ee.technion.ac.il",
+                "email": "dikarov@ee.technion.ac.il,dikarov@technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
@@ -216,6 +216,15 @@
             "max": "100",
             "average": "77",
             "median": "73.5"
+        },
+        "Finals": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "63",
+            "max": "100",
+            "average": "83.429",
+            "median": "78.5"
         }
     }
 }
