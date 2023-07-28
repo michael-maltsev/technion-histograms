@@ -219,5 +219,28 @@
             "average": "91.296",
             "median": "92"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "מרחר יוליה",
+                "email": "merkher@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קרבצ'יק ולריה",
+                "email": "kra.valeriia@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "86",
+            "passFail": "86\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "97.919",
+            "median": "100"
+        }
     }
 }
