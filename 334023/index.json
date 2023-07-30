@@ -57,5 +57,33 @@
             "average": "84.76",
             "median": "87"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "גרעיני יובל",
+                "email": "yuval.garini@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "נימני אופל",
+                "email": "opalnimni@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ניקולא וג'די",
+                "email": "wajdi-n@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "96",
+            "passFail": "92\/4",
+            "passPercent": "96",
+            "min": "33",
+            "max": "100",
+            "average": "82.458",
+            "median": "85.5"
+        }
     }
 }
