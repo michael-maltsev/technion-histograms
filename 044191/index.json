@@ -805,5 +805,37 @@
             "average": "77.464",
             "median": "75.5"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "פויאר אנדריאס אר",
+                "email": "feuer@ee.technion.ac.il,feuer@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אופיר רון",
+                "email": "rono@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "75",
+            "passFail": "62\/13",
+            "passPercent": "83",
+            "min": "23",
+            "max": "99",
+            "average": "72.893",
+            "median": "80"
+        },
+        "Final_A": {
+            "students": "75",
+            "passFail": "64\/11",
+            "passPercent": "85",
+            "min": "31",
+            "max": "99",
+            "average": "76.533",
+            "median": "82"
+        }
     }
 }
