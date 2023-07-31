@@ -739,5 +739,37 @@
             "average": "62.333",
             "median": "58.5"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "ברמן סתיו",
+                "email": "stav.berman@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "נשרים ארז",
+                "email": "nesharim@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "24\/8",
+            "passPercent": "75",
+            "min": "20",
+            "max": "97",
+            "average": "67.906",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "32",
+            "passFail": "25\/7",
+            "passPercent": "78",
+            "min": "28",
+            "max": "99",
+            "average": "71.562",
+            "median": "69.5"
+        }
     }
 }
