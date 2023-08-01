@@ -93,5 +93,41 @@
             "average": "80.882",
             "median": "85.5"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "אור עמנואל",
+                "email": "manuore@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "99",
+            "average": "82.818",
+            "median": "78"
+        },
+        "Final_A": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "99",
+            "average": "82.727",
+            "median": "78"
+        },
+        "Finals": {
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "46",
+            "max": "100",
+            "average": "81.938",
+            "median": "87.5"
+        }
     }
 }

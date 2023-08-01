@@ -176,5 +176,37 @@
             "average": "81.522",
             "median": "82"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "רם עומרי",
+                "email": "omri.ram@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גיחון יואב",
+                "email": "gichon@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "100",
+            "average": "89.176",
+            "median": "90"
+        },
+        "Final_A": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "72.35",
+            "max": "103",
+            "average": "92.106",
+            "median": "92.8"
+        }
     }
 }
