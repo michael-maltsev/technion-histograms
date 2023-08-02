@@ -1007,5 +1007,37 @@
             "average": "73.69",
             "median": "76"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "אבידן דניאלה",
+                "email": "avidand@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מסרווה חייריה",
+                "email": "massarwe@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "56",
+            "passFail": "41\/15",
+            "passPercent": "73",
+            "min": "7",
+            "max": "100",
+            "average": "60.732",
+            "median": "66.5"
+        },
+        "Final_A": {
+            "students": "56",
+            "passFail": "42\/14",
+            "passPercent": "75",
+            "min": "7",
+            "max": "100",
+            "average": "63.464",
+            "median": "70.5"
+        }
     }
 }
