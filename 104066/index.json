@@ -194,5 +194,51 @@
             "average": "77.174",
             "median": "80.5"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "שמש גאי",
+                "email": "guy.shemesh@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "וולף עדי",
+                "email": "adiw@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "צנזור אביב",
+                "email": "avivc@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "30",
+            "passFail": "17\/13",
+            "passPercent": "57",
+            "min": "18",
+            "max": "100",
+            "average": "58.767",
+            "median": "59"
+        },
+        "Final_A": {
+            "students": "30",
+            "passFail": "18\/12",
+            "passPercent": "60",
+            "min": "18",
+            "max": "100",
+            "average": "60.467",
+            "median": "62.5"
+        },
+        "Finals": {
+            "students": "30",
+            "passFail": "18\/12",
+            "passPercent": "60",
+            "min": "18",
+            "max": "100",
+            "average": "60.467",
+            "median": "62.5"
+        }
     }
 }
