@@ -599,5 +599,52 @@
             "average": "76.673",
             "median": "80"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "עמירב דרורי לילך",
+                "email": "lilac@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גבע מורן",
+                "email": "mg569@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קליין זהר",
+                "email": "zohar.klein@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "בהר אנסטסיה אס",
+                "email": "ganastasia@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "הלוי גבריאלה",
+                "email": "gabriele@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "50",
+            "passFail": "47\/3",
+            "passPercent": "94",
+            "min": "45",
+            "max": "99",
+            "average": "76.53",
+            "median": "78.5"
+        },
+        "Final_A": {
+            "students": "48",
+            "passFail": "45\/3",
+            "passPercent": "94",
+            "min": "45",
+            "max": "98",
+            "average": "80.083",
+            "median": "83"
+        }
     }
 }
