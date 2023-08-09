@@ -63,6 +63,51 @@
             "median": "65"
         }
     },
+    "201501": {
+        "Staff": [
+            {
+                "name": "בינה עופר",
+                "email": "binah@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "42",
+            "passFail": "35\/7",
+            "passPercent": "83",
+            "min": "40",
+            "max": "95",
+            "average": "70.048",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "42",
+            "passFail": "39\/3",
+            "passPercent": "93",
+            "min": "45",
+            "max": "96",
+            "average": "73.071",
+            "median": "71.5"
+        },
+        "Final_B": {
+            "students": "28",
+            "passFail": "22\/6",
+            "passPercent": "79",
+            "min": "41",
+            "max": "83",
+            "average": "66.357",
+            "median": "70"
+        },
+        "Finals": {
+            "students": "52",
+            "passFail": "46\/6",
+            "passPercent": "88",
+            "min": "41",
+            "max": "96",
+            "average": "73.173",
+            "median": "73.5"
+        }
+    },
     "201601": {
         "Staff": [
             {

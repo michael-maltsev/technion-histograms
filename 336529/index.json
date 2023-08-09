@@ -1,4 +1,45 @@
 {
+    "201602": {
+        "Staff": [
+            {
+                "name": "לנדאו שירה",
+                "email": "shiralan@technion.ac.il,shiralan@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מיכאל ענבל",
+                "email": "inbalm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "96",
+            "average": "80.3",
+            "median": "83"
+        },
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "96",
+            "average": "85.65",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "96",
+            "average": "86.238",
+            "median": "88"
+        }
+    },
     "201702": {
         "Staff": [
             {

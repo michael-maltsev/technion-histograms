@@ -1,4 +1,45 @@
 {
+    "201601": {
+        "Staff": [
+            {
+                "name": "לנדסברג אמיר",
+                "email": "amir@bm.technion.ac.il,bmamir@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קובלבסקי מריה",
+                "email": "kovalevs@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "98",
+            "average": "86.909",
+            "median": "84"
+        },
+        "Final_A": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "98",
+            "average": "87.545",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "82",
+            "max": "100",
+            "average": "90.909",
+            "median": "90"
+        }
+    },
     "201701": {
         "Staff": [
             {

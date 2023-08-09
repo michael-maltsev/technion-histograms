@@ -1,4 +1,59 @@
 {
+    "201601": {
+        "Staff": [
+            {
+                "name": "וילנסקי אלכסנדר",
+                "email": "radio4x1mh@hotmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ח'ורי מאריה",
+                "email": "mariakh@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קובץ' עומר",
+                "email": "omer.k@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "32\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "89.031",
+            "median": "90"
+        },
+        "Final_A": {
+            "students": "42",
+            "passFail": "42\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "100",
+            "average": "89.595",
+            "median": "91"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "94.727",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "48",
+            "passFail": "48\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "100",
+            "average": "92.708",
+            "median": "93"
+        }
+    },
     "201701": {
         "Staff": [
             {

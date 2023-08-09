@@ -1,4 +1,45 @@
 {
+    "201402": {
+        "Staff": [
+            {
+                "name": "קימל איתן",
+                "email": "eitan@bm.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פלקסין מיכאל",
+                "email": "mikepl@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Final_A": {
+            "students": "35",
+            "passFail": "31\/4",
+            "passPercent": "89",
+            "min": "44",
+            "max": "100",
+            "average": "75.6",
+            "median": "76"
+        },
+        "Final_B": {
+            "students": "20",
+            "passFail": "18\/2",
+            "passPercent": "90",
+            "min": "38",
+            "max": "100",
+            "average": "77.4",
+            "median": "75"
+        },
+        "Finals": {
+            "students": "52",
+            "passFail": "49\/3",
+            "passPercent": "94",
+            "min": "38",
+            "max": "100",
+            "average": "80.596",
+            "median": "79"
+        }
+    },
     "201502": {
         "Staff": [
             {
