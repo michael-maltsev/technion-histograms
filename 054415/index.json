@@ -111,5 +111,32 @@
             "average": "94.588",
             "median": "97"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "נמרוד ירון",
+                "email": "ynimrod@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "97",
+            "average": "83.692",
+            "median": "87"
+        },
+        "Final_A": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "98",
+            "average": "90.923",
+            "median": "92"
+        }
     }
 }
