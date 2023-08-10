@@ -353,5 +353,42 @@
             "average": "85.367",
             "median": "89"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "סליקטר דרור",
+                "email": "dror@bm.technion.ac.il,bmdror@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חאג נרמין",
+                "email": "narmeen.haj@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "עיד ראמי",
+                "email": "rami-eid@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "94",
+            "passFail": "90\/4",
+            "passPercent": "96",
+            "min": "45",
+            "max": "99",
+            "average": "84.17",
+            "median": "88"
+        },
+        "Final_A": {
+            "students": "94",
+            "passFail": "93\/1",
+            "passPercent": "99",
+            "min": "53",
+            "max": "99",
+            "average": "86.34",
+            "median": "90"
+        }
     }
 }
