@@ -62,5 +62,28 @@
             "average": "86.029",
             "median": "87"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "הרשקוביץ פול יעל",
+                "email": "yhershkovitz@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גרינברג-דנה אלון",
+                "email": "alon@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "58",
+            "passFail": "51\/7",
+            "passPercent": "88",
+            "min": "12",
+            "max": "95",
+            "average": "70.586",
+            "median": "72.5"
+        }
     }
 }
