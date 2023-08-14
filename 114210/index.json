@@ -279,5 +279,37 @@
             "average": "82.204",
             "median": "85"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "שגיא יואב",
+                "email": "yoav.sagi@physics.technion.ac.il,yoavsagi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מושל גיא",
+                "email": "gmoshel@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "39",
+            "passFail": "33\/6",
+            "passPercent": "85",
+            "min": "18",
+            "max": "97",
+            "average": "74.103",
+            "median": "76"
+        },
+        "Final_A": {
+            "students": "39",
+            "passFail": "36\/3",
+            "passPercent": "92",
+            "min": "34",
+            "max": "98",
+            "average": "78.795",
+            "median": "81"
+        }
     }
 }
