@@ -157,5 +157,37 @@
             "average": "81.938",
             "median": "85"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "מייקלס דן",
+                "email": "danm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברוד חיים איליה",
+                "email": "lifeb@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "61",
+            "passFail": "52\/9",
+            "passPercent": "85",
+            "min": "29",
+            "max": "97",
+            "average": "75.967",
+            "median": "80"
+        },
+        "Final_A": {
+            "students": "61",
+            "passFail": "57\/4",
+            "passPercent": "93",
+            "min": "39",
+            "max": "97",
+            "average": "78.984",
+            "median": "82"
+        }
     }
 }
