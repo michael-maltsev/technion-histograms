@@ -357,5 +357,37 @@
             "average": "76.723",
             "median": "78"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "ולך נתן שמע",
+                "email": "tani@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שגיב מיכה",
+                "email": "sageevm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "69",
+            "passFail": "53\/16",
+            "passPercent": "77",
+            "min": "23",
+            "max": "99",
+            "average": "70.043",
+            "median": "73"
+        },
+        "Final_A": {
+            "students": "69",
+            "passFail": "57\/12",
+            "passPercent": "83",
+            "min": "23",
+            "max": "99",
+            "average": "72.217",
+            "median": "76"
+        }
     }
 }
