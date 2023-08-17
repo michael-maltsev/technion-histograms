@@ -190,5 +190,37 @@
             "average": "75.684",
             "median": "76.5"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "חלק שאול נדב",
+                "email": "nadav_hallak@outlook.com,ndvhllk@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "118",
+            "passFail": "36\/82",
+            "passPercent": "31",
+            "min": "7",
+            "max": "83",
+            "average": "45.398",
+            "median": "47"
+        },
+        "Final_A": {
+            "students": "118",
+            "passFail": "92\/26",
+            "passPercent": "78",
+            "min": "28.495",
+            "max": "100",
+            "average": "65.606",
+            "median": "67.0575"
+        }
     }
 }
