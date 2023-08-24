@@ -238,11 +238,6 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "מאיר קובה אילנית",
-                "email": "ilanit.k@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
                 "name": "רגב עירית",
                 "email": "iritlevi@technion.ac.il,irit.levit@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -290,6 +285,15 @@
             "max": "93",
             "average": "70.3",
             "median": "72"
+        },
+        "Exam_B": {
+            "students": "11",
+            "passFail": "7\/4",
+            "passPercent": "64",
+            "min": "40",
+            "max": "79",
+            "average": "60.364",
+            "median": "58"
         },
         "Finals": {
             "students": "120",
