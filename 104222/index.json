@@ -818,5 +818,41 @@
             "average": "78.509",
             "median": "82"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "מילמן עמנואל",
+                "email": "emilman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "20",
+            "passFail": "11\/9",
+            "passPercent": "55",
+            "min": "8",
+            "max": "89",
+            "average": "44.75",
+            "median": "55"
+        },
+        "Final_A": {
+            "students": "20",
+            "passFail": "11\/9",
+            "passPercent": "55",
+            "min": "8",
+            "max": "92",
+            "average": "49.65",
+            "median": "66"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "11\/9",
+            "passPercent": "55",
+            "min": "8",
+            "max": "92",
+            "average": "49.65",
+            "median": "66"
+        }
     }
 }
