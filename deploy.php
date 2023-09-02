@@ -204,10 +204,10 @@ function staff_data_to_table($data) {
     ];
 
     $header = '|';
-    $seperator = '|';
+    $separator = '|';
     foreach ($mapping as $key => $val) {
         $header .= " $val |";
-        $seperator .= " ---- |";
+        $separator .= " ---- |";
     }
 
     $rows = '';
@@ -219,7 +219,7 @@ function staff_data_to_table($data) {
         $rows .= "\n";
     }
 
-    return "$header\n$seperator\n$rows";
+    return "$header\n$separator\n$rows";
 }
 
 function markdown_to_page($title, $content) {
