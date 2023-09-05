@@ -759,5 +759,41 @@
             "average": "75.053",
             "median": "76.5"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "חסין דוד",
+                "email": "davidhasin@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "23",
+            "passFail": "17\/6",
+            "passPercent": "74",
+            "min": "4",
+            "max": "89",
+            "average": "61.696",
+            "median": "64"
+        },
+        "Final_A": {
+            "students": "23",
+            "passFail": "18\/5",
+            "passPercent": "78",
+            "min": "8",
+            "max": "90",
+            "average": "67.174",
+            "median": "73"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "18\/5",
+            "passPercent": "78",
+            "min": "8",
+            "max": "90",
+            "average": "67.174",
+            "median": "73"
+        }
     }
 }
