@@ -645,5 +645,33 @@
             "average": "81.613",
             "median": "81"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "כץ-דמיאנץ אלכסנדר",
+                "email": "kalexand@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שוחאט שלום",
+                "email": "sholom@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "סטרוקין יבגני",
+                "email": "strokin@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "82",
+            "passFail": "56\/26",
+            "passPercent": "68",
+            "min": "22",
+            "max": "96",
+            "average": "63.476",
+            "median": "63.5"
+        }
     }
 }
