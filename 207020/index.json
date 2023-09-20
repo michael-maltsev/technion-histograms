@@ -39,5 +39,46 @@
             "average": "95",
             "median": "97"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "בן נון עדי",
+                "email": "adi-ben-nun@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רוזנברג גל",
+                "email": "galro@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "97.062",
+            "median": "98.5"
+        },
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "80.657",
+            "max": "99.343",
+            "average": "91.01",
+            "median": "89.314"
+        },
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "99",
+            "average": "91.188",
+            "median": "89.5"
+        }
     }
 }
