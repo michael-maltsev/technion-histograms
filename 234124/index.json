@@ -148,13 +148,13 @@
     "202102": {
         "Staff": [
             {
-                "name": "רובינשטיין רן",
-                "email": "ronrubin@cs.technion.ac.il",
+                "name": "עדי ליאב",
+                "email": "liavadi@gmail.com",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "עדי ליאב",
-                "email": "liavadi@gmail.com",
+                "name": "רובינשטיין רן",
+                "email": "ronrubin@cs.technion.ac.il",
                 "title": "מרצה"
             }
         ],
@@ -189,6 +189,29 @@
             "max": "100",
             "average": "75.563",
             "median": "78.5"
+        }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "ויינשטיין יוסף",
+                "email": "yossiv@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קינסברונר אלעד",
+                "email": "kinsbruner@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "340",
+            "passFail": "306\/34",
+            "passPercent": "90",
+            "min": "11",
+            "max": "100",
+            "average": "72.956",
+            "median": "75"
         }
     }
 }
