@@ -1473,5 +1473,32 @@
             "average": "69.871",
             "median": "72"
         }
+    },
+    "202203": {
+        "Staff": [
+            {
+                "name": "בקמן אלכסנדרה",
+                "email": "sashabak@technion.ac.il,sashabak@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "29",
+            "passFail": "19\/10",
+            "passPercent": "66",
+            "min": "8",
+            "max": "100",
+            "average": "59.103",
+            "median": "58"
+        },
+        "Final_A": {
+            "students": "29",
+            "passFail": "23\/6",
+            "passPercent": "79",
+            "min": "29",
+            "max": "107",
+            "average": "71.897",
+            "median": "72"
+        }
     }
 }
