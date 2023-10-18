@@ -1692,9 +1692,24 @@
     "202202": {
         "Staff": [
             {
+                "name": "שחם עמית",
+                "email": "amitsh2004@yahoo.com,samitsh@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אלעד שרון",
+                "email": "sharon.elad@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "אורנשטיין מאיר",
                 "email": "meiro@ee.technion.ac.il,meiro@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברטל גיא",
+                "email": "guy@ee.technion.ac.il,bartal@technion.ac.il",
+                "title": "מרצה"
             },
             {
                 "name": "אילוז מתן",
@@ -1719,6 +1734,24 @@
             "max": "94",
             "average": "68.929",
             "median": "68.5"
+        },
+        "Exam_B": {
+            "students": "19",
+            "passFail": "7\/12",
+            "passPercent": "37",
+            "min": "24.5",
+            "max": "73",
+            "average": "48.553",
+            "median": "42"
+        },
+        "Final_B": {
+            "students": "19",
+            "passFail": "12\/7",
+            "passPercent": "63",
+            "min": "35",
+            "max": "86",
+            "average": "63.105",
+            "median": "59"
         },
         "Finals": {
             "students": "42",
