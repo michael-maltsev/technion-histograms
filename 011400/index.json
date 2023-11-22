@@ -1,4 +1,148 @@
 {
+    "201802": {
+        "Staff": [
+            {
+                "name": "לינדנר נתנאל",
+                "email": "lindner@physics.technion.ac.il,lindner@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "341",
+            "passFail": "216\/125",
+            "passPercent": "63",
+            "min": "0",
+            "max": "100",
+            "average": "59.903",
+            "median": "56"
+        },
+        "Final_A": {
+            "students": "341",
+            "passFail": "246\/95",
+            "passPercent": "72",
+            "min": "15",
+            "max": "100",
+            "average": "65.997",
+            "median": "63"
+        },
+        "Exam_B": {
+            "students": "218",
+            "passFail": "138\/80",
+            "passPercent": "63",
+            "min": "2",
+            "max": "100",
+            "average": "56.436",
+            "median": "56"
+        },
+        "Final_B": {
+            "students": "218",
+            "passFail": "169\/49",
+            "passPercent": "78",
+            "min": "11",
+            "max": "100",
+            "average": "65.45",
+            "median": "66"
+        },
+        "Finals": {
+            "students": "414",
+            "passFail": "353\/61",
+            "passPercent": "85",
+            "min": "11",
+            "max": "100",
+            "average": "70.867",
+            "median": "71.5"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "וקסלר הגר",
+                "email": "hagarb@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "167",
+            "passFail": "129\/38",
+            "passPercent": "77",
+            "min": "12",
+            "max": "100",
+            "average": "68.856",
+            "median": "74"
+        },
+        "Final_A": {
+            "students": "167",
+            "passFail": "148\/19",
+            "passPercent": "89",
+            "min": "25",
+            "max": "100",
+            "average": "77.281",
+            "median": "82"
+        },
+        "Exam_B": {
+            "students": "87",
+            "passFail": "61\/26",
+            "passPercent": "70",
+            "min": "23",
+            "max": "93",
+            "average": "62.828",
+            "median": "61"
+        },
+        "Final_B": {
+            "students": "87",
+            "passFail": "80\/7",
+            "passPercent": "92",
+            "min": "32",
+            "max": "99",
+            "average": "70.046",
+            "median": "70"
+        },
+        "Finals": {
+            "students": "210",
+            "passFail": "205\/5",
+            "passPercent": "98",
+            "min": "32",
+            "max": "100",
+            "average": "79.648",
+            "median": "83"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "מיקוליצקי זיו",
+                "email": "zivm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "164",
+            "passFail": "146\/18",
+            "passPercent": "89",
+            "min": "17",
+            "max": "100",
+            "average": "72.976",
+            "median": "74"
+        },
+        "Final_B": {
+            "students": "85",
+            "passFail": "76\/9",
+            "passPercent": "89",
+            "min": "6",
+            "max": "96",
+            "average": "73.012",
+            "median": "77"
+        },
+        "Finals": {
+            "students": "198",
+            "passFail": "191\/7",
+            "passPercent": "96",
+            "min": "32",
+            "max": "100",
+            "average": "77.253",
+            "median": "79"
+        }
+    },
     "202101": {
         "Staff": [
             {

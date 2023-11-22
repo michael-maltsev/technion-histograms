@@ -1,0 +1,61 @@
+{
+    "202201": {
+        "Staff": [
+            {
+                "name": "מאיר רון",
+                "email": "rmeir@ee.technion.ac.il,rmeir@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרידמן ליאור",
+                "email": "slfrid@cs.technion.ac.il,liorf@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "71",
+            "passFail": "55\/16",
+            "passPercent": "77",
+            "min": "21",
+            "max": "96",
+            "average": "67.62",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "71",
+            "passFail": "69\/2",
+            "passPercent": "97",
+            "min": "46",
+            "max": "98",
+            "average": "78.197",
+            "median": "78"
+        },
+        "Exam_B": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "50",
+            "max": "93",
+            "average": "70.6",
+            "median": "69"
+        },
+        "Final_B": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "95",
+            "average": "79",
+            "median": "78"
+        },
+        "Finals": {
+            "students": "78",
+            "passFail": "76\/2",
+            "passPercent": "97",
+            "min": "46",
+            "max": "98",
+            "average": "79.462",
+            "median": "80"
+        }
+    }
+}

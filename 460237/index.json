@@ -1,0 +1,66 @@
+{
+    "202101": {
+        "Staff": [
+            {
+                "name": "קוטינסקי שחר",
+                "email": "skva@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מעיין אדוארדו",
+                "email": "eduardo.maayan@infineon.com",
+                "title": "מרצה"
+            },
+            {
+                "name": "הופר ברק",
+                "email": "barakhoffer@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "39",
+            "passFail": "26\/13",
+            "passPercent": "67",
+            "min": "31",
+            "max": "84",
+            "average": "58.744",
+            "median": "59"
+        },
+        "Final_A": {
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "91",
+            "average": "77.641",
+            "median": "77"
+        },
+        "Exam_B": {
+            "students": "20",
+            "passFail": "15\/5",
+            "passPercent": "75",
+            "min": "32",
+            "max": "83",
+            "average": "61.75",
+            "median": "64"
+        },
+        "Final_B": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "90",
+            "average": "78.55",
+            "median": "81"
+        },
+        "Finals": {
+            "students": "52",
+            "passFail": "52\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "91",
+            "average": "79.538",
+            "median": "81"
+        }
+    }
+}

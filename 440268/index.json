@@ -1,4 +1,63 @@
 {
+    "201902": {
+        "Staff": [
+            {
+                "name": "טל אילת",
+                "email": "ayellet@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פלג עמית",
+                "email": "samit22@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "88",
+            "passFail": "80\/8",
+            "passPercent": "91",
+            "min": "41",
+            "max": "91",
+            "average": "69.443",
+            "median": "68.5"
+        },
+        "Final_A": {
+            "students": "88",
+            "passFail": "87\/1",
+            "passPercent": "99",
+            "min": "50",
+            "max": "93",
+            "average": "74.398",
+            "median": "73.5"
+        },
+        "Exam_B": {
+            "students": "53",
+            "passFail": "41\/12",
+            "passPercent": "77",
+            "min": "33",
+            "max": "95",
+            "average": "65.453",
+            "median": "66"
+        },
+        "Final_B": {
+            "students": "53",
+            "passFail": "45\/8",
+            "passPercent": "85",
+            "min": "40",
+            "max": "96",
+            "average": "70.774",
+            "median": "72"
+        },
+        "Finals": {
+            "students": "119",
+            "passFail": "111\/8",
+            "passPercent": "93",
+            "min": "40",
+            "max": "96",
+            "average": "74.143",
+            "median": "74"
+        }
+    },
     "202201": {
         "Staff": [
             {
