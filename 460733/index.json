@@ -1,0 +1,43 @@
+{
+    "202202": {
+        "Staff": [
+            {
+                "name": "מרחב נרי",
+                "email": "merhav@ee.technion.ac.il,merhav@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שופרו איתי",
+                "email": "itai.shufaro@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "58.31",
+            "max": "100",
+            "average": "77.521",
+            "median": "77.119"
+        },
+        "Final_A": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "100",
+            "average": "83.269",
+            "median": "83"
+        },
+        "Finals": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "100",
+            "average": "83.269",
+            "median": "83"
+        }
+    }
+}

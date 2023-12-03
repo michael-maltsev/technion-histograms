@@ -17,14 +17,86 @@
             "median": "78"
         }
     },
-    "202101": {
+    "201901": {
+        "Staff": [
+            {
+                "name": "שלומי תומר",
+                "email": "tomersh@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
         "Finals": {
-            "students": "490",
-            "passFail": "448\/42",
+            "students": "442",
+            "passFail": "402\/40",
             "passPercent": "91",
+            "min": "10",
+            "max": "100",
+            "average": "76.604",
+            "median": "79"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "יבנה עירד",
+                "email": "irad@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "513",
+            "passFail": "468\/45",
+            "passPercent": "91",
+            "min": "15",
+            "max": "100",
+            "average": "75.926",
+            "median": "78"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "רוט רוני",
+                "email": "ronny@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "279",
+            "passFail": "242\/37",
+            "passPercent": "87",
             "min": "18",
             "max": "100",
-            "average": "77.143",
+            "average": "72.484",
+            "median": "73"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "יהב ערן",
+                "email": "yahave@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "328",
+            "passFail": "325\/3",
+            "passPercent": "99",
+            "min": "32",
+            "max": "100",
+            "average": "82.756",
+            "median": "84"
+        }
+    },
+    "202101": {
+        "Finals": {
+            "students": "281",
+            "passFail": "268\/13",
+            "passPercent": "95",
+            "min": "6",
+            "max": "99",
+            "average": "77.733",
             "median": "80"
         }
     }

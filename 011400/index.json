@@ -56,8 +56,8 @@
     "201901": {
         "Staff": [
             {
-                "name": "וקסלר הגר",
-                "email": "hagarb@technion.ac.il",
+                "name": "עכאשה מוחמד",
+                "email": "akashi@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
@@ -71,13 +71,13 @@
             "median": "74"
         },
         "Final_A": {
-            "students": "167",
-            "passFail": "148\/19",
-            "passPercent": "89",
-            "min": "25",
+            "students": "605",
+            "passFail": "555\/50",
+            "passPercent": "92",
+            "min": "30",
             "max": "100",
-            "average": "77.281",
-            "median": "82"
+            "average": "74.107",
+            "median": "76"
         },
         "Exam_B": {
             "students": "87",
@@ -89,57 +89,75 @@
             "median": "61"
         },
         "Final_B": {
-            "students": "87",
-            "passFail": "80\/7",
-            "passPercent": "92",
-            "min": "32",
-            "max": "99",
-            "average": "70.046",
-            "median": "70"
+            "students": "199",
+            "passFail": "173\/26",
+            "passPercent": "87",
+            "min": "30",
+            "max": "106",
+            "average": "70.271",
+            "median": "71"
         },
         "Finals": {
-            "students": "210",
-            "passFail": "205\/5",
-            "passPercent": "98",
-            "min": "32",
+            "students": "651",
+            "passFail": "622\/29",
+            "passPercent": "96",
+            "min": "30",
             "max": "100",
-            "average": "79.648",
-            "median": "83"
+            "average": "76.565",
+            "median": "76"
         }
     },
     "201902": {
         "Staff": [
             {
-                "name": "מיקוליצקי זיו",
-                "email": "zivm@technion.ac.il",
+                "name": "רוזן יורם",
+                "email": "rozen@physics.technion.ac.il,rozen@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Final_A": {
-            "students": "164",
-            "passFail": "146\/18",
-            "passPercent": "89",
-            "min": "17",
+        "Exam_A": {
+            "students": "247",
+            "passFail": "177\/70",
+            "passPercent": "72",
+            "min": "16.67",
             "max": "100",
-            "average": "72.976",
-            "median": "74"
+            "average": "63.023",
+            "median": "66.67"
+        },
+        "Final_A": {
+            "students": "247",
+            "passFail": "239\/8",
+            "passPercent": "97",
+            "min": "21",
+            "max": "100",
+            "average": "75.846",
+            "median": "79"
+        },
+        "Exam_B": {
+            "students": "134",
+            "passFail": "0\/134",
+            "passPercent": "0",
+            "min": "14",
+            "max": "23",
+            "average": "18.373",
+            "median": "19"
         },
         "Final_B": {
-            "students": "85",
-            "passFail": "76\/9",
-            "passPercent": "89",
-            "min": "6",
-            "max": "96",
-            "average": "73.012",
-            "median": "77"
+            "students": "134",
+            "passFail": "124\/10",
+            "passPercent": "93",
+            "min": "28",
+            "max": "100",
+            "average": "73.851",
+            "median": "78.5"
         },
         "Finals": {
-            "students": "198",
-            "passFail": "191\/7",
+            "students": "324",
+            "passFail": "311\/13",
             "passPercent": "96",
-            "min": "32",
+            "min": "28",
             "max": "100",
-            "average": "77.253",
+            "average": "77.225",
             "median": "79"
         }
     },
@@ -205,24 +223,19 @@
     "202102": {
         "Staff": [
             {
-                "name": "ברגמן אורן",
-                "email": "bergman@physics.technion.ac.il,obergman@technion.ac.il",
+                "name": "נסר עדי",
+                "email": "adi@physics.technion.ac.il,adin@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "אלון גדעון",
-                "email": "gideon.alon@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "150",
-            "passFail": "139\/11",
-            "passPercent": "93",
-            "min": "12",
+            "students": "362",
+            "passFail": "360\/2",
+            "passPercent": "99",
+            "min": "40",
             "max": "100",
-            "average": "74.427",
-            "median": "76.5"
+            "average": "99.442",
+            "median": "100"
         },
         "Final_B": {
             "students": "38",
@@ -234,13 +247,13 @@
             "median": "78"
         },
         "Finals": {
-            "students": "159",
-            "passFail": "153\/6",
-            "passPercent": "96",
-            "min": "12",
+            "students": "363",
+            "passFail": "361\/2",
+            "passPercent": "99",
+            "min": "40",
             "max": "100",
-            "average": "76.774",
-            "median": "78"
+            "average": "99.444",
+            "median": "100"
         }
     }
 }
