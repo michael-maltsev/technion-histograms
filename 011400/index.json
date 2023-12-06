@@ -1,4 +1,45 @@
 {
+    "201801": {
+        "Staff": [
+            {
+                "name": "טרם שלומית",
+                "email": "tarem@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פור אוריה",
+                "email": "uperetz@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "354",
+            "passFail": "338\/16",
+            "passPercent": "95",
+            "min": "28",
+            "max": "100",
+            "average": "79.715",
+            "median": "82"
+        },
+        "Final_B": {
+            "students": "107",
+            "passFail": "88\/19",
+            "passPercent": "82",
+            "min": "27",
+            "max": "100",
+            "average": "68.065",
+            "median": "67"
+        },
+        "Finals": {
+            "students": "415",
+            "passFail": "395\/20",
+            "passPercent": "95",
+            "min": "27",
+            "max": "100",
+            "average": "79.067",
+            "median": "82"
+        }
+    },
     "201802": {
         "Staff": [
             {
@@ -56,62 +97,62 @@
     "201901": {
         "Staff": [
             {
-                "name": "עכאשה מוחמד",
-                "email": "akashi@technion.ac.il",
+                "name": "פודולסקי דניאל",
+                "email": "podolsky@physics.technion.ac.il,podolsky@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Exam_A": {
-            "students": "167",
-            "passFail": "129\/38",
-            "passPercent": "77",
-            "min": "12",
+            "students": "299",
+            "passFail": "168\/131",
+            "passPercent": "56",
+            "min": "8.333",
             "max": "100",
-            "average": "68.856",
-            "median": "74"
+            "average": "58.361",
+            "median": "58.333"
         },
         "Final_A": {
-            "students": "605",
-            "passFail": "555\/50",
-            "passPercent": "92",
-            "min": "30",
+            "students": "299",
+            "passFail": "239\/60",
+            "passPercent": "80",
+            "min": "23",
             "max": "100",
-            "average": "74.107",
-            "median": "76"
+            "average": "67.428",
+            "median": "68"
         },
         "Exam_B": {
-            "students": "87",
-            "passFail": "61\/26",
-            "passPercent": "70",
-            "min": "23",
-            "max": "93",
-            "average": "62.828",
-            "median": "61"
+            "students": "193",
+            "passFail": "167\/26",
+            "passPercent": "87",
+            "min": "8.333",
+            "max": "100",
+            "average": "73.411",
+            "median": "75"
         },
         "Final_B": {
-            "students": "199",
-            "passFail": "173\/26",
-            "passPercent": "87",
-            "min": "30",
-            "max": "106",
-            "average": "70.271",
-            "median": "71"
+            "students": "193",
+            "passFail": "176\/17",
+            "passPercent": "91",
+            "min": "8",
+            "max": "100",
+            "average": "75.591",
+            "median": "77"
         },
         "Finals": {
-            "students": "651",
-            "passFail": "622\/29",
-            "passPercent": "96",
-            "min": "30",
+            "students": "368",
+            "passFail": "348\/20",
+            "passPercent": "95",
+            "min": "8",
             "max": "100",
-            "average": "76.565",
-            "median": "76"
+            "average": "76.679",
+            "median": "78"
         }
     },
     "201902": {
         "Staff": [
             {
-                "name": "רוזן יורם",
-                "email": "rozen@physics.technion.ac.il,rozen@technion.ac.il",
+                "name": "עכאשה מוחמד",
+                "email": "akashi@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
@@ -125,13 +166,13 @@
             "median": "66.67"
         },
         "Final_A": {
-            "students": "247",
-            "passFail": "239\/8",
-            "passPercent": "97",
-            "min": "21",
+            "students": "249",
+            "passFail": "239\/10",
+            "passPercent": "96",
+            "min": "24",
             "max": "100",
-            "average": "75.846",
-            "median": "79"
+            "average": "83.438",
+            "median": "88"
         },
         "Exam_B": {
             "students": "134",
@@ -143,22 +184,58 @@
             "median": "19"
         },
         "Final_B": {
-            "students": "134",
-            "passFail": "124\/10",
-            "passPercent": "93",
-            "min": "28",
+            "students": "138",
+            "passFail": "132\/6",
+            "passPercent": "96",
+            "min": "27",
             "max": "100",
-            "average": "73.851",
-            "median": "78.5"
+            "average": "82.21",
+            "median": "88"
         },
         "Finals": {
-            "students": "324",
-            "passFail": "311\/13",
-            "passPercent": "96",
-            "min": "28",
+            "students": "356",
+            "passFail": "348\/8",
+            "passPercent": "98",
+            "min": "24",
             "max": "100",
-            "average": "77.225",
-            "median": "79"
+            "average": "85.048",
+            "median": "88"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "עכאשה מוחמד",
+                "email": "akashi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "215",
+            "passFail": "208\/7",
+            "passPercent": "97",
+            "min": "47",
+            "max": "100",
+            "average": "84.13",
+            "median": "85"
+        },
+        "Final_B": {
+            "students": "84",
+            "passFail": "80\/4",
+            "passPercent": "95",
+            "min": "30.237",
+            "max": "100",
+            "average": "84.05",
+            "median": "87.476"
+        },
+        "Finals": {
+            "students": "272",
+            "passFail": "267\/5",
+            "passPercent": "98",
+            "min": "30",
+            "max": "100",
+            "average": "86.279",
+            "median": "92"
         }
     },
     "202101": {

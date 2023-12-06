@@ -1,0 +1,61 @@
+{
+    "202001": {
+        "Staff": [
+            {
+                "name": "גזית עוז",
+                "email": "ozg@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זוסמנוביץ דנה",
+                "email": "zusmanovich@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "77",
+            "passFail": "58\/19",
+            "passPercent": "75",
+            "min": "17",
+            "max": "100",
+            "average": "63.792",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "77",
+            "passFail": "74\/3",
+            "passPercent": "96",
+            "min": "42.4",
+            "max": "100",
+            "average": "74.716",
+            "median": "75.1"
+        },
+        "Exam_B": {
+            "students": "16",
+            "passFail": "3\/13",
+            "passPercent": "19",
+            "min": "26",
+            "max": "89",
+            "average": "46.875",
+            "median": "41"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "11\/5",
+            "passPercent": "69",
+            "min": "27",
+            "max": "91.7",
+            "average": "61.29",
+            "median": "60"
+        },
+        "Finals": {
+            "students": "87",
+            "passFail": "81\/6",
+            "passPercent": "93",
+            "min": "27",
+            "max": "100",
+            "average": "73.241",
+            "median": "74"
+        }
+    }
+}
