@@ -1,0 +1,56 @@
+{
+    "201802": {
+        "Staff": [
+            {
+                "name": "רווה דניאלה",
+                "email": "daniella@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "67",
+            "passFail": "65\/2",
+            "passPercent": "97",
+            "min": "35",
+            "max": "100",
+            "average": "83.881",
+            "median": "85"
+        },
+        "Final_A": {
+            "students": "67",
+            "passFail": "65\/2",
+            "passPercent": "97",
+            "min": "35",
+            "max": "100",
+            "average": "83.881",
+            "median": "85"
+        },
+        "Exam_B": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "80.667",
+            "median": "75"
+        },
+        "Final_B": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "80.667",
+            "median": "75"
+        },
+        "Finals": {
+            "students": "71",
+            "passFail": "70\/1",
+            "passPercent": "99",
+            "min": "50",
+            "max": "100",
+            "average": "85.07",
+            "median": "85"
+        }
+    }
+}

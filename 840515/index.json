@@ -1,0 +1,61 @@
+{
+    "202002": {
+        "Staff": [
+            {
+                "name": "גליץ' פבל",
+                "email": "galich.pi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פושקוב מיכל",
+                "email": "pushkov@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "75",
+            "passFail": "67\/8",
+            "passPercent": "89",
+            "min": "24",
+            "max": "100",
+            "average": "70.133",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "67",
+            "passFail": "67\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "100",
+            "average": "82.104",
+            "median": "82"
+        },
+        "Exam_B": {
+            "students": "20",
+            "passFail": "14\/6",
+            "passPercent": "70",
+            "min": "36",
+            "max": "76",
+            "average": "60.4",
+            "median": "60"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "84",
+            "average": "78.143",
+            "median": "79"
+        },
+        "Finals": {
+            "students": "76",
+            "passFail": "76\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "100",
+            "average": "82.079",
+            "median": "82"
+        }
+    }
+}

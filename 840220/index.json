@@ -1,0 +1,61 @@
+{
+    "202201": {
+        "Staff": [
+            {
+                "name": "שפרמן ויטלי",
+                "email": "vitalysh@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ואקנין אופיר",
+                "email": "ofir.v@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "66",
+            "passFail": "58\/8",
+            "passPercent": "88",
+            "min": "24",
+            "max": "105",
+            "average": "74.455",
+            "median": "76.5"
+        },
+        "Final_A": {
+            "students": "66",
+            "passFail": "58\/8",
+            "passPercent": "88",
+            "min": "24",
+            "max": "100",
+            "average": "76.015",
+            "median": "78.5"
+        },
+        "Exam_B": {
+            "students": "32",
+            "passFail": "26\/6",
+            "passPercent": "81",
+            "min": "22",
+            "max": "96",
+            "average": "69.75",
+            "median": "74.5"
+        },
+        "Final_B": {
+            "students": "32",
+            "passFail": "26\/6",
+            "passPercent": "81",
+            "min": "22",
+            "max": "96",
+            "average": "71.219",
+            "median": "77"
+        },
+        "Finals": {
+            "students": "78",
+            "passFail": "72\/6",
+            "passPercent": "92",
+            "min": "22",
+            "max": "100",
+            "average": "78.603",
+            "median": "81"
+        }
+    }
+}
