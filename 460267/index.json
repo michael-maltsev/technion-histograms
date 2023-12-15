@@ -57,5 +57,74 @@
             "average": "75.688",
             "median": "77"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "גבאי פרדי",
+                "email": "freddyg@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "עציון יואב",
+                "email": "yetsion@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "פרח בן",
+                "email": "benperach@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "כורזום סאמר",
+                "email": "ssamer15@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "97",
+            "passFail": "84\/13",
+            "passPercent": "87",
+            "min": "32",
+            "max": "96",
+            "average": "70.495",
+            "median": "73"
+        },
+        "Final_A": {
+            "students": "97",
+            "passFail": "83\/14",
+            "passPercent": "86",
+            "min": "32",
+            "max": "98",
+            "average": "76.887",
+            "median": "80"
+        },
+        "Exam_B": {
+            "students": "35",
+            "passFail": "30\/5",
+            "passPercent": "86",
+            "min": "26",
+            "max": "90",
+            "average": "65.257",
+            "median": "65"
+        },
+        "Final_B": {
+            "students": "35",
+            "passFail": "29\/6",
+            "passPercent": "83",
+            "min": "26",
+            "max": "86",
+            "average": "71.886",
+            "median": "76"
+        },
+        "Finals": {
+            "students": "114",
+            "passFail": "107\/7",
+            "passPercent": "94",
+            "min": "26",
+            "max": "98",
+            "average": "78.798",
+            "median": "80"
+        }
     }
 }

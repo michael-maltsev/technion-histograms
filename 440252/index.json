@@ -142,6 +142,80 @@
             "median": "82"
         }
     },
+    "202002": {
+        "Staff": [
+            {
+                "name": "דובקין רוסטיסלב",
+                "email": "rostikd@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קציר ניר",
+                "email": "nir@spectral-imaging.com",
+                "title": "מרצה"
+            },
+            {
+                "name": "ליניאל אורי",
+                "email": "orilinial@gmail.com,linial04@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "פלד נתן",
+                "email": "natanpeled@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שמידמן יעקב",
+                "email": "shmidman@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "505",
+            "passFail": "421\/84",
+            "passPercent": "83",
+            "min": "0",
+            "max": "100",
+            "average": "70.83",
+            "median": "74"
+        },
+        "Final_A": {
+            "students": "505",
+            "passFail": "421\/84",
+            "passPercent": "83",
+            "min": "0",
+            "max": "100",
+            "average": "77.707",
+            "median": "83"
+        },
+        "Exam_B": {
+            "students": "194",
+            "passFail": "158\/36",
+            "passPercent": "81",
+            "min": "20",
+            "max": "100",
+            "average": "68.072",
+            "median": "70.5"
+        },
+        "Final_B": {
+            "students": "194",
+            "passFail": "158\/36",
+            "passPercent": "81",
+            "min": "20",
+            "max": "100",
+            "average": "74.995",
+            "median": "80"
+        },
+        "Finals": {
+            "students": "571",
+            "passFail": "526\/45",
+            "passPercent": "92",
+            "min": "15",
+            "max": "100",
+            "average": "81.271",
+            "median": "84"
+        }
+    },
     "202101": {
         "Staff": [
             {

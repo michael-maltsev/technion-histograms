@@ -126,5 +126,69 @@
             "average": "75.694",
             "median": "77"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "מיכאלי תומר",
+                "email": "tomer.m@ee.technion.ac.il,tomer.m@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אתר רמי",
+                "email": "atar@ee.technion.ac.il,rami@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "זנו חן",
+                "email": "chenzeno@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "192",
+            "passFail": "132\/60",
+            "passPercent": "69",
+            "min": "21",
+            "max": "91",
+            "average": "62.094",
+            "median": "61"
+        },
+        "Final_A": {
+            "students": "192",
+            "passFail": "170\/22",
+            "passPercent": "89",
+            "min": "33",
+            "max": "96",
+            "average": "69.5",
+            "median": "69"
+        },
+        "Exam_B": {
+            "students": "109",
+            "passFail": "36\/73",
+            "passPercent": "33",
+            "min": "7",
+            "max": "88",
+            "average": "46.835",
+            "median": "46"
+        },
+        "Final_B": {
+            "students": "109",
+            "passFail": "91\/18",
+            "passPercent": "83",
+            "min": "31",
+            "max": "100",
+            "average": "67.495",
+            "median": "67"
+        },
+        "Finals": {
+            "students": "213",
+            "passFail": "195\/18",
+            "passPercent": "92",
+            "min": "31",
+            "max": "100",
+            "average": "71.873",
+            "median": "73"
+        }
     }
 }
