@@ -257,33 +257,38 @@
     "202202": {
         "Staff": [
             {
-                "name": "בן-דוד ניר",
-                "email": "benda@technion.ac.il",
+                "name": "סאלח פתחי",
+                "email": "fathi@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "גורליק אירנה",
-                "email": "iragor@technion.ac.il",
+                "name": "מזרחי גלית",
+                "email": "galitm@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "וולף עדי",
+                "email": "adiw@technion.ac.il",
                 "title": "מתרגל"
             }
         ],
         "Exam_A": {
-            "students": "228",
-            "passFail": "171\/57",
-            "passPercent": "75",
+            "students": "190",
+            "passFail": "130\/60",
+            "passPercent": "68",
             "min": "8",
             "max": "100",
-            "average": "66.057",
-            "median": "69"
+            "average": "61.195",
+            "median": "63"
         },
         "Final_A": {
-            "students": "228",
-            "passFail": "191\/37",
-            "passPercent": "84",
-            "min": "8",
+            "students": "190",
+            "passFail": "137\/53",
+            "passPercent": "72",
+            "min": "12",
             "max": "100",
-            "average": "69.044",
-            "median": "73"
+            "average": "63.9",
+            "median": "68.5"
         },
         "Exam_B": {
             "students": "17",
@@ -304,13 +309,13 @@
             "median": "63"
         },
         "Finals": {
-            "students": "44",
-            "passFail": "37\/7",
-            "passPercent": "84",
-            "min": "25",
+            "students": "191",
+            "passFail": "138\/53",
+            "passPercent": "72",
+            "min": "12",
             "max": "100",
-            "average": "77.886",
-            "median": "84"
+            "average": "63.869",
+            "median": "68"
         }
     }
 }
