@@ -1,20 +1,38 @@
 {
-    "202002": {
+    "202001": {
         "Staff": [
             {
-                "name": "ויזל יקיר",
-                "email": "yvizel@technion.ac.il",
+                "name": "הלל צנזור קרן",
+                "email": "ckeren@cs.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "331",
-            "passFail": "273\/58",
-            "passPercent": "82",
+            "students": "275",
+            "passFail": "216\/59",
+            "passPercent": "79",
             "min": "15",
             "max": "100",
-            "average": "70.961",
-            "median": "74"
+            "average": "70.029",
+            "median": "75"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "שכנאי הדס",
+                "email": "hadas@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "408",
+            "passFail": "373\/35",
+            "passPercent": "91",
+            "min": "23",
+            "max": "100",
+            "average": "75.142",
+            "median": "76"
         }
     },
     "202101": {
