@@ -39,5 +39,41 @@
             "average": "80",
             "median": "82"
         }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "ברנדון שמעון",
+                "email": "cersbsb@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "51",
+            "passFail": "51\/0",
+            "passPercent": "100",
+            "min": "61.983",
+            "max": "95.112",
+            "average": "82.824",
+            "median": "84"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "68.593",
+            "max": "93.98",
+            "average": "78.034",
+            "median": "75.65"
+        },
+        "Finals": {
+            "students": "60",
+            "passFail": "60\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "95",
+            "average": "81.733",
+            "median": "83.5"
+        }
     }
 }

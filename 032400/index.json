@@ -61,5 +61,42 @@
             "average": "83.963",
             "median": "85"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "דרור טובה גיטה",
+                "email": "tovadror6@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הראל אילנה",
+                "email": "ilanah1@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_B": {
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "98",
+            "average": "83.103",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "288",
+            "passFail": "287\/1",
+            "passPercent": "100",
+            "min": "36",
+            "max": "98",
+            "average": "85.587",
+            "median": "87"
+        }
     }
 }

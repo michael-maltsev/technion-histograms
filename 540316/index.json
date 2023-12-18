@@ -52,5 +52,50 @@
             "average": "75.349",
             "median": "76"
         }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "צור יועד",
+                "email": "tsur@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "69",
+            "passFail": "44\/25",
+            "passPercent": "64",
+            "min": "22",
+            "max": "98",
+            "average": "62.101",
+            "median": "66"
+        },
+        "Final_A": {
+            "students": "69",
+            "passFail": "45\/24",
+            "passPercent": "65",
+            "min": "22",
+            "max": "97",
+            "average": "65.232",
+            "median": "74"
+        },
+        "Final_B": {
+            "students": "29",
+            "passFail": "10\/19",
+            "passPercent": "34",
+            "min": "18",
+            "max": "94",
+            "average": "50.172",
+            "median": "46"
+        },
+        "Finals": {
+            "students": "76",
+            "passFail": "54\/22",
+            "passPercent": "71",
+            "min": "18",
+            "max": "97",
+            "average": "67.539",
+            "median": "74"
+        }
     }
 }

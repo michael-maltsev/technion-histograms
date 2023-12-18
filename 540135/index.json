@@ -62,5 +62,59 @@
             "average": "77.635",
             "median": "80"
         }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "גרדר גדעון",
+                "email": "grader@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "68",
+            "passFail": "55\/13",
+            "passPercent": "81",
+            "min": "27",
+            "max": "100",
+            "average": "71.706",
+            "median": "76"
+        },
+        "Final_A": {
+            "students": "68",
+            "passFail": "55\/13",
+            "passPercent": "81",
+            "min": "27",
+            "max": "100",
+            "average": "74.191",
+            "median": "80"
+        },
+        "Exam_B": {
+            "students": "27",
+            "passFail": "20\/7",
+            "passPercent": "74",
+            "min": "37",
+            "max": "99",
+            "average": "69.333",
+            "median": "66"
+        },
+        "Final_B": {
+            "students": "27",
+            "passFail": "20\/7",
+            "passPercent": "74",
+            "min": "37",
+            "max": "99",
+            "average": "71.741",
+            "median": "71"
+        },
+        "Finals": {
+            "students": "77",
+            "passFail": "68\/9",
+            "passPercent": "88",
+            "min": "37",
+            "max": "100",
+            "average": "79.039",
+            "median": "82"
+        }
     }
 }
