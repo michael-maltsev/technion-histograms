@@ -340,8 +340,8 @@
     "202101": {
         "Staff": [
             {
-                "name": "כהן אורן",
-                "email": "oren.cohen@physics.technion.ac.il,oren@technion.ac.il",
+                "name": "טרם שלומית",
+                "email": "tarem@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
@@ -355,13 +355,13 @@
             "median": "70"
         },
         "Final_A": {
-            "students": "56",
-            "passFail": "54\/2",
-            "passPercent": "96",
-            "min": "42",
-            "max": "97",
-            "average": "76.821",
-            "median": "77"
+            "students": "339",
+            "passFail": "314\/25",
+            "passPercent": "93",
+            "min": "19",
+            "max": "100",
+            "average": "82.469",
+            "median": "84"
         },
         "Exam_B": {
             "students": "45",
@@ -373,22 +373,22 @@
             "median": "67"
         },
         "Final_B": {
-            "students": "35",
-            "passFail": "32\/3",
-            "passPercent": "91",
-            "min": "48",
-            "max": "94",
-            "average": "74.4",
-            "median": "76"
+            "students": "70",
+            "passFail": "62\/8",
+            "passPercent": "89",
+            "min": "24",
+            "max": "100",
+            "average": "72.629",
+            "median": "75"
         },
         "Finals": {
-            "students": "84",
-            "passFail": "84\/0",
-            "passPercent": "100",
-            "min": "58",
-            "max": "97",
-            "average": "78.262",
-            "median": "79"
+            "students": "388",
+            "passFail": "367\/21",
+            "passPercent": "95",
+            "min": "21",
+            "max": "100",
+            "average": "82.791",
+            "median": "84"
         }
     },
     "202102": {
@@ -534,33 +534,33 @@
     "202202": {
         "Staff": [
             {
-                "name": "רזניקוב מכאל",
-                "email": "reznikov@technion.ac.il",
+                "name": "הכהן ג'ורג'י שי",
+                "email": "shayhh@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "פריזאנט יוליה",
-                "email": "jammia@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+                "name": "מרטיסקאינן חנה",
+                "email": "hanna.martiskainen@gmail.com,hannam@campus.technion.ac.il",
+                "title": "מרצה"
             }
         ],
         "Exam_A": {
-            "students": "272",
-            "passFail": "140\/132",
-            "passPercent": "51",
-            "min": "8.333",
+            "students": "571",
+            "passFail": "464\/107",
+            "passPercent": "81",
+            "min": "0",
             "max": "100",
-            "average": "56.005",
-            "median": "58.333"
+            "average": "72.154",
+            "median": "75"
         },
         "Final_A": {
-            "students": "44",
-            "passFail": "44\/0",
-            "passPercent": "100",
-            "min": "86.68",
-            "max": "96.72",
-            "average": "91.93",
-            "median": "92.19"
+            "students": "571",
+            "passFail": "512\/59",
+            "passPercent": "90",
+            "min": "15",
+            "max": "100",
+            "average": "75.942",
+            "median": "79"
         },
         "Exam_B": {
             "students": "235",
@@ -581,13 +581,40 @@
             "median": "73"
         },
         "Finals": {
-            "students": "44",
-            "passFail": "44\/0",
+            "students": "571",
+            "passFail": "512\/59",
+            "passPercent": "90",
+            "min": "15",
+            "max": "100",
+            "average": "75.958",
+            "median": "79"
+        }
+    },
+    "202203": {
+        "Staff": [
+            {
+                "name": "פריזאנט יוליה",
+                "email": "jammia@technion.ac.il",
+                "title": ""
+            }
+        ],
+        "Final_A": {
+            "students": "79",
+            "passFail": "79\/0",
             "passPercent": "100",
-            "min": "87",
-            "max": "97",
-            "average": "91.909",
-            "median": "92"
+            "min": "82.12",
+            "max": "94.8",
+            "average": "90.397",
+            "median": "90.8"
+        },
+        "Finals": {
+            "students": "79",
+            "passFail": "79\/0",
+            "passPercent": "100",
+            "min": "82",
+            "max": "95",
+            "average": "90.43",
+            "median": "91"
         }
     }
 }
