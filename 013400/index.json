@@ -303,5 +303,51 @@
             "average": "77.71",
             "median": "80"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "בז'ה עודד",
+                "email": "beja@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קפלן אריאל",
+                "email": "akaplanz@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "מאירי דדי",
+                "email": "dmeiri@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Final_A": {
+            "students": "643",
+            "passFail": "585\/58",
+            "passPercent": "91",
+            "min": "21.6",
+            "max": "100",
+            "average": "79.353",
+            "median": "84"
+        },
+        "Final_B": {
+            "students": "374",
+            "passFail": "323\/51",
+            "passPercent": "86",
+            "min": "0",
+            "max": "100",
+            "average": "76.824",
+            "median": "84"
+        },
+        "Finals": {
+            "students": "935",
+            "passFail": "880\/55",
+            "passPercent": "94",
+            "min": "16",
+            "max": "100",
+            "average": "81.703",
+            "median": "85"
+        }
     }
 }

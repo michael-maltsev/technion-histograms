@@ -98,5 +98,42 @@
             "average": "85.587",
             "median": "87"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "רבקין אורית",
+                "email": "rabkinorit@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "256",
+            "passFail": "254\/2",
+            "passPercent": "99",
+            "min": "0",
+            "max": "100.37",
+            "average": "90.893",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "261",
+            "passFail": "261\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "100",
+            "average": "91.713",
+            "median": "92"
+        }
     }
 }

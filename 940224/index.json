@@ -1,0 +1,112 @@
+{
+    "202201": {
+        "Staff": [
+            {
+                "name": "עמק יובל",
+                "email": "yemek@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גיל יובל",
+                "email": "yuval.gil@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "144",
+            "passFail": "111\/33",
+            "passPercent": "77",
+            "min": "24",
+            "max": "100",
+            "average": "71.549",
+            "median": "72"
+        },
+        "Final_B": {
+            "students": "62",
+            "passFail": "38\/24",
+            "passPercent": "61",
+            "min": "30",
+            "max": "100",
+            "average": "58.129",
+            "median": "56"
+        },
+        "Finals": {
+            "students": "163",
+            "passFail": "139\/24",
+            "passPercent": "85",
+            "min": "30",
+            "max": "100",
+            "average": "72.423",
+            "median": "71"
+        }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "גיל יובל",
+                "email": "yuval.gil@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרקש אורי",
+                "email": "orifa@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "50",
+            "passFail": "35\/15",
+            "passPercent": "70",
+            "min": "20",
+            "max": "100",
+            "average": "65.32",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "50",
+            "passFail": "43\/7",
+            "passPercent": "86",
+            "min": "32",
+            "max": "100",
+            "average": "71.4",
+            "median": "72.5"
+        },
+        "Exam_B": {
+            "students": "27",
+            "passFail": "17\/10",
+            "passPercent": "63",
+            "min": "25",
+            "max": "100",
+            "average": "62.296",
+            "median": "59"
+        },
+        "Final_B": {
+            "students": "29",
+            "passFail": "23\/6",
+            "passPercent": "79",
+            "min": "36",
+            "max": "97",
+            "average": "69.172",
+            "median": "67"
+        },
+        "Finals": {
+            "students": "68",
+            "passFail": "62\/6",
+            "passPercent": "91",
+            "min": "36",
+            "max": "100",
+            "average": "73.015",
+            "median": "72.5"
+        }
+    }
+}
