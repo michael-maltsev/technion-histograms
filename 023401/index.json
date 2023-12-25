@@ -146,37 +146,42 @@
     "202201": {
         "Staff": [
             {
-                "name": "אלמגור שאול",
-                "email": "shaull@technion.ac.il",
+                "name": "ארז יעל",
+                "email": "yael.erez@gmail.com,yaelerez@campus.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "וותד איהאב",
+                "email": "ehabw@cs.technion.ac.il",
+                "title": "מרצה"
             }
         ],
         "Final_A": {
-            "students": "351",
-            "passFail": "311\/40",
-            "passPercent": "89",
-            "min": "29",
+            "students": "407",
+            "passFail": "327\/80",
+            "passPercent": "80",
+            "min": "19",
             "max": "100",
-            "average": "73.858",
-            "median": "75"
+            "average": "69.744",
+            "median": "71"
         },
         "Final_B": {
-            "students": "216",
-            "passFail": "188\/28",
-            "passPercent": "87",
-            "min": "20",
+            "students": "235",
+            "passFail": "188\/47",
+            "passPercent": "80",
+            "min": "22",
             "max": "100",
-            "average": "74.088",
-            "median": "76"
+            "average": "66.83",
+            "median": "66"
         },
         "Finals": {
-            "students": "365",
-            "passFail": "324\/41",
-            "passPercent": "89",
-            "min": "5",
+            "students": "460",
+            "passFail": "407\/53",
+            "passPercent": "88",
+            "min": "19",
             "max": "100",
-            "average": "78.096",
-            "median": "83"
+            "average": "73.622",
+            "median": "75"
         }
     },
     "202202": {
