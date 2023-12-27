@@ -436,5 +436,61 @@
             "average": "74.973",
             "median": "79"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "פלדמן מיכאל",
+                "email": "michael.fe@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קוטינסקי שחר",
+                "email": "skva@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קציר ניר",
+                "email": "nir@spectral-imaging.com",
+                "title": "מרצה"
+            },
+            {
+                "name": "אבו אחמד ואו גלאל",
+                "email": "galal@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הדר אלעד",
+                "email": "eladhadar@gmail.com,ehadar@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "425",
+            "passFail": "368\/57",
+            "passPercent": "87",
+            "min": "25",
+            "max": "100",
+            "average": "72.191",
+            "median": "75"
+        },
+        "Final_A": {
+            "students": "425",
+            "passFail": "372\/53",
+            "passPercent": "88",
+            "min": "25",
+            "max": "100",
+            "average": "81.275",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "425",
+            "passFail": "372\/53",
+            "passPercent": "88",
+            "min": "25",
+            "max": "100",
+            "average": "81.275",
+            "median": "86"
+        }
     }
 }
