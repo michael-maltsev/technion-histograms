@@ -394,55 +394,60 @@
     "202102": {
         "Staff": [
             {
+                "name": "נסר עדי",
+                "email": "adi@physics.technion.ac.il,adin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
                 "name": "מרטיסקאינן חנה",
                 "email": "hanna.martiskainen@gmail.com,hannam@campus.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "title": "מתרגל"
             }
         ],
         "Exam_A": {
-            "students": "236",
-            "passFail": "206\/30",
-            "passPercent": "87",
-            "min": "8.333",
+            "students": "316",
+            "passFail": "168\/148",
+            "passPercent": "53",
+            "min": "0",
             "max": "100",
-            "average": "74.612",
-            "median": "75"
+            "average": "57.964",
+            "median": "58.333"
         },
         "Final_A": {
-            "students": "236",
-            "passFail": "218\/18",
-            "passPercent": "92",
-            "min": "21",
+            "students": "316",
+            "passFail": "252\/64",
+            "passPercent": "80",
+            "min": "22",
             "max": "100",
-            "average": "78.453",
-            "median": "79"
+            "average": "70.684",
+            "median": "72"
         },
         "Exam_B": {
-            "students": "129",
-            "passFail": "64\/65",
-            "passPercent": "50",
-            "min": "16.667",
+            "students": "231",
+            "passFail": "149\/82",
+            "passPercent": "65",
+            "min": "0",
             "max": "100",
-            "average": "52.842",
-            "median": "50"
+            "average": "60.498",
+            "median": "66.667"
         },
         "Final_B": {
-            "students": "129",
-            "passFail": "113\/16",
-            "passPercent": "88",
-            "min": "32",
+            "students": "231",
+            "passFail": "174\/57",
+            "passPercent": "75",
+            "min": "13",
             "max": "100",
-            "average": "70.667",
-            "median": "69"
+            "average": "65.567",
+            "median": "66"
         },
         "Finals": {
-            "students": "305",
-            "passFail": "288\/17",
-            "passPercent": "94",
-            "min": "32",
+            "students": "435",
+            "passFail": "372\/63",
+            "passPercent": "86",
+            "min": "13",
             "max": "100",
-            "average": "78.662",
-            "median": "79"
+            "average": "72.897",
+            "median": "72"
         }
     },
     "202103": {
@@ -529,8 +534,8 @@
     "202202": {
         "Staff": [
             {
-                "name": "מרטיסקאינן חנה",
-                "email": "hanna.martiskainen@gmail.com,hannam@campus.technion.ac.il",
+                "name": "פרץ חגי",
+                "email": "hperets@physics.technion.ac.il,hperets@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
