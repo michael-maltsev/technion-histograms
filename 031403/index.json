@@ -1,0 +1,71 @@
+{
+    "202102": {
+        "Staff": [
+            {
+                "name": "סילברסטין מיכאל",
+                "email": "michaels@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שלמה אביטן בר",
+                "email": "barshlomo404@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "סייד אחמד סמאח",
+                "email": "samah.saiedahmad@gmail.com,samahsai@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "קיסלוב יוליה",
+                "email": "yuliak@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "35",
+            "passFail": "34\/1",
+            "passPercent": "97",
+            "min": "44",
+            "max": "100",
+            "average": "80.629",
+            "median": "82"
+        },
+        "Final_A": {
+            "students": "35",
+            "passFail": "34\/1",
+            "passPercent": "97",
+            "min": "52",
+            "max": "100",
+            "average": "84.857",
+            "median": "87"
+        },
+        "Exam_B": {
+            "students": "19",
+            "passFail": "17\/2",
+            "passPercent": "89",
+            "min": "35",
+            "max": "96",
+            "average": "75.789",
+            "median": "75"
+        },
+        "Final_B": {
+            "students": "19",
+            "passFail": "18\/1",
+            "passPercent": "95",
+            "min": "42",
+            "max": "96",
+            "average": "77.737",
+            "median": "77"
+        },
+        "Finals": {
+            "students": "37",
+            "passFail": "37\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "85.622",
+            "median": "87"
+        }
+    }
+}

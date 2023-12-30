@@ -7,37 +7,79 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "צימרמן יהונתן",
-                "email": "yoni3246@gmail.com,jonathan-zim@campus.technion.ac.il",
+                "name": "לוי מור",
+                "email": "morlevi@campus.technion.ac.il",
                 "title": "מתרגל"
             }
         ],
         "Final_A": {
-            "students": "72",
-            "passFail": "48\/24",
-            "passPercent": "67",
-            "min": "14",
+            "students": "35",
+            "passFail": "26\/9",
+            "passPercent": "74",
+            "min": "10",
             "max": "100",
-            "average": "67.889",
-            "median": "73"
+            "average": "70.6",
+            "median": "77"
         },
         "Final_B": {
-            "students": "30",
-            "passFail": "27\/3",
-            "passPercent": "90",
-            "min": "24",
-            "max": "100",
-            "average": "77.367",
-            "median": "82"
+            "students": "13",
+            "passFail": "8\/5",
+            "passPercent": "62",
+            "min": "15",
+            "max": "89",
+            "average": "60.615",
+            "median": "75"
         },
         "Finals": {
-            "students": "80",
-            "passFail": "74\/6",
-            "passPercent": "92",
-            "min": "24",
+            "students": "39",
+            "passFail": "33\/6",
+            "passPercent": "85",
+            "min": "15",
             "max": "100",
-            "average": "78.912",
-            "median": "84"
+            "average": "74.205",
+            "median": "78"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "איזנברג דוד",
+                "email": "eisenberg@technion.ac.il",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שלוסברג יניב",
+                "email": "yanivstau@gmail.com",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "טבק שיר",
+                "email": "shir.tabac@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "מג'דוב מחמוד",
+                "email": "mahmoudmaj@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            }
+        ],
+        "Final_A": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "99",
+            "average": "96.5",
+            "median": "97"
+        },
+        "Finals": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "99",
+            "average": "96.5",
+            "median": "97"
         }
     },
     "202002": {
@@ -139,6 +181,73 @@
             "max": "97",
             "average": "94.9",
             "median": "95"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "איזנברג דוד",
+                "email": "eisenberg@technion.ac.il",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ליובין אלכסנדרה",
+                "email": "sashaka@technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "ליבוביץ ליאב",
+                "email": "liav152@gmail.com,liavl@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "לוי והב חרות",
+                "email": "herootl@technion.ac.il,herootl@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "בורשטיין תומר",
+                "email": "tomer26290@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "חלמיש חן",
+                "email": "henmoshe@technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "גלנט אור",
+                "email": "gorr@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "רסלין אריק",
+                "email": "raslin.arik@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "טבק שיר",
+                "email": "shir.tabac@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            }
+        ],
+        "Final_A": {
+            "students": "31",
+            "passFail": "30\/1",
+            "passPercent": "97",
+            "min": "52",
+            "max": "97",
+            "average": "91.323",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "31",
+            "passFail": "31\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "97",
+            "average": "91.452",
+            "median": "93"
         }
     },
     "202103": {
