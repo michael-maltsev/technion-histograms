@@ -291,5 +291,64 @@
             "average": "91.2",
             "median": "91.5"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "אמדורסקי נדב",
+                "email": "amdursky@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יוחנובסקי אנה",
+                "email": "y.anna@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "45",
+            "passFail": "38\/7",
+            "passPercent": "84",
+            "min": "35",
+            "max": "100",
+            "average": "71.267",
+            "median": "74"
+        },
+        "Final_A": {
+            "students": "45",
+            "passFail": "38\/7",
+            "passPercent": "84",
+            "min": "35",
+            "max": "100",
+            "average": "71.267",
+            "median": "74"
+        },
+        "Exam_B": {
+            "students": "33",
+            "passFail": "28\/5",
+            "passPercent": "85",
+            "min": "27",
+            "max": "100",
+            "average": "72.727",
+            "median": "78"
+        },
+        "Final_B": {
+            "students": "33",
+            "passFail": "28\/5",
+            "passPercent": "85",
+            "min": "27",
+            "max": "100",
+            "average": "72.727",
+            "median": "78"
+        },
+        "Finals": {
+            "students": "67",
+            "passFail": "62\/5",
+            "passPercent": "93",
+            "min": "27",
+            "max": "100",
+            "average": "75.373",
+            "median": "78"
+        }
     }
 }
