@@ -1,4 +1,158 @@
 {
+    "202001": {
+        "Staff": [
+            {
+                "name": "טרטקובסקי לאוניד",
+                "email": "tartak@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אייל אמנון",
+                "email": "amnoneyal@gmail.com,amnone@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בונטין דניס",
+                "email": "buntin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "תחאוחו אנדי",
+                "email": "andythawho@gmail.com,andythawho@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דיסקין דוד",
+                "email": "david.diskin149@gmail.com,david.diskin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "קייסר דוד",
+                "email": "keisar@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "113",
+            "passFail": "73\/40",
+            "passPercent": "65",
+            "min": "1",
+            "max": "100",
+            "average": "63.814",
+            "median": "64"
+        },
+        "Final_A": {
+            "students": "113",
+            "passFail": "79\/34",
+            "passPercent": "70",
+            "min": "1",
+            "max": "100",
+            "average": "65.345",
+            "median": "66"
+        },
+        "Exam_B": {
+            "students": "65",
+            "passFail": "47\/18",
+            "passPercent": "72",
+            "min": "16",
+            "max": "98",
+            "average": "63.092",
+            "median": "63"
+        },
+        "Final_B": {
+            "students": "65",
+            "passFail": "48\/17",
+            "passPercent": "74",
+            "min": "16",
+            "max": "98",
+            "average": "63.723",
+            "median": "64"
+        },
+        "Finals": {
+            "students": "135",
+            "passFail": "115\/20",
+            "passPercent": "85",
+            "min": "16",
+            "max": "100",
+            "average": "72.756",
+            "median": "73"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "טרטקובסקי לאוניד",
+                "email": "tartak@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "תחאוחו אנדי",
+                "email": "andythawho@gmail.com,andythawho@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "קייסר דוד",
+                "email": "keisar@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בונטין דניס",
+                "email": "buntin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "חסין דוד",
+                "email": "davidhasin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "פיסנוי שמעון",
+                "email": "shimonpi@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דיסקין דוד",
+                "email": "david.diskin149@gmail.com,david.diskin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "128",
+            "passFail": "94\/34",
+            "passPercent": "73",
+            "min": "10",
+            "max": "100",
+            "average": "65.055",
+            "median": "66"
+        },
+        "Exam_B": {
+            "students": "92",
+            "passFail": "75\/17",
+            "passPercent": "82",
+            "min": "5",
+            "max": "100",
+            "average": "70.293",
+            "median": "73"
+        },
+        "Final_B": {
+            "students": "92",
+            "passFail": "75\/17",
+            "passPercent": "82",
+            "min": "5",
+            "max": "100",
+            "average": "70.5",
+            "median": "73"
+        },
+        "Finals": {
+            "students": "186",
+            "passFail": "171\/15",
+            "passPercent": "92",
+            "min": "10",
+            "max": "100",
+            "average": "75.398",
+            "median": "77"
+        }
+    },
     "202201": {
         "Staff": [
             {
