@@ -626,28 +626,33 @@
     "202203": {
         "Staff": [
             {
-                "name": "פריזאנט יוליה",
-                "email": "jammia@technion.ac.il",
-                "title": ""
+                "name": "אגמון דוד",
+                "email": "agmon1@gmail.com,agmon1@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "נס נועם",
+                "email": "noam.ness@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "89.061",
-            "max": "98.48",
-            "average": "95.598",
-            "median": "96.835"
+            "students": "33",
+            "passFail": "25\/8",
+            "passPercent": "76",
+            "min": "36",
+            "max": "87",
+            "average": "61.848",
+            "median": "59"
         },
         "Finals": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "89",
-            "max": "98",
-            "average": "95.462",
-            "median": "97"
+            "students": "33",
+            "passFail": "25\/8",
+            "passPercent": "76",
+            "min": "36",
+            "max": "87",
+            "average": "61.848",
+            "median": "59"
         }
     }
 }
