@@ -48,5 +48,41 @@
             "average": "83.632",
             "median": "86"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "מרטינושי ולדימיר",
+                "email": "vmartinusi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "40",
+            "passFail": "25\/15",
+            "passPercent": "62",
+            "min": "23",
+            "max": "98",
+            "average": "66.925",
+            "median": "70.5"
+        },
+        "Final_A": {
+            "students": "40",
+            "passFail": "32\/8",
+            "passPercent": "80",
+            "min": "21",
+            "max": "100",
+            "average": "73.55",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "39",
+            "passFail": "32\/7",
+            "passPercent": "82",
+            "min": "21",
+            "max": "100",
+            "average": "74.821",
+            "median": "80"
+        }
     }
 }

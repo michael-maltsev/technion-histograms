@@ -57,5 +57,64 @@
             "average": "81.306",
             "median": "82"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "יוסילבסקי גיל",
+                "email": "igil@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דורון גל",
+                "email": "galdo@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "44",
+            "passFail": "29\/15",
+            "passPercent": "66",
+            "min": "0",
+            "max": "100",
+            "average": "58.045",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "44",
+            "passFail": "29\/15",
+            "passPercent": "66",
+            "min": "5",
+            "max": "100",
+            "average": "62.535",
+            "median": "68.5"
+        },
+        "Exam_B": {
+            "students": "25",
+            "passFail": "17\/8",
+            "passPercent": "68",
+            "min": "0",
+            "max": "87.286",
+            "average": "56.634",
+            "median": "63.286"
+        },
+        "Final_B": {
+            "students": "25",
+            "passFail": "17\/8",
+            "passPercent": "68",
+            "min": "0",
+            "max": "88.557",
+            "average": "59.685",
+            "median": "66.446"
+        },
+        "Finals": {
+            "students": "43",
+            "passFail": "29\/14",
+            "passPercent": "67",
+            "min": "5",
+            "max": "100",
+            "average": "63.698",
+            "median": "69"
+        }
     }
 }
