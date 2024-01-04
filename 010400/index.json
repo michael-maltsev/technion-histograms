@@ -537,97 +537,87 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "אביטל רבקה",
+                "email": "rivka_a@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "129",
+            "passFail": "81\/48",
+            "passPercent": "63",
+            "min": "19",
+            "max": "96",
+            "average": "59.442",
+            "median": "60"
+        },
+        "Final_A": {
+            "students": "129",
+            "passFail": "92\/37",
+            "passPercent": "71",
+            "min": "19",
+            "max": "97",
+            "average": "62.605",
+            "median": "66"
+        },
+        "Exam_B": {
+            "students": "92",
+            "passFail": "63\/29",
+            "passPercent": "68",
+            "min": "0",
+            "max": "93",
+            "average": "62.272",
+            "median": "66"
+        },
+        "Final_B": {
+            "students": "92",
+            "passFail": "75\/17",
+            "passPercent": "82",
+            "min": "0",
+            "max": "94",
+            "average": "65.707",
+            "median": "70.5"
+        },
+        "Finals": {
+            "students": "172",
+            "passFail": "152\/20",
+            "passPercent": "88",
+            "min": "10",
+            "max": "97",
+            "average": "68.448",
+            "median": "71"
+        }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "סאלח פתחי",
+                "email": "fathi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
                 "name": "מעין הילה",
                 "email": "ahila@technion.ac.il",
                 "title": "מתרגל"
             }
         ],
         "Exam_A": {
-            "students": "307",
-            "passFail": "157\/150",
-            "passPercent": "51",
-            "min": "3",
-            "max": "97",
-            "average": "54.261",
-            "median": "55"
+            "students": "257",
+            "passFail": "187\/70",
+            "passPercent": "73",
+            "min": "16",
+            "max": "100",
+            "average": "67.584",
+            "median": "70"
         },
         "Final_A": {
-            "students": "307",
-            "passFail": "217\/90",
-            "passPercent": "71",
-            "min": "8",
+            "students": "257",
+            "passFail": "204\/53",
+            "passPercent": "79",
+            "min": "18",
             "max": "100",
-            "average": "62.173",
-            "median": "65"
-        },
-        "Exam_B": {
-            "students": "146",
-            "passFail": "70\/76",
-            "passPercent": "48",
-            "min": "13",
-            "max": "96",
-            "average": "54.747",
-            "median": "53"
-        },
-        "Final_B": {
-            "students": "146",
-            "passFail": "87\/59",
-            "passPercent": "60",
-            "min": "13",
-            "max": "97",
-            "average": "58.568",
-            "median": "60"
-        },
-        "Finals": {
-            "students": "326",
-            "passFail": "265\/61",
-            "passPercent": "81",
-            "min": "13",
-            "max": "100",
-            "average": "65.902",
-            "median": "67"
-        }
-    },
-    "202202": {
-        "Staff": [
-            {
-                "name": "שפריר איתי",
-                "email": "shafrir@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "וולף עדי",
-                "email": "adiw@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "ולך נתן שמע",
-                "email": "tani@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "גורליק אירנה",
-                "email": "iragor@technion.ac.il",
-                "title": "מתרגל"
-            }
-        ],
-        "Exam_A": {
-            "students": "300",
-            "passFail": "241\/59",
-            "passPercent": "80",
-            "min": "13",
-            "max": "100",
-            "average": "71.413",
-            "median": "73.5"
-        },
-        "Final_A": {
-            "students": "300",
-            "passFail": "262\/38",
-            "passPercent": "87",
-            "min": "13",
-            "max": "100",
-            "average": "74.447",
-            "median": "77"
+            "average": "70.019",
+            "median": "72"
         },
         "Exam_B": {
             "students": "263",
@@ -648,13 +638,13 @@
             "median": "65"
         },
         "Finals": {
-            "students": "300",
-            "passFail": "262\/38",
-            "passPercent": "87",
-            "min": "13",
+            "students": "257",
+            "passFail": "204\/53",
+            "passPercent": "79",
+            "min": "18",
             "max": "100",
-            "average": "74.447",
-            "median": "77"
+            "average": "70.019",
+            "median": "72"
         }
     }
 }
