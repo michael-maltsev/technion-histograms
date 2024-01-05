@@ -39,8 +39,45 @@
     "202201": {
         "Staff": [
             {
-                "name": "מונאצ'יס גבריאל",
-                "email": "gabriele.mon@technion.ac.il",
+                "name": "האן-מיכאלי בריגיטה",
+                "email": "brigitte@g.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "47",
+            "passFail": "47\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "100",
+            "average": "93.894",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "54",
+            "passFail": "54\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "100",
+            "average": "93.407",
+            "median": "95"
+        }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "האן-מיכאלי בריגיטה",
+                "email": "brigitte@g.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -58,56 +95,19 @@
             "students": "17",
             "passFail": "17\/0",
             "passPercent": "100",
-            "min": "60",
-            "max": "99",
-            "average": "91.294",
-            "median": "95"
+            "min": "93",
+            "max": "100",
+            "average": "98.235",
+            "median": "100"
         },
         "Finals": {
-            "students": "18",
-            "passFail": "18\/0",
+            "students": "17",
+            "passFail": "17\/0",
             "passPercent": "100",
-            "min": "60",
-            "max": "99",
-            "average": "92.056",
-            "median": "95.5"
-        }
-    },
-    "202202": {
-        "Staff": [
-            {
-                "name": "האן-מיכאלי בריגיטה",
-                "email": "brigitte@g.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "50",
-            "passFail": "50\/0",
-            "passPercent": "100",
-            "min": "74",
+            "min": "93",
             "max": "100",
-            "average": "93.6",
-            "median": "95"
-        },
-        "Finals": {
-            "students": "51",
-            "passFail": "51\/0",
-            "passPercent": "100",
-            "min": "77",
-            "max": "100",
-            "average": "94.294",
-            "median": "95"
+            "average": "98.235",
+            "median": "100"
         }
     },
     "202203": {
