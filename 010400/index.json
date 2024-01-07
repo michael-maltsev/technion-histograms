@@ -1,4 +1,54 @@
 {
+    "201401": {
+        "Staff": [
+            {
+                "name": "דמיטריוק אלון",
+                "email": "alond@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מעין הילה",
+                "email": "ahila@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "656",
+            "passFail": "531\/125",
+            "passPercent": "81",
+            "min": "18",
+            "max": "100",
+            "average": "66.287",
+            "median": "67"
+        },
+        "Final_A": {
+            "students": "334",
+            "passFail": "266\/68",
+            "passPercent": "80",
+            "min": "7",
+            "max": "100",
+            "average": "65.65",
+            "median": "67"
+        },
+        "Final_B": {
+            "students": "150",
+            "passFail": "113\/37",
+            "passPercent": "75",
+            "min": "0",
+            "max": "94",
+            "average": "59.847",
+            "median": "63"
+        },
+        "Finals": {
+            "students": "366",
+            "passFail": "327\/39",
+            "passPercent": "89",
+            "min": "7",
+            "max": "100",
+            "average": "69.071",
+            "median": "70"
+        }
+    },
     "201402": {
         "Staff": [
             {
