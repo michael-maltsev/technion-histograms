@@ -1,4 +1,45 @@
 {
+    "201402": {
+        "Staff": [
+            {
+                "name": "אבידן דניאלה",
+                "email": "avidand@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ליטבינוב גלינה",
+                "email": "litvinov@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "287",
+            "passFail": "246\/41",
+            "passPercent": "86",
+            "min": "3",
+            "max": "100",
+            "average": "72.798",
+            "median": "76"
+        },
+        "Final_B": {
+            "students": "129",
+            "passFail": "113\/16",
+            "passPercent": "88",
+            "min": "23",
+            "max": "100",
+            "average": "73.938",
+            "median": "77"
+        },
+        "Finals": {
+            "students": "356",
+            "passFail": "335\/21",
+            "passPercent": "94",
+            "min": "3",
+            "max": "100",
+            "average": "77.733",
+            "median": "81"
+        }
+    },
     "201802": {
         "Staff": [
             {
