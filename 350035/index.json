@@ -1,0 +1,43 @@
+{
+    "202201": {
+        "Staff": [
+            {
+                "name": "גרינבלט דוד",
+                "email": "davidg@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ערבה עידן",
+                "email": "idan.arava@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "18",
+            "passFail": "16\/2",
+            "passPercent": "89",
+            "min": "43",
+            "max": "93",
+            "average": "80.222",
+            "median": "84.5"
+        },
+        "Final_A": {
+            "students": "18",
+            "passFail": "17\/1",
+            "passPercent": "94",
+            "min": "54",
+            "max": "94",
+            "average": "84.111",
+            "median": "86.5"
+        },
+        "Finals": {
+            "students": "22",
+            "passFail": "21\/1",
+            "passPercent": "95",
+            "min": "49",
+            "max": "94",
+            "average": "81.773",
+            "median": "86"
+        }
+    }
+}
