@@ -651,24 +651,19 @@
     "202201": {
         "Staff": [
             {
-                "name": "צנזור אביב",
-                "email": "avivc@technion.ac.il",
+                "name": "שמש גאי",
+                "email": "guy.shemesh@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "חנבסקי מיכאל",
+                "email": "khanev@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "קליינשטרן מיכל",
-                "email": "mklinst@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "וולף עדי",
-                "email": "adiw@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "פייגין-קצוב יוליה",
-                "email": "julia.feigin@gmail.com,juliaf@technion.ac.il",
-                "title": "מתרגל"
+                "name": "תבור בר",
+                "email": "btavor@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -708,45 +703,55 @@
             "median": "56"
         },
         "Finals": {
-            "students": "565",
-            "passFail": "435\/130",
-            "passPercent": "77",
-            "min": "17",
+            "students": "86",
+            "passFail": "76\/10",
+            "passPercent": "88",
+            "min": "15",
             "max": "100",
-            "average": "67.467",
-            "median": "70"
+            "average": "77.174",
+            "median": "80.5"
         }
     },
     "202202": {
         "Staff": [
             {
-                "name": "קליינשטרן מיכל",
-                "email": "mklinst@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "name": "שמש גאי",
+                "email": "guy.shemesh@campus.technion.ac.il",
+                "title": "מתרגל"
             },
             {
-                "name": "פייגין-קצוב יוליה",
-                "email": "julia.feigin@gmail.com,juliaf@technion.ac.il",
+                "name": "וולף עדי",
+                "email": "adiw@technion.ac.il",
                 "title": "מתרגל"
+            },
+            {
+                "name": "קליינשטרן מיכל",
+                "email": "mklinst@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "צנזור אביב",
+                "email": "avivc@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Exam_A": {
-            "students": "321",
-            "passFail": "215\/106",
-            "passPercent": "67",
-            "min": "15",
+            "students": "30",
+            "passFail": "17\/13",
+            "passPercent": "57",
+            "min": "18",
             "max": "100",
-            "average": "62.67",
-            "median": "64"
+            "average": "58.767",
+            "median": "59"
         },
         "Final_A": {
-            "students": "321",
-            "passFail": "236\/85",
-            "passPercent": "74",
-            "min": "15",
+            "students": "30",
+            "passFail": "18\/12",
+            "passPercent": "60",
+            "min": "18",
             "max": "100",
-            "average": "64.377",
-            "median": "67"
+            "average": "60.467",
+            "median": "62.5"
         },
         "Exam_B": {
             "students": "135",
@@ -767,13 +772,13 @@
             "median": "58"
         },
         "Finals": {
-            "students": "321",
-            "passFail": "236\/85",
-            "passPercent": "74",
-            "min": "15",
+            "students": "30",
+            "passFail": "18\/12",
+            "passPercent": "60",
+            "min": "18",
             "max": "100",
-            "average": "64.377",
-            "median": "67"
+            "average": "60.467",
+            "median": "62.5"
         }
     }
 }
