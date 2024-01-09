@@ -220,60 +220,60 @@
     "202001": {
         "Staff": [
             {
-                "name": "וולף עדי",
-                "email": "adiw@technion.ac.il",
+                "name": "פוגרבניאק ילנה",
+                "email": "elena@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "גורליק אירנה",
-                "email": "iragor@technion.ac.il",
+                "name": "ליטבינוב גלינה",
+                "email": "litvinov@technion.ac.il",
                 "title": "מתרגל"
             }
         ],
         "Exam_A": {
-            "students": "263",
-            "passFail": "152\/111",
-            "passPercent": "58",
+            "students": "213",
+            "passFail": "137\/76",
+            "passPercent": "64",
             "min": "0",
             "max": "100",
-            "average": "59.597",
-            "median": "59"
-        },
-        "Final_A": {
-            "students": "263",
-            "passFail": "197\/66",
-            "passPercent": "75",
-            "min": "5",
-            "max": "100",
-            "average": "69.179",
-            "median": "74"
-        },
-        "Exam_B": {
-            "students": "166",
-            "passFail": "93\/73",
-            "passPercent": "56",
-            "min": "12",
-            "max": "96",
-            "average": "60.434",
-            "median": "59"
-        },
-        "Final_B": {
-            "students": "166",
-            "passFail": "125\/41",
-            "passPercent": "75",
-            "min": "14",
-            "max": "99",
-            "average": "67.187",
+            "average": "60.798",
             "median": "70"
         },
-        "Finals": {
-            "students": "327",
-            "passFail": "278\/49",
-            "passPercent": "85",
-            "min": "5",
+        "Final_A": {
+            "students": "213",
+            "passFail": "161\/52",
+            "passPercent": "76",
+            "min": "7",
             "max": "100",
-            "average": "74.374",
-            "median": "78"
+            "average": "68.845",
+            "median": "76"
+        },
+        "Exam_B": {
+            "students": "119",
+            "passFail": "70\/49",
+            "passPercent": "59",
+            "min": "0",
+            "max": "100",
+            "average": "61.16",
+            "median": "60"
+        },
+        "Final_B": {
+            "students": "119",
+            "passFail": "83\/36",
+            "passPercent": "70",
+            "min": "0",
+            "max": "100",
+            "average": "63.437",
+            "median": "63"
+        },
+        "Finals": {
+            "students": "255",
+            "passFail": "222\/33",
+            "passPercent": "87",
+            "min": "6",
+            "max": "100",
+            "average": "72.761",
+            "median": "76"
         }
     },
     "202002": {
