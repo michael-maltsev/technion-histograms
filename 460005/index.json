@@ -1,0 +1,61 @@
+{
+    "202202": {
+        "Staff": [
+            {
+                "name": "אורדע אריאל",
+                "email": "ariel@ee.technion.ac.il,ariel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רזניק יבגני",
+                "email": "evgeniy.rez@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "53",
+            "passFail": "38\/15",
+            "passPercent": "72",
+            "min": "30",
+            "max": "99",
+            "average": "68.962",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "53",
+            "passFail": "42\/11",
+            "passPercent": "79",
+            "min": "32",
+            "max": "100",
+            "average": "73.189",
+            "median": "75"
+        },
+        "Exam_B": {
+            "students": "13",
+            "passFail": "7\/6",
+            "passPercent": "54",
+            "min": "12",
+            "max": "98",
+            "average": "52.769",
+            "median": "55"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "7\/6",
+            "passPercent": "54",
+            "min": "12",
+            "max": "98",
+            "average": "55.385",
+            "median": "64"
+        },
+        "Finals": {
+            "students": "52",
+            "passFail": "42\/10",
+            "passPercent": "81",
+            "min": "32",
+            "max": "100",
+            "average": "73.75",
+            "median": "76.5"
+        }
+    }
+}
