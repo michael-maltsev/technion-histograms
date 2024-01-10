@@ -1,0 +1,53 @@
+{
+    "202201": {
+        "Staff": [
+            {
+                "name": "מדאח חאזם",
+                "email": "hazem@technion.ac.il,hazem@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "85",
+            "passFail": "76\/9",
+            "passPercent": "89",
+            "min": "16",
+            "max": "100",
+            "average": "74.741",
+            "median": "76"
+        },
+        "Final_B": {
+            "students": "17",
+            "passFail": "15\/2",
+            "passPercent": "88",
+            "min": "42",
+            "max": "90",
+            "average": "65.059",
+            "median": "64"
+        },
+        "Finals": {
+            "students": "92",
+            "passFail": "90\/2",
+            "passPercent": "98",
+            "min": "42",
+            "max": "100",
+            "average": "77.12",
+            "median": "78.5"
+        }
+    }
+}

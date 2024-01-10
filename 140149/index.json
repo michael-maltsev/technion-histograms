@@ -1,0 +1,71 @@
+{
+    "202201": {
+        "Staff": [
+            {
+                "name": "ג'בארין מחמוד",
+                "email": "cvjmah@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לוינסקי יעל",
+                "email": "yaelly@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "81",
+            "passFail": "52\/29",
+            "passPercent": "64",
+            "min": "10.35",
+            "max": "98.513",
+            "average": "60.311",
+            "median": "59.225"
+        },
+        "Final_A": {
+            "students": "81",
+            "passFail": "53\/28",
+            "passPercent": "65",
+            "min": "10",
+            "max": "99",
+            "average": "61.951",
+            "median": "62"
+        },
+        "Exam_B": {
+            "students": "37",
+            "passFail": "25\/12",
+            "passPercent": "68",
+            "min": "4.2",
+            "max": "84.7",
+            "average": "56.485",
+            "median": "60.7"
+        },
+        "Final_B": {
+            "students": "37",
+            "passFail": "25\/12",
+            "passPercent": "68",
+            "min": "4",
+            "max": "86",
+            "average": "58.351",
+            "median": "64"
+        },
+        "Finals": {
+            "students": "95",
+            "passFail": "81\/14",
+            "passPercent": "85",
+            "min": "4",
+            "max": "99",
+            "average": "67.958",
+            "median": "69"
+        }
+    }
+}
