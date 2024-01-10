@@ -153,29 +153,9 @@
     "202002": {
         "Staff": [
             {
-                "name": "רוטשילד אבנר",
-                "email": "avner@mt.technion.ac.il,avnerrot@technion.ac.il",
+                "name": "קורן אלעד",
+                "email": "eladk@technion.ac.il",
                 "title": "מרצה"
-            },
-            {
-                "name": "עברי יכין",
-                "email": "ivry@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "פוקרוי בועז",
-                "email": "bpokroy@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "פרודניקוב ילנה",
-                "email": "elenap@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "נגל אלינה",
-                "email": "alinanagel1@gmail.com,alinagel@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "אזולאי עמרם",
@@ -183,29 +163,9 @@
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "ביאנקו נופר",
-                "email": "snupharb@campus.technion.ac.il",
+                "name": "שניר נדב",
+                "email": "nadsnir@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "דאוד מוחמד",
-                "email": "davidovicass1@gmail.com",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "פורטל לוטן",
-                "email": "lotan.portal@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "דובגולבסקי יקטרינה",
-                "email": "gekateri@technion.ac.il,katiado@technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "רם-און מאור",
-                "email": "maoronen@technion.ac.il,maoronen@campus.technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "קיסלוב יוליה",
@@ -214,31 +174,49 @@
             }
         ],
         "Exam_A": {
-            "students": "150",
-            "passFail": "145\/5",
-            "passPercent": "97",
-            "min": "36.8",
+            "students": "97",
+            "passFail": "74\/23",
+            "passPercent": "76",
+            "min": "30",
             "max": "100",
-            "average": "82.099",
-            "median": "84.2"
+            "average": "67.01",
+            "median": "70"
         },
         "Final_A": {
-            "students": "150",
-            "passFail": "149\/1",
-            "passPercent": "99",
-            "min": "51",
-            "max": "99",
-            "average": "84.78",
-            "median": "86"
+            "students": "97",
+            "passFail": "77\/20",
+            "passPercent": "79",
+            "min": "34",
+            "max": "100",
+            "average": "69.454",
+            "median": "73"
+        },
+        "Exam_B": {
+            "students": "43",
+            "passFail": "26\/17",
+            "passPercent": "60",
+            "min": "10",
+            "max": "100",
+            "average": "57.442",
+            "median": "60"
+        },
+        "Final_B": {
+            "students": "43",
+            "passFail": "31\/12",
+            "passPercent": "72",
+            "min": "14",
+            "max": "100",
+            "average": "60.023",
+            "median": "60"
         },
         "Finals": {
-            "students": "157",
-            "passFail": "157\/0",
-            "passPercent": "100",
-            "min": "56",
-            "max": "99",
-            "average": "85.076",
-            "median": "86"
+            "students": "115",
+            "passFail": "104\/11",
+            "passPercent": "90",
+            "min": "14",
+            "max": "100",
+            "average": "70.452",
+            "median": "73"
         }
     },
     "202102": {
