@@ -634,28 +634,37 @@
     "202203": {
         "Staff": [
             {
-                "name": "בן-עוז בלה",
-                "email": "bella.goldstien@gmail.com,sbellag@campus.technion.ac.il",
+                "name": "רבנר אלונה",
+                "email": "alona.rabner@gmail.com,alonar@campus.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Exam_A": {
-            "students": "19",
-            "passFail": "12\/7",
-            "passPercent": "63",
-            "min": "24",
-            "max": "100",
-            "average": "64.211",
-            "median": "63"
+            "students": "26",
+            "passFail": "25\/1",
+            "passPercent": "96",
+            "min": "39",
+            "max": "96",
+            "average": "77.038",
+            "median": "76.5"
         },
         "Final_A": {
-            "students": "19",
-            "passFail": "12\/7",
-            "passPercent": "63",
-            "min": "24",
-            "max": "100",
-            "average": "65.368",
-            "median": "66"
+            "students": "26",
+            "passFail": "25\/1",
+            "passPercent": "96",
+            "min": "48",
+            "max": "96",
+            "average": "79.154",
+            "median": "78"
+        },
+        "Finals": {
+            "students": "26",
+            "passFail": "25\/1",
+            "passPercent": "96",
+            "min": "48",
+            "max": "96",
+            "average": "79.154",
+            "median": "78"
         }
     }
 }
