@@ -583,29 +583,19 @@
     "202101": {
         "Staff": [
             {
-                "name": "צנזור אביב",
-                "email": "avivc@technion.ac.il",
+                "name": "מלק עליזה",
+                "email": "maliza@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "וולף עדי",
-                "email": "adiw@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "פייגין-קצוב יוליה",
-                "email": "julia.feigin@gmail.com,juliaf@technion.ac.il",
-                "title": "מתרגל"
             }
         ],
         "Exam_A": {
-            "students": "615",
-            "passFail": "485\/130",
-            "passPercent": "79",
-            "min": "8",
-            "max": "104",
-            "average": "72.402",
-            "median": "74"
+            "students": "649",
+            "passFail": "461\/188",
+            "passPercent": "71",
+            "min": "5",
+            "max": "100",
+            "average": "63.781",
+            "median": "65"
         },
         "Final_A": {
             "students": "615",
@@ -656,59 +646,69 @@
     "202102": {
         "Staff": [
             {
-                "name": "שליט אור משה",
-                "email": "oshalit@technion.ac.il",
+                "name": "צנזור אביב",
+                "email": "avivc@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "תבור בר",
-                "email": "btavor@campus.technion.ac.il",
+                "name": "קליינשטרן מיכל",
+                "email": "mklinst@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פייגין-קצוב יוליה",
+                "email": "julia.feigin@gmail.com,juliaf@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "וולף עדי",
+                "email": "adiw@technion.ac.il",
                 "title": "מתרגל"
             }
         ],
         "Exam_A": {
-            "students": "18",
-            "passFail": "11\/7",
-            "passPercent": "61",
-            "min": "21",
-            "max": "100",
-            "average": "58.889",
-            "median": "62"
+            "students": "351",
+            "passFail": "268\/83",
+            "passPercent": "76",
+            "min": "12",
+            "max": "105",
+            "average": "69.442",
+            "median": "71"
         },
         "Final_A": {
-            "students": "18",
-            "passFail": "11\/7",
-            "passPercent": "61",
-            "min": "26",
+            "students": "351",
+            "passFail": "270\/81",
+            "passPercent": "77",
+            "min": "11",
             "max": "100",
-            "average": "66.5",
-            "median": "75"
+            "average": "68.917",
+            "median": "72"
         },
         "Exam_B": {
-            "students": "188",
-            "passFail": "45\/143",
-            "passPercent": "24",
-            "min": "0",
-            "max": "98",
-            "average": "42.346",
-            "median": "40"
+            "students": "168",
+            "passFail": "72\/96",
+            "passPercent": "43",
+            "min": "10",
+            "max": "103",
+            "average": "51.798",
+            "median": "51"
         },
         "Final_B": {
-            "students": "188",
-            "passFail": "97\/91",
-            "passPercent": "52",
-            "min": "20",
+            "students": "168",
+            "passFail": "95\/73",
+            "passPercent": "57",
+            "min": "14",
             "max": "100",
-            "average": "55.862",
-            "median": "56.5"
+            "average": "57.179",
+            "median": "58"
         },
         "Finals": {
-            "students": "21",
-            "passFail": "17\/4",
-            "passPercent": "81",
-            "min": "24",
+            "students": "416",
+            "passFail": "328\/88",
+            "passPercent": "79",
+            "min": "13",
             "max": "100",
-            "average": "70.286",
+            "average": "69.55",
             "median": "73"
         }
     },
