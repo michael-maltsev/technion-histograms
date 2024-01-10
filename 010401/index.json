@@ -40,6 +40,65 @@
             "median": "81"
         }
     },
+    "201801": {
+        "Staff": [
+            {
+                "name": "פוגרבניאק ילנה",
+                "email": "elena@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ליטבינוב גלינה",
+                "email": "litvinov@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "207",
+            "passFail": "154\/53",
+            "passPercent": "74",
+            "min": "0",
+            "max": "100",
+            "average": "69.802",
+            "median": "76"
+        },
+        "Final_A": {
+            "students": "207",
+            "passFail": "166\/41",
+            "passPercent": "80",
+            "min": "0",
+            "max": "100",
+            "average": "70.966",
+            "median": "77"
+        },
+        "Exam_B": {
+            "students": "106",
+            "passFail": "77\/29",
+            "passPercent": "73",
+            "min": "8",
+            "max": "100",
+            "average": "65.321",
+            "median": "66.5"
+        },
+        "Final_B": {
+            "students": "106",
+            "passFail": "80\/26",
+            "passPercent": "75",
+            "min": "8",
+            "max": "100",
+            "average": "66.066",
+            "median": "67"
+        },
+        "Finals": {
+            "students": "261",
+            "passFail": "231\/30",
+            "passPercent": "89",
+            "min": "6",
+            "max": "100",
+            "average": "74.138",
+            "median": "78"
+        }
+    },
     "201802": {
         "Staff": [
             {
@@ -524,24 +583,14 @@
     "202202": {
         "Staff": [
             {
-                "name": "סאלח פתחי",
-                "email": "fathi@technion.ac.il",
+                "name": "פוגרבניאק ילנה",
+                "email": "elena@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "מזרחי גלית",
-                "email": "galitm@technion.ac.il",
+                "name": "ליטבינוב גלינה",
+                "email": "litvinov@technion.ac.il",
                 "title": "מתרגל"
-            },
-            {
-                "name": "וולף עדי",
-                "email": "adiw@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "מלק עליזה",
-                "email": "maliza@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {

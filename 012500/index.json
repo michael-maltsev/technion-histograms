@@ -622,44 +622,34 @@
     "202101": {
         "Staff": [
             {
-                "name": "דיזנדרוק צ'רלס",
-                "email": "charles@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "מלצמן שי",
-                "email": "meltzman@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "שפירא רעות",
-                "email": "reutavr@technion.ac.il,reutavr@campus.technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "כהן אנטוני",
-                "email": "anthonycohen4@gmail.com,santhony@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "יוחנובסקי אנה",
-                "email": "y.anna@campus.technion.ac.il",
+                "name": "עוזר גל",
+                "email": "ozer.gal@campus.technion.ac.il",
                 "title": "מתרגל"
             },
             {
-                "name": "אביגדורי עידן",
-                "email": "sidan89@campus.technion.ac.il",
+                "name": "בהר אנסטסיה אס",
+                "email": "ganastasia@campus.technion.ac.il",
                 "title": "מתרגל"
             },
             {
-                "name": "טרביה טארק",
-                "email": "tarek.taraben@gmail.com,ttarek@campus.technion.ac.il",
-                "title": "מתרגל"
+                "name": "שמידט אשר ז\"ל",
+                "email": "chrschm@technion.ac.il",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "איו מיכאל",
-                "email": "miko@technion.ac.il,miko@campus.technion.ac.il",
-                "title": "מתרגל"
+                "name": "גלוז נעמה",
+                "email": "naamagl@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "סקליאר ג'ניה",
+                "email": "jenia.sklyar@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "הלוי גבריאלה",
+                "email": "gabriele@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -672,13 +662,13 @@
             "median": "70"
         },
         "Final_A": {
-            "students": "576",
-            "passFail": "476\/100",
-            "passPercent": "83",
-            "min": "20",
+            "students": "34",
+            "passFail": "33\/1",
+            "passPercent": "97",
+            "min": "43",
             "max": "100",
-            "average": "71.233",
-            "median": "74"
+            "average": "93.059",
+            "median": "97"
         },
         "Exam_B": {
             "students": "186",
@@ -708,13 +698,13 @@
             "median": "55"
         },
         "Finals": {
-            "students": "661",
-            "passFail": "581\/80",
-            "passPercent": "88",
-            "min": "15",
-            "max": "100",
-            "average": "72.107",
-            "median": "74"
+            "students": "34",
+            "passFail": "33\/1",
+            "passPercent": "97",
+            "min": "43",
+            "max": "99",
+            "average": "93.029",
+            "median": "97"
         }
     },
     "202102": {
@@ -916,69 +906,29 @@
     "202202": {
         "Staff": [
             {
-                "name": "חג'אזי רנין",
-                "email": "raneenhijaze@campus.technion.ac.il",
+                "name": "מיכלסון שאול",
+                "email": "mshaul@technion.ac.il",
                 "title": "מתרגל"
             },
             {
-                "name": "יעקוב סעיד",
-                "email": "yakop.saed@campus.technion.ac.il",
+                "name": "מלצמן שי",
+                "email": "meltzman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סויסה שלייף מעיין",
+                "email": "maayan.suissa@gmail.com,sumaayan@campus.technion.ac.il",
                 "title": "מתרגל"
             },
             {
-                "name": "ווגט שרלוט",
-                "email": "c.vogt@technion.ac.il",
-                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+                "name": "איו מיכאל",
+                "email": "miko@technion.ac.il,miko@campus.technion.ac.il",
+                "title": "מתרגל"
             },
             {
-                "name": "דה-רויטר גרהאם",
-                "email": "graham@technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "עוזרי ענבל",
-                "email": "inbaloz@technion.ac.il,inbaloz@campus.technion.ac.il",
-                "title": "מדריך מעבדה"
-            },
-            {
-                "name": "ינוביץ תומר",
-                "email": "ianovici@campus.technion.ac.il",
-                "title": "מדריך מעבדה"
-            },
-            {
-                "name": "רפאלי רון",
-                "email": "ronraphaeli@technion.ac.il,ronraphaeli@campus.technion.ac.il",
-                "title": "מדריך מעבדה"
-            },
-            {
-                "name": "סקליאר ג'ניה",
-                "email": "jenia.sklyar@campus.technion.ac.il",
-                "title": "מדריך מעבדה"
-            },
-            {
-                "name": "נ'גם סאלי",
-                "email": "sallynij935@gmail.com,nsally@campus.technion.ac.il",
-                "title": "מדריך מעבדה"
-            },
-            {
-                "name": "וורוביוב ניקול",
-                "email": "nicolev@campus.technion.ac.il",
-                "title": "מדריך מעבדה"
-            },
-            {
-                "name": "בהר אנסטסיה אס",
-                "email": "ganastasia@campus.technion.ac.il",
-                "title": "מדריך מעבדה"
-            },
-            {
-                "name": "חסן מהדי",
-                "email": "mahdi.hasan@campus.technion.ac.il",
-                "title": "מדריך מעבדה"
-            },
-            {
-                "name": "הלוי גבריאלה",
-                "email": "gabriele@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+                "name": "טרביה טארק",
+                "email": "tarek.taraben@gmail.com,ttarek@campus.technion.ac.il",
+                "title": "מתרגל"
             }
         ],
         "Exam_A": {
