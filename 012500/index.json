@@ -622,34 +622,44 @@
     "202101": {
         "Staff": [
             {
-                "name": "עוזר גל",
-                "email": "ozer.gal@campus.technion.ac.il",
+                "name": "דיזנדרוק צ'רלס",
+                "email": "charles@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מלצמן שי",
+                "email": "meltzman@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "שפירא רעות",
+                "email": "reutavr@technion.ac.il,reutavr@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "כהן אנטוני",
+                "email": "anthonycohen4@gmail.com,santhony@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "יוחנובסקי אנה",
+                "email": "y.anna@campus.technion.ac.il",
                 "title": "מתרגל"
             },
             {
-                "name": "בהר אנסטסיה אס",
-                "email": "ganastasia@campus.technion.ac.il",
+                "name": "אביגדורי עידן",
+                "email": "sidan89@campus.technion.ac.il",
                 "title": "מתרגל"
             },
             {
-                "name": "שמידט אשר ז\"ל",
-                "email": "chrschm@technion.ac.il",
-                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+                "name": "טרביה טארק",
+                "email": "tarek.taraben@gmail.com,ttarek@campus.technion.ac.il",
+                "title": "מתרגל"
             },
             {
-                "name": "גלוז נעמה",
-                "email": "naamagl@campus.technion.ac.il",
-                "title": "מדריך מעבדה"
-            },
-            {
-                "name": "סקליאר ג'ניה",
-                "email": "jenia.sklyar@campus.technion.ac.il",
-                "title": "מדריך מעבדה"
-            },
-            {
-                "name": "הלוי גבריאלה",
-                "email": "gabriele@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+                "name": "איו מיכאל",
+                "email": "miko@technion.ac.il,miko@campus.technion.ac.il",
+                "title": "מתרגל"
             }
         ],
         "Exam_A": {
@@ -662,13 +672,13 @@
             "median": "70"
         },
         "Final_A": {
-            "students": "34",
-            "passFail": "33\/1",
-            "passPercent": "97",
-            "min": "43",
+            "students": "576",
+            "passFail": "476\/100",
+            "passPercent": "83",
+            "min": "20",
             "max": "100",
-            "average": "93.059",
-            "median": "97"
+            "average": "71.233",
+            "median": "74"
         },
         "Exam_B": {
             "students": "186",
@@ -698,13 +708,13 @@
             "median": "55"
         },
         "Finals": {
-            "students": "34",
-            "passFail": "33\/1",
-            "passPercent": "97",
-            "min": "43",
-            "max": "99",
-            "average": "93.029",
-            "median": "97"
+            "students": "661",
+            "passFail": "581\/80",
+            "passPercent": "88",
+            "min": "15",
+            "max": "100",
+            "average": "72.107",
+            "median": "74"
         }
     },
     "202102": {
@@ -807,54 +817,34 @@
     "202201": {
         "Staff": [
             {
-                "name": "אדיר נעם",
-                "email": "nadir@technion.ac.il",
+                "name": "שמידט אשר ז\"ל",
+                "email": "chrschm@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "מלצמן שי",
-                "email": "meltzman@technion.ac.il",
-                "title": "מרצה"
+                "name": "דורון דינה",
+                "email": "dinad@technion.ac.il",
+                "title": ""
             },
             {
-                "name": "שפירא רעות",
-                "email": "reutavr@technion.ac.il,reutavr@campus.technion.ac.il",
-                "title": "מרצה"
+                "name": "נ'גם סאלי",
+                "email": "sallynij935@gmail.com,nsally@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
             },
             {
-                "name": "ינוביץ תומר",
-                "email": "ianovici@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
+                "name": "רפאלי רון",
+                "email": "ronraphaeli@technion.ac.il,ronraphaeli@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
             },
             {
-                "name": "ברנובסקי אלינה",
-                "email": "elinabar77@gmail.com",
-                "title": "מתרגל"
+                "name": "סקליאר ג'ניה",
+                "email": "jenia.sklyar@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
             },
             {
-                "name": "לוי רומי",
-                "email": "romyl@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "סויסה שלייף מעיין",
-                "email": "maayan.suissa@gmail.com,sumaayan@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "איו מיכאל",
-                "email": "miko@technion.ac.il,miko@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "טרביה טארק",
-                "email": "tarek.taraben@gmail.com,ttarek@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "יוחנובסקי אנה",
-                "email": "y.anna@campus.technion.ac.il",
-                "title": "מתרגל"
+                "name": "הלוי גבריאלה",
+                "email": "gabriele@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -867,13 +857,13 @@
             "median": "65"
         },
         "Final_A": {
-            "students": "516",
-            "passFail": "351\/165",
-            "passPercent": "68",
-            "min": "15",
-            "max": "100",
-            "average": "66.516",
-            "median": "70"
+            "students": "51",
+            "passFail": "51\/0",
+            "passPercent": "100",
+            "min": "74",
+            "max": "101",
+            "average": "91.216",
+            "median": "93"
         },
         "Exam_B": {
             "students": "207",
@@ -894,13 +884,13 @@
             "median": "61"
         },
         "Finals": {
-            "students": "573",
-            "passFail": "454\/119",
-            "passPercent": "79",
-            "min": "15",
+            "students": "51",
+            "passFail": "51\/0",
+            "passPercent": "100",
+            "min": "74",
             "max": "100",
-            "average": "69.782",
-            "median": "74"
+            "average": "91.157",
+            "median": "93"
         }
     },
     "202202": {

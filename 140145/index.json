@@ -73,5 +73,66 @@
             "average": "71.101",
             "median": "71"
         }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "רבינוביץ' עודד",
+                "email": "cvoded@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "לוינסקי יעל",
+                "email": "yaelly@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "114",
+            "passFail": "102\/12",
+            "passPercent": "89",
+            "min": "38",
+            "max": "101",
+            "average": "74.535",
+            "median": "76"
+        },
+        "Final_B": {
+            "students": "34",
+            "passFail": "21\/13",
+            "passPercent": "62",
+            "min": "14",
+            "max": "97",
+            "average": "57.941",
+            "median": "60"
+        },
+        "Finals": {
+            "students": "121",
+            "passFail": "107\/14",
+            "passPercent": "88",
+            "min": "14",
+            "max": "100",
+            "average": "73.893",
+            "median": "76"
+        }
     }
 }
