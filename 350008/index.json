@@ -1,0 +1,56 @@
+{
+    "202201": {
+        "Staff": [
+            {
+                "name": "קנושר דן",
+                "email": "kanusher@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "22",
+            "passFail": "16\/6",
+            "passPercent": "73",
+            "min": "35",
+            "max": "97",
+            "average": "63.955",
+            "median": "65.5"
+        },
+        "Final_A": {
+            "students": "22",
+            "passFail": "16\/6",
+            "passPercent": "73",
+            "min": "35",
+            "max": "97",
+            "average": "63.955",
+            "median": "65.5"
+        },
+        "Exam_B": {
+            "students": "17",
+            "passFail": "16\/1",
+            "passPercent": "94",
+            "min": "20",
+            "max": "100",
+            "average": "74.588",
+            "median": "77"
+        },
+        "Final_B": {
+            "students": "17",
+            "passFail": "16\/1",
+            "passPercent": "94",
+            "min": "20",
+            "max": "100",
+            "average": "74.588",
+            "median": "77"
+        },
+        "Finals": {
+            "students": "29",
+            "passFail": "28\/1",
+            "passPercent": "97",
+            "min": "20",
+            "max": "100",
+            "average": "74",
+            "median": "76"
+        }
+    }
+}
