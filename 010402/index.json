@@ -430,67 +430,52 @@
                 "name": "גובר שלומי",
                 "email": "shlomigo@technion.ac.il,shlomigo@campus.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "קרוש-ברם מרינה",
-                "email": "mbram@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "אלעד דורון",
-                "email": "edorone@campus.technion.ac.il,edorone@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "גולדברג דניאל",
-                "email": "",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
-            "students": "171",
-            "passFail": "89\/82",
-            "passPercent": "52",
-            "min": "4",
-            "max": "96",
-            "average": "54.398",
-            "median": "55"
+            "students": "130",
+            "passFail": "81\/49",
+            "passPercent": "62",
+            "min": "16",
+            "max": "97",
+            "average": "61.715",
+            "median": "61"
         },
         "Final_A": {
-            "students": "171",
-            "passFail": "121\/50",
-            "passPercent": "71",
-            "min": "13",
+            "students": "130",
+            "passFail": "90\/40",
+            "passPercent": "69",
+            "min": "17",
             "max": "100",
-            "average": "63.661",
-            "median": "65"
-        },
-        "Exam_B": {
-            "students": "91",
-            "passFail": "56\/35",
-            "passPercent": "62",
-            "min": "0",
-            "max": "98",
-            "average": "59.33",
-            "median": "62"
-        },
-        "Final_B": {
-            "students": "91",
-            "passFail": "65\/26",
-            "passPercent": "71",
-            "min": "2",
-            "max": "100",
-            "average": "61.923",
+            "average": "64.608",
             "median": "63"
         },
+        "Exam_B": {
+            "students": "102",
+            "passFail": "49\/53",
+            "passPercent": "48",
+            "min": "9",
+            "max": "92",
+            "average": "54.627",
+            "median": "54"
+        },
+        "Final_B": {
+            "students": "102",
+            "passFail": "57\/45",
+            "passPercent": "56",
+            "min": "12",
+            "max": "96",
+            "average": "57.431",
+            "median": "57"
+        },
         "Finals": {
-            "students": "206",
-            "passFail": "174\/32",
-            "passPercent": "84",
-            "min": "2",
+            "students": "176",
+            "passFail": "127\/49",
+            "passPercent": "72",
+            "min": "12",
             "max": "100",
-            "average": "67.175",
-            "median": "69.5"
+            "average": "65.21",
+            "median": "67"
         }
     },
     "202201": {

@@ -709,60 +709,55 @@
     "202201": {
         "Staff": [
             {
-                "name": "רוזן יורם",
-                "email": "rozen@physics.technion.ac.il,rozen@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
                 "name": "מרטיסקאינן חנה",
                 "email": "hanna.martiskainen@gmail.com,hannam@campus.technion.ac.il",
-                "title": "מתרגל"
+                "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Exam_A": {
-            "students": "498",
-            "passFail": "242\/256",
-            "passPercent": "49",
-            "min": "0",
+            "students": "140",
+            "passFail": "130\/10",
+            "passPercent": "93",
+            "min": "19.2",
             "max": "100",
-            "average": "53.464",
-            "median": "50"
+            "average": "78.074",
+            "median": "78.8"
         },
         "Final_A": {
-            "students": "498",
-            "passFail": "444\/54",
-            "passPercent": "89",
-            "min": "12",
+            "students": "140",
+            "passFail": "138\/2",
+            "passPercent": "99",
+            "min": "39",
             "max": "100",
-            "average": "74.45",
-            "median": "72"
+            "average": "82.986",
+            "median": "83.5"
         },
         "Exam_B": {
-            "students": "220",
-            "passFail": "150\/70",
-            "passPercent": "68",
-            "min": "8.333",
+            "students": "69",
+            "passFail": "61\/8",
+            "passPercent": "88",
+            "min": "29",
             "max": "100",
-            "average": "63.901",
-            "median": "66.666"
+            "average": "75.812",
+            "median": "78"
         },
         "Final_B": {
-            "students": "220",
-            "passFail": "199\/21",
-            "passPercent": "90",
-            "min": "25",
+            "students": "69",
+            "passFail": "65\/4",
+            "passPercent": "94",
+            "min": "42.932",
             "max": "100",
-            "average": "75.823",
-            "median": "76.5"
+            "average": "80.968",
+            "median": "82.408"
         },
         "Finals": {
-            "students": "613",
-            "passFail": "585\/28",
-            "passPercent": "95",
-            "min": "12",
+            "students": "187",
+            "passFail": "184\/3",
+            "passPercent": "98",
+            "min": "43",
             "max": "100",
-            "average": "79.989",
-            "median": "81"
+            "average": "84.021",
+            "median": "85"
         }
     },
     "202202": {
