@@ -1,0 +1,43 @@
+{
+    "202202": {
+        "Staff": [
+            {
+                "name": "זילברשטיין מרק",
+                "email": "mark@ee.technion.ac.il,silbmark@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מרכוס רון",
+                "email": "marcus.ron@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "14",
+            "passFail": "12\/2",
+            "passPercent": "86",
+            "min": "33",
+            "max": "76",
+            "average": "65.429",
+            "median": "69.5"
+        },
+        "Final_A": {
+            "students": "14",
+            "passFail": "12\/2",
+            "passPercent": "86",
+            "min": "37",
+            "max": "84.8",
+            "average": "75.107",
+            "median": "80.25"
+        },
+        "Finals": {
+            "students": "14",
+            "passFail": "12\/2",
+            "passPercent": "86",
+            "min": "37",
+            "max": "85",
+            "average": "75.154",
+            "median": "81"
+        }
+    }
+}
