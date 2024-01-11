@@ -126,6 +126,65 @@
             "median": "75.5"
         }
     },
+    "202102": {
+        "Staff": [
+            {
+                "name": "רוזנטל אמיר",
+                "email": "amir.r@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אילין יגאל",
+                "email": "yigali@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "127",
+            "passFail": "94\/33",
+            "passPercent": "74",
+            "min": "5",
+            "max": "100",
+            "average": "67.071",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "127",
+            "passFail": "105\/22",
+            "passPercent": "83",
+            "min": "7",
+            "max": "100",
+            "average": "71.724",
+            "median": "74"
+        },
+        "Exam_B": {
+            "students": "71",
+            "passFail": "59\/12",
+            "passPercent": "83",
+            "min": "12",
+            "max": "100",
+            "average": "68.859",
+            "median": "71"
+        },
+        "Final_B": {
+            "students": "71",
+            "passFail": "60\/11",
+            "passPercent": "85",
+            "min": "15",
+            "max": "100",
+            "average": "71.282",
+            "median": "72"
+        },
+        "Finals": {
+            "students": "160",
+            "passFail": "147\/13",
+            "passPercent": "92",
+            "min": "15",
+            "max": "100",
+            "average": "76.062",
+            "median": "79"
+        }
+    },
     "202202": {
         "Staff": [
             {
