@@ -17,6 +17,74 @@
             "median": "78"
         }
     },
+    "201701": {
+        "Staff": [
+            {
+                "name": "בירק יצחק",
+                "email": "birk@ee.technion.ac.il,birk@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טבצ'ניק טל",
+                "email": "tabtal@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "405",
+            "passFail": "256\/149",
+            "passPercent": "63",
+            "min": "20",
+            "max": "95",
+            "average": "59.04",
+            "median": "60"
+        },
+        "Final_A": {
+            "students": "405",
+            "passFail": "352\/53",
+            "passPercent": "87",
+            "min": "27",
+            "max": "100",
+            "average": "70.768",
+            "median": "73"
+        },
+        "Final_B": {
+            "students": "195",
+            "passFail": "142\/53",
+            "passPercent": "73",
+            "min": "23",
+            "max": "100",
+            "average": "68.077",
+            "median": "70"
+        },
+        "Finals": {
+            "students": "458",
+            "passFail": "398\/60",
+            "passPercent": "87",
+            "min": "23",
+            "max": "100",
+            "average": "73.197",
+            "median": "74"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "יעקובי איתן",
+                "email": "yaakobi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "411",
+            "passFail": "363\/48",
+            "passPercent": "88",
+            "min": "24",
+            "max": "100",
+            "average": "73.394",
+            "median": "76"
+        }
+    },
     "201801": {
         "Staff": [
             {
@@ -38,18 +106,18 @@
     "201802": {
         "Staff": [
             {
-                "name": "בן-חן מירלה",
-                "email": "mirela@cs.technion.ac.il,mirela@technion.ac.il",
+                "name": "יבנה עירד",
+                "email": "irad@cs.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "165",
-            "passFail": "151\/14",
-            "passPercent": "92",
-            "min": "22",
+            "students": "407",
+            "passFail": "381\/26",
+            "passPercent": "94",
+            "min": "3",
             "max": "100",
-            "average": "75.909",
+            "average": "75.575",
             "median": "78"
         }
     },
