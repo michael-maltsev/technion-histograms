@@ -678,14 +678,24 @@
     "202202": {
         "Staff": [
             {
-                "name": "פוגרבניאק ילנה",
-                "email": "elena@technion.ac.il",
+                "name": "סאלח פתחי",
+                "email": "fathi@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "ליטבינוב גלינה",
-                "email": "litvinov@technion.ac.il",
+                "name": "מזרחי גלית",
+                "email": "galitm@technion.ac.il",
                 "title": "מתרגל"
+            },
+            {
+                "name": "וולף עדי",
+                "email": "adiw@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מלק עליזה",
+                "email": "maliza@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -732,6 +742,33 @@
             "max": "100",
             "average": "71.174",
             "median": "75"
+        }
+    },
+    "202203": {
+        "Staff": [
+            {
+                "name": "בן-דוד ניר",
+                "email": "benda@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "21",
+            "passFail": "16\/5",
+            "passPercent": "76",
+            "min": "17",
+            "max": "99",
+            "average": "67.143",
+            "median": "67"
+        },
+        "Final_A": {
+            "students": "21",
+            "passFail": "17\/4",
+            "passPercent": "81",
+            "min": "21",
+            "max": "99",
+            "average": "69.952",
+            "median": "67"
         }
     }
 }
