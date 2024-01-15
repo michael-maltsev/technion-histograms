@@ -121,8 +121,8 @@
     "202201": {
         "Staff": [
             {
-                "name": "פסקוביץ אייל",
-                "email": "eyalkudu@gmail.com",
+                "name": "באדר אורן",
+                "email": "",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -146,13 +146,13 @@
             "median": "90"
         },
         "Final_A": {
-            "students": "70",
-            "passFail": "70\/0",
-            "passPercent": "100",
-            "min": "68",
-            "max": "100",
-            "average": "89.171",
-            "median": "90"
+            "students": "35",
+            "passFail": "33\/2",
+            "passPercent": "94",
+            "min": "53",
+            "max": "99",
+            "average": "80.886",
+            "median": "80"
         },
         "Final_B": {
             "students": "20",
@@ -164,50 +164,59 @@
             "median": "90"
         },
         "Finals": {
-            "students": "123",
-            "passFail": "123\/0",
-            "passPercent": "100",
-            "min": "68",
-            "max": "100",
-            "average": "91.089",
-            "median": "93"
+            "students": "40",
+            "passFail": "38\/2",
+            "passPercent": "95",
+            "min": "53",
+            "max": "99",
+            "average": "83.3",
+            "median": "87.5"
         }
     },
     "202202": {
         "Staff": [
             {
-                "name": "שניידר תמר",
-                "email": "tamarsc@technion.ac.il",
+                "name": "פישר מאיה",
+                "email": "fishermaya@gmail.com",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "בן-איש שלומית",
                 "email": "shlomitb@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "50",
-            "passFail": "50\/0",
-            "passPercent": "100",
-            "min": "78",
+            "students": "47",
+            "passFail": "46\/1",
+            "passPercent": "98",
+            "min": "13",
             "max": "100",
-            "average": "92.72",
-            "median": "93"
+            "average": "84.085",
+            "median": "88"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "96",
+            "average": "88.083",
+            "median": "88"
         },
         "Finals": {
-            "students": "50",
-            "passFail": "50\/0",
-            "passPercent": "100",
-            "min": "78",
+            "students": "55",
+            "passFail": "54\/1",
+            "passPercent": "98",
+            "min": "13",
             "max": "100",
-            "average": "92.72",
-            "median": "93"
+            "average": "86.545",
+            "median": "88"
         }
     },
     "202203": {
