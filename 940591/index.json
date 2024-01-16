@@ -1,4 +1,60 @@
 {
+    "201902": {
+        "Staff": [
+            {
+                "name": "טייטלר- רגב שרון",
+                "email": "sharonregevt@gmail.com,sharont@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קוגוס איילת",
+                "email": "kogus@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דנינו גל",
+                "email": "gald33@gmail.com,gald33@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אגסי זיוה",
+                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "215",
+            "passFail": "206\/9",
+            "passPercent": "96",
+            "min": "18",
+            "max": "100",
+            "average": "83.865",
+            "median": "91"
+        },
+        "Final_B": {
+            "students": "206",
+            "passFail": "189\/17",
+            "passPercent": "92",
+            "min": "10",
+            "max": "100",
+            "average": "81.257",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "392",
+            "passFail": "374\/18",
+            "passPercent": "95",
+            "min": "10",
+            "max": "100",
+            "average": "84.673",
+            "median": "92"
+        }
+    },
     "202001": {
         "Staff": [
             {

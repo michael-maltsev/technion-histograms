@@ -1,0 +1,61 @@
+{
+    "202201": {
+        "Staff": [
+            {
+                "name": "סודרי דניאל",
+                "email": "daniel.soudry@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סוקר אדם",
+                "email": "adam-soker@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "43",
+            "passFail": "25\/18",
+            "passPercent": "58",
+            "min": "27",
+            "max": "89",
+            "average": "60.442",
+            "median": "58"
+        },
+        "Final_A": {
+            "students": "43",
+            "passFail": "40\/3",
+            "passPercent": "93",
+            "min": "44",
+            "max": "100",
+            "average": "76.372",
+            "median": "75"
+        },
+        "Exam_B": {
+            "students": "11",
+            "passFail": "9\/2",
+            "passPercent": "82",
+            "min": "36",
+            "max": "93",
+            "average": "65.091",
+            "median": "61"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "10\/1",
+            "passPercent": "91",
+            "min": "50",
+            "max": "100",
+            "average": "75.091",
+            "median": "71"
+        },
+        "Finals": {
+            "students": "48",
+            "passFail": "46\/2",
+            "passPercent": "96",
+            "min": "46",
+            "max": "100",
+            "average": "78.562",
+            "median": "79.5"
+        }
+    }
+}
