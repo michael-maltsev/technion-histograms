@@ -457,8 +457,8 @@
     "202102": {
         "Staff": [
             {
-                "name": "לנדאו מיטל",
-                "email": "mlandau@technion.ac.il",
+                "name": "שמש תום",
+                "email": "tomsh@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
@@ -472,13 +472,13 @@
             "median": "78.5"
         },
         "Final_A": {
-            "students": "132",
-            "passFail": "124\/8",
-            "passPercent": "94",
-            "min": "27.5",
+            "students": "80",
+            "passFail": "71\/9",
+            "passPercent": "89",
+            "min": "25",
             "max": "100",
-            "average": "80.756",
-            "median": "83.175"
+            "average": "73.362",
+            "median": "74"
         },
         "Exam_B": {
             "students": "24",
@@ -490,22 +490,81 @@
             "median": "57"
         },
         "Final_B": {
-            "students": "24",
-            "passFail": "18\/6",
-            "passPercent": "75",
-            "min": "30",
-            "max": "98.03",
-            "average": "64.221",
-            "median": "62.319"
+            "students": "47",
+            "passFail": "39\/8",
+            "passPercent": "83",
+            "min": "21",
+            "max": "100",
+            "average": "71.83",
+            "median": "74"
         },
         "Finals": {
-            "students": "144",
-            "passFail": "137\/7",
-            "passPercent": "95",
-            "min": "30",
+            "students": "113",
+            "passFail": "102\/11",
+            "passPercent": "90",
+            "min": "21",
             "max": "100",
-            "average": "80.271",
-            "median": "83"
+            "average": "75.204",
+            "median": "77"
+        }
+    },
+    "202103": {
+        "Staff": [
+            {
+                "name": "ערמן ענבר",
+                "email": "inbararman@gmail.com,inbararman@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גור אלונה",
+                "email": "ilanag@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "26",
+            "passFail": "18\/8",
+            "passPercent": "69",
+            "min": "22",
+            "max": "98",
+            "average": "66.019",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "26",
+            "passFail": "18\/8",
+            "passPercent": "69",
+            "min": "29.625",
+            "max": "97.975",
+            "average": "67.744",
+            "median": "68.4875"
+        },
+        "Exam_B": {
+            "students": "22",
+            "passFail": "15\/7",
+            "passPercent": "68",
+            "min": "10",
+            "max": "98",
+            "average": "62.091",
+            "median": "61"
+        },
+        "Final_B": {
+            "students": "22",
+            "passFail": "15\/7",
+            "passPercent": "68",
+            "min": "10",
+            "max": "97.775",
+            "average": "63.255",
+            "median": "64.7625"
+        },
+        "Finals": {
+            "students": "40",
+            "passFail": "31\/9",
+            "passPercent": "78",
+            "min": "10",
+            "max": "98",
+            "average": "68.475",
+            "median": "72.5"
         }
     },
     "202201": {
