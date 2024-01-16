@@ -117,14 +117,30 @@
         }
     },
     "201901": {
-        "Finals": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "75",
+        "Staff": [
+            {
+                "name": "פישהוף גיל",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "83",
+            "passFail": "82\/1",
+            "passPercent": "99",
+            "min": "41.667",
             "max": "100",
-            "average": "94.6",
-            "median": "95"
+            "average": "92.367",
+            "median": "94.444"
+        },
+        "Finals": {
+            "students": "85",
+            "passFail": "85\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "100",
+            "average": "92.894",
+            "median": "94"
         }
     },
     "201902": {
@@ -268,38 +284,38 @@
     "202101": {
         "Staff": [
             {
-                "name": "קוזלובסקי גו איבון",
-                "email": "ykozlovsky@univ.haifa.ac.il",
+                "name": "ראופמן רוית",
+                "email": "",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "בן ענת רוחמה",
                 "email": "ruchamab@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "74",
-            "passFail": "74\/0",
+            "students": "65",
+            "passFail": "65\/0",
             "passPercent": "100",
-            "min": "87",
+            "min": "64",
             "max": "100",
-            "average": "97.189",
-            "median": "97"
+            "average": "92.985",
+            "median": "96"
         },
         "Finals": {
-            "students": "80",
-            "passFail": "80\/0",
+            "students": "70",
+            "passFail": "70\/0",
             "passPercent": "100",
-            "min": "90",
+            "min": "56",
             "max": "100",
-            "average": "97.65",
-            "median": "97"
+            "average": "93.314",
+            "median": "96"
         }
     },
     "202102": {
