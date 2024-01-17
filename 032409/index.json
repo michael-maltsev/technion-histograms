@@ -2,19 +2,28 @@
     "201401": {
         "Staff": [
             {
-                "name": "לורנד רות",
-                "email": "lorand@research.haifa.ac.il",
+                "name": "מגד עמוס",
+                "email": "",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Finals": {
-            "students": "74",
-            "passFail": "74\/0",
+        "Final_A": {
+            "students": "101",
+            "passFail": "101\/0",
             "passPercent": "100",
-            "min": "60",
+            "min": "64",
+            "max": "98",
+            "average": "87.248",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "124",
+            "passFail": "124\/0",
+            "passPercent": "100",
+            "min": "67",
             "max": "100",
-            "average": "88.041",
-            "median": "89.5"
+            "average": "92.452",
+            "median": "94.5"
         }
     },
     "201501": {
