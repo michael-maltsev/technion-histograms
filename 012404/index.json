@@ -316,33 +316,56 @@
     "202101": {
         "Staff": [
             {
-                "name": "צ'ונטונוב לב",
-                "email": "chunt@technion.ac.il",
+                "name": "פסקין אורי",
+                "email": "uri@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "חלמיש חן",
-                "email": "henmoshe@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
+                "name": "נגר שאול לינוי",
+                "email": "linoy-nagar@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אילן אמיר",
+                "email": "amilan@campus.technion.ac.il",
+                "title": "מתרגל"
             }
         ],
         "Final_A": {
-            "students": "18",
-            "passFail": "18\/0",
-            "passPercent": "100",
-            "min": "82",
-            "max": "95",
-            "average": "89",
-            "median": "88.5"
+            "students": "47",
+            "passFail": "40\/7",
+            "passPercent": "85",
+            "min": "30.928",
+            "max": "100",
+            "average": "71.549",
+            "median": "71.594"
+        },
+        "Exam_B": {
+            "students": "35",
+            "passFail": "21\/14",
+            "passPercent": "60",
+            "min": "19",
+            "max": "100",
+            "average": "65.314",
+            "median": "61"
+        },
+        "Final_B": {
+            "students": "35",
+            "passFail": "29\/6",
+            "passPercent": "83",
+            "min": "16",
+            "max": "100",
+            "average": "70",
+            "median": "63"
         },
         "Finals": {
-            "students": "18",
-            "passFail": "18\/0",
-            "passPercent": "100",
-            "min": "82",
-            "max": "95",
-            "average": "89",
-            "median": "88.5"
+            "students": "74",
+            "passFail": "68\/6",
+            "passPercent": "92",
+            "min": "32",
+            "max": "100",
+            "average": "76.014",
+            "median": "76.5"
         }
     },
     "202102": {
