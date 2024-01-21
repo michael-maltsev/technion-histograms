@@ -1,0 +1,71 @@
+{
+    "202102": {
+        "Staff": [
+            {
+                "name": "סולומון מתן",
+                "email": "matan-so@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "גיל יובל",
+                "email": "yuval.gil@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שטריכמן עופר",
+                "email": "ofers@ie.technion.ac.il,ofers@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "210",
+            "passFail": "141\/69",
+            "passPercent": "67",
+            "min": "33",
+            "max": "110",
+            "average": "69.161",
+            "median": "67.25"
+        },
+        "Final_A": {
+            "students": "210",
+            "passFail": "173\/37",
+            "passPercent": "82",
+            "min": "35",
+            "max": "100",
+            "average": "70.224",
+            "median": "69.5"
+        },
+        "Exam_B": {
+            "students": "73",
+            "passFail": "44\/29",
+            "passPercent": "60",
+            "min": "32",
+            "max": "100",
+            "average": "63.832",
+            "median": "60.25"
+        },
+        "Final_B": {
+            "students": "74",
+            "passFail": "57\/17",
+            "passPercent": "77",
+            "min": "33",
+            "max": "100",
+            "average": "66.068",
+            "median": "62"
+        },
+        "Finals": {
+            "students": "241",
+            "passFail": "222\/19",
+            "passPercent": "92",
+            "min": "33",
+            "max": "100",
+            "average": "73.394",
+            "median": "72"
+        }
+    }
+}

@@ -1,4 +1,68 @@
 {
+    "202002": {
+        "Staff": [
+            {
+                "name": "בורדו נדיה",
+                "email": "nadiabordo@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "עזריאל דוד",
+                "email": "davidazr@ie.technion.ac.il,davidazr@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "106",
+            "passFail": "84\/22",
+            "passPercent": "79",
+            "min": "20",
+            "max": "100",
+            "average": "67.547",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "106",
+            "passFail": "95\/11",
+            "passPercent": "90",
+            "min": "28",
+            "max": "100",
+            "average": "71.547",
+            "median": "73"
+        },
+        "Exam_B": {
+            "students": "64",
+            "passFail": "40\/24",
+            "passPercent": "62",
+            "min": "20",
+            "max": "100",
+            "average": "60.547",
+            "median": "60"
+        },
+        "Final_B": {
+            "students": "64",
+            "passFail": "55\/9",
+            "passPercent": "86",
+            "min": "27",
+            "max": "100",
+            "average": "65.531",
+            "median": "64"
+        },
+        "Finals": {
+            "students": "139",
+            "passFail": "128\/11",
+            "passPercent": "92",
+            "min": "27",
+            "max": "100",
+            "average": "71.626",
+            "median": "73"
+        }
+    },
     "202102": {
         "Staff": [
             {
