@@ -141,38 +141,38 @@
     "202101": {
         "Staff": [
             {
-                "name": "פרידמן עירית",
-                "email": "irithf@gmail.com,irithf@technion.ac.il",
+                "name": "פרידמן ירון",
+                "email": "dyitamar@yahoo.com",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "בן ענת רוחמה",
                 "email": "ruchamab@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "53",
-            "passFail": "53\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "93.792",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "62",
-            "passFail": "62\/0",
+            "students": "78",
+            "passFail": "78\/0",
             "passPercent": "100",
             "min": "70",
             "max": "100",
-            "average": "93.581",
-            "median": "96"
+            "average": "97.147",
+            "median": "97.5"
+        },
+        "Finals": {
+            "students": "87",
+            "passFail": "87\/0",
+            "passPercent": "100",
+            "min": "88",
+            "max": "100",
+            "average": "97.908",
+            "median": "98"
         }
     },
     "202102": {
@@ -307,37 +307,47 @@
     "202202": {
         "Staff": [
             {
-                "name": "נאמן ישראל",
-                "email": "syneeman@bezeqint.net,yisraeln@technion.ac.il",
+                "name": "סגרה עדה ויטורי",
+                "email": "avsegre@gmail.com",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "44",
-            "passFail": "44\/0",
+            "students": "35",
+            "passFail": "35\/0",
             "passPercent": "100",
-            "min": "64",
+            "min": "56",
             "max": "100",
-            "average": "94.455",
-            "median": "96"
+            "average": "83.657",
+            "median": "84"
         },
         "Final_B": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "66",
-            "max": "100",
-            "average": "93.5",
-            "median": "96"
+            "students": "14",
+            "passFail": "13\/1",
+            "passPercent": "93",
+            "min": "48",
+            "max": "96",
+            "average": "78.571",
+            "median": "82"
         },
         "Finals": {
-            "students": "46",
-            "passFail": "46\/0",
-            "passPercent": "100",
-            "min": "64",
+            "students": "45",
+            "passFail": "44\/1",
+            "passPercent": "98",
+            "min": "48",
             "max": "100",
-            "average": "94.174",
-            "median": "96"
+            "average": "82.756",
+            "median": "84"
         }
     },
     "202203": {
