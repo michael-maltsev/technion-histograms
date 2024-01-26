@@ -1,4 +1,64 @@
 {
+    "201802": {
+        "Staff": [
+            {
+                "name": "שמואל גל",
+                "email": "meshmuel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ויזל אורן",
+                "email": "orenwi@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "סאלם ליאור",
+                "email": "liorsalem10@gmail.com,liorsal@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אהרוני זיו",
+                "email": "ahaziv@gmail.com,ahaziv@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "118",
+            "passFail": "66\/52",
+            "passPercent": "56",
+            "min": "1",
+            "max": "100",
+            "average": "54.136",
+            "median": "56"
+        },
+        "Final_A": {
+            "students": "118",
+            "passFail": "66\/52",
+            "passPercent": "56",
+            "min": "1",
+            "max": "100",
+            "average": "54.678",
+            "median": "58"
+        },
+        "Final_B": {
+            "students": "82",
+            "passFail": "48\/34",
+            "passPercent": "59",
+            "min": "7",
+            "max": "100",
+            "average": "57.171",
+            "median": "59"
+        },
+        "Finals": {
+            "students": "142",
+            "passFail": "103\/39",
+            "passPercent": "73",
+            "min": "1",
+            "max": "100",
+            "average": "62.908",
+            "median": "65"
+        }
+    },
     "201902": {
         "Staff": [
             {

@@ -112,6 +112,65 @@
             "median": "80.5"
         }
     },
+    "201801": {
+        "Staff": [
+            {
+                "name": "קרוש-ברם מרינה",
+                "email": "mbram@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ורסנו עידן",
+                "email": "idanv@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "233",
+            "passFail": "215\/18",
+            "passPercent": "92",
+            "min": "33",
+            "max": "100",
+            "average": "83.532",
+            "median": "88"
+        },
+        "Final_A": {
+            "students": "233",
+            "passFail": "223\/10",
+            "passPercent": "96",
+            "min": "40",
+            "max": "100",
+            "average": "84.837",
+            "median": "89"
+        },
+        "Exam_B": {
+            "students": "62",
+            "passFail": "46\/16",
+            "passPercent": "74",
+            "min": "18",
+            "max": "100",
+            "average": "67.403",
+            "median": "69.5"
+        },
+        "Final_B": {
+            "students": "62",
+            "passFail": "53\/9",
+            "passPercent": "85",
+            "min": "20",
+            "max": "100",
+            "average": "69.645",
+            "median": "70.5"
+        },
+        "Finals": {
+            "students": "277",
+            "passFail": "270\/7",
+            "passPercent": "97",
+            "min": "20",
+            "max": "100",
+            "average": "83.52",
+            "median": "88"
+        }
+    },
     "201802": {
         "Staff": [
             {

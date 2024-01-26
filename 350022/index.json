@@ -1,4 +1,50 @@
 {
+    "202002": {
+        "Staff": [
+            {
+                "name": "קלפץ' דורון",
+                "email": "klepachd@berkeley.edu",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברייטמן נינה ליאור",
+                "email": "nina.liora.rayzan@gmail.com,nrayzan@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "לוי נועם",
+                "email": "noam.levy@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "35",
+            "passFail": "33\/2",
+            "passPercent": "94",
+            "min": "34",
+            "max": "100",
+            "average": "72.2",
+            "median": "71"
+        },
+        "Final_A": {
+            "students": "35",
+            "passFail": "34\/1",
+            "passPercent": "97",
+            "min": "34",
+            "max": "100",
+            "average": "77.686",
+            "median": "77"
+        },
+        "Finals": {
+            "students": "40",
+            "passFail": "36\/4",
+            "passPercent": "90",
+            "min": "27",
+            "max": "100",
+            "average": "74.15",
+            "median": "76.5"
+        }
+    },
     "202202": {
         "Staff": [
             {

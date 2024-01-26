@@ -1,4 +1,63 @@
 {
+    "201902": {
+        "Staff": [
+            {
+                "name": "זקסנהויז מרים",
+                "email": "mermz@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דמצ'נקו איגור",
+                "email": "sigord@technion.ac.il,sigord@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "60",
+            "passFail": "52\/8",
+            "passPercent": "87",
+            "min": "12",
+            "max": "100",
+            "average": "77.483",
+            "median": "78"
+        },
+        "Final_A": {
+            "students": "60",
+            "passFail": "52\/8",
+            "passPercent": "87",
+            "min": "12",
+            "max": "100",
+            "average": "81.667",
+            "median": "86"
+        },
+        "Exam_B": {
+            "students": "14",
+            "passFail": "10\/4",
+            "passPercent": "71",
+            "min": "33",
+            "max": "91",
+            "average": "66.571",
+            "median": "72.5"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "11\/3",
+            "passPercent": "79",
+            "min": "33",
+            "max": "92",
+            "average": "71.857",
+            "median": "79"
+        },
+        "Finals": {
+            "students": "64",
+            "passFail": "62\/2",
+            "passPercent": "97",
+            "min": "33",
+            "max": "100",
+            "average": "85.234",
+            "median": "86.5"
+        }
+    },
     "202102": {
         "Staff": [
             {

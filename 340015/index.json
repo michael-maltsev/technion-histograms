@@ -1,4 +1,73 @@
 {
+    "201802": {
+        "Staff": [
+            {
+                "name": "ברנד מאיר",
+                "email": "br.meir@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ניר רונן",
+                "email": "ronen.nizri@gmail.com,ronenn@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שירוקי יצחק",
+                "email": "sitzik1984@gmail.com,shiroky@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "רופמן ברוך",
+                "email": "rofmanb@gmail.com,rofman@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "112",
+            "passFail": "103\/9",
+            "passPercent": "92",
+            "min": "17",
+            "max": "99",
+            "average": "75.33",
+            "median": "78"
+        },
+        "Final_A": {
+            "students": "112",
+            "passFail": "103\/9",
+            "passPercent": "92",
+            "min": "20",
+            "max": "99",
+            "average": "78.259",
+            "median": "81"
+        },
+        "Exam_B": {
+            "students": "37",
+            "passFail": "24\/13",
+            "passPercent": "65",
+            "min": "23",
+            "max": "90",
+            "average": "60.865",
+            "median": "63"
+        },
+        "Final_B": {
+            "students": "37",
+            "passFail": "28\/9",
+            "passPercent": "76",
+            "min": "32",
+            "max": "91",
+            "average": "64.514",
+            "median": "66"
+        },
+        "Finals": {
+            "students": "129",
+            "passFail": "120\/9",
+            "passPercent": "93",
+            "min": "32",
+            "max": "99",
+            "average": "78.14",
+            "median": "81"
+        }
+    },
     "201902": {
         "Staff": [
             {
