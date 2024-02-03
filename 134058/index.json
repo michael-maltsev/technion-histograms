@@ -97,12 +97,16 @@
     "201402": {
         "Staff": [
             {
+                "course": "1340058",
+                "courseName": "ביולוגיה 1",
                 "name": "זילברשטיין דן",
                 "email": "danz@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Final_A": {
+            "course": "1340058",
+            "courseName": "ביולוגיה 1",
             "students": "152",
             "passFail": "151\/1",
             "passPercent": "99",
@@ -112,6 +116,8 @@
             "median": "84"
         },
         "Final_B": {
+            "course": "1340058",
+            "courseName": "ביולוגיה 1",
             "students": "92",
             "passFail": "91\/1",
             "passPercent": "99",
@@ -121,6 +127,8 @@
             "median": "81.5"
         },
         "Finals": {
+            "course": "1340058",
+            "courseName": "ביולוגיה 1",
             "students": "234",
             "passFail": "233\/1",
             "passPercent": "100",

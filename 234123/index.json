@@ -13,12 +13,16 @@
     "201501": {
         "Staff": [
             {
+                "course": "2340123",
+                "courseName": "מערכות הפעלה",
                 "name": "רסקין לאוניד",
                 "email": "raskinl@cs.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
+            "course": "2340123",
+            "courseName": "מערכות הפעלה",
             "students": "114",
             "passFail": "104\/10",
             "passPercent": "91",
