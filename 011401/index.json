@@ -1,40 +1,4 @@
 {
-    "202101": {
-        "Staff": [
-            {
-                "name": "קרן כנרת",
-                "email": "kinneret@physics.technion.ac.il,kinneret@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "129",
-            "passFail": "125\/4",
-            "passPercent": "97",
-            "min": "46",
-            "max": "99",
-            "average": "77.473",
-            "median": "80"
-        },
-        "Final_B": {
-            "students": "39",
-            "passFail": "38\/1",
-            "passPercent": "97",
-            "min": "51",
-            "max": "98",
-            "average": "82.949",
-            "median": "85"
-        },
-        "Finals": {
-            "students": "151",
-            "passFail": "149\/2",
-            "passPercent": "99",
-            "min": "49",
-            "max": "99",
-            "average": "80.199",
-            "median": "81"
-        }
-    },
     "202201": {
         "Staff": [
             {
@@ -69,42 +33,6 @@
             "max": "100",
             "average": "73.677",
             "median": "74"
-        }
-    },
-    "202202": {
-        "Staff": [
-            {
-                "name": "סוקר נועם",
-                "email": "soker@physics.technion.ac.il,soker@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "45",
-            "passFail": "45\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "100",
-            "average": "87.665",
-            "median": "94.375"
-        },
-        "Final_B": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "100",
-            "average": "83.354",
-            "median": "85"
-        },
-        "Finals": {
-            "students": "51",
-            "passFail": "51\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "100",
-            "average": "88.431",
-            "median": "93"
         }
     }
 }
