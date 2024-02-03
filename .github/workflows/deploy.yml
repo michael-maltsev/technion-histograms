@@ -2,9 +2,9 @@ name: Deploy Static Content
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - master
+  # push:
+  #   branches:
+  #     - master
 
 concurrency:
   group: deploy-static-content
