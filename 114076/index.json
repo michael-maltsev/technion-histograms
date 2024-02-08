@@ -502,13 +502,13 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "אלון גדעון",
-                "email": "gideon.alon@technion.ac.il",
+                "name": "גולדברג ירד",
+                "email": "jmg116@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "גולדברג ירד",
-                "email": "jmg116@campus.technion.ac.il",
+                "name": "אלון גדעון",
+                "email": "gideon.alon@technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
@@ -535,14 +535,23 @@
             "average": "78.928",
             "median": "80"
         },
+        "Final_B": {
+            "students": "22",
+            "passFail": "17\/5",
+            "passPercent": "77",
+            "min": "33",
+            "max": "99",
+            "average": "70.818",
+            "median": "74.5"
+        },
         "Finals": {
-            "students": "139",
-            "passFail": "136\/3",
-            "passPercent": "98",
+            "students": "147",
+            "passFail": "141\/6",
+            "passPercent": "96",
             "min": "15",
             "max": "100",
-            "average": "78.928",
-            "median": "80"
+            "average": "79.453",
+            "median": "84"
         }
     }
 }
