@@ -984,13 +984,13 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "גרינס עדו",
-                "email": "ido.griness@campus.technion.ac.il",
+                "name": "בורדו נדיה",
+                "email": "nadiabordo@technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "בורדו נדיה",
-                "email": "nadiabordo@technion.ac.il",
+                "name": "גרינס עדו",
+                "email": "ido.griness@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
@@ -1017,14 +1017,32 @@
             "average": "69.813",
             "median": "70"
         },
-        "Finals": {
-            "students": "91",
-            "passFail": "71\/20",
-            "passPercent": "78",
-            "min": "38",
+        "Exam_B": {
+            "students": "43",
+            "passFail": "35\/8",
+            "passPercent": "81",
+            "min": "20",
             "max": "100",
-            "average": "69.813",
-            "median": "70"
+            "average": "71.86",
+            "median": "71"
+        },
+        "Final_B": {
+            "students": "43",
+            "passFail": "37\/6",
+            "passPercent": "86",
+            "min": "28",
+            "max": "100",
+            "average": "74.721",
+            "median": "74"
+        },
+        "Finals": {
+            "students": "110",
+            "passFail": "101\/9",
+            "passPercent": "92",
+            "min": "28",
+            "max": "100",
+            "average": "77.298",
+            "median": "80"
         }
     }
 }

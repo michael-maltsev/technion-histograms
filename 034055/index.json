@@ -17,13 +17,13 @@
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "גבאי ישראל",
-                "email": "srolik21@gmail.com,israelgabay1@campus.technion.ac.il",
+                "name": "אפרים אופק",
+                "email": "ofekef@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "אפרים אופק",
-                "email": "ofekef@campus.technion.ac.il",
+                "name": "גבאי ישראל",
+                "email": "srolik21@gmail.com,israelgabay1@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
@@ -45,14 +45,23 @@
             "average": "65.874",
             "median": "69"
         },
-        "Finals": {
-            "students": "143",
-            "passFail": "87\/56",
-            "passPercent": "61",
-            "min": "17",
+        "Final_B": {
+            "students": "71",
+            "passFail": "71\/0",
+            "passPercent": "100",
+            "min": "55",
             "max": "100",
-            "average": "65.874",
-            "median": "69"
+            "average": "65.662",
+            "median": "56"
+        },
+        "Finals": {
+            "students": "160",
+            "passFail": "153\/7",
+            "passPercent": "96",
+            "min": "26",
+            "max": "100",
+            "average": "76.759",
+            "median": "79"
         }
     }
 }
