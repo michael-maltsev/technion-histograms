@@ -436,13 +436,13 @@
                 "title": "מרצה"
             },
             {
-                "name": "לוי רומי",
-                "email": "romyl@campus.technion.ac.il",
+                "name": "סעאידה תאמר",
+                "email": "tamersaiaede@campus.technion.ac.il",
                 "title": "מתרגל"
             },
             {
-                "name": "סעאידה תאמר",
-                "email": "tamersaiaede@campus.technion.ac.il",
+                "name": "לוי רומי",
+                "email": "romyl@campus.technion.ac.il",
                 "title": "מתרגל"
             }
         ],
@@ -464,14 +464,32 @@
             "average": "77.674",
             "median": "82"
         },
-        "Finals": {
-            "students": "138",
-            "passFail": "125\/13",
-            "passPercent": "91",
-            "min": "34",
+        "Exam_B": {
+            "students": "41",
+            "passFail": "26\/15",
+            "passPercent": "63",
+            "min": "6",
+            "max": "99",
+            "average": "60.195",
+            "median": "69"
+        },
+        "Final_B": {
+            "students": "41",
+            "passFail": "37\/4",
+            "passPercent": "90",
+            "min": "24",
             "max": "100",
-            "average": "77.674",
-            "median": "82"
+            "average": "74.634",
+            "median": "80"
+        },
+        "Finals": {
+            "students": "158",
+            "passFail": "150\/8",
+            "passPercent": "95",
+            "min": "24",
+            "max": "100",
+            "average": "80.385",
+            "median": "83"
         }
     }
 }
