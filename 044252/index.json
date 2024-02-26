@@ -921,13 +921,13 @@
                 "title": "מרצה"
             },
             {
-                "name": "הדר אלעד",
-                "email": "eladhadar@gmail.com,ehadar@campus.technion.ac.il",
+                "name": "אבו אחמד ואו גלאל",
+                "email": "galal@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "אבו אחמד ואו גלאל",
-                "email": "galal@campus.technion.ac.il",
+                "name": "הדר אלעד",
+                "email": "eladhadar@gmail.com,ehadar@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
@@ -946,17 +946,26 @@
             "passPercent": "88",
             "min": "25",
             "max": "100",
-            "average": "81.275",
+            "average": "81.336",
             "median": "86"
         },
-        "Finals": {
-            "students": "425",
-            "passFail": "372\/53",
-            "passPercent": "88",
-            "min": "25",
+        "Final_B": {
+            "students": "126",
+            "passFail": "100\/26",
+            "passPercent": "79",
+            "min": "24",
             "max": "100",
-            "average": "81.275",
-            "median": "86"
+            "average": "73.802",
+            "median": "79"
+        },
+        "Finals": {
+            "students": "477",
+            "passFail": "441\/36",
+            "passPercent": "92",
+            "min": "24",
+            "max": "100",
+            "average": "83.165",
+            "median": "87"
         }
     }
 }
