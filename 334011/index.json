@@ -256,17 +256,17 @@
         "Staff": [
             {
                 "name": "דאניאל ראמז",
-                "email": "ramizda@bm.technion.ac.il",
+                "email": "ramizda@bm.technion.ac.il,ramizda@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "רוטנברג מנחם )חמי(",
-                "email": "hemir@technion.ac.il",
-                "title": "מרצה"
             },
             {
                 "name": "עסאף טניה",
                 "email": "tania.assaf@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "רוטנברג מנחם )חמי(",
+                "email": "hemir@technion.ac.il",
                 "title": "מרצה"
             },
             {
@@ -288,6 +288,33 @@
             "max": "100",
             "average": "70.955",
             "median": "69"
+        },
+        "Final_A": {
+            "students": "67",
+            "passFail": "66\/1",
+            "passPercent": "99",
+            "min": "49.475",
+            "max": "100",
+            "average": "78.952",
+            "median": "78.3"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "13\/1",
+            "passPercent": "93",
+            "min": "41",
+            "max": "98",
+            "average": "71.714",
+            "median": "68.5"
+        },
+        "Finals": {
+            "students": "75",
+            "passFail": "74\/1",
+            "passPercent": "99",
+            "min": "41",
+            "max": "100",
+            "average": "80.633",
+            "median": "83"
         }
     }
 }

@@ -1343,13 +1343,13 @@
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "כהן עידו",
-                "email": "idoc8688@gmail.com,sidoc@campus.technion.ac.il",
+                "name": "זנו חן",
+                "email": "chenzeno@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "זנו חן",
-                "email": "chenzeno@campus.technion.ac.il",
+                "name": "כהן עידו",
+                "email": "idoc8688@gmail.com,sidoc@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
@@ -1371,14 +1371,32 @@
             "average": "70.93",
             "median": "71.5"
         },
-        "Finals": {
-            "students": "100",
-            "passFail": "85\/15",
-            "passPercent": "85",
-            "min": "29",
+        "Exam_B": {
+            "students": "46",
+            "passFail": "17\/29",
+            "passPercent": "37",
+            "min": "14",
             "max": "100",
-            "average": "70.93",
-            "median": "71.5"
+            "average": "49.37",
+            "median": "49.5"
+        },
+        "Final_B": {
+            "students": "46",
+            "passFail": "41\/5",
+            "passPercent": "89",
+            "min": "35",
+            "max": "100",
+            "average": "66.761",
+            "median": "67.5"
+        },
+        "Finals": {
+            "students": "127",
+            "passFail": "120\/7",
+            "passPercent": "94",
+            "min": "35",
+            "max": "100",
+            "average": "75.134",
+            "median": "76"
         }
     }
 }

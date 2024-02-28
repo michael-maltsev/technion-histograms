@@ -66,13 +66,13 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "נימני אופל",
-                "email": "opalnimni@campus.technion.ac.il",
+                "name": "ניקולא וג'די",
+                "email": "wajdi-n@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "ניקולא וג'די",
-                "email": "wajdi-n@campus.technion.ac.il",
+                "name": "נימני אופל",
+                "email": "opalnimni@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
@@ -94,14 +94,32 @@
             "average": "84.948",
             "median": "88.5"
         },
+        "Exam_B": {
+            "students": "12",
+            "passFail": "9\/3",
+            "passPercent": "75",
+            "min": "36",
+            "max": "94",
+            "average": "68.583",
+            "median": "74"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "9\/3",
+            "passPercent": "75",
+            "min": "36",
+            "max": "95",
+            "average": "70.917",
+            "median": "79"
+        },
         "Finals": {
-            "students": "96",
-            "passFail": "92\/4",
+            "students": "100",
+            "passFail": "96\/4",
             "passPercent": "96",
             "min": "33",
             "max": "100",
-            "average": "84.948",
-            "median": "88.5"
+            "average": "85.402",
+            "median": "89"
         }
     }
 }

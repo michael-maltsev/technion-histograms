@@ -136,13 +136,13 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -155,14 +155,23 @@
             "average": "88.765",
             "median": "91"
         },
-        "Finals": {
-            "students": "49",
-            "passFail": "49\/0",
+        "Final_B": {
+            "students": "13",
+            "passFail": "13\/0",
             "passPercent": "100",
-            "min": "55",
+            "min": "62.997",
+            "max": "99.995",
+            "average": "83.611",
+            "median": "84.996"
+        },
+        "Finals": {
+            "students": "60",
+            "passFail": "60\/0",
+            "passPercent": "100",
+            "min": "62",
             "max": "100",
-            "average": "89",
-            "median": "91"
+            "average": "88.695",
+            "median": "90"
         }
     }
 }
