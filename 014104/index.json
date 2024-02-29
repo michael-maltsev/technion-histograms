@@ -665,28 +665,8 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "קובלר קרן",
-                "email": "kovlerk@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן-סימון ציפורה",
-                "email": "transeng@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "צאצאשוילי תמי",
-                "email": "tami@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
                 "name": "בלסברג עליזה",
                 "email": "aliza@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "לוינסקי יעל",
-                "email": "yaelly@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
@@ -695,8 +675,28 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
+                "name": "לוינסקי יעל",
+                "email": "yaelly@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
                 "name": "שביט שרית",
                 "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -742,7 +742,7 @@
             "passPercent": "82",
             "min": "2",
             "max": "100",
-            "average": "69.449",
+            "average": "69.389",
             "median": "71.5"
         }
     },
@@ -828,6 +828,95 @@
             "max": "92",
             "average": "54.182",
             "median": "64"
+        }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "גריסרו יחזקאל )חז",
+                "email": "hezi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מלכה אופירה",
+                "email": "ofiramalka@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "לוינסקי יעל",
+                "email": "yaelly@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "144",
+            "passFail": "75\/69",
+            "passPercent": "52",
+            "min": "19",
+            "max": "103",
+            "average": "54.938",
+            "median": "55"
+        },
+        "Final_A": {
+            "students": "144",
+            "passFail": "75\/69",
+            "passPercent": "52",
+            "min": "19",
+            "max": "100",
+            "average": "56.819",
+            "median": "59"
+        },
+        "Exam_B": {
+            "students": "75",
+            "passFail": "49\/26",
+            "passPercent": "65",
+            "min": "0",
+            "max": "94",
+            "average": "59.027",
+            "median": "62"
+        },
+        "Final_B": {
+            "students": "75",
+            "passFail": "50\/25",
+            "passPercent": "67",
+            "min": "0",
+            "max": "95",
+            "average": "60.84",
+            "median": "66"
+        },
+        "Finals": {
+            "students": "152",
+            "passFail": "123\/29",
+            "passPercent": "81",
+            "min": "5",
+            "max": "100",
+            "average": "66.829",
+            "median": "69"
         }
     }
 }
