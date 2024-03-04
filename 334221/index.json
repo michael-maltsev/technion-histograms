@@ -409,13 +409,13 @@
                 "title": "מרצה"
             },
             {
-                "name": "אברשמי מיטל",
-                "email": "maytalavr93@gmail.com,maytalavr@campus.technion.ac.il",
+                "name": "אזאגורי דנה",
+                "email": "dana.azagury@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "אזאגורי דנה",
-                "email": "dana.azagury@campus.technion.ac.il",
+                "name": "אברשמי מיטל",
+                "email": "maytalavr93@gmail.com,maytalavr@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
@@ -427,6 +427,33 @@
             "max": "100",
             "average": "83.466",
             "median": "86"
+        },
+        "Final_A": {
+            "students": "104",
+            "passFail": "104\/0",
+            "passPercent": "100",
+            "min": "62.957",
+            "max": "99.5",
+            "average": "86.65",
+            "median": "88.2"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "10\/2",
+            "passPercent": "83",
+            "min": "12",
+            "max": "96",
+            "average": "75.504",
+            "median": "87.55"
+        },
+        "Finals": {
+            "students": "106",
+            "passFail": "104\/2",
+            "passPercent": "98",
+            "min": "12",
+            "max": "100",
+            "average": "87.282",
+            "median": "89"
         }
     }
 }

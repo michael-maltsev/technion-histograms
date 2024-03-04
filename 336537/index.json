@@ -465,13 +465,13 @@
                 "title": "מרצה"
             },
             {
-                "name": "סאלח ג'ריס",
-                "email": "jeries.saleh@campus.technion.ac.il",
+                "name": "עומר הדס",
+                "email": "hadas.omer@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "עומר הדס",
-                "email": "hadas.omer@campus.technion.ac.il",
+                "name": "סאלח ג'ריס",
+                "email": "jeries.saleh@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
@@ -497,6 +497,33 @@
             "max": "93",
             "average": "74.57",
             "median": "77"
+        },
+        "Exam_B": {
+            "students": "16",
+            "passFail": "12\/4",
+            "passPercent": "75",
+            "min": "43",
+            "max": "87",
+            "average": "63.75",
+            "median": "64.5"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "74.25",
+            "median": "73.5"
+        },
+        "Finals": {
+            "students": "94",
+            "passFail": "93\/1",
+            "passPercent": "99",
+            "min": "53",
+            "max": "100",
+            "average": "77.42",
+            "median": "78"
         }
     }
 }
