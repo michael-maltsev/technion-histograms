@@ -950,6 +950,11 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "שומינוב מאור",
+                "email": "maor1991sh@gmail.com,maorshu@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
                 "name": "רואינסקי דורין",
                 "email": "dorinruinsky@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
@@ -957,11 +962,6 @@
             {
                 "name": "בן הרוש אביאל",
                 "email": "aviel.ben@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "שומינוב מאור",
-                "email": "maor1991sh@gmail.com,maorshu@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
@@ -988,14 +988,32 @@
             "average": "68.007",
             "median": "68.5"
         },
+        "Exam_B": {
+            "students": "27",
+            "passFail": "18\/9",
+            "passPercent": "67",
+            "min": "15.5",
+            "max": "85",
+            "average": "60.778",
+            "median": "61.5"
+        },
+        "Final_B": {
+            "students": "27",
+            "passFail": "23\/4",
+            "passPercent": "85",
+            "min": "24",
+            "max": "87",
+            "average": "64.593",
+            "median": "65"
+        },
         "Finals": {
-            "students": "138",
-            "passFail": "118\/20",
-            "passPercent": "86",
-            "min": "29",
+            "students": "144",
+            "passFail": "138\/6",
+            "passPercent": "96",
+            "min": "24",
             "max": "100",
-            "average": "68.007",
-            "median": "68.5"
+            "average": "72.391",
+            "median": "73"
         }
     }
 }
