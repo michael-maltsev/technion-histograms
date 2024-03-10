@@ -930,6 +930,11 @@
                 "name": "וולף עדי",
                 "email": "adiw@technion.ac.il",
                 "title": "מתרגל"
+            },
+            {
+                "name": "מלק עליזה",
+                "email": "maliza@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -950,14 +955,32 @@
             "average": "63.9",
             "median": "68.5"
         },
+        "Exam_B": {
+            "students": "96",
+            "passFail": "70\/26",
+            "passPercent": "73",
+            "min": "17",
+            "max": "96",
+            "average": "66.708",
+            "median": "72.5"
+        },
+        "Final_B": {
+            "students": "96",
+            "passFail": "80\/16",
+            "passPercent": "83",
+            "min": "17",
+            "max": "96",
+            "average": "68.833",
+            "median": "75"
+        },
         "Finals": {
-            "students": "190",
-            "passFail": "137\/53",
-            "passPercent": "72",
-            "min": "12",
+            "students": "206",
+            "passFail": "185\/21",
+            "passPercent": "90",
+            "min": "15",
             "max": "100",
-            "average": "63.905",
-            "median": "68.5"
+            "average": "73.312",
+            "median": "80"
         }
     }
 }
