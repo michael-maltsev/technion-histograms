@@ -524,13 +524,13 @@
     "202202": {
         "Staff": [
             {
-                "name": "דיסקין אלכסיי",
-                "email": "aleksd@campus.technion.ac.il",
+                "name": "צברי ליאור",
+                "email": "liolevy@gmail.com,liorl@technion.ac.il",
                 "title": "מרצה"
             },
             {
-                "name": "צברי ליאור",
-                "email": "liolevy@gmail.com,liorl@technion.ac.il",
+                "name": "דיסקין אלכסיי",
+                "email": "aleksd@campus.technion.ac.il",
                 "title": "מרצה"
             },
             {
@@ -557,14 +557,32 @@
             "average": "80.613",
             "median": "83.5"
         },
-        "Finals": {
-            "students": "150",
-            "passFail": "144\/6",
-            "passPercent": "96",
-            "min": "36",
+        "Exam_B": {
+            "students": "45",
+            "passFail": "31\/14",
+            "passPercent": "69",
+            "min": "20",
+            "max": "98",
+            "average": "64.767",
+            "median": "67"
+        },
+        "Final_B": {
+            "students": "45",
+            "passFail": "41\/4",
+            "passPercent": "91",
+            "min": "41",
             "max": "100",
-            "average": "80.613",
-            "median": "83.5"
+            "average": "72.933",
+            "median": "73"
+        },
+        "Finals": {
+            "students": "172",
+            "passFail": "167\/5",
+            "passPercent": "97",
+            "min": "41",
+            "max": "100",
+            "average": "82.664",
+            "median": "84"
         }
     }
 }
