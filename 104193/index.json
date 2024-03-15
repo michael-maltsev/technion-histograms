@@ -53,14 +53,23 @@
             "average": "81.042",
             "median": "79"
         },
-        "Finals": {
-            "students": "48",
-            "passFail": "48\/0",
+        "Final_B": {
+            "students": "15",
+            "passFail": "15\/0",
             "passPercent": "100",
-            "min": "60",
+            "min": "77",
+            "max": "91",
+            "average": "82.4",
+            "median": "80"
+        },
+        "Finals": {
+            "students": "61",
+            "passFail": "61\/0",
+            "passPercent": "100",
+            "min": "65",
             "max": "94",
-            "average": "80.875",
-            "median": "79"
+            "average": "81.625",
+            "median": "80"
         }
     }
 }
