@@ -1109,7 +1109,7 @@
             },
             {
                 "name": "בן-עוז בלה",
-                "email": "bella.goldstien@gmail.com,sbellag@campus.technion.ac.il",
+                "email": "sbellag@technion.ac.il,sbellag@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
@@ -1131,14 +1131,32 @@
             "average": "66.356",
             "median": "67.925"
         },
-        "Finals": {
-            "students": "73",
-            "passFail": "54\/19",
-            "passPercent": "74",
-            "min": "24",
+        "Exam_B": {
+            "students": "24",
+            "passFail": "11\/13",
+            "passPercent": "46",
+            "min": "13",
+            "max": "99",
+            "average": "54.792",
+            "median": "51.5"
+        },
+        "Final_B": {
+            "students": "24",
+            "passFail": "15\/9",
+            "passPercent": "62",
+            "min": "18",
             "max": "100",
-            "average": "66.219",
-            "median": "68"
+            "average": "59.917",
+            "median": "56.5"
+        },
+        "Finals": {
+            "students": "74",
+            "passFail": "62\/12",
+            "passPercent": "84",
+            "min": "18",
+            "max": "100",
+            "average": "70.364",
+            "median": "73"
         }
     }
 }
