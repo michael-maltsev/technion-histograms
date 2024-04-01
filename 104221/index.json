@@ -1244,6 +1244,29 @@
             "median": "72"
         }
     },
+    "202103": {
+        "Staff": [
+            {
+                "name": "רבייב דניאל",
+                "email": "danielr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שמן ליטל",
+                "email": "litalsh@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Finals": {
+            "students": "15",
+            "passFail": "10\/5",
+            "passPercent": "67",
+            "min": "35",
+            "max": "80",
+            "average": "58.067",
+            "median": "55"
+        }
+    },
     "202201": {
         "Staff": [
             {
@@ -1363,8 +1386,8 @@
             "passPercent": "87",
             "min": "7",
             "max": "100",
-            "average": "68.773",
-            "median": "73.5"
+            "average": "69.196",
+            "median": "77"
         }
     }
 }
