@@ -182,6 +182,65 @@
             "median": "78"
         }
     },
+    "202202": {
+        "Staff": [
+            {
+                "name": "בורדו נדיה",
+                "email": "nadiabordo@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "19\/13",
+            "passPercent": "59",
+            "min": "10",
+            "max": "85",
+            "average": "56.719",
+            "median": "60"
+        },
+        "Final_A": {
+            "students": "32",
+            "passFail": "27\/5",
+            "passPercent": "84",
+            "min": "23",
+            "max": "91",
+            "average": "65.781",
+            "median": "68"
+        },
+        "Exam_B": {
+            "students": "18",
+            "passFail": "6\/12",
+            "passPercent": "33",
+            "min": "20",
+            "max": "85",
+            "average": "48.056",
+            "median": "45"
+        },
+        "Final_B": {
+            "students": "18",
+            "passFail": "12\/6",
+            "passPercent": "67",
+            "min": "32",
+            "max": "91",
+            "average": "56.722",
+            "median": "55"
+        },
+        "Finals": {
+            "students": "41",
+            "passFail": "37\/4",
+            "passPercent": "90",
+            "min": "32",
+            "max": "91",
+            "average": "71.35",
+            "median": "78.5"
+        }
+    },
     "202203": {
         "Staff": [
             {
