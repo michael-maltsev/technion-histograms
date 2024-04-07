@@ -287,5 +287,41 @@
             "average": "83.556",
             "median": "85.5"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "מנדל-גוטפרוי יעל",
+                "email": "yaelmg@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "47",
+            "passFail": "45\/2",
+            "passPercent": "96",
+            "min": "22",
+            "max": "100",
+            "average": "78.553",
+            "median": "80"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "28",
+            "max": "95",
+            "average": "75.375",
+            "median": "77.5"
+        },
+        "Finals": {
+            "students": "53",
+            "passFail": "52\/1",
+            "passPercent": "98",
+            "min": "28",
+            "max": "100",
+            "average": "83.698",
+            "median": "85"
+        }
     }
 }
