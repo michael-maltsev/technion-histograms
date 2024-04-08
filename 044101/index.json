@@ -1093,7 +1093,7 @@
             },
             {
                 "name": "כהן יואב",
-                "email": "yoavneta1@campus.technion.ac.il",
+                "email": "yoavneta1@gmail.com,yoavneta1@campus.technion.ac.il",
                 "title": "מתרגל"
             },
             {
@@ -1130,14 +1130,32 @@
             "average": "81.678",
             "median": "86"
         },
+        "Exam_B": {
+            "students": "37",
+            "passFail": "31\/6",
+            "passPercent": "84",
+            "min": "38",
+            "max": "93",
+            "average": "67.068",
+            "median": "66.5"
+        },
+        "Final_B": {
+            "students": "37",
+            "passFail": "35\/2",
+            "passPercent": "95",
+            "min": "38",
+            "max": "100",
+            "average": "78",
+            "median": "80"
+        },
         "Finals": {
-            "students": "118",
-            "passFail": "103\/15",
-            "passPercent": "87",
+            "students": "134",
+            "passFail": "130\/4",
+            "passPercent": "97",
             "min": "31",
             "max": "100",
-            "average": "81.678",
-            "median": "86"
+            "average": "85.732",
+            "median": "88"
         }
     }
 }
