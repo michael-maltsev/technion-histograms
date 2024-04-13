@@ -525,5 +525,47 @@
             "average": "90.429",
             "median": "91"
         }
+    },
+    "202203": {
+        "Staff": [
+            {
+                "name": "איזנברג דוד",
+                "email": "eisenberg@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טולדו הילה",
+                "email": "hilatoledoo@gmail.com",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "שרון אוריה",
+                "email": "uriahsharon@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "לוי והב חרות",
+                "email": "herootl@technion.ac.il,herootl@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            }
+        ],
+        "Final_A": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "92",
+            "average": "86.077",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "92",
+            "average": "85.692",
+            "median": "87"
+        }
     }
 }
