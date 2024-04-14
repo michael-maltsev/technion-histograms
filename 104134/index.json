@@ -1522,5 +1522,59 @@
             "average": "75.079",
             "median": "81"
         }
+    },
+    "202203": {
+        "Staff": [
+            {
+                "name": "בן-דוד ניר",
+                "email": "benda@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "21",
+            "passFail": "17\/4",
+            "passPercent": "81",
+            "min": "17",
+            "max": "99",
+            "average": "70.762",
+            "median": "75"
+        },
+        "Final_A": {
+            "students": "21",
+            "passFail": "18\/3",
+            "passPercent": "86",
+            "min": "21",
+            "max": "99",
+            "average": "73",
+            "median": "78"
+        },
+        "Exam_B": {
+            "students": "14",
+            "passFail": "11\/3",
+            "passPercent": "79",
+            "min": "45",
+            "max": "94",
+            "average": "71",
+            "median": "69.5"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "13\/1",
+            "passPercent": "93",
+            "min": "45",
+            "max": "94",
+            "average": "72.643",
+            "median": "72"
+        },
+        "Finals": {
+            "students": "30",
+            "passFail": "29\/1",
+            "passPercent": "97",
+            "min": "45",
+            "max": "99",
+            "average": "86.706",
+            "median": "89"
+        }
     }
 }
