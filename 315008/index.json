@@ -341,13 +341,13 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "לוין מיכל",
-                "email": "michallevin@campus.technion.ac.il",
+                "name": "סולם אלמוג עטרה",
+                "email": "almogsul@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "סולם אלמוג עטרה",
-                "email": "almogsul@campus.technion.ac.il",
+                "name": "לוין מיכל",
+                "email": "michallevin@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
@@ -374,14 +374,32 @@
             "average": "75.917",
             "median": "76.5"
         },
+        "Exam_B": {
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "25",
+            "max": "87",
+            "average": "68.375",
+            "median": "71.5"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "14\/2",
+            "passPercent": "88",
+            "min": "36",
+            "max": "89",
+            "average": "72.188",
+            "median": "75.5"
+        },
         "Finals": {
-            "students": "36",
-            "passFail": "35\/1",
-            "passPercent": "97",
-            "min": "43",
+            "students": "49",
+            "passFail": "48\/1",
+            "passPercent": "98",
+            "min": "36",
             "max": "94",
-            "average": "75.917",
-            "median": "76.5"
+            "average": "78.577",
+            "median": "82.5"
         }
     }
 }
