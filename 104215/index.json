@@ -771,5 +771,37 @@
             "average": "71.3",
             "median": "72"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "יחיא יורם",
+                "email": "yoramy@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "רבייב דניאל",
+                "email": "danielr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "420",
+            "passFail": "208\/212",
+            "passPercent": "50",
+            "min": "14",
+            "max": "102",
+            "average": "54.257",
+            "median": "54"
+        },
+        "Final_A": {
+            "students": "420",
+            "passFail": "335\/85",
+            "passPercent": "80",
+            "min": "24",
+            "max": "100",
+            "average": "65.048",
+            "median": "66"
+        }
     }
 }
