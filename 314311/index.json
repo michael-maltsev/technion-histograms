@@ -292,13 +292,13 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "שקד הדר",
-                "email": "hadar.shaked@campus.technion.ac.il",
+                "name": "שייק סער",
+                "email": "saar-shaek@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "שייק סער",
-                "email": "saar-shaek@campus.technion.ac.il",
+                "name": "שקד הדר",
+                "email": "hadar.shaked@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
@@ -325,14 +325,32 @@
             "average": "83.035",
             "median": "86"
         },
+        "Exam_B": {
+            "students": "13",
+            "passFail": "12\/1",
+            "passPercent": "92",
+            "min": "54",
+            "max": "96",
+            "average": "84.385",
+            "median": "89"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "96",
+            "average": "85.692",
+            "median": "90"
+        },
         "Finals": {
-            "students": "57",
-            "passFail": "56\/1",
-            "passPercent": "98",
-            "min": "52",
+            "students": "68",
+            "passFail": "68\/0",
+            "passPercent": "100",
+            "min": "58",
             "max": "97",
-            "average": "83.035",
-            "median": "86"
+            "average": "86.051",
+            "median": "87"
         }
     }
 }
