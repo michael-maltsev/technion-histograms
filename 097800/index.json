@@ -411,13 +411,13 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "רילסקי שיר",
-                "email": "rylski@campus.technion.ac.il",
+                "name": "אלקלעי קים נויה",
+                "email": "kimalkalay@gmail.com,kim-noya@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "אלקלעי קים נויה",
-                "email": "kimalkalay@gmail.com,kim-noya@campus.technion.ac.il",
+                "name": "רילסקי שיר",
+                "email": "rylski@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
@@ -444,14 +444,32 @@
             "average": "82.666",
             "median": "82.45"
         },
-        "Finals": {
-            "students": "83",
-            "passFail": "83\/0",
+        "Exam_B": {
+            "students": "25",
+            "passFail": "24\/1",
+            "passPercent": "96",
+            "min": "44",
+            "max": "92",
+            "average": "76.64",
+            "median": "76"
+        },
+        "Final_B": {
+            "students": "24",
+            "passFail": "24\/0",
             "passPercent": "100",
-            "min": "68",
+            "min": "73",
+            "max": "96",
+            "average": "84.833",
+            "median": "84"
+        },
+        "Finals": {
+            "students": "102",
+            "passFail": "102\/0",
+            "passPercent": "100",
+            "min": "71",
             "max": "97",
-            "average": "82.735",
-            "median": "82"
+            "average": "84.461",
+            "median": "84"
         }
     }
 }
