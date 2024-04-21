@@ -461,5 +461,33 @@
             "average": "95.933",
             "median": "96"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "מרגלית חווה",
+                "email": "huhava@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "251",
+            "passFail": "250\/1",
+            "passPercent": "100",
+            "min": "45",
+            "max": "100",
+            "average": "96.701",
+            "median": "97"
+        }
     }
 }
