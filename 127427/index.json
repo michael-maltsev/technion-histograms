@@ -408,5 +408,28 @@
             "average": "82.774",
             "median": "86"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "ליפשיץ אפרת",
+                "email": "ssefrat@technion.ac.il,efrat.l@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לייפר אריאל",
+                "email": "ariellifer@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "36",
+            "passFail": "32\/4",
+            "passPercent": "89",
+            "min": "22",
+            "max": "100",
+            "average": "80.056",
+            "median": "86"
+        }
     }
 }
