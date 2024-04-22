@@ -210,5 +210,33 @@
             "average": "87.094",
             "median": "89"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "חזן תמיר",
+                "email": "tamir.hazan@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כהן אינדלמן הדה",
+                "email": "heddacohenind@gmail.com,cohen.hedda@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "143",
+            "passFail": "129\/14",
+            "passPercent": "90",
+            "min": "30",
+            "max": "100",
+            "average": "77.406",
+            "median": "80"
+        }
     }
 }
