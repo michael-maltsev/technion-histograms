@@ -635,5 +635,33 @@
             "average": "89.557",
             "median": "90"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "גוטגולד-כהן תמר",
+                "email": "tamargc@gmail.com,tamargo@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "59",
+            "passFail": "59\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "89.119",
+            "median": "90"
+        }
     }
 }
