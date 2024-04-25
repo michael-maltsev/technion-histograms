@@ -362,5 +362,33 @@
             "average": "88.149",
             "median": "89"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "עמק יובל",
+                "email": "yemek@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הדר כפיר",
+                "email": "kfir-hadar@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "107",
+            "passFail": "84\/23",
+            "passPercent": "79",
+            "min": "16",
+            "max": "100",
+            "average": "73.243",
+            "median": "72.5"
+        }
     }
 }
