@@ -839,5 +839,33 @@
             "average": "61.894",
             "median": "60"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "שחף מרדכי עודד",
+                "email": "mordeschaap@gmail.com,schaap@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "111",
+            "passFail": "95\/16",
+            "passPercent": "86",
+            "min": "31",
+            "max": "99",
+            "average": "71.676",
+            "median": "73"
+        }
     }
 }
