@@ -64,13 +64,13 @@ def fix_unsupported_course_number_commit(commit: str, tmpdirname: str):
 
 
 def fix_unsupported_course_numbers():
-    last_fix_date_1 = '2024-02-13'
+    last_fix_date_1 = None
 
     last_fix_details = git_run_get_output([
         'log',
         '-1',
-        '--format=%cD%n%B',
-        '--after=2024-04-26',
+        '--format=%cd%n%B',
+        '--date=iso-strict',
         '--',
         '097030/*',
     ])
@@ -81,13 +81,13 @@ def fix_unsupported_course_numbers():
 
         last_fix_date_1 = date
 
-    last_fix_date_2 = '2024-02-13'
+    last_fix_date_2 = None
 
     last_fix_details = git_run_get_output([
         'log',
         '-1',
-        '--format=%cD%n%B',
-        '--after=2024-04-26',
+        '--format=%cd%n%B',
+        '--date=iso-strict',
         '--',
         '973[0-9][0-9][0-9]/*',
     ])
@@ -98,7 +98,9 @@ def fix_unsupported_course_numbers():
 
         last_fix_date_2 = date
 
-    assert last_fix_date_1 >= last_fix_date_2, (last_fix_date_1, last_fix_date_2)
+    if not last_fix_date_1 or not last_fix_date_2:
+        raise Exception(f'Unexpected dates: {last_fix_date_1}, {last_fix_date_2}')
+
     last_fix_date = max(last_fix_date_1, last_fix_date_2)
 
     pattern = r'course: 9703[0-9]{4}\b'
