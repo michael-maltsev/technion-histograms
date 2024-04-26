@@ -1,11 +1,5 @@
 <?php
 
-// git ls-tree -r HEAD | grep 76b85c3ecefcb57e8856889dbb44b31c52b50fc3
-// For each result, revert:
-// git revert `git log --pretty=format:"%H" -1 -- <image>.png`
-// Or restore:
-// git restore --source=`git log --pretty=format:"%H" -1 -- <image>.png`~ -- <image>.png
-
 require_once 'Parsedown.php';
 
 $courses = [];
