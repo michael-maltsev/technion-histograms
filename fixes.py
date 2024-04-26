@@ -64,49 +64,32 @@ def fix_unsupported_course_number_commit(commit: str, tmpdirname: str):
 
 
 def fix_unsupported_course_numbers():
-    last_fix_date_1 = None
+    fix_commit_msg_pattern = r'^Automatic fixes by fixes\.py$'
 
-    last_fix_details = git_run_get_output([
+    # Make sure there are no changes to the target dir except for the automatic
+    # fixes. Otherwise we risk overriding data.
+    git_log_target_dir = git_run_get_output([
         'log',
-        '-1',
-        '--format=%cd%n%B',
-        '--date=iso-strict',
-        '--',
-        '097030/*',
-    ])
-    if last_fix_details:
-        date, msg = last_fix_details.split('\n', 1)
-        if msg != 'Automatic fixes by fixes.py':
-            raise Exception(f'Unexpected last fix message: {msg}')
-
-        last_fix_date_1 = date
-
-    last_fix_date_2 = None
-
-    last_fix_details = git_run_get_output([
-        'log',
-        '-1',
-        '--format=%cd%n%B',
-        '--date=iso-strict',
+        '--invert-grep',
+        '--grep=' + fix_commit_msg_pattern,
+        '--after=2024-04-25',
         '--',
         '973[0-9][0-9][0-9]/*',
     ])
-    if last_fix_details:
-        date, msg = last_fix_details.split('\n', 1)
-        if msg != 'Automatic fixes by fixes.py':
-            raise Exception(f'Unexpected last fix message: {msg}')
+    if git_log_target_dir:
+        raise Exception(f'Unexpected changes to target dir:\n{git_log_target_dir}')
 
-        last_fix_date_2 = date
-
-    if not last_fix_date_1 or not last_fix_date_2:
-        raise Exception(f'Unexpected dates: {last_fix_date_1}, {last_fix_date_2}')
-
-    last_fix_date = max(last_fix_date_1, last_fix_date_2)
+    last_fix_commit = git_run_get_output([
+        'log',
+        '-1',
+        '--grep=' + fix_commit_msg_pattern,
+        '--format=%H',
+    ])
 
     pattern = r'course: 9703[0-9]{4}\b'
     commits_to_fix = git_run_get_lines([
         'log',
-        '--after=' + last_fix_date,
+        f'{last_fix_commit}..',
         '--format=%H',
         '--perl-regexp',
         '--grep=' + pattern,
