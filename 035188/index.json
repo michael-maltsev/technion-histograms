@@ -353,5 +353,46 @@
             "average": "68.756",
             "median": "74"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "מירקין לאוניד",
+                "email": "mirkin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברקאי גל",
+                "email": "galbarkai@gmail.com,galbarkai@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "58",
+            "passFail": "44\/14",
+            "passPercent": "76",
+            "min": "12",
+            "max": "96",
+            "average": "69.776",
+            "median": "77"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "11\/3",
+            "passPercent": "79",
+            "min": "25",
+            "max": "91",
+            "average": "72.429",
+            "median": "80.5"
+        },
+        "Finals": {
+            "students": "59",
+            "passFail": "53\/6",
+            "passPercent": "90",
+            "min": "17",
+            "max": "96",
+            "average": "76.491",
+            "median": "80"
+        }
     }
 }
