@@ -410,5 +410,33 @@
             "average": "89.974",
             "median": "93"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "אינדלמן ואדים",
+                "email": "vadim.indelman@technion.ac.il,vadimind@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שניידרמן דמיטרי",
+                "email": "mechdmit@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מרקולוב גלב",
+                "email": "glebmerkulov@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "83",
+            "passFail": "80\/3",
+            "passPercent": "96",
+            "min": "35",
+            "max": "100",
+            "average": "84.325",
+            "median": "87"
+        }
     }
 }

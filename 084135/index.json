@@ -239,5 +239,64 @@
             "average": "85.542",
             "median": "88"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "דגן יובל",
+                "email": "yuvalda@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חמו עומרי",
+                "email": "shemo@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "77",
+            "passFail": "55\/22",
+            "passPercent": "71",
+            "min": "7",
+            "max": "100",
+            "average": "65.727",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "77",
+            "passFail": "55\/22",
+            "passPercent": "71",
+            "min": "7",
+            "max": "98.8",
+            "average": "70.088",
+            "median": "75.025"
+        },
+        "Exam_B": {
+            "students": "19",
+            "passFail": "18\/1",
+            "passPercent": "95",
+            "min": "38",
+            "max": "100",
+            "average": "86.263",
+            "median": "92"
+        },
+        "Final_B": {
+            "students": "19",
+            "passFail": "18\/1",
+            "passPercent": "95",
+            "min": "38",
+            "max": "99.3",
+            "average": "87.816",
+            "median": "92.95"
+        },
+        "Finals": {
+            "students": "75",
+            "passFail": "73\/2",
+            "passPercent": "97",
+            "min": "7",
+            "max": "99",
+            "average": "84.8",
+            "median": "88"
+        }
     }
 }
