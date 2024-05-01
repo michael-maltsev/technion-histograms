@@ -103,5 +103,32 @@
             "average": "79.385",
             "median": "83"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "וולף עדי",
+                "email": "adiw@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "77",
+            "passFail": "59\/18",
+            "passPercent": "77",
+            "min": "29",
+            "max": "100",
+            "average": "70",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "77",
+            "passFail": "65\/12",
+            "passPercent": "84",
+            "min": "29",
+            "max": "100",
+            "average": "72.61",
+            "median": "75"
+        }
     }
 }
