@@ -360,5 +360,32 @@
             "average": "87.663",
             "median": "90"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "אוירבך אסא",
+                "email": "assa@physics.technion.ac.il,assa@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "79",
+            "passFail": "63\/16",
+            "passPercent": "80",
+            "min": "18",
+            "max": "100",
+            "average": "72.785",
+            "median": "74"
+        },
+        "Final_A": {
+            "students": "79",
+            "passFail": "71\/8",
+            "passPercent": "90",
+            "min": "34",
+            "max": "100",
+            "average": "77.924",
+            "median": "79"
+        }
     }
 }
