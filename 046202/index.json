@@ -234,5 +234,37 @@
             "average": "79.462",
             "median": "80"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "מאיר רון",
+                "email": "rmeir@ee.technion.ac.il,rmeir@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרידמן ליאור",
+                "email": "slfrid@cs.technion.ac.il,liorf@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "45",
+            "passFail": "38\/7",
+            "passPercent": "84",
+            "min": "0",
+            "max": "98.387",
+            "average": "67.859",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "45",
+            "passFail": "41\/4",
+            "passPercent": "91",
+            "min": "30",
+            "max": "100",
+            "average": "78.133",
+            "median": "78"
+        }
     }
 }
