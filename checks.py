@@ -34,28 +34,15 @@ def check_bad_images() -> bool:
 
 
 def check_mismatches() -> bool:
-    handled_mismatches = {
-        '207624079f4e37a9db268907006d256bbf86dc8c',
-        'c2048d026e16b37a0671ef743cce1bfd1ab7d8d2',
-        '60a6e7bf0581b8cb71663d7957fabc0bf9863729',
-        'be7884122e9fbb028ea7f65171818f6c826addef',
-        '2118dd6e7afd5987cf3bdb1f46b9b948d4c04883',
-        '6d638fa8d4e024db8c3bf7c77ab5bf4ffe7628f4',
-        '2b730452defff7557b3b0619c84fba536ae9e899',
-        'f3e42486d838280a45cbfd427830a64d8fa449f5',
-        '8bd76399c30ec4babbff885c2e6cdffb4b413456',
-        '1fe2fad976f1e366883339a1484a92f4025da55f',
-        '54ceefe9cb4c275d92d96903251628d106b53ab5',
-        '7ff3646e217f80491667bd5119991f79d40d0c47',
-        'c88a3d7e94d67cbd1d81be14bd9fa7f3186d6e61',
-        'b49b6885cb3c043bffbf7b34e6fb3a7e732cb5da',
-    }
+    last_handled_mismatch = 'b49b6885cb3c043bffbf7b34e6fb3a7e732cb5da'
 
-    unhandled_mismatches = []
-    for commit in git_run_get_lines(['log', '--format=%H', '--perl-regexp', '--grep=(Missing|Mismatch): true']):
-        if commit not in handled_mismatches:
-            unhandled_mismatches.append(commit)
-
+    unhandled_mismatches = git_run_get_lines([
+        'log',
+        f'{last_handled_mismatch}..',
+        '--format=%H',
+        '--perl-regexp',
+        '--grep=(Missing|Mismatch): true'
+    ])
     if not unhandled_mismatches:
         return True
 
