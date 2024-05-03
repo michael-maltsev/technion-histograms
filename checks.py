@@ -52,7 +52,7 @@ def check_mismatches() -> bool:
     }
 
     unhandled_mismatches = []
-    for commit in git_run_get_lines(['log', '--format=%H', '--grep=Mismatch: true']):
+    for commit in git_run_get_lines(['log', '--format=%H', '--perl-regexp', '--grep=(Missing|Mismatch): true']):
         if commit not in handled_mismatches:
             unhandled_mismatches.append(commit)
 
