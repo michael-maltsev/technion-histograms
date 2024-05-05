@@ -386,13 +386,13 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "קובלר קרן",
-                "email": "kovlerk@technion.ac.il",
+                "name": "מלכה אופירה",
+                "email": "ofiramalka@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "מלכה אופירה",
-                "email": "ofiramalka@technion.ac.il",
+                "name": "קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -427,14 +427,29 @@
     "202102": {
         "Staff": [
             {
-                "name": "דגן אביעוז",
-                "email": "avioz.dagan@campus.technion.ac.il",
+                "name": "בכור שלמה",
+                "email": "sbekhor@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
                 "name": "לינקר רפאל",
                 "email": "linkerr@technion.ac.il",
                 "title": "מרצה"
+            },
+            {
+                "name": "דגן אביעוז",
+                "email": "avioz.dagan@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מלכה אופירה",
+                "email": "ofiramalka@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
@@ -456,12 +471,12 @@
             "median": "69"
         },
         "Finals": {
-            "students": "41",
-            "passFail": "38\/3",
-            "passPercent": "93",
+            "students": "40",
+            "passFail": "38\/2",
+            "passPercent": "95",
             "min": "42",
             "max": "96",
-            "average": "70.22",
+            "average": "70.725",
             "median": "72"
         }
     },
