@@ -34,7 +34,7 @@ def check_bad_images() -> bool:
 
 
 def check_mismatches() -> bool:
-    last_handled_mismatch = 'b49b6885cb3c043bffbf7b34e6fb3a7e732cb5da'
+    last_handled_mismatch = '8c8303a720b52efa18adcfc10c1848f91a9f5888'
 
     unhandled_mismatches = git_run_get_lines([
         'log',
