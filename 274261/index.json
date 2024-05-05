@@ -269,21 +269,6 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "כהן שרית",
-                "email": "saritc@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "דייטשמן רויטל",
-                "email": "revital.d@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "גמליאל חוה",
-                "email": "hava.g@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
                 "name": "רגב עירית",
                 "email": "iritlevi@technion.ac.il,irit.levit@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -294,18 +279,28 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "מאיר קובה אילנית",
-                "email": "ilanit.k@technion.ac.il",
+                "name": "גמליאל חוה",
+                "email": "hava.g@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "אהרון אברהם קארין",
-                "email": "mdteams@technion.ac.il,karinaron@technion.ac.il",
+                "name": "דייטשמן רויטל",
+                "email": "revital.d@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "כהן שרית",
+                "email": "saritc@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "שפורן שירי",
                 "email": "musmach@technion.ac.il,shiris@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אהרון אברהם קארין",
+                "email": "mdteams@technion.ac.il,karinaron@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -315,8 +310,17 @@
             "passPercent": "94",
             "min": "40",
             "max": "94",
-            "average": "73.953",
+            "average": "74.031",
             "median": "74"
+        },
+        "Final_A": {
+            "students": "127",
+            "passFail": "121\/6",
+            "passPercent": "95",
+            "min": "42",
+            "max": "94",
+            "average": "74.583",
+            "median": "76"
         }
     }
 }
