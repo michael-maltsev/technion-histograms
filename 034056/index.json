@@ -94,5 +94,38 @@
             "average": "54.286",
             "median": "58"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "הקסנר דניאל",
+                "email": "danielhe@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברנמן מארק",
+                "email": "marc.berneman@outlook.com,marcberneman@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "פיינטוך ניר",
+                "email": "snirfien@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן דוד הולצר בן",
+                "email": "bb@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "137",
+            "passFail": "83\/54",
+            "passPercent": "61",
+            "min": "5",
+            "max": "97",
+            "average": "59.168",
+            "median": "60"
+        }
     }
 }
