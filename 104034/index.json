@@ -1797,5 +1797,42 @@
             "average": "76.069",
             "median": "80"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "מעין הילה",
+                "email": "ahila@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ולך נתן שמע",
+                "email": "tani@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "סאלח פתחי",
+                "email": "fathi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "157",
+            "passFail": "123\/34",
+            "passPercent": "78",
+            "min": "16",
+            "max": "100",
+            "average": "67.102",
+            "median": "66"
+        },
+        "Final_A": {
+            "students": "157",
+            "passFail": "146\/11",
+            "passPercent": "93",
+            "min": "29",
+            "max": "100",
+            "average": "72.656",
+            "median": "71"
+        }
     }
 }
