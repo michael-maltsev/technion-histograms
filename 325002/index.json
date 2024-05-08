@@ -35,5 +35,33 @@
             "average": "100",
             "median": "100"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "אליקים מעיין",
+                "email": "maayanelykim@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "95",
+            "average": "91.636",
+            "median": "91.5"
+        }
     }
 }
