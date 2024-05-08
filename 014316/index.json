@@ -263,13 +263,13 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "קובלר קרן",
-                "email": "kovlerk@technion.ac.il",
+                "name": "מלכה אופירה",
+                "email": "ofiramalka@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "מלכה אופירה",
-                "email": "ofiramalka@technion.ac.il",
+                "name": "קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -282,14 +282,23 @@
             "average": "82.338",
             "median": "86"
         },
-        "Finals": {
-            "students": "122",
-            "passFail": "114\/8",
+        "Final_B": {
+            "students": "42",
+            "passFail": "39\/3",
             "passPercent": "93",
-            "min": "21",
+            "min": "36",
             "max": "100",
-            "average": "82.467",
-            "median": "86"
+            "average": "77.976",
+            "median": "76.5"
+        },
+        "Finals": {
+            "students": "158",
+            "passFail": "154\/4",
+            "passPercent": "97",
+            "min": "36",
+            "max": "100",
+            "average": "84.686",
+            "median": "87"
         }
     }
 }

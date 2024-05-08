@@ -261,5 +261,42 @@
             "average": "74.905",
             "median": "78"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "בורשטיין מירב",
+                "email": "meirav@b-engineers.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "74",
+            "passFail": "73\/1",
+            "passPercent": "99",
+            "min": "0",
+            "max": "98",
+            "average": "82.649",
+            "median": "84"
+        },
+        "Finals": {
+            "students": "85",
+            "passFail": "83\/2",
+            "passPercent": "98",
+            "min": "45",
+            "max": "100",
+            "average": "82.964",
+            "median": "84"
+        }
     }
 }
