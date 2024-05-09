@@ -1383,5 +1383,42 @@
             "average": "79.545",
             "median": "87.5"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "טייטלר- רגב שרון",
+                "email": "sharonregevt@gmail.com,sharont@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קוגוס איילת",
+                "email": "kogus@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "154",
+            "passFail": "145\/9",
+            "passPercent": "94",
+            "min": "35",
+            "max": "100",
+            "average": "84.903",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "153",
+            "passFail": "144\/9",
+            "passPercent": "94",
+            "min": "35",
+            "max": "100",
+            "average": "84.967",
+            "median": "90"
+        }
     }
 }
