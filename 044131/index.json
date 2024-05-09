@@ -698,5 +698,28 @@
             "average": "86.105",
             "median": "88"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "בן-דוד גל",
+                "email": "gal.bendavid@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מארש דביר",
+                "email": "dvirmarsh@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "141",
+            "passFail": "118\/23",
+            "passPercent": "84",
+            "min": "12",
+            "max": "98",
+            "average": "72.943",
+            "median": "75"
+        }
     }
 }
