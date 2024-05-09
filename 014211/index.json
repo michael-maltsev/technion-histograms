@@ -404,5 +404,42 @@
             "average": "74.566",
             "median": "74"
         }
+    },
+    "202203": {
+        "Staff": [
+            {
+                "name": "שגב מארק נעמה",
+                "email": "naamasegev88@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מלכה אופירה",
+                "email": "ofiramalka@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "17",
+            "passFail": "14\/3",
+            "passPercent": "82",
+            "min": "45",
+            "max": "100",
+            "average": "73.824",
+            "median": "78"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "83.278",
+            "median": "83"
+        }
     }
 }
