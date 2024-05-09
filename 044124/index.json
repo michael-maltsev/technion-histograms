@@ -472,5 +472,28 @@
             "average": "89.375",
             "median": "90.5"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "חייט אלכסנדר",
+                "email": "alex.hayat@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גדבאן באסל",
+                "email": "ghadbanbasel@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "83",
+            "passFail": "82\/1",
+            "passPercent": "99",
+            "min": "20",
+            "max": "100",
+            "average": "79.036",
+            "median": "80"
+        }
     }
 }
