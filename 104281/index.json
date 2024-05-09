@@ -1048,5 +1048,46 @@
             "average": "80.5",
             "median": "92.5"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "שכטר אלון",
+                "email": "alonschejter@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שפריר איתי",
+                "email": "shafrir@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "23",
+            "passFail": "17\/6",
+            "passPercent": "74",
+            "min": "16",
+            "max": "100",
+            "average": "64.478",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "23",
+            "passFail": "17\/6",
+            "passPercent": "74",
+            "min": "22",
+            "max": "100",
+            "average": "68.13",
+            "median": "73"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "17\/6",
+            "passPercent": "74",
+            "min": "22",
+            "max": "100",
+            "average": "68.13",
+            "median": "73"
+        }
     }
 }

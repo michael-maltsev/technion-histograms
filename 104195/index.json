@@ -1112,7 +1112,7 @@
         "Staff": [
             {
                 "name": "שמן ליטל",
-                "email": "litalsh@campus.technion.ac.il,litalsh@technion.ac.il",
+                "email": "litalsh@campus.technion.ac.il",
                 "title": "מתרגל"
             },
             {
@@ -1123,21 +1123,48 @@
         ],
         "Exam_A": {
             "students": "32",
-            "passFail": "19\/13",
-            "passPercent": "59",
+            "passFail": "20\/12",
+            "passPercent": "62",
             "min": "10",
             "max": "100",
-            "average": "58.406",
-            "median": "60"
+            "average": "59.219",
+            "median": "62"
         },
         "Final_A": {
             "students": "32",
-            "passFail": "20\/12",
-            "passPercent": "62",
+            "passFail": "22\/10",
+            "passPercent": "69",
             "min": "15",
             "max": "100",
-            "average": "60.281",
-            "median": "61"
+            "average": "61.375",
+            "median": "64"
+        },
+        "Exam_B": {
+            "students": "14",
+            "passFail": "9\/5",
+            "passPercent": "64",
+            "min": "0",
+            "max": "85",
+            "average": "52.929",
+            "median": "59"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "9\/5",
+            "passPercent": "64",
+            "min": "3",
+            "max": "87",
+            "average": "54.929",
+            "median": "61.5"
+        },
+        "Finals": {
+            "students": "37",
+            "passFail": "30\/7",
+            "passPercent": "81",
+            "min": "3",
+            "max": "100",
+            "average": "63.931",
+            "median": "69"
         }
     },
     "202301": {
