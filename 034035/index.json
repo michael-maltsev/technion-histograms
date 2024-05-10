@@ -849,5 +849,57 @@
             "average": "67.174",
             "median": "73"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "טרטקובסקי לאוניד",
+                "email": "tartak@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בונטין דניס",
+                "email": "buntin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "חסין דוד",
+                "email": "davidhasin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "פיסנוי שמעון",
+                "email": "shimonpi@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן דוד הולצר בן",
+                "email": "bb@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דיסקין דוד",
+                "email": "david.diskin149@gmail.com,david.diskin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "128",
+            "passFail": "62\/66",
+            "passPercent": "48",
+            "min": "3",
+            "max": "100",
+            "average": "55.07",
+            "median": "54"
+        },
+        "Final_A": {
+            "students": "128",
+            "passFail": "99\/29",
+            "passPercent": "77",
+            "min": "27",
+            "max": "100",
+            "average": "65.906",
+            "median": "65.5"
+        }
     }
 }
