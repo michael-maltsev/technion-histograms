@@ -1,1 +1,39 @@
-[]
+{
+    "202301": {
+        "Staff": [
+            {
+                "name": "בן-דוד ניר",
+                "email": "benda@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "גורליק אירנה",
+                "email": "iragor@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "כהן יוסף",
+                "email": "coheny@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "369",
+            "passFail": "250\/119",
+            "passPercent": "68",
+            "min": "8",
+            "max": "100",
+            "average": "64.908",
+            "median": "66"
+        },
+        "Final_A": {
+            "students": "369",
+            "passFail": "278\/91",
+            "passPercent": "75",
+            "min": "8",
+            "max": "100",
+            "average": "68.737",
+            "median": "73"
+        }
+    }
+}
