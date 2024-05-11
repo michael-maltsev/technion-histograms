@@ -303,6 +303,11 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "אבן חיים שירן",
+                "email": "shiranev@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
                 "name": "רוימי רון",
                 "email": "ron.ruimy@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
@@ -325,6 +330,15 @@
             "max": "100",
             "average": "79.438",
             "median": "84.5"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "20\/3",
+            "passPercent": "87",
+            "min": "37",
+            "max": "100",
+            "average": "81.071",
+            "median": "91"
         }
     }
 }
