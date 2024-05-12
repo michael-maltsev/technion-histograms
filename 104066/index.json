@@ -263,5 +263,42 @@
             "average": "70.28",
             "median": "76"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "תבור בר",
+                "email": "btavor@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "צנזור אביב",
+                "email": "avivc@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קליינשטרן מיכל",
+                "email": "mklinst@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "72",
+            "passFail": "45\/27",
+            "passPercent": "62",
+            "min": "17",
+            "max": "105",
+            "average": "63.472",
+            "median": "69.5"
+        },
+        "Final_A": {
+            "students": "72",
+            "passFail": "47\/25",
+            "passPercent": "65",
+            "min": "17",
+            "max": "100",
+            "average": "65.583",
+            "median": "75.5"
+        }
     }
 }
