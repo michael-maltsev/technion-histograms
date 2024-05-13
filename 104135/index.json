@@ -1139,5 +1139,37 @@
             "average": "84.381",
             "median": "93"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "אבירם אפרת",
+                "email": "efratoz@technion.ac.il,efratoz@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קליס אולג",
+                "email": "okelis@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "23",
+            "passFail": "17\/6",
+            "passPercent": "74",
+            "min": "2",
+            "max": "95",
+            "average": "63.391",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "23",
+            "passFail": "17\/6",
+            "passPercent": "74",
+            "min": "2",
+            "max": "96",
+            "average": "64.696",
+            "median": "71"
+        }
     }
 }
