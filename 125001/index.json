@@ -1599,6 +1599,11 @@
     "202202": {
         "Staff": [
             {
+                "name": "מיכלסון שאול",
+                "email": "mshaul@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "מלצמן שי",
                 "email": "meltzman@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
@@ -1630,12 +1635,39 @@
         },
         "Final_A": {
             "students": "162",
-            "passFail": "106\/56",
-            "passPercent": "65",
+            "passFail": "108\/54",
+            "passPercent": "67",
             "min": "5",
             "max": "100",
-            "average": "64.809",
-            "median": "68"
+            "average": "64.969",
+            "median": "68.5"
+        },
+        "Exam_B": {
+            "students": "81",
+            "passFail": "55\/26",
+            "passPercent": "68",
+            "min": "10",
+            "max": "100",
+            "average": "61.296",
+            "median": "60"
+        },
+        "Final_B": {
+            "students": "81",
+            "passFail": "54\/27",
+            "passPercent": "67",
+            "min": "10",
+            "max": "100",
+            "average": "62.938",
+            "median": "66"
+        },
+        "Finals": {
+            "students": "182",
+            "passFail": "149\/33",
+            "passPercent": "82",
+            "min": "10",
+            "max": "100",
+            "average": "70.703",
+            "median": "78"
         }
     },
     "202301": {
