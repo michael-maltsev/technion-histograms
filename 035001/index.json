@@ -340,5 +340,33 @@
             "average": "87",
             "median": "89"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "רימון אילון",
+                "email": "rimon@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לוין אהרן",
+                "email": "ronilevin1990@gmail.com,aharon.levin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "פרוינד דולב",
+                "email": "dolev@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "100",
+            "average": "85.471",
+            "median": "87.5"
+        }
     }
 }
