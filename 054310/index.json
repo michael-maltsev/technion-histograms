@@ -195,5 +195,37 @@
             "average": "91",
             "median": "92"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "גזית עוז",
+                "email": "ozg@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ארבר סיון",
+                "email": "sivana@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "80.35",
+            "max": "96.734",
+            "average": "90.407",
+            "median": "90.715"
+        },
+        "Finals": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "97",
+            "average": "90.439",
+            "median": "91"
+        }
     }
 }
