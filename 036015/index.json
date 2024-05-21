@@ -85,5 +85,37 @@
             "average": "74.421",
             "median": "86"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "בר-יוסף צבי פנחס",
+                "email": "baryoseph@me.technion.ac.il,merbygr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אשכנזי עמית",
+                "email": "amit.ash@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "13",
+            "passFail": "12\/1",
+            "passPercent": "92",
+            "min": "53",
+            "max": "100",
+            "average": "82.385",
+            "median": "84"
+        },
+        "Final_A": {
+            "students": "13",
+            "passFail": "12\/1",
+            "passPercent": "92",
+            "min": "53",
+            "max": "100",
+            "average": "90.846",
+            "median": "95"
+        }
     }
 }
