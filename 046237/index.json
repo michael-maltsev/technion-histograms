@@ -765,5 +765,47 @@
             "average": "81.606",
             "median": "82"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "קולודני אבינועם",
+                "email": "kolodny@ee.technion.ac.il,kolodny@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דהאן מור מרדכי",
+                "email": "mord1994@gmail.com,mordahan@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "מעיין אדוארדו",
+                "email": "eduardo.maayan@infineon.com",
+                "title": "מרצה"
+            },
+            {
+                "name": "אורדן אפרת",
+                "email": "efratordan@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "54",
+            "passFail": "31\/23",
+            "passPercent": "57",
+            "min": "22",
+            "max": "100",
+            "average": "59.869",
+            "median": "57.5"
+        },
+        "Final_A": {
+            "students": "54",
+            "passFail": "54\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "80.315",
+            "median": "79.5"
+        }
     }
 }
