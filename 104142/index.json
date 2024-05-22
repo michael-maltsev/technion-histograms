@@ -798,5 +798,32 @@
             "average": "79.655",
             "median": "83"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "נשרים ארז",
+                "email": "nesharim@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "24",
+            "passFail": "20\/4",
+            "passPercent": "83",
+            "min": "37",
+            "max": "100",
+            "average": "72.083",
+            "median": "71"
+        },
+        "Final_A": {
+            "students": "24",
+            "passFail": "21\/3",
+            "passPercent": "88",
+            "min": "37",
+            "max": "100",
+            "average": "74.583",
+            "median": "73"
+        }
     }
 }
