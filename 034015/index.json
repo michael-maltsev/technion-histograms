@@ -571,5 +571,46 @@
             "average": "79.949",
             "median": "83"
         }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "זריהן נועם",
+                "email": "noamzr26@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שומינוב מאור",
+                "email": "maor1991sh@gmail.com,maorshu@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "95",
+            "average": "76.889",
+            "median": "80"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "96",
+            "average": "68.417",
+            "median": "65.5"
+        },
+        "Finals": {
+            "students": "31",
+            "passFail": "31\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "96",
+            "average": "77.591",
+            "median": "80"
+        }
     }
 }
