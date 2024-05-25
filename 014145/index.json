@@ -365,5 +365,43 @@
             "average": "73.893",
             "median": "76"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "רבינוביץ' עודד",
+                "email": "cvoded@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "לוינסקי יעל",
+                "email": "yaelly@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "103",
+            "passFail": "76\/27",
+            "passPercent": "74",
+            "min": "4",
+            "max": "100",
+            "average": "62.039",
+            "median": "62"
+        }
     }
 }
