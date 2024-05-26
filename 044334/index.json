@@ -996,8 +996,26 @@
             "passPercent": "98",
             "min": "46",
             "max": "100",
-            "average": "83.611",
+            "average": "83.621",
             "median": "86"
+        },
+        "Exam_B": {
+            "students": "25",
+            "passFail": "18\/7",
+            "passPercent": "72",
+            "min": "24",
+            "max": "95",
+            "average": "68.813",
+            "median": "71.5"
+        },
+        "Final_B": {
+            "students": "25",
+            "passFail": "22\/3",
+            "passPercent": "88",
+            "min": "24",
+            "max": "96",
+            "average": "71.32",
+            "median": "76"
         }
     }
 }
