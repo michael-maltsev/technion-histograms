@@ -811,5 +811,42 @@
             "average": "78.882",
             "median": "82.5"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "מרגלית תמר",
+                "email": "tamar.margalit@gmail.com,tammar@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בוגדנוב אליהו",
+                "email": "eli-bogdanov@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "91",
+            "passFail": "77\/14",
+            "passPercent": "85",
+            "min": "34",
+            "max": "100",
+            "average": "71.022",
+            "median": "73"
+        },
+        "Finals": {
+            "students": "90",
+            "passFail": "76\/14",
+            "passPercent": "84",
+            "min": "34",
+            "max": "100",
+            "average": "71.089",
+            "median": "73"
+        }
     }
 }
