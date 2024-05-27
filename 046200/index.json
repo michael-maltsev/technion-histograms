@@ -1285,6 +1285,11 @@
     "202301": {
         "Staff": [
             {
+                "name": "בלדר אמיר",
+                "email": "amirbelder@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "קריחלי תומר",
                 "email": "tomerkrichli@campus.technion.ac.il",
                 "title": "מתרגל"
@@ -1305,14 +1310,23 @@
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
+        "Exam_A": {
+            "students": "81",
+            "passFail": "65\/16",
+            "passPercent": "80",
+            "min": "33",
+            "max": "96",
+            "average": "69.136",
+            "median": "72"
+        },
         "Final_A": {
-            "students": "80",
-            "passFail": "73\/7",
-            "passPercent": "91",
-            "min": "40",
+            "students": "81",
+            "passFail": "78\/3",
+            "passPercent": "96",
+            "min": "47",
             "max": "98",
-            "average": "73.875",
-            "median": "77"
+            "average": "75.877",
+            "median": "78"
         }
     }
 }
