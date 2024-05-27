@@ -70,5 +70,41 @@
             "average": "88.158",
             "median": "88"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "שורץ אסף",
+                "email": "shwartza@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "33",
+            "passFail": "33\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "100",
+            "average": "80.485",
+            "median": "81"
+        },
+        "Final_A": {
+            "students": "33",
+            "passFail": "33\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "100",
+            "average": "84",
+            "median": "84"
+        },
+        "Finals": {
+            "students": "33",
+            "passFail": "33\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "100",
+            "average": "84",
+            "median": "84"
+        }
     }
 }
