@@ -940,5 +940,37 @@
             "average": "82.689",
             "median": "85"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "כפתורי רן",
+                "email": "kaftoryr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קוליקוב ולדימיר",
+                "email": "vladimir.k@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "67",
+            "passFail": "63\/4",
+            "passPercent": "94",
+            "min": "41",
+            "max": "99",
+            "average": "80.179",
+            "median": "84"
+        },
+        "Final_A": {
+            "students": "67",
+            "passFail": "65\/2",
+            "passPercent": "97",
+            "min": "50",
+            "max": "100",
+            "average": "83.448",
+            "median": "86"
+        }
     }
 }
