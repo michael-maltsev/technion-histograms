@@ -464,5 +464,42 @@
             "average": "90.079",
             "median": "91.5"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "מונאצ'יס גבריאל",
+                "email": "gabriele.mon@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "27",
+            "passFail": "27\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "89.889",
+            "median": "89"
+        },
+        "Finals": {
+            "students": "27",
+            "passFail": "27\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "89.889",
+            "median": "89"
+        }
     }
 }
