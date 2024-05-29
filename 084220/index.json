@@ -447,5 +447,37 @@
             "average": "78.603",
             "median": "81"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "שפרמן ויטלי",
+                "email": "vitalysh@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ואקנין אופיר",
+                "email": "ofir.v@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "94",
+            "passFail": "79\/15",
+            "passPercent": "84",
+            "min": "23",
+            "max": "100",
+            "average": "74.096",
+            "median": "76"
+        },
+        "Final_A": {
+            "students": "94",
+            "passFail": "79\/15",
+            "passPercent": "84",
+            "min": "23",
+            "max": "100",
+            "average": "75.787",
+            "median": "78"
+        }
     }
 }
