@@ -14,3 +14,7 @@ for course in Path('.').glob('_mismatch_*'):
             print(f'{f} -> {f2}')
 
             f.replace(f2)
+
+        sem.rmdir()
+
+    course.rmdir()
