@@ -311,5 +311,37 @@
             "average": "81.211",
             "median": "81.5"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "גלוזמן יגאל",
+                "email": "igal.gluzman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קסטנידה דוד אנדרס",
+                "email": "david0ak@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "82",
+            "passFail": "49\/33",
+            "passPercent": "60",
+            "min": "0",
+            "max": "100",
+            "average": "61.024",
+            "median": "62"
+        },
+        "Final_A": {
+            "students": "82",
+            "passFail": "70\/12",
+            "passPercent": "85",
+            "min": "19",
+            "max": "100",
+            "average": "73.598",
+            "median": "73.5"
+        }
     }
 }
