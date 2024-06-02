@@ -447,5 +447,32 @@
             "average": "80.286",
             "median": "83"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "ארז יעל",
+                "email": "yael.erez@gmail.com,yaelerez@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "421",
+            "passFail": "376\/45",
+            "passPercent": "89",
+            "min": "37",
+            "max": "100",
+            "average": "78.696",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "32",
+            "passFail": "32\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "87.094",
+            "median": "91"
+        }
     }
 }
