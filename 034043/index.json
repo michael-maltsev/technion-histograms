@@ -592,5 +592,37 @@
             "average": "86.626",
             "median": "88"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "גרבר ארתור",
+                "email": "arthurg27@yahoo.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דמצ'נקו איגור",
+                "email": "sigord@technion.ac.il,sigord@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "110",
+            "passFail": "104\/6",
+            "passPercent": "95",
+            "min": "36",
+            "max": "100",
+            "average": "79.018",
+            "median": "81.5"
+        },
+        "Final_A": {
+            "students": "110",
+            "passFail": "109\/1",
+            "passPercent": "99",
+            "min": "49",
+            "max": "102",
+            "average": "85.809",
+            "median": "88"
+        }
     }
 }
