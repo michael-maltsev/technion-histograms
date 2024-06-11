@@ -588,18 +588,18 @@
     "202301": {
         "Staff": [
             {
-                "name": "צברי ליאור",
-                "email": "liolevy@gmail.com,liorl@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
                 "name": "דיסקין אלכסיי",
                 "email": "aleksd@campus.technion.ac.il",
-                "title": "מרצה"
+                "title": "מרצה - אחראי מקצוע"
             },
             {
                 "name": "כהן עמנואל",
                 "email": "emcohen@ee.technion.ac.il,emcohen@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "צברי ליאור",
+                "email": "liolevy@gmail.com,liorl@technion.ac.il",
                 "title": "מרצה"
             },
             {
@@ -632,7 +632,7 @@
             "passPercent": "99",
             "min": "47",
             "max": "100",
-            "average": "88.474",
+            "average": "88.483",
             "median": "90"
         }
     }
