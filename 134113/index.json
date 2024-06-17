@@ -463,5 +463,37 @@
             "average": "79.935",
             "median": "82"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "רייטר יורם",
+                "email": "reiter@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "משעור פראס",
+                "email": "fmachour@gmail.com,ferasmachour@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "208",
+            "passFail": "203\/5",
+            "passPercent": "98",
+            "min": "0",
+            "max": "100",
+            "average": "85.01",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "207",
+            "passFail": "203\/4",
+            "passPercent": "98",
+            "min": "31",
+            "max": "100",
+            "average": "85.42",
+            "median": "88"
+        }
     }
 }
