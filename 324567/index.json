@@ -663,5 +663,42 @@
             "average": "94.042",
             "median": "95"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "גופר יעקב",
+                "email": "kobi.goffer@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "36",
+            "passFail": "36\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "93.417",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "36",
+            "passFail": "36\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "93.417",
+            "median": "93"
+        }
     }
 }
