@@ -283,5 +283,42 @@
             "average": "95.827",
             "median": "96"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "בינה פולק אביטל",
+                "email": "avitalbp@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "40",
+            "passFail": "40\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "92.825",
+            "median": "94.5"
+        },
+        "Finals": {
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "92.667",
+            "median": "94"
+        }
     }
 }
