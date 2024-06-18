@@ -174,5 +174,41 @@
             "average": "87.053",
             "median": "89"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "אקרמן אריק",
+                "email": "eric@physics.technion.ac.il,eric@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "30\/2",
+            "passPercent": "94",
+            "min": "49",
+            "max": "100",
+            "average": "84.688",
+            "median": "87"
+        },
+        "Final_A": {
+            "students": "27",
+            "passFail": "27\/0",
+            "passPercent": "100",
+            "min": "88",
+            "max": "100",
+            "average": "94.519",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "31",
+            "passFail": "29\/2",
+            "passPercent": "94",
+            "min": "37",
+            "max": "100",
+            "average": "91.323",
+            "median": "95"
+        }
     }
 }
