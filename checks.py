@@ -3,8 +3,12 @@ import sys
 from typing import List
 
 
+def git_run(cmd: List[str]) -> str:
+    return subprocess.check_output(['git'] + cmd, text=True, encoding='utf-8').rstrip('\n')
+
+
 def git_run_get_lines(cmd: List[str]) -> List[str]:
-    result = subprocess.check_output(['git'] + cmd, text=True, encoding='utf-8').rstrip('\n')
+    result = git_run(cmd)
     if not result:
         return []
 
@@ -34,7 +38,7 @@ def check_bad_images() -> bool:
 
 
 def check_mismatches() -> bool:
-    last_handled_mismatch = 'b75257de5f313b80bcd519b45da78ce914c7f1e7'
+    last_handled_mismatch = 'b1d64c00bb33dcc33ce101f83012bf23bd4c67c0'
 
     unhandled_mismatches = git_run_get_lines([
         'log',
@@ -48,7 +52,36 @@ def check_mismatches() -> bool:
 
     print('Unhandled mismatches:')
     for commit in unhandled_mismatches:
-        print(commit)
+        commit_message = git_run(['log', '-1', '--format=%ci\n\n%B', commit])
+
+        date, _, properties = commit_message.split('\n\n', 2)
+        properties = properties.strip().split('\n')
+        properties = dict(property.split(': ') for property in properties)
+
+        description = ''
+
+        if properties.get('histogramCourseNameMissing', 'false') != 'false':
+            description += 'histogramCourseNameMissing, '
+
+        if properties.get('histogramCourseNameMismatch', 'false') != 'false':
+            course_name = properties['courseName']
+            histogram_course_name = properties['histogramCourseName']
+            description += f'histogramCourseNameMismatch ({course_name} != {histogram_course_name}), '
+
+        if properties.get('histogramCategoryMissing', 'false') != 'false':
+            description += 'histogramCategoryMissing, '
+
+        if properties.get('histogramCategoryMismatch', 'false') != 'false':
+            category = properties['category']
+            histogram_category = properties['histogramCategory']
+            description += f'histogramCategoryMismatch ({category} != {histogram_category}), '
+
+        if description:
+            description = description.removesuffix(', ')
+        else:
+            description = '(unknown)'
+
+        print(f'[{date}] {commit}: {description}')
     print()
 
     return False
