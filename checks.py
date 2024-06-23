@@ -4,11 +4,11 @@ from typing import List
 
 
 def git_run(cmd: List[str]) -> str:
-    return subprocess.check_output(['git'] + cmd, text=True, encoding='utf-8').rstrip('\n')
+    return subprocess.check_output(['git'] + cmd, text=True, encoding='utf-8')
 
 
 def git_run_get_lines(cmd: List[str]) -> List[str]:
-    result = git_run(cmd)
+    result = git_run(cmd).rstrip('\n')
     if not result:
         return []
 
@@ -38,7 +38,7 @@ def check_bad_images() -> bool:
 
 
 def check_mismatches() -> bool:
-    last_handled_mismatch = 'b1d64c00bb33dcc33ce101f83012bf23bd4c67c0'
+    last_handled_mismatch = 'c4220082689de967bc56587dd8d59b3b05ca0035'
 
     unhandled_mismatches = git_run_get_lines([
         'log',
