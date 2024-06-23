@@ -4,11 +4,11 @@ from typing import List
 
 
 def git_run(cmd: List[str]) -> str:
-    return subprocess.check_output(['git'] + cmd, text=True, encoding='utf-8').rstrip('\n')
+    return subprocess.check_output(['git'] + cmd, text=True, encoding='utf-8')
 
 
 def git_run_get_lines(cmd: List[str]) -> List[str]:
-    result = git_run(cmd)
+    result = git_run(cmd).rstrip('\n')
     if not result:
         return []
 
