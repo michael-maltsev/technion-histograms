@@ -56,7 +56,7 @@ def check_mismatches() -> bool:
 
         date, _, properties = commit_message.split('\n\n', 2)
         properties = properties.strip().split('\n')
-        properties = dict(property.split(': ') for property in properties)
+        properties = dict(property.split(': ', 1) for property in properties)
 
         description = ''
 
