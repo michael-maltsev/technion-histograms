@@ -38,7 +38,7 @@ def check_bad_images() -> bool:
 
 
 def check_mismatches() -> bool:
-    last_handled_mismatch = '3d5389aa088c89855066bedfa13f87f0e1b01b4f'
+    last_handled_mismatch = '8d991a31c87770405b2d15ac2145ae617053b6a9'
 
     unhandled_mismatches = git_run_get_lines([
         'log',
@@ -56,7 +56,7 @@ def check_mismatches() -> bool:
 
         date, _, properties = commit_message.split('\n\n', 2)
         properties = properties.strip().split('\n')
-        properties = dict(property.split(': ') for property in properties)
+        properties = dict(property.split(': ', 1) for property in properties)
 
         description = ''
 
