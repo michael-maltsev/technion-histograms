@@ -21,6 +21,10 @@ foreach ($dir as $fileinfo) {
     }
 
     $course = $fileinfo->getFilename();
+    if (str_starts_with($course, '_mismatch_')) {
+        continue;
+    }
+
     process_course($course, $stats);
     $courses[] = $course;
 }
