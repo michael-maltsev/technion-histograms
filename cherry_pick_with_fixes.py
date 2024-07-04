@@ -110,30 +110,31 @@ COURSE_ALTERNATIVE_NAMES = {
 }
 
 GIT_MSGS_TO_SKIP = (
-    'Fix mismatched submission',
-    'Remove mismatched histogram (already submitted)',
-    'Update GitHub Actions dependencies',
+    'Add cherry_pick_with_fixes.py',
     'Add GitHub Actions workflow for checks and fixes',
+    'Add organize_mismatched.py',
     'Automatic fixes by fixes.py',
-    'Remove old comment from deploy.php',
-    'Update check-and-fix.yml with fixes from master',
-    'Fixes to fixes.py',
-    'Fixes to fixes.py (2)',
-    'Fix commit_author in the check-and-fix workflow',
-    'Remove mismatch commits (files already submitted)',
     'checks.py: Add handled mismatches',
+    'checks.py: Add more details to output',
     'checks.py: Check for missing data',
     'checks.py: Simplify check for mismatches',
-    'Update last_handled_mismatch',
+    'Fix commit_author in the check-and-fix workflow',
+    'Fix handling properties with a colon',
+    'Fix mismatched submission',
+    'Fixes to fixes.py (2)',
+    'Fixes to fixes.py',
     'Manual fixes',
-    'Add organize_mismatched.py',
     'Manually fix mismatched entries',
     'organize_mismatched.py: add rmdir',
-    'checks.py: Add more details to output',
-    'Update checks.py git functions',
-    'Fix handling properties with a colon',
-    'Add cherry_pick_with_fixes.py',
+    'Remove mismatch commits (files already submitted)',
+    'Remove mismatched histogram (already submitted)',
+    'Remove old comment from deploy.php',
     'Run cherry_pick_with_fixes.py in CI',
+    'Update check-and-fix.yml with fixes from master',
+    'Update checks.py git functions',
+    'Update cherry_pick_with_fixes.py',
+    'Update GitHub Actions dependencies',
+    'Update last_handled_mismatch',
 )
 
 
@@ -335,6 +336,11 @@ def cherry_pick_with_fixes(after_commit, last_commit):
 
 
 def main():
+    deploy_git_email = 'github-actions[bot]@users.noreply.github.com'
+    deploy_git_name = 'github-actions[bot]'
+    git_run(['config', '--global', 'user.email', deploy_git_email])
+    git_run(['config', '--global', 'user.name', deploy_git_name])
+
     last_commit = git_run_get_output(['rev-parse', 'HEAD'])
 
     week_ago = datetime.datetime.now() - datetime.timedelta(days=7)
