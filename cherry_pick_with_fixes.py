@@ -128,12 +128,14 @@ GIT_MSGS_TO_CHERRY_PICK = (
     'Update check-and-fix.yml with fixes from master',
     'Update checks.py git functions',
     'Update cherry_pick_with_fixes.py',
+    'Update GitHub Actions',
     'Update GitHub Actions dependencies',
     'Update last_handled_mismatch',
 )
 
 
 GIT_MSGS_TO_SKIP = (
+    'Automatic fixes by cherry_pick_with_fixes.py',
     'Automatic fixes by fixes.py',
     'Fix mismatched submission',
     'Manual fixes',
