@@ -168,7 +168,7 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
 
     if msg in GIT_MSGS_TO_CHERRY_PICK:
         print(f'Cherry-picking as is: [{commit}] {msg}')
-        git_run(['cherry-pick', commit])
+        git_run(['cherry-pick', '--no-commit', commit])
         return
 
     if msg in GIT_MSGS_TO_SKIP:
@@ -360,7 +360,7 @@ def main():
     ])
 
     print(f'Resetting to {after_commit}')
-    git_run(['reset', '--hard', after_commit])
+    git_run(['restore', '--source', after_commit, '.'])
 
     print(f'Cherry-picking commits between {after_commit} and {last_commit}')
 
