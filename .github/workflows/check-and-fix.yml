@@ -19,10 +19,10 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+      - name: Cherry pick with fixes
+        run: python3 -u cherry_pick_with_fixes.py
       - name: Check
         run: python3 -u checks.py
-      - name: Fix
-        run: python3 -u fixes.py
       - name: Commit fixes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
