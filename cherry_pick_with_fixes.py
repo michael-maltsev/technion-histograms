@@ -168,7 +168,10 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
 
     if msg in GIT_MSGS_TO_CHERRY_PICK:
         print(f'Cherry-picking as is: [{commit}] {msg}')
+        git_run(['add', '.'])
+        git_run(['commit', '-m', 'temp'])
         git_run(['cherry-pick', '--no-commit', commit])
+        git_run(['reset', 'HEAD~'])
         return
 
     if msg in GIT_MSGS_TO_SKIP:
