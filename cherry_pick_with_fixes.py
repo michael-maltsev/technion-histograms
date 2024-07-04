@@ -109,25 +109,19 @@ COURSE_ALTERNATIVE_NAMES = {
     '"משחקי גבורה" - מלחמה בקולנוע': 'War and Film',
 }
 
-GIT_MSGS_TO_SKIP = (
+GIT_MSGS_TO_CHERRY_PICK = (
     'Add cherry_pick_with_fixes.py',
     'Add GitHub Actions workflow for checks and fixes',
     'Add organize_mismatched.py',
-    'Automatic fixes by fixes.py',
     'checks.py: Add handled mismatches',
     'checks.py: Add more details to output',
     'checks.py: Check for missing data',
     'checks.py: Simplify check for mismatches',
     'Fix commit_author in the check-and-fix workflow',
     'Fix handling properties with a colon',
-    'Fix mismatched submission',
     'Fixes to fixes.py (2)',
     'Fixes to fixes.py',
-    'Manual fixes',
-    'Manually fix mismatched entries',
     'organize_mismatched.py: add rmdir',
-    'Remove mismatch commits (files already submitted)',
-    'Remove mismatched histogram (already submitted)',
     'Remove old comment from deploy.php',
     'Run cherry_pick_with_fixes.py in CI',
     'Update check-and-fix.yml with fixes from master',
@@ -135,6 +129,16 @@ GIT_MSGS_TO_SKIP = (
     'Update cherry_pick_with_fixes.py',
     'Update GitHub Actions dependencies',
     'Update last_handled_mismatch',
+)
+
+
+GIT_MSGS_TO_SKIP = (
+    'Automatic fixes by fixes.py',
+    'Fix mismatched submission',
+    'Manual fixes',
+    'Manually fix mismatched entries',
+    'Remove mismatch commits (files already submitted)',
+    'Remove mismatched histogram (already submitted)',
 )
 
 
@@ -162,9 +166,13 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         commit,
     ])
 
-    if msg in GIT_MSGS_TO_SKIP:
+    if msg in GIT_MSGS_TO_CHERRY_PICK:
         print(f'Cherry-picking as is: [{commit}] {msg}')
         git_run(['cherry-pick', commit])
+        return
+
+    if msg in GIT_MSGS_TO_SKIP:
+        print(f'Skipping: [{commit}] {msg}')
         return
 
     title, properties = msg.split('\n\n', 2)
