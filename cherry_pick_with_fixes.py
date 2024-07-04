@@ -1,3 +1,4 @@
+import datetime
 import re
 import subprocess
 import tempfile
@@ -108,6 +109,37 @@ COURSE_ALTERNATIVE_NAMES = {
     '"משחקי גבורה" - מלחמה בקולנוע': 'War and Film',
 }
 
+GIT_MSGS_TO_SKIP = (
+    'Fix mismatched submission',
+    'Remove mismatched histogram (already submitted)',
+    'Update GitHub Actions dependencies',
+    'Add GitHub Actions workflow for checks and fixes',
+    'Automatic fixes by fixes.py',
+    'Remove old comment from deploy.php',
+    'Update check-and-fix.yml with fixes from master',
+    'Fixes to fixes.py',
+    'Fixes to fixes.py (2)',
+    'Fix commit_author in the check-and-fix workflow',
+    'Remove mismatch commits (files already submitted)',
+    'checks.py: Add handled mismatches',
+    'checks.py: Check for missing data',
+    'checks.py: Simplify check for mismatches',
+    'Update last_handled_mismatch',
+    'Manual fixes',
+    'Add organize_mismatched.py',
+    'Manually fix mismatched entries',
+    'organize_mismatched.py: add rmdir',
+    'checks.py: Add more details to output',
+    'Update checks.py git functions',
+    'Fix handling properties with a colon',
+    'Add cherry_pick_with_fixes.py',
+    'Run cherry_pick_with_fixes.py in CI',
+)
+
+
+def git_run(cmd: List[str]):
+    subprocess.check_call(['git'] + cmd, text=True)
+
 
 def git_run_get_output(cmd: List[str]) -> str:
     return subprocess.check_output(['git'] + cmd, text=True, encoding='utf-8').rstrip('\n')
@@ -121,7 +153,7 @@ def git_run_get_lines(cmd: List[str]) -> List[str]:
     return result.split('\n')
 
 
-def fix_unsupported_course_number_commit(commit: str, tmpdirname: str):
+def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
     msg = git_run_get_output([
         'show',
         '-s',
@@ -129,32 +161,9 @@ def fix_unsupported_course_number_commit(commit: str, tmpdirname: str):
         commit,
     ])
 
-    if msg in (
-        'Fix mismatched submission',
-        'Remove mismatched histogram (already submitted)',
-        'Update GitHub Actions dependencies',
-        'Add GitHub Actions workflow for checks and fixes',
-        'Automatic fixes by fixes.py',
-        'Remove old comment from deploy.php',
-        'Update check-and-fix.yml with fixes from master',
-        'Fixes to fixes.py',
-        'Fixes to fixes.py (2)',
-        'Fix commit_author in the check-and-fix workflow',
-        'Remove mismatch commits (files already submitted)',
-        'checks.py: Add handled mismatches',
-        'checks.py: Check for missing data',
-        'checks.py: Simplify check for mismatches',
-        'Update last_handled_mismatch',
-        'Manual fixes',
-        'Add organize_mismatched.py',
-        'Manually fix mismatched entries',
-        'organize_mismatched.py: add rmdir',
-        'checks.py: Add more details to output',
-        'Update checks.py git functions',
-        'Fix handling properties with a colon',
-        'Add cherry_pick_with_fixes.py',
-    ):
-        print(f'Skipping {commit}: {msg}')
+    if msg in GIT_MSGS_TO_SKIP:
+        print(f'Cherry-picking as is: [{commit}] {msg}')
+        git_run(['cherry-pick', commit])
         return
 
     title, properties = msg.split('\n\n', 2)
@@ -214,7 +223,7 @@ def fix_unsupported_course_number_commit(commit: str, tmpdirname: str):
         override_course = '134082'
         override_semester = '202301'
 
-    if override_course is not None:
+    if override_course:
         # 9730xy -> 97030xy
         override_course = re.sub(r'^9730(\d\d)$', r'97030\1', override_course)
         override_course = override_course[:-3] + '0' + override_course[-3:]
@@ -222,7 +231,7 @@ def fix_unsupported_course_number_commit(commit: str, tmpdirname: str):
         properties['courseName'] = properties['histogramCourseName']
         properties['histogramCourseNameMismatch'] = 'false'
 
-    if override_category is not None:
+    if override_category:
         properties['category'] = override_category
         properties['histogramCategoryMismatch'] = 'false'
 
@@ -240,25 +249,19 @@ def fix_unsupported_course_number_commit(commit: str, tmpdirname: str):
     if histogram_course_name_mismatch:
         course_name = properties['courseName']
         histogram_course_name = properties['histogramCourseName']
-        if (COURSE_ALTERNATIVE_NAMES.get(histogram_course_name) == course_name):
-            pass
-        else:
+        if COURSE_ALTERNATIVE_NAMES.get(histogram_course_name) != course_name:
             raise Exception(f'histogramCourseNameMismatch: {commit} ({course_name} != {histogram_course_name})')
 
     if histogram_category_mismatch:
         category = properties['category']
         histogram_category = properties['histogramCategory']
-
-        if (
-            category == 'Exam_A' and histogram_category == 'MoedA' or
-            category == 'Exam_B' and histogram_category == 'MoedB' or
-            category == 'Exam_A' and histogram_category == 'ExamA' or
-            category == 'Exam_B' and histogram_category == 'ExamB' or
-            category == 'Finals' and histogram_category == 'ציון סופי במערכת האקדמית במחשב המרכזי'
+        if not (
+            (category == 'Exam_A' and histogram_category == 'MoedA') or
+            (category == 'Exam_B' and histogram_category == 'MoedB') or
+            (category == 'Exam_A' and histogram_category == 'ExamA') or
+            (category == 'Exam_B' and histogram_category == 'ExamB') or
+            (category == 'Finals' and histogram_category == 'ציון סופי במערכת האקדמית במחשב המרכזי')
         ):
-            histogram_category_mismatch = False
-
-        if histogram_category_mismatch:
             raise Exception(f'histogramCategoryMismatch: {commit} ({category} != {histogram_category})')
 
     match = re.search(r'\b(?:Add|Update) (.*)', title)
@@ -270,7 +273,8 @@ def fix_unsupported_course_number_commit(commit: str, tmpdirname: str):
     course_number = properties['course']
 
     # Remove middle zero.
-    if course_number[-4] != '0':
+    pattern = r'[1-9][0-9]{1,2}0[0-9]{3}|970300\d\d'
+    if not re.fullmatch(pattern, course_number) or course_number[-4] != '0':
         raise Exception(f'Unexpected course number in commit {commit}: {course_number}')
 
     course_number_fixed = course_number[:-4] + course_number[-3:]
@@ -297,7 +301,7 @@ def fix_unsupported_course_number_commit(commit: str, tmpdirname: str):
 
     path_without_mismatch = path.removeprefix('_mismatch_')
     if path_fixed != path_without_mismatch:
-        if override_semester:
+        if override_semester or override_category:
             pass
         elif path_without_mismatch == re.sub(r'^9730\d\d/', r'097030/', path_fixed):
             pass
@@ -327,12 +331,25 @@ def cherry_pick_with_fixes(after_commit, last_commit):
     with tempfile.TemporaryDirectory() as tmpdirname:
         for commit in reversed(commits):
             print('Applying a fixed version of commit ' + commit)
-            fix_unsupported_course_number_commit(commit, tmpdirname)
+            cherry_pick_commit_with_fixes(commit, tmpdirname)
 
 
 def main():
-    after_commit = 'f7aab115156590ba6ef5afea9a6b91328e864384'
-    last_commit = 'HEAD'
+    last_commit = git_run_get_output(['rev-parse', 'HEAD'])
+
+    week_ago = datetime.datetime.now() - datetime.timedelta(days=7)
+    after_commit = git_run_get_output([
+        'log',
+        '-1',
+        '--format=%H',
+        '--before=' + week_ago.isoformat(),
+    ])
+
+    print(f'Resetting to {after_commit}')
+    git_run(['reset', '--hard', after_commit])
+
+    print(f'Cherry-picking commits between {after_commit} and {last_commit}')
+
     cherry_pick_with_fixes(after_commit, last_commit)
 
 

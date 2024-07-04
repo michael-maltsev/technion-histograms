@@ -37,6 +37,7 @@ def check_bad_images() -> bool:
     return False
 
 
+"""
 def check_mismatches() -> bool:
     last_handled_mismatch = 'ba577e10128ca602d79a1b6fbcd99aa884f82c91'
 
@@ -85,8 +86,10 @@ def check_mismatches() -> bool:
     print()
 
     return False
+"""
 
 
+"""
 def check_unsupported_course_numbers() -> bool:
     # These course numbers are handled separately:
     # 97030005
@@ -113,6 +116,7 @@ def check_unsupported_course_numbers() -> bool:
     print()
 
     return False
+"""
 
 
 def main():
@@ -121,11 +125,11 @@ def main():
     if not check_bad_images():
         checks_failed = True
 
-    if not check_mismatches():
-        checks_failed = True
+    # if not check_mismatches():
+    #     checks_failed = True
 
-    if not check_unsupported_course_numbers():
-        checks_failed = True
+    # if not check_unsupported_course_numbers():
+    #     checks_failed = True
 
     if checks_failed:
         sys.exit(1)
