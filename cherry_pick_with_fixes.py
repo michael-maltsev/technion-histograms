@@ -351,7 +351,7 @@ def main():
 
     last_commit = git_run_get_output(['rev-parse', 'HEAD'])
 
-    week_ago = datetime.datetime.now() - datetime.timedelta(days=7)
+    week_ago = datetime.datetime.now() - datetime.timedelta(hours=36)
     after_commit = git_run_get_output([
         'log',
         '-1',
