@@ -117,6 +117,7 @@ GIT_MSGS_TO_CHERRY_PICK = (
     'checks.py: Add more details to output',
     'checks.py: Check for missing data',
     'checks.py: Simplify check for mismatches',
+    'deploy.php: Skip mismatches',
     'Fix commit_author in the check-and-fix workflow',
     'Fix handling properties with a colon',
     'Fixes to fixes.py (2)',
