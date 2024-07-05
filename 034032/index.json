@@ -925,5 +925,55 @@
             "average": "74.081",
             "median": "80.5"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "אור יזהר",
+                "email": "izi@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "סאלם ליאור",
+                "email": "liorsalem10@gmail.com,liorsal@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "14",
+            "passFail": "10\/4",
+            "passPercent": "71",
+            "min": "28",
+            "max": "96",
+            "average": "61.143",
+            "median": "60"
+        },
+        "Final_A": {
+            "students": "14",
+            "passFail": "11\/3",
+            "passPercent": "79",
+            "min": "28",
+            "max": "98",
+            "average": "70",
+            "median": "74"
+        },
+        "Exam_B": {
+            "students": "14",
+            "passFail": "12\/2",
+            "passPercent": "86",
+            "min": "24",
+            "max": "100",
+            "average": "68.929",
+            "median": "68"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "12\/2",
+            "passPercent": "86",
+            "min": "24",
+            "max": "100",
+            "average": "75.214",
+            "median": "78"
+        }
     }
 }
