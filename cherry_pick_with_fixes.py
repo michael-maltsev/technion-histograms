@@ -357,13 +357,17 @@ def main():
 
     last_commit = git_run_get_output(['rev-parse', 'HEAD'])
 
-    week_ago = datetime.datetime.now() - datetime.timedelta(hours=36)
     after_commit = git_run_get_output([
         'log',
         '-1',
         '--format=%H',
-        '--before=' + week_ago.isoformat(),
+        '--grep',
+        r'Automatic fixes by cherry_pick_with_fixes\.py',
     ])
+
+    if after_commit == last_commit:
+        print('No fixes to apply')
+        return
 
     print(f'Resetting to {after_commit}')
     git_run(['restore', '--source', after_commit, '.'])
