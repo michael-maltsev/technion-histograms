@@ -1,10 +1,8 @@
-import datetime
 import re
 import subprocess
 import tempfile
 from pathlib import Path
 from typing import List
-
 
 COURSE_ALTERNATIVE_NAMES = {
     'פוליטיקה של זהויות בישראל - בינלאומי': 'A New Israel Order:a Multicultural Perspective on Israeli Society - International',
@@ -117,6 +115,7 @@ GIT_MSGS_TO_CHERRY_PICK = (
     'checks.py: Add more details to output',
     'checks.py: Check for missing data',
     'checks.py: Simplify check for mismatches',
+    'Cherry pick since last fix',
     'deploy.php: Skip mismatches',
     'Fix commit_author in the check-and-fix workflow',
     'Fix handling properties with a colon',
@@ -128,8 +127,8 @@ GIT_MSGS_TO_CHERRY_PICK = (
     'Update check-and-fix.yml with fixes from master',
     'Update checks.py git functions',
     'Update cherry_pick_with_fixes.py',
-    'Update GitHub Actions',
     'Update GitHub Actions dependencies',
+    'Update GitHub Actions',
     'Update last_handled_mismatch',
 )
 
