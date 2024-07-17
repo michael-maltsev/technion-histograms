@@ -208,5 +208,55 @@
             "average": "85.367",
             "median": "85.5"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "זקס איל",
+                "email": "ayal.zaks@gmail.com,ayal.zaks@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "עודה סאהר",
+                "email": "saherodeh@gmail.com,sahero@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "24",
+            "passFail": "21\/3",
+            "passPercent": "88",
+            "min": "37",
+            "max": "96",
+            "average": "73.25",
+            "median": "77"
+        },
+        "Final_A": {
+            "students": "24",
+            "passFail": "23\/1",
+            "passPercent": "96",
+            "min": "48",
+            "max": "100",
+            "average": "82",
+            "median": "84.5"
+        },
+        "Exam_B": {
+            "students": "14",
+            "passFail": "11\/3",
+            "passPercent": "79",
+            "min": "42",
+            "max": "87",
+            "average": "68.857",
+            "median": "69.5"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "93",
+            "average": "78.714",
+            "median": "81"
+        }
     }
 }
