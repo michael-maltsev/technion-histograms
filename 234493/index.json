@@ -34,5 +34,28 @@
             "average": "89",
             "median": "89"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "ביהם אלי",
+                "email": "biham@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אלבר סתיו",
+                "email": "stavp@cs.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Finals": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "89.5",
+            "median": "91"
+        }
     }
 }
