@@ -306,12 +306,12 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         raise Exception(f'Unexpected path in commit {commit}: {path}')
 
     semester_from_path = match.group(1)
-    caregory_from_path = match.group(2)
+    category_from_path = match.group(2)
     file_extension_from_path = match.group(3)
     path_fixed = (
         course_number_fixed + '/' +
         (override_semester or semester_from_path) + '/' +
-        (override_category or caregory_from_path) + '.' +
+        (override_category or category_from_path) + '.' +
         file_extension_from_path)
 
     path_without_mismatch = path.removeprefix('_mismatch_')
