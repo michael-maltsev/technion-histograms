@@ -274,6 +274,7 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
             (category == 'Exam_B' and histogram_category == 'MoedB') or
             (category == 'Exam_A' and histogram_category == 'ExamA') or
             (category == 'Exam_B' and histogram_category == 'ExamB') or
+            (category == 'Exam_C' and histogram_category == 'Exam_Special_1') or
             (category == 'Finals' and histogram_category == 'ציון סופי במערכת האקדמית במחשב המרכזי')
         ):
             raise Exception(f'histogramCategoryMismatch: {commit} ({category} != {histogram_category})')
