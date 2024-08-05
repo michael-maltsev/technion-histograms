@@ -80,5 +80,42 @@
             "average": "90.895",
             "median": "90"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "רוטנברג מנחם )חמי(",
+                "email": "hemir@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרייפלד לימור",
+                "email": "freifeld@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "נעים מאיה",
+                "email": "mayanaim@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "17",
+            "passFail": "16\/1",
+            "passPercent": "94",
+            "min": "39",
+            "max": "98",
+            "average": "79.824",
+            "median": "84"
+        },
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "99",
+            "average": "87.062",
+            "median": "88"
+        }
     }
 }
