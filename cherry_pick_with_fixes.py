@@ -105,6 +105,16 @@ COURSE_ALTERNATIVE_NAMES = {
     'תרמודינמיקה 1 - בינלאומי': 'Thermodynamics 1 - International',
     'נושאים בביולוגיה': 'Topics in Biology',
     '"משחקי גבורה" - מלחמה בקולנוע': 'War and Film',
+    'מערכות ליניאריות מ\' - בינלאומי': 'Linear Systems M - International',
+    'פרויקט דגל - רכב מרוץ פורמולה': 'Flagship Project - Formula Racecar',
+    'מכניקת מוצקים 2מ - בינלאומי': 'Solid Mechanics 2M - International',
+    'טרור,ג\'יהד ותגובה מדינית - בינלאומי': 'Terrorism,Jihad and State Response - International',
+    'מבוא למחשב שפת פייתון - בל - בינלאומי': 'Int. to Computing with Python -Bl - International',
+    'פיסיקה 1 - בינלאומי': 'Physics 1 - International',
+    'כימיה כללית - בינלאומי': 'General Chemistry - International',
+    'מתמטיקה מכינה בינלאומי': 'Math Pa-Int',
+    'פיזיקה בינלאומי': 'Physics-Pa-Int',
+    'עברית בינלאומי': 'Hebrew-Pa-Int',
 }
 
 GIT_MSGS_TO_CHERRY_PICK = (
