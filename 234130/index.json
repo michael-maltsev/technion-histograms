@@ -39,5 +39,46 @@
             "average": "68.259",
             "median": "73"
         }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "טל אברהם",
+                "email": "avraham.tal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ויינשטיין יוסף",
+                "email": "yossiv@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "18",
+            "passFail": "10\/8",
+            "passPercent": "56",
+            "min": "13",
+            "max": "96",
+            "average": "55.167",
+            "median": "55.5"
+        },
+        "Final_A": {
+            "students": "18",
+            "passFail": "10\/8",
+            "passPercent": "56",
+            "min": "52",
+            "max": "95",
+            "average": "66.722",
+            "median": "59"
+        },
+        "Finals": {
+            "students": "19",
+            "passFail": "13\/6",
+            "passPercent": "68",
+            "min": "52",
+            "max": "95",
+            "average": "68.526",
+            "median": "62"
+        }
     }
 }
