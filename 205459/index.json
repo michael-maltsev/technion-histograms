@@ -235,5 +235,59 @@
             "average": "78.532",
             "median": "80.5"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "רז אופק",
+                "email": "ofek.gonen@campus.technion.ac.il,ofek.gonen@alumni.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "66",
+            "passFail": "64\/2",
+            "passPercent": "97",
+            "min": "46",
+            "max": "100",
+            "average": "91.227",
+            "median": "97"
+        },
+        "Final_A": {
+            "students": "66",
+            "passFail": "64\/2",
+            "passPercent": "97",
+            "min": "46",
+            "max": "100",
+            "average": "91.439",
+            "median": "96"
+        },
+        "Exam_B": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "38",
+            "max": "98",
+            "average": "72.4",
+            "median": "65"
+        },
+        "Final_B": {
+            "students": "15",
+            "passFail": "13\/2",
+            "passPercent": "87",
+            "min": "38",
+            "max": "98",
+            "average": "72.267",
+            "median": "68"
+        },
+        "Finals": {
+            "students": "76",
+            "passFail": "74\/2",
+            "passPercent": "97",
+            "min": "38",
+            "max": "100",
+            "average": "90.2",
+            "median": "95"
+        }
     }
 }
