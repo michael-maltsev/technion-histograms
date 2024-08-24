@@ -920,5 +920,37 @@
             "average": "71.162",
             "median": "80"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "פרברי גלית ורד",
+                "email": "galitpar@technion.ac.il,galitpar@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סעאידה תאמר",
+                "email": "tamersaiaede@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "24",
+            "passFail": "13\/11",
+            "passPercent": "54",
+            "min": "18",
+            "max": "100",
+            "average": "56.583",
+            "median": "56"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "9\/5",
+            "passPercent": "64",
+            "min": "26",
+            "max": "91",
+            "average": "55.286",
+            "median": "58.5"
+        }
     }
 }
