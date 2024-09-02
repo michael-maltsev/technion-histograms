@@ -285,11 +285,7 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         category = properties['category']
         histogram_category = properties['histogramCategory']
         if not (
-            (category == 'Exam_A' and histogram_category == 'MoedA') or
-            (category == 'Exam_A' and histogram_category == 'Test_Mohed_A') or
-            (category == 'Exam_B' and histogram_category == 'MoedB') or
-            (category == 'Exam_A' and histogram_category == 'ExamA') or
-            (category == 'Exam_B' and histogram_category == 'ExamB') or
+            (category == re.sub(r'^(?:Exam|Moed|Moed_|Test_Mohed_)([ABC])$', r'Exam_\1', histogram_category)) or
             (category == 'Exam_C' and histogram_category == 'Exam_Special_1') or
             (category == 'Finals' and histogram_category == 'ציון סופי במערכת האקדמית במחשב המרכזי')
         ):
