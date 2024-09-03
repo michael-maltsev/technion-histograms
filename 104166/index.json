@@ -1041,5 +1041,37 @@
             "average": "73.251",
             "median": "77"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "מזרחי גלית",
+                "email": "galitm@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "סאלח פתחי",
+                "email": "fathi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "111",
+            "passFail": "57\/54",
+            "passPercent": "51",
+            "min": "0",
+            "max": "100",
+            "average": "55.135",
+            "median": "55"
+        },
+        "Final_A": {
+            "students": "111",
+            "passFail": "79\/32",
+            "passPercent": "71",
+            "min": "5",
+            "max": "100",
+            "average": "62.045",
+            "median": "64"
+        }
     }
 }
