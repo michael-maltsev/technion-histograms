@@ -1017,5 +1017,37 @@
             "average": "71.32",
             "median": "76"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "מזרחי טל",
+                "email": "dew@technion.ac.il,tal.mizrahi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מיליק איתן",
+                "email": "eitan.meilik@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "111",
+            "passFail": "93\/18",
+            "passPercent": "84",
+            "min": "0",
+            "max": "99",
+            "average": "71.712",
+            "median": "73.5"
+        },
+        "Final_A": {
+            "students": "111",
+            "passFail": "97\/14",
+            "passPercent": "87",
+            "min": "3",
+            "max": "100",
+            "average": "77.108",
+            "median": "80"
+        }
     }
 }
