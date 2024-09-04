@@ -1401,5 +1401,28 @@
             "average": "88.717",
             "median": "92"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "סתיו ינון",
+                "email": "yinnon@ee.technion.ac.il,yinnon@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רמדאן פיראס",
+                "email": "firasramadan@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "108",
+            "passFail": "84\/24",
+            "passPercent": "78",
+            "min": "18",
+            "max": "100",
+            "average": "70.009",
+            "median": "73"
+        }
     }
 }
