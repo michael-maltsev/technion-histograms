@@ -412,6 +412,11 @@
                 "name": "עסאף טניה",
                 "email": "tania.assaf@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מרגי רז",
+                "email": "raz.margi@campus.technion.ac.il",
+                "title": "מתרגל"
             }
         ],
         "Exam_A": {
@@ -422,6 +427,33 @@
             "max": "93",
             "average": "71.618",
             "median": "73"
+        },
+        "Final_A": {
+            "students": "73",
+            "passFail": "69\/4",
+            "passPercent": "95",
+            "min": "37",
+            "max": "96",
+            "average": "81.342",
+            "median": "84"
+        },
+        "Exam_B": {
+            "students": "40",
+            "passFail": "36\/4",
+            "passPercent": "90",
+            "min": "44",
+            "max": "96",
+            "average": "70.05",
+            "median": "71"
+        },
+        "Final_B": {
+            "students": "40",
+            "passFail": "37\/3",
+            "passPercent": "92",
+            "min": "44",
+            "max": "97",
+            "average": "79.45",
+            "median": "83"
         }
     }
 }
