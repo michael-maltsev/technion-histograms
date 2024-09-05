@@ -26,5 +26,37 @@
             "average": "89.2",
             "median": "90"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "זילברשטיין מרק",
+                "email": "silbmark@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ארידור יריב",
+                "email": "yariv.aridor@gmail.com,yariv.aridor@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "51",
+            "passFail": "47\/4",
+            "passPercent": "92",
+            "min": "41",
+            "max": "100",
+            "average": "77.529",
+            "median": "79"
+        },
+        "Final_A": {
+            "students": "51",
+            "passFail": "51\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "84.392",
+            "median": "85"
+        }
     }
 }
