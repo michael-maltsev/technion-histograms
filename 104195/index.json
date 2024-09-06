@@ -1225,5 +1225,37 @@
             "average": "67.487",
             "median": "72"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "מויאל עומר",
+                "email": "omer.moyal@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ברוך אהוד משה",
+                "email": "embaruch@math.technion.ac.il,embaruch@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "34",
+            "passFail": "24\/10",
+            "passPercent": "71",
+            "min": "3",
+            "max": "100",
+            "average": "63.647",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "33",
+            "passFail": "24\/9",
+            "passPercent": "73",
+            "min": "9",
+            "max": "100",
+            "average": "66.182",
+            "median": "70"
+        }
     }
 }
