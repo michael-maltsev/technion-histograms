@@ -1439,5 +1439,32 @@
             "average": "62.616",
             "median": "66.5"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "מלק עליזה",
+                "email": "maliza@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "139",
+            "passFail": "72\/67",
+            "passPercent": "52",
+            "min": "2",
+            "max": "100",
+            "average": "54.237",
+            "median": "55"
+        },
+        "Final_A": {
+            "students": "139",
+            "passFail": "95\/44",
+            "passPercent": "68",
+            "min": "7",
+            "max": "100",
+            "average": "62.914",
+            "median": "66"
+        }
     }
 }
