@@ -1107,5 +1107,37 @@
             "average": "70.667",
             "median": "75"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "פייגין-קצוב יוליה",
+                "email": "julia.feigin@gmail.com,juliaf@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "צנזור אביב",
+                "email": "avivc@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "49",
+            "passFail": "35\/14",
+            "passPercent": "71",
+            "min": "28",
+            "max": "100",
+            "average": "66.469",
+            "median": "67"
+        },
+        "Final_A": {
+            "students": "49",
+            "passFail": "38\/11",
+            "passPercent": "78",
+            "min": "28",
+            "max": "100",
+            "average": "68.694",
+            "median": "70"
+        }
     }
 }
