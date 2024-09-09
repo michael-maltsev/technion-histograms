@@ -390,5 +390,33 @@
             "average": "80.667",
             "median": "84"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "שטריכמן עופר",
+                "email": "ofers@ie.technion.ac.il,ofers@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קויפמן יונתן",
+                "email": "yonatanko@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "148",
+            "passFail": "125\/23",
+            "passPercent": "84",
+            "min": "0",
+            "max": "100",
+            "average": "72.135",
+            "median": "76"
+        }
     }
 }
