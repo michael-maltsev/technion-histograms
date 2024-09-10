@@ -282,5 +282,32 @@
             "average": "89.671",
             "median": "95.5"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "ליברמן סולומ לוסי",
+                "email": "lucylib@technion.ac.il,lucylib@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "53",
+            "passFail": "52\/1",
+            "passPercent": "98",
+            "min": "30",
+            "max": "99.5",
+            "average": "88.599",
+            "median": "92.5"
+        },
+        "Final_A": {
+            "students": "53",
+            "passFail": "52\/1",
+            "passPercent": "98",
+            "min": "40.5",
+            "max": "99.625",
+            "average": "91.164",
+            "median": "94.375"
+        }
     }
 }
