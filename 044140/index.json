@@ -1338,5 +1338,28 @@
             "average": "69.26",
             "median": "71.5"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "רוזנטל אמיר",
+                "email": "amir.r@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ינאי מיכאל",
+                "email": "yannai.michael@gmail.com,smyannai@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "99",
+            "passFail": "75\/24",
+            "passPercent": "76",
+            "min": "17",
+            "max": "92",
+            "average": "65.949",
+            "median": "69"
+        }
     }
 }
