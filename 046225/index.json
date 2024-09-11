@@ -362,5 +362,37 @@
             "average": "84.25",
             "median": "86"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "ילון עילם",
+                "email": "eilamy@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קמינסקי איתן",
+                "email": "eitan-k@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "29",
+            "passFail": "25\/4",
+            "passPercent": "86",
+            "min": "50",
+            "max": "100",
+            "average": "72",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "100",
+            "average": "81.31",
+            "median": "79"
+        }
     }
 }
