@@ -204,5 +204,37 @@
             "average": "84.615",
             "median": "83"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "זילברשטיין מרק",
+                "email": "silbmark@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גברילנקו דמיטרי",
+                "email": "dimag@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "23",
+            "passFail": "21\/2",
+            "passPercent": "91",
+            "min": "51",
+            "max": "98",
+            "average": "77.783",
+            "median": "77"
+        },
+        "Final_A": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "61.02",
+            "max": "98.21",
+            "average": "81.121",
+            "median": "81.83"
+        }
     }
 }
