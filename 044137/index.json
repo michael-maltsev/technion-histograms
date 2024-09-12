@@ -653,5 +653,37 @@
             "average": "87.114",
             "median": "89.5"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "דיסקין אלכסיי",
+                "email": "aleksd@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חכמוביץ יואב",
+                "email": "syoavcha@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "91",
+            "passFail": "70\/21",
+            "passPercent": "77",
+            "min": "31",
+            "max": "96",
+            "average": "65.648",
+            "median": "66"
+        },
+        "Final_A": {
+            "students": "91",
+            "passFail": "87\/4",
+            "passPercent": "96",
+            "min": "38",
+            "max": "98",
+            "average": "73.484",
+            "median": "75"
+        }
     }
 }
