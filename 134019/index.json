@@ -1037,5 +1037,32 @@
             "average": "77.808",
             "median": "78"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "גליקמן חגי-מיכאל",
+                "email": "glickman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "141",
+            "passFail": "119\/22",
+            "passPercent": "84",
+            "min": "28.2",
+            "max": "100",
+            "average": "70.561",
+            "median": "70.6"
+        },
+        "Final_A": {
+            "students": "141",
+            "passFail": "118\/23",
+            "passPercent": "84",
+            "min": "28.2",
+            "max": "100",
+            "average": "74.954",
+            "median": "78.6"
+        }
     }
 }
