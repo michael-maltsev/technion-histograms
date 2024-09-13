@@ -747,5 +747,37 @@
             "average": "81.043",
             "median": "85"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "אורדע אריאל",
+                "email": "ariel@ee.technion.ac.il,ariel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רזניק יבגני",
+                "email": "evgeniy.rez@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "33",
+            "passFail": "28\/5",
+            "passPercent": "85",
+            "min": "23",
+            "max": "100",
+            "average": "69.485",
+            "median": "71"
+        },
+        "Final_A": {
+            "students": "33",
+            "passFail": "28\/5",
+            "passPercent": "85",
+            "min": "23",
+            "max": "100",
+            "average": "73.909",
+            "median": "78"
+        }
     }
 }
