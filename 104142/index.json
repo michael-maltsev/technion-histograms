@@ -839,5 +839,37 @@
             "average": "78.444",
             "median": "75"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "רפפורט אריאל",
+                "email": "arapaport@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סנדנר יואב",
+                "email": "sandneryoav@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "54",
+            "passFail": "47\/7",
+            "passPercent": "87",
+            "min": "9",
+            "max": "100",
+            "average": "72.222",
+            "median": "74.5"
+        },
+        "Final_A": {
+            "students": "54",
+            "passFail": "47\/7",
+            "passPercent": "87",
+            "min": "9",
+            "max": "100",
+            "average": "73.87",
+            "median": "77"
+        }
     }
 }
