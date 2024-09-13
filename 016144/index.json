@@ -116,5 +116,42 @@
             "average": "85.36",
             "median": "86"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "ג'בארין מחמוד",
+                "email": "cvjmah@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "12",
+            "passFail": "8\/4",
+            "passPercent": "67",
+            "min": "23",
+            "max": "100",
+            "average": "66.333",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "12",
+            "passFail": "8\/4",
+            "passPercent": "67",
+            "min": "23",
+            "max": "100",
+            "average": "67",
+            "median": "72"
+        }
     }
 }

@@ -150,13 +150,13 @@
     "202202": {
         "Staff": [
             {
-                "name": "שביט שרית",
-                "email": "sarits@technion.ac.il",
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "צאצאשוילי תמי",
-                "email": "tami@technion.ac.il",
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -168,6 +168,15 @@
             "max": "97",
             "average": "87.333",
             "median": "88"
+        },
+        "Finals": {
+            "students": "50",
+            "passFail": "50\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "97",
+            "average": "87.42",
+            "median": "87.5"
         }
     }
 }
