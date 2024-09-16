@@ -957,5 +957,33 @@
             "average": "83.077",
             "median": "86"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "עציון יואב",
+                "email": "yetsion@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לצרס רועי",
+                "email": "roeelatzres@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "חנחן רוברט",
+                "email": "roberthanhan@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "62",
+            "passFail": "50\/12",
+            "passPercent": "81",
+            "min": "37",
+            "max": "96",
+            "average": "73.403",
+            "median": "77.5"
+        }
     }
 }
