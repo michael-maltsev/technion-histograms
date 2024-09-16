@@ -305,6 +305,11 @@
                 "name": "דגן יובל",
                 "email": "yuvalda@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "עפרים בעז",
+                "email": "boaz.ofarim@campus.technion.ac.il",
+                "title": "מתרגל"
             }
         ],
         "Exam_A": {
@@ -315,6 +320,15 @@
             "max": "95",
             "average": "67.304",
             "median": "71"
+        },
+        "Final_A": {
+            "students": "66",
+            "passFail": "53\/13",
+            "passPercent": "80",
+            "min": "0",
+            "max": "94.7",
+            "average": "70.992",
+            "median": "77.5875"
         }
     }
 }
