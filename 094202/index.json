@@ -232,5 +232,33 @@
             "average": "79.164",
             "median": "81"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "פלונסקי אורי",
+                "email": "plonsky@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אדמוני סהר",
+                "email": "saharad@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "81",
+            "passFail": "67\/14",
+            "passPercent": "83",
+            "min": "31",
+            "max": "93",
+            "average": "68.123",
+            "median": "71"
+        }
     }
 }
