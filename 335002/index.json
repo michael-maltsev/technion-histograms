@@ -392,5 +392,28 @@
             "average": "93.958",
             "median": "94.5"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "קרבצ'יק ולריה",
+                "email": "kra.valeriia@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מרחר יוליה",
+                "email": "merkher@technion.ac.il",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "21",
+            "passFail": "19\/2",
+            "passPercent": "90",
+            "min": "40",
+            "max": "100",
+            "average": "86.571",
+            "median": "90"
+        }
     }
 }
