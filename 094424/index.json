@@ -345,5 +345,37 @@
             "average": "74.729",
             "median": "75.5"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "בורדו נדיה",
+                "email": "nadiabordo@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "54",
+            "passFail": "31\/23",
+            "passPercent": "57",
+            "min": "16.667",
+            "max": "88.889",
+            "average": "57.531",
+            "median": "55.556"
+        },
+        "Final_A": {
+            "students": "54",
+            "passFail": "49\/5",
+            "passPercent": "91",
+            "min": "21",
+            "max": "96",
+            "average": "67.778",
+            "median": "66"
+        }
     }
 }
