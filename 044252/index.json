@@ -1036,5 +1036,42 @@
             "average": "79.622",
             "median": "83"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "דובקין רוסטיסלב",
+                "email": "rostikd@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קציר ניר",
+                "email": "nir@spectral-imaging.com",
+                "title": "מרצה"
+            },
+            {
+                "name": "אלפסי ניר",
+                "email": "nirelfasi@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "392",
+            "passFail": "176\/216",
+            "passPercent": "45",
+            "min": "0",
+            "max": "98",
+            "average": "52.054",
+            "median": "52"
+        },
+        "Final_A": {
+            "students": "392",
+            "passFail": "289\/103",
+            "passPercent": "74",
+            "min": "10",
+            "max": "100",
+            "average": "70.186",
+            "median": "76"
+        }
     }
 }
