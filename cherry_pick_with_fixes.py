@@ -115,6 +115,22 @@ COURSE_ALTERNATIVE_NAMES = {
     'מתמטיקה מכינה בינלאומי': 'Math Pa-Int',
     'פיזיקה בינלאומי': 'Physics-Pa-Int',
     'עברית בינלאומי': 'Hebrew-Pa-Int',
+    'אוירודינמיקה בלתי דחיסה': 'Incompressible Aerodynamics',
+    'אלגברה אמ\'': 'Algebra Am',
+    'אלגברה במ\'': 'Algebra Bm',
+    'היסטורית כאב בעיני פילוסופים': 'History of Pain by Philosophers',
+    'חינוך גופני - התעמלות כללית בנות': 'Physical Education Courses',
+    'למידה והור.מדעים והנ.בחינוך גבוה': 'Learning and Teaching Stem in Higher Ed.',
+    'מבוא להסתברות ח\'': 'Introduction to Probability H',
+    'מבוא לייצוג ועיבוד מידע': 'Introduction to Data Processing and Representation',
+    'מבוא לסטטיסטיקה': 'Introduction to Statistics',
+    'מסדי נתונים': 'Databases',
+    'מעבדה לפיזיקה - גלים - 3מפ\'': 'Physics Lab. 3Mp',
+    'מערכות דינמיות': 'Dynamic Systems',
+    'פיסיקה קוונטית 1': 'Quantum Physics 1',
+    'פסיכולוגיה של המוזיקה': 'Psychology of Music',
+    'פרויקט בבינה מלאכותית': 'Artificial Intelligence and Heuristics Laboratory',
+    'שיטות חישוביות באופטימיזציה': 'Computational Methods in Optimization',
 }
 
 GIT_MSGS_TO_CHERRY_PICK = (
