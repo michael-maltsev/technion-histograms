@@ -475,5 +475,37 @@
             "average": "70.321",
             "median": "71.5"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "סורני אלן",
+                "email": "elad.tzorani@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שגיב מיכה",
+                "email": "sageevm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "56",
+            "passFail": "48\/8",
+            "passPercent": "86",
+            "min": "32",
+            "max": "100",
+            "average": "69.821",
+            "median": "71"
+        },
+        "Final_A": {
+            "students": "56",
+            "passFail": "52\/4",
+            "passPercent": "93",
+            "min": "41",
+            "max": "100",
+            "average": "73.018",
+            "median": "75"
+        }
     }
 }
