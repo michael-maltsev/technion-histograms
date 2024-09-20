@@ -136,6 +136,7 @@ COURSE_ALTERNATIVE_NAMES = {
 GIT_MSGS_TO_CHERRY_PICK = (
     'Add cherry_pick_with_fixes.py',
     'Add GitHub Actions workflow for checks and fixes',
+    'Add more english course names',
     'Add organize_mismatched.py',
     'checks.py: Add handled mismatches',
     'checks.py: Add more details to output',
