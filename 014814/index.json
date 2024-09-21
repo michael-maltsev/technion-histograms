@@ -242,5 +242,37 @@
             "average": "75.533",
             "median": "77"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "אבן-צור גלעד",
+                "email": "eventzur@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "34",
+            "passFail": "12\/22",
+            "passPercent": "35",
+            "min": "0",
+            "max": "90",
+            "average": "49.853",
+            "median": "46"
+        },
+        "Final_A": {
+            "students": "33",
+            "passFail": "19\/14",
+            "passPercent": "58",
+            "min": "14",
+            "max": "92",
+            "average": "59.333",
+            "median": "58"
+        }
     }
 }
