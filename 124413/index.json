@@ -416,5 +416,37 @@
             "average": "70.107",
             "median": "77"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "רהב סער",
+                "email": "rahavs@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ארי נטע",
+                "email": "b.neta@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "50",
+            "passFail": "15\/35",
+            "passPercent": "30",
+            "min": "13",
+            "max": "85",
+            "average": "45.56",
+            "median": "43.5"
+        },
+        "Final_A": {
+            "students": "50",
+            "passFail": "21\/29",
+            "passPercent": "42",
+            "min": "21",
+            "max": "94",
+            "average": "55.78",
+            "median": "51.5"
+        }
     }
 }
