@@ -252,5 +252,42 @@
             "average": "94.111",
             "median": "94"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "רפאל דינה",
+                "email": "dina.raphael@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "80",
+            "passFail": "80\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "91.588",
+            "median": "90"
+        },
+        "Final_B": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "94.367",
+            "median": "96"
+        }
     }
 }
