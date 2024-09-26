@@ -1,1 +1,34 @@
-[]
+{
+    "202302": {
+        "Staff": [
+            {
+                "name": "פינסקי רוס",
+                "email": "pinsky@math.technion.ac.il,pinsky@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יואלי גוני",
+                "email": "goniyoeli1@gmail.com,yoeli.goni@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "27",
+            "passFail": "25\/2",
+            "passPercent": "93",
+            "min": "37",
+            "max": "100",
+            "average": "82.407",
+            "median": "85"
+        },
+        "Final_A": {
+            "students": "27",
+            "passFail": "26\/1",
+            "passPercent": "96",
+            "min": "45",
+            "max": "100",
+            "average": "84.778",
+            "median": "87"
+        }
+    }
+}
