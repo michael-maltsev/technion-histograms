@@ -385,11 +385,6 @@ def cherry_pick_with_fixes(after_commit, last_commit):
 
 
 def main():
-    deploy_git_email = 'github-actions[bot]@users.noreply.github.com'
-    deploy_git_name = 'github-actions[bot]'
-    git_run(['config', '--global', 'user.email', deploy_git_email])
-    git_run(['config', '--global', 'user.name', deploy_git_name])
-
     last_commit = git_run_get_output(['rev-parse', 'HEAD'])
 
     after_commit = git_run_get_output([
