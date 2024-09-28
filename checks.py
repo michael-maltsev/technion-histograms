@@ -37,99 +37,11 @@ def check_bad_images() -> bool:
     return False
 
 
-"""
-def check_mismatches() -> bool:
-    last_handled_mismatch = 'ba577e10128ca602d79a1b6fbcd99aa884f82c91'
-
-    unhandled_mismatches = git_run_get_lines([
-        'log',
-        f'{last_handled_mismatch}..',
-        '--format=%H',
-        '--perl-regexp',
-        '--grep=(Missing|Mismatch): true'
-    ])
-    if not unhandled_mismatches:
-        return True
-
-    print('Unhandled mismatches:')
-    for commit in unhandled_mismatches:
-        commit_message = git_run(['log', '-1', '--format=%ci\n\n%B', commit])
-
-        date, _, properties = commit_message.split('\n\n', 2)
-        properties = properties.strip().split('\n')
-        properties = dict(property.split(': ', 1) for property in properties)
-
-        description = ''
-
-        if properties.get('histogramCourseNameMissing', 'false') != 'false':
-            description += 'histogramCourseNameMissing, '
-
-        if properties.get('histogramCourseNameMismatch', 'false') != 'false':
-            course_name = properties['courseName']
-            histogram_course_name = properties['histogramCourseName']
-            description += f'histogramCourseNameMismatch ({course_name} != {histogram_course_name}), '
-
-        if properties.get('histogramCategoryMissing', 'false') != 'false':
-            description += 'histogramCategoryMissing, '
-
-        if properties.get('histogramCategoryMismatch', 'false') != 'false':
-            category = properties['category']
-            histogram_category = properties['histogramCategory']
-            description += f'histogramCategoryMismatch ({category} != {histogram_category}), '
-
-        if description:
-            description = description.removesuffix(', ')
-        else:
-            description = '(unknown)'
-
-        print(f'[{date}] {commit}: {description}')
-    print()
-
-    return False
-"""
-
-
-"""
-def check_unsupported_course_numbers() -> bool:
-    # These course numbers are handled separately:
-    # 97030005
-    # 97030006
-    # 97030007
-    # 97030008
-    # 97030009
-    # 97030010
-    # 97030011
-    # 97030012
-
-    pattern = r'course: (?!([1-9][0-9]{1,2}0[0-9]{3}|9703000[5-9]|9703001[0-2])\b)'
-
-    bad_commits = []
-    for commit in git_run_get_lines(['log', '--format=%H', '--perl-regexp', '--grep=' + pattern]):
-        bad_commits.append(commit)
-
-    if not bad_commits:
-        return True
-
-    print('Commits with unsupported course numbers:')
-    for commit in bad_commits:
-        print(commit)
-    print()
-
-    return False
-"""
-
-
 def main():
     checks_failed = False
 
     if not check_bad_images():
         checks_failed = True
-
-    # if not check_mismatches():
-    #     checks_failed = True
-
-    # if not check_unsupported_course_numbers():
-    #     checks_failed = True
 
     if checks_failed:
         sys.exit(1)
