@@ -149,5 +149,42 @@
             "average": "81.621",
             "median": "84"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "קורלנד אורן",
+                "email": "kurland@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "נחום עומר",
+                "email": "omer.nahum@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "90",
+            "passFail": "75\/15",
+            "passPercent": "83",
+            "min": "0",
+            "max": "100",
+            "average": "72.778",
+            "median": "77.5"
+        },
+        "Final_A": {
+            "students": "90",
+            "passFail": "75\/15",
+            "passPercent": "83",
+            "min": "0",
+            "max": "100",
+            "average": "74.467",
+            "median": "78.5"
+        }
     }
 }
