@@ -195,7 +195,7 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         commit,
     ])
 
-    if msg in GIT_MSGS_TO_CHERRY_PICK:
+    if msg in GIT_MSGS_TO_CHERRY_PICK or msg.startswith('#'):
         print(f'Cherry-picking as is: [{commit}] {msg}')
         git_run(['add', '.'])
         git_run(['commit', '--quiet', '-m', 'temp'])
@@ -323,7 +323,7 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
     course_number = properties['course']
 
     # Remove middle zero.
-    pattern = r'[1-9][0-9]{1,2}0[0-9]{3}|970300\d\d'
+    pattern = r'(0{0,2}[1-9][0-9]|0{0,1}[1-9][0-9]{2})0[0-9]{3}|970300\d\d'
     if not re.fullmatch(pattern, course_number) or course_number[-4] != '0':
         raise Exception(f'Unexpected course number in commit {commit}: {course_number}')
 
@@ -385,11 +385,6 @@ def cherry_pick_with_fixes(after_commit, last_commit):
 
 
 def main():
-    deploy_git_email = 'github-actions[bot]@users.noreply.github.com'
-    deploy_git_name = 'github-actions[bot]'
-    git_run(['config', '--global', 'user.email', deploy_git_email])
-    git_run(['config', '--global', 'user.name', deploy_git_name])
-
     last_commit = git_run_get_output(['rev-parse', 'HEAD'])
 
     after_commit = git_run_get_output([
