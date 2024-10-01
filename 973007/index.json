@@ -234,5 +234,57 @@
             "average": "63.174",
             "median": "66"
         }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "ראשד פרח",
+                "email": "perah.rashah@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שמר רוני",
+                "email": "ronyshe@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "נבייב אלברט",
+                "email": "albert.nab@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אאא שירי",
+                "email": "shiri.so@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אזולאי מיקה",
+                "email": "amika@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שחל אתי",
+                "email": "ettys@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "233",
+            "passFail": "179\/54",
+            "passPercent": "77",
+            "min": "2",
+            "max": "100",
+            "average": "68.18",
+            "median": "71"
+        },
+        "Final_B": {
+            "students": "144",
+            "passFail": "113\/31",
+            "passPercent": "78",
+            "min": "4",
+            "max": "99",
+            "average": "70.361",
+            "median": "76.5"
+        }
     }
 }
