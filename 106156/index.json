@@ -370,5 +370,28 @@
             "average": "85.967",
             "median": "91.5"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "ממין רוסטם",
+                "email": "rst@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מורן שי",
+                "email": "smoran@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "39",
+            "passFail": "35\/4",
+            "passPercent": "90",
+            "min": "36",
+            "max": "99",
+            "average": "74.692",
+            "median": "74"
+        }
     }
 }
