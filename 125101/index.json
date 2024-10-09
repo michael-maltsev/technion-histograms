@@ -537,5 +537,42 @@
             "average": "74.04",
             "median": "76"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "בלנק אהרן",
+                "email": "ab359@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לוצקי גיא",
+                "email": "guylutzky@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שרון אוריה",
+                "email": "uriahsharon@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "132",
+            "passFail": "87\/45",
+            "passPercent": "66",
+            "min": "19",
+            "max": "100",
+            "average": "62.348",
+            "median": "60.5"
+        },
+        "Final_A": {
+            "students": "132",
+            "passFail": "95\/37",
+            "passPercent": "72",
+            "min": "19",
+            "max": "100",
+            "average": "66.258",
+            "median": "68"
+        }
     }
 }
