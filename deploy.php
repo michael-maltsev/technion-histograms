@@ -74,7 +74,10 @@ function process_course($course, &$stats) {
 
         $staff_filename = "$course/$semester/Staff.json";
         if (!is_file($staff_filename)) {
-            $staff_filename = "$course/$semester/Staff_international.json";
+            $staff_filename_international = "$course/$semester/Staff_international.json";
+            if (is_file($staff_filename_international)) {
+                rename($staff_filename_international, $staff_filename);
+            }
         }
 
         if (is_file($staff_filename)) {
@@ -105,12 +108,18 @@ function process_course($course, &$stats) {
         foreach ($categories as $category => $category_name) {
             $filename = "$course/$semester/$category.json";
             if (!is_file($filename)) {
-                $filename = "$course/$semester/{$category}_international.json";
+                $filename_international = "$course/$semester/{$category}_international.json";
+                if (is_file($filename_international)) {
+                    rename($filename_international, $filename);
+                }
             }
 
             $image_filename = "$course/$semester/$category.png";
             if (!is_file($image_filename)) {
-                $image_filename = "$course/$semester/{$category}_international.png";
+                $image_filename_international = "$course/$semester/{$category}_international.png";
+                if (is_file($image_filename_international)) {
+                    rename($image_filename_international, $image_filename);
+                }
             }
 
             if (!is_file($filename)) {
