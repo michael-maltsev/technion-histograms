@@ -390,7 +390,7 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         else:
             raise Exception(f'Unexpected path in commit {commit}: {path_without_mismatch} != {path_fixed}')
 
-    if histogram_course_name.endswith('- בינלאומי'):
+    if properties['histogramCourseName'].endswith('- בינלאומי'):
         path_fixed = re.sub(r'\.\w+$', r'_international\g<0>', path_fixed)
 
     # https://stackoverflow.com/a/65955938
