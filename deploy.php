@@ -73,6 +73,10 @@ function process_course($course, &$stats) {
         $toc .= "* [$semester_pretty](#$semester)\n";
 
         $staff_filename = "$course/$semester/Staff.json";
+        if (!is_file($staff_filename)) {
+            $staff_filename = "$course/$semester/Staff_international.json";
+        }
+
         if (is_file($staff_filename)) {
             $stats['staff']++;
 
@@ -100,7 +104,15 @@ function process_course($course, &$stats) {
         $category_count = 0;
         foreach ($categories as $category => $category_name) {
             $filename = "$course/$semester/$category.json";
+            if (!is_file($filename)) {
+                $filename = "$course/$semester/{$category}_international.json";
+            }
+
             $image_filename = "$course/$semester/$category.png";
+            if (!is_file($filename)) {
+                $filename = "$course/$semester/{$category}_international.png";
+            }
+
             if (!is_file($filename)) {
                 if (is_file($image_filename)) {
                     log_warning("$course/$semester/$category: Image with missing data");
