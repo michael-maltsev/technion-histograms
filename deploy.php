@@ -109,8 +109,8 @@ function process_course($course, &$stats) {
             }
 
             $image_filename = "$course/$semester/$category.png";
-            if (!is_file($filename)) {
-                $filename = "$course/$semester/{$category}_international.png";
+            if (!is_file($image_filename)) {
+                $image_filename = "$course/$semester/{$category}_international.png";
             }
 
             if (!is_file($filename)) {
