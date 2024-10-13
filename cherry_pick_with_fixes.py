@@ -390,7 +390,24 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         else:
             raise Exception(f'Unexpected path in commit {commit}: {path_without_mismatch} != {path_fixed}')
 
-    if properties['histogramCourseName'].endswith('- בינלאומי'):
+    if category_from_path != 'Staff':
+        is_international = properties['histogramCourseName'].endswith('- בינלאומי')
+    else:
+        # The Staff.json file has limited information. Hopefully it's good
+        # enough most of the time.
+        if 'histogramCourseName' in properties:
+            raise Exception(f'Unexpected histogramCourseName in {properties}')
+
+        if properties['courseName'].endswith('- בינלאומי'):
+            is_international = True
+        elif re.match(r'"?[A-Z]', properties['courseName']):
+            is_international = True
+        elif re.match(r'"?[א-ת]', properties['courseName']):
+            is_international = False
+        else:
+            raise Exception(f'Unexpected courseName in {properties}')
+
+    if is_international:
         path_fixed = re.sub(r'\.\w+$', r'_international\g<0>', path_fixed)
 
     # https://stackoverflow.com/a/65955938
