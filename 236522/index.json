@@ -88,5 +88,32 @@
             "average": "90.154",
             "median": "92"
         }
+    },
+    "202302": {
+        "Staff": [
+            {
+                "name": "ענבי ליאון",
+                "email": "leon.anavy@gmail.com,anavy@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "47",
+            "passFail": "40\/7",
+            "passPercent": "85",
+            "min": "33",
+            "max": "100",
+            "average": "76.415",
+            "median": "76"
+        },
+        "Final_A": {
+            "students": "47",
+            "passFail": "44\/3",
+            "passPercent": "94",
+            "min": "44.53",
+            "max": "100",
+            "average": "81.278",
+            "median": "81.73"
+        }
     }
 }
