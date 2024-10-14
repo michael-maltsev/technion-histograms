@@ -1,36 +1,4 @@
 {
-    "202101": {
-        "Staff": [
-            {
-                "name": "פלונסקי אורי",
-                "email": "plonsky@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "69.967",
-            "max": "99",
-            "average": "90.322",
-            "median": "92.5"
-        },
-        "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "99",
-            "average": "90.353",
-            "median": "93"
-        }
-    },
     "202201": {
         "Staff": [
             {
@@ -70,6 +38,38 @@
             "max": "100",
             "average": "88.053",
             "median": "89"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "פלונסקי אורי",
+                "email": "plonsky@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "69.967",
+            "max": "99",
+            "average": "90.322",
+            "median": "92.5"
+        },
+        "Finals": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "99",
+            "average": "90.353",
+            "median": "93"
         }
     }
 }

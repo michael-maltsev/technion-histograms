@@ -1,11 +1,6 @@
 {
-    "202101": {
+    "202302": {
         "Staff": [
-            {
-                "name": "רפאל דינה",
-                "email": "dina.raphael@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
             {
                 "name": "בן-איש שלומית",
                 "email": "shlomitb@technion.ac.il",
@@ -18,25 +13,34 @@
             }
         ],
         "Final_A": {
-            "students": "41",
-            "passFail": "41\/0",
+            "students": "55",
+            "passFail": "55\/0",
             "passPercent": "100",
-            "min": "75",
+            "min": "69",
             "max": "100",
-            "average": "89.195",
+            "average": "89.527",
+            "median": "90"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "95",
+            "average": "92.083",
             "median": "90"
         },
         "Finals": {
-            "students": "41",
-            "passFail": "41\/0",
+            "students": "56",
+            "passFail": "56\/0",
             "passPercent": "100",
-            "min": "75",
+            "min": "69",
             "max": "100",
-            "average": "89.195",
-            "median": "90"
+            "average": "91.321",
+            "median": "91"
         }
     },
-    "202102": {
+    "202301": {
         "Staff": [
             {
                 "name": "רפאל דינה",
@@ -55,21 +59,58 @@
             }
         ],
         "Final_A": {
-            "students": "37",
-            "passFail": "37\/0",
+            "students": "68",
+            "passFail": "68\/0",
             "passPercent": "100",
-            "min": "70",
-            "max": "97.6",
-            "average": "90.519",
+            "min": "85",
+            "max": "100",
+            "average": "92.926",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "68",
+            "passFail": "68\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "92.926",
+            "median": "92"
+        }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "רפאל דינה",
+                "email": "dina.raphael@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "64",
+            "passFail": "64\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "93.266",
             "median": "94"
         },
         "Finals": {
-            "students": "37",
-            "passFail": "37\/0",
+            "students": "64",
+            "passFail": "64\/0",
             "passPercent": "100",
-            "min": "70",
-            "max": "98",
-            "average": "90.541",
+            "min": "85",
+            "max": "100",
+            "average": "93.317",
             "median": "94"
         }
     },
@@ -110,7 +151,7 @@
             "median": "93"
         }
     },
-    "202202": {
+    "202102": {
         "Staff": [
             {
                 "name": "רפאל דינה",
@@ -129,25 +170,25 @@
             }
         ],
         "Final_A": {
-            "students": "64",
-            "passFail": "64\/0",
+            "students": "37",
+            "passFail": "37\/0",
             "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "93.266",
+            "min": "70",
+            "max": "97.6",
+            "average": "90.519",
             "median": "94"
         },
         "Finals": {
-            "students": "64",
-            "passFail": "64\/0",
+            "students": "37",
+            "passFail": "37\/0",
             "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "93.317",
+            "min": "70",
+            "max": "98",
+            "average": "90.541",
             "median": "94"
         }
     },
-    "202301": {
+    "202101": {
         "Staff": [
             {
                 "name": "רפאל דינה",
@@ -155,38 +196,6 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "68",
-            "passFail": "68\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "92.926",
-            "median": "92"
-        },
-        "Finals": {
-            "students": "68",
-            "passFail": "68\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "92.926",
-            "median": "92"
-        }
-    },
-    "202302": {
-        "Staff": [
-            {
                 "name": "בן-איש שלומית",
                 "email": "shlomitb@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -198,31 +207,22 @@
             }
         ],
         "Final_A": {
-            "students": "55",
-            "passFail": "55\/0",
+            "students": "41",
+            "passFail": "41\/0",
             "passPercent": "100",
-            "min": "69",
+            "min": "75",
             "max": "100",
-            "average": "89.527",
-            "median": "90"
-        },
-        "Final_B": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "95",
-            "average": "92.083",
+            "average": "89.195",
             "median": "90"
         },
         "Finals": {
-            "students": "56",
-            "passFail": "56\/0",
+            "students": "41",
+            "passFail": "41\/0",
             "passPercent": "100",
-            "min": "69",
+            "min": "75",
             "max": "100",
-            "average": "91.321",
-            "median": "91"
+            "average": "89.195",
+            "median": "90"
         }
     }
 }

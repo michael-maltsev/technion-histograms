@@ -1,11 +1,6 @@
 {
-    "202102": {
+    "202302": {
         "Staff": [
-            {
-                "name": "להב אילון נועה",
-                "email": "nlayalon@campus.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
             {
                 "name": "בן-איש שלומית",
                 "email": "shlomitb@technion.ac.il",
@@ -18,22 +13,22 @@
             }
         ],
         "Final_A": {
-            "students": "44",
-            "passFail": "44\/0",
+            "students": "95",
+            "passFail": "95\/0",
             "passPercent": "100",
-            "min": "75",
-            "max": "97",
-            "average": "87.682",
-            "median": "87.5"
+            "min": "90",
+            "max": "100",
+            "average": "97.305",
+            "median": "98"
         },
         "Finals": {
-            "students": "49",
-            "passFail": "49\/0",
+            "students": "95",
+            "passFail": "95\/0",
             "passPercent": "100",
-            "min": "75",
-            "max": "97",
-            "average": "89.082",
-            "median": "89"
+            "min": "90",
+            "max": "100",
+            "average": "97.305",
+            "median": "98"
         }
     },
     "202202": {
@@ -82,8 +77,13 @@
             "median": "92"
         }
     },
-    "202302": {
+    "202102": {
         "Staff": [
+            {
+                "name": "להב אילון נועה",
+                "email": "nlayalon@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
             {
                 "name": "בן-איש שלומית",
                 "email": "shlomitb@technion.ac.il",
@@ -96,22 +96,22 @@
             }
         ],
         "Final_A": {
-            "students": "95",
-            "passFail": "95\/0",
+            "students": "44",
+            "passFail": "44\/0",
             "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "97.305",
-            "median": "98"
+            "min": "75",
+            "max": "97",
+            "average": "87.682",
+            "median": "87.5"
         },
         "Finals": {
-            "students": "95",
-            "passFail": "95\/0",
+            "students": "49",
+            "passFail": "49\/0",
             "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "97.305",
-            "median": "98"
+            "min": "75",
+            "max": "97",
+            "average": "89.082",
+            "median": "89"
         }
     }
 }

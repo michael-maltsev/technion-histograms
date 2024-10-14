@@ -1,4 +1,31 @@
 {
+    "201902": {
+        "Staff": [
+            {
+                "name": "אבידן יוני",
+                "email": "yonniavidan@gmail.com,syonni@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "80",
+            "passFail": "80\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "84.925",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "80",
+            "passFail": "80\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "84.925",
+            "median": "85"
+        }
+    },
     "201802": {
         "Staff": [
             {
@@ -58,33 +85,6 @@
             "min": "54",
             "max": "95",
             "average": "84.126",
-            "median": "85"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "אבידן יוני",
-                "email": "yonniavidan@gmail.com,syonni@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "80",
-            "passFail": "80\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "84.925",
-            "median": "85"
-        },
-        "Finals": {
-            "students": "80",
-            "passFail": "80\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "84.925",
             "median": "85"
         }
     }

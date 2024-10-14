@@ -1,40 +1,4 @@
 {
-    "201701": {
-        "Staff": [
-            {
-                "name": "קורניצר דניאל",
-                "email": "danielk@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Exam_A": {
-            "students": "130",
-            "passFail": "128\/2",
-            "passPercent": "98",
-            "min": "47",
-            "max": "100",
-            "average": "81.223",
-            "median": "82"
-        },
-        "Final_A": {
-            "students": "130",
-            "passFail": "128\/2",
-            "passPercent": "98",
-            "min": "47",
-            "max": "99",
-            "average": "85.177",
-            "median": "86.5"
-        },
-        "Finals": {
-            "students": "134",
-            "passFail": "134\/0",
-            "passPercent": "100",
-            "min": "69",
-            "max": "99",
-            "average": "85.634",
-            "median": "86.5"
-        }
-    },
     "201901": {
         "Staff": [
             {
@@ -87,6 +51,42 @@
             "max": "93",
             "average": "81.508",
             "median": "82"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "קורניצר דניאל",
+                "email": "danielk@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "130",
+            "passFail": "128\/2",
+            "passPercent": "98",
+            "min": "47",
+            "max": "100",
+            "average": "81.223",
+            "median": "82"
+        },
+        "Final_A": {
+            "students": "130",
+            "passFail": "128\/2",
+            "passPercent": "98",
+            "min": "47",
+            "max": "99",
+            "average": "85.177",
+            "median": "86.5"
+        },
+        "Finals": {
+            "students": "134",
+            "passFail": "134\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "99",
+            "average": "85.634",
+            "median": "86.5"
         }
     }
 }

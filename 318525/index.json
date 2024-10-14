@@ -1,4 +1,59 @@
 {
+    "202202": {
+        "Staff": [
+            {
+                "name": "קאופמן ירון",
+                "email": "mtyaron@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קיסלוב יוליה",
+                "email": "yuliak@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "97",
+            "average": "91",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "97",
+            "average": "86.467",
+            "median": "89"
+        }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "קאופמן ירון",
+                "email": "mtyaron@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קיסלוב יוליה",
+                "email": "yuliak@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "83",
+            "max": "100",
+            "average": "92.688",
+            "median": "93"
+        }
+    },
     "202002": {
         "Staff": [
             {
@@ -34,61 +89,6 @@
             "max": "99",
             "average": "94.2",
             "median": "95"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "קאופמן ירון",
-                "email": "mtyaron@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "קיסלוב יוליה",
-                "email": "yuliak@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "83",
-            "max": "100",
-            "average": "92.688",
-            "median": "93"
-        }
-    },
-    "202202": {
-        "Staff": [
-            {
-                "name": "קאופמן ירון",
-                "email": "mtyaron@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "קיסלוב יוליה",
-                "email": "yuliak@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "73",
-            "max": "97",
-            "average": "91",
-            "median": "93"
-        },
-        "Finals": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "57",
-            "max": "97",
-            "average": "86.467",
-            "median": "89"
         }
     }
 }

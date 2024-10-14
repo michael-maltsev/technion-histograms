@@ -1,4 +1,22 @@
 {
+    "202301": {
+        "Staff": [
+            {
+                "name": "ברקוביץ מורן",
+                "email": "mberco@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "100",
+            "average": "85.12",
+            "median": "90"
+        }
+    },
     "201901": {
         "Staff": [
             {
@@ -29,24 +47,6 @@
             "max": "98",
             "average": "90",
             "median": "91"
-        }
-    },
-    "202301": {
-        "Staff": [
-            {
-                "name": "ברקוביץ מורן",
-                "email": "mberco@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "57",
-            "max": "100",
-            "average": "85.12",
-            "median": "90"
         }
     }
 }

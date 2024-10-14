@@ -1,27 +1,4 @@
 {
-    "202201": {
-        "Staff": [
-            {
-                "name": "שמאי יוסי",
-                "email": "yshamay@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "הריס יובל",
-                "email": "yuval.harris@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "33",
-            "passFail": "33\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "98",
-            "average": "89.818",
-            "median": "90"
-        }
-    },
     "202301": {
         "Staff": [
             {
@@ -52,6 +29,29 @@
             "max": "98",
             "average": "92.738",
             "median": "92"
+        }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "שמאי יוסי",
+                "email": "yshamay@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הריס יובל",
+                "email": "yuval.harris@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "33",
+            "passFail": "33\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "98",
+            "average": "89.818",
+            "median": "90"
         }
     }
 }

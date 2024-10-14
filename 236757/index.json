@@ -1,19 +1,37 @@
 {
-    "201802": {
+    "202301": {
         "Staff": [
             {
-                "name": "אל-יניב רן",
-                "email": "rani@cs.technion.ac.il",
+                "name": "שוסטר אסף",
+                "email": "assaf@cs.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "13",
-            "passFail": "13\/0",
+            "students": "11",
+            "passFail": "11\/0",
             "passPercent": "100",
-            "min": "87",
+            "min": "91",
             "max": "100",
-            "average": "96",
+            "average": "97.364",
+            "median": "95"
+        }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "ברונשטיין אלכסנדר",
+                "email": "bron@cs.technion.ac.il,bron@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "10",
+            "passFail": "10\/0",
+            "passPercent": "100",
+            "min": "95",
+            "max": "100",
+            "average": "98.2",
             "median": "98"
         }
     },
@@ -35,40 +53,22 @@
             "median": "100"
         }
     },
-    "202202": {
+    "201802": {
         "Staff": [
             {
-                "name": "ברונשטיין אלכסנדר",
-                "email": "bron@cs.technion.ac.il,bron@technion.ac.il",
+                "name": "אל-יניב רן",
+                "email": "rani@cs.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
+            "students": "13",
+            "passFail": "13\/0",
             "passPercent": "100",
-            "min": "95",
+            "min": "87",
             "max": "100",
-            "average": "98.2",
+            "average": "96",
             "median": "98"
-        }
-    },
-    "202301": {
-        "Staff": [
-            {
-                "name": "שוסטר אסף",
-                "email": "assaf@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "91",
-            "max": "100",
-            "average": "97.364",
-            "median": "95"
         }
     }
 }

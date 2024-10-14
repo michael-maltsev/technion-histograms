@@ -1,5 +1,5 @@
 {
-    "201802": {
+    "202201": {
         "Staff": [
             {
                 "name": "שורץ רועי",
@@ -8,85 +8,13 @@
             }
         ],
         "Finals": {
-            "students": "45",
-            "passFail": "45\/0",
+            "students": "58",
+            "passFail": "58\/0",
             "passPercent": "100",
-            "min": "60",
+            "min": "65",
             "max": "100",
-            "average": "96.222",
-            "median": "100"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "שורץ רועי",
-                "email": "schwartz@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "26",
-            "passFail": "26\/0",
-            "passPercent": "100",
-            "min": "86",
-            "max": "100",
-            "average": "95.808",
-            "median": "98"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "שורץ רועי",
-                "email": "schwartz@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "34",
-            "passFail": "34\/0",
-            "passPercent": "100",
-            "min": "75",
-            "max": "100",
-            "average": "92.176",
-            "median": "91.5"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "שורץ רועי",
-                "email": "schwartz@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "93",
-            "max": "100",
-            "average": "97.5",
-            "median": "99"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "שורץ רועי",
-                "email": "schwartz@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "50",
-            "passFail": "50\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "100",
-            "average": "91.34",
-            "median": "97"
+            "average": "88.362",
+            "median": "90.5"
         }
     },
     "202102": {
@@ -107,7 +35,7 @@
             "median": "88"
         }
     },
-    "202201": {
+    "202101": {
         "Staff": [
             {
                 "name": "שורץ רועי",
@@ -116,13 +44,85 @@
             }
         ],
         "Finals": {
-            "students": "58",
-            "passFail": "58\/0",
+            "students": "50",
+            "passFail": "50\/0",
             "passPercent": "100",
-            "min": "65",
+            "min": "60",
             "max": "100",
-            "average": "88.362",
-            "median": "90.5"
+            "average": "91.34",
+            "median": "97"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "שורץ רועי",
+                "email": "schwartz@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "100",
+            "average": "97.5",
+            "median": "99"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "שורץ רועי",
+                "email": "schwartz@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "100",
+            "average": "92.176",
+            "median": "91.5"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "שורץ רועי",
+                "email": "schwartz@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "100",
+            "average": "95.808",
+            "median": "98"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "שורץ רועי",
+                "email": "schwartz@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "45",
+            "passFail": "45\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "96.222",
+            "median": "100"
         }
     }
 }

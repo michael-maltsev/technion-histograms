@@ -1,31 +1,4 @@
 {
-    "201701": {
-        "Staff": [
-            {
-                "name": "רגב-טייטלר שרון",
-                "email": "sharonregevt@gmail.com,sharont@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "27",
-            "passFail": "27\/0",
-            "passPercent": "100",
-            "min": "72",
-            "max": "100",
-            "average": "88.778",
-            "median": "89"
-        },
-        "Finals": {
-            "students": "29",
-            "passFail": "29\/0",
-            "passPercent": "100",
-            "min": "72",
-            "max": "100",
-            "average": "91.103",
-            "median": "92"
-        }
-    },
     "201801": {
         "Staff": [
             {
@@ -51,6 +24,33 @@
             "max": "100",
             "average": "89.167",
             "median": "89.5"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "רגב-טייטלר שרון",
+                "email": "sharonregevt@gmail.com,sharont@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "27",
+            "passFail": "27\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "100",
+            "average": "88.778",
+            "median": "89"
+        },
+        "Finals": {
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "100",
+            "average": "91.103",
+            "median": "92"
         }
     }
 }

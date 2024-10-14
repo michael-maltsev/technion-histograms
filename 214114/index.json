@@ -1,32 +1,5 @@
 {
-    "201502": {
-        "Staff": [
-            {
-                "name": "גוטגולד-כהן תמר",
-                "email": "tamargc@gmail.com,tamargo@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "37",
-            "passFail": "37\/0",
-            "passPercent": "100",
-            "min": "73",
-            "max": "99",
-            "average": "90.757",
-            "median": "93"
-        },
-        "Finals": {
-            "students": "42",
-            "passFail": "42\/0",
-            "passPercent": "100",
-            "min": "73",
-            "max": "99",
-            "average": "91.381",
-            "median": "93"
-        }
-    },
-    "201702": {
+    "202002": {
         "Staff": [
             {
                 "name": "לביא-אלון נירית",
@@ -40,21 +13,41 @@
             }
         ],
         "Final_A": {
-            "students": "22",
-            "passFail": "22\/0",
+            "students": "27",
+            "passFail": "27\/0",
             "passPercent": "100",
-            "min": "86",
+            "min": "81",
             "max": "100",
-            "average": "92.5",
+            "average": "91.37",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "27",
+            "passFail": "27\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "100",
+            "average": "91.37",
+            "median": "92"
+        }
+    },
+    "201901": {
+        "Final_A": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "92",
             "median": "93"
         },
         "Finals": {
-            "students": "23",
-            "passFail": "23\/0",
+            "students": "17",
+            "passFail": "17\/0",
             "passPercent": "100",
-            "min": "84",
+            "min": "85",
             "max": "100",
-            "average": "92.13",
+            "average": "92",
             "median": "93"
         }
     },
@@ -90,27 +83,7 @@
             "median": "93.5"
         }
     },
-    "201901": {
-        "Final_A": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "92",
-            "median": "93"
-        },
-        "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "92",
-            "median": "93"
-        }
-    },
-    "202002": {
+    "201702": {
         "Staff": [
             {
                 "name": "לביא-אלון נירית",
@@ -124,22 +97,49 @@
             }
         ],
         "Final_A": {
-            "students": "27",
-            "passFail": "27\/0",
+            "students": "22",
+            "passFail": "22\/0",
             "passPercent": "100",
-            "min": "81",
+            "min": "86",
             "max": "100",
-            "average": "91.37",
-            "median": "92"
+            "average": "92.5",
+            "median": "93"
         },
         "Finals": {
-            "students": "27",
-            "passFail": "27\/0",
+            "students": "23",
+            "passFail": "23\/0",
             "passPercent": "100",
-            "min": "81",
+            "min": "84",
             "max": "100",
-            "average": "91.37",
-            "median": "92"
+            "average": "92.13",
+            "median": "93"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "גוטגולד-כהן תמר",
+                "email": "tamargc@gmail.com,tamargo@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "37",
+            "passFail": "37\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "99",
+            "average": "90.757",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "42",
+            "passFail": "42\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "99",
+            "average": "91.381",
+            "median": "93"
         }
     }
 }

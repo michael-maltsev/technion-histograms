@@ -1,38 +1,13 @@
 {
-    "201702": {
-        "Staff": [
-            {
-                "name": "גיל יוסף",
-                "email": "yogi@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
+    "202002": {
         "Finals": {
-            "students": "47",
-            "passFail": "42\/5",
-            "passPercent": "89",
-            "min": "27",
-            "max": "98",
-            "average": "73.362",
-            "median": "75"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "יהב ערן",
-                "email": "yahave@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "30",
-            "passFail": "28\/2",
+            "students": "15",
+            "passFail": "14\/1",
             "passPercent": "93",
-            "min": "43",
-            "max": "100",
-            "average": "79.8",
-            "median": "84"
+            "min": "15",
+            "max": "96",
+            "average": "76.467",
+            "median": "81"
         }
     },
     "201902": {
@@ -53,15 +28,40 @@
             "median": "74.5"
         }
     },
-    "202002": {
+    "201802": {
+        "Staff": [
+            {
+                "name": "יהב ערן",
+                "email": "yahave@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
         "Finals": {
-            "students": "15",
-            "passFail": "14\/1",
+            "students": "30",
+            "passFail": "28\/2",
             "passPercent": "93",
-            "min": "15",
-            "max": "96",
-            "average": "76.467",
-            "median": "81"
+            "min": "43",
+            "max": "100",
+            "average": "79.8",
+            "median": "84"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "גיל יוסף",
+                "email": "yogi@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "47",
+            "passFail": "42\/5",
+            "passPercent": "89",
+            "min": "27",
+            "max": "98",
+            "average": "73.362",
+            "median": "75"
         }
     }
 }

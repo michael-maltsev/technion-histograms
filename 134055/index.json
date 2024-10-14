@@ -1,5 +1,5 @@
 {
-    "201202": {
+    "201701": {
         "Staff": [
             {
                 "name": "מלמד פיליפה",
@@ -7,14 +7,32 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
+        "Final_A": {
+            "students": "30",
+            "passFail": "27\/3",
+            "passPercent": "90",
+            "min": "49",
+            "max": "95",
+            "average": "74.167",
+            "median": "75.5"
+        },
         "Final_B": {
-            "students": "27",
-            "passFail": "24\/3",
-            "passPercent": "89",
-            "min": "47",
-            "max": "97",
-            "average": "72.074",
-            "median": "71"
+            "students": "15",
+            "passFail": "13\/2",
+            "passPercent": "87",
+            "min": "49",
+            "max": "81",
+            "average": "70.933",
+            "median": "75"
+        },
+        "Finals": {
+            "students": "34",
+            "passFail": "32\/2",
+            "passPercent": "94",
+            "min": "49",
+            "max": "95",
+            "average": "78.324",
+            "median": "80.5"
         }
     },
     "201601": {
@@ -53,7 +71,7 @@
             "median": "83"
         }
     },
-    "201701": {
+    "201202": {
         "Staff": [
             {
                 "name": "מלמד פיליפה",
@@ -61,32 +79,14 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Final_A": {
-            "students": "30",
-            "passFail": "27\/3",
-            "passPercent": "90",
-            "min": "49",
-            "max": "95",
-            "average": "74.167",
-            "median": "75.5"
-        },
         "Final_B": {
-            "students": "15",
-            "passFail": "13\/2",
-            "passPercent": "87",
-            "min": "49",
-            "max": "81",
-            "average": "70.933",
-            "median": "75"
-        },
-        "Finals": {
-            "students": "34",
-            "passFail": "32\/2",
-            "passPercent": "94",
-            "min": "49",
-            "max": "95",
-            "average": "78.324",
-            "median": "80.5"
+            "students": "27",
+            "passFail": "24\/3",
+            "passPercent": "89",
+            "min": "47",
+            "max": "97",
+            "average": "72.074",
+            "median": "71"
         }
     }
 }

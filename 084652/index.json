@@ -1,4 +1,31 @@
 {
+    "202202": {
+        "Staff": [
+            {
+                "name": "גורביץ' שי",
+                "email": "",
+                "title": "מרצה"
+            }
+        ],
+        "Final_A": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "92",
+            "max": "100",
+            "average": "95.5",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "92",
+            "max": "100",
+            "average": "95.462",
+            "median": "95"
+        }
+    },
     "202102": {
         "Staff": [
             {
@@ -25,33 +52,6 @@
             "max": "100",
             "average": "96.765",
             "median": "98"
-        }
-    },
-    "202202": {
-        "Staff": [
-            {
-                "name": "גורביץ' שי",
-                "email": "",
-                "title": "מרצה"
-            }
-        ],
-        "Final_A": {
-            "students": "24",
-            "passFail": "24\/0",
-            "passPercent": "100",
-            "min": "92",
-            "max": "100",
-            "average": "95.5",
-            "median": "95"
-        },
-        "Finals": {
-            "students": "26",
-            "passFail": "26\/0",
-            "passPercent": "100",
-            "min": "92",
-            "max": "100",
-            "average": "95.462",
-            "median": "95"
         }
     }
 }

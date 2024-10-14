@@ -1,22 +1,4 @@
 {
-    "201701": {
-        "Staff": [
-            {
-                "name": "ידגר גלה",
-                "email": "gala@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "31",
-            "passFail": "30\/1",
-            "passPercent": "97",
-            "min": "47",
-            "max": "99",
-            "average": "76.097",
-            "median": "73"
-        }
-    },
     "201702": {
         "Staff": [
             {
@@ -33,6 +15,24 @@
             "max": "98",
             "average": "75.463",
             "median": "78"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "ידגר גלה",
+                "email": "gala@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "31",
+            "passFail": "30\/1",
+            "passPercent": "97",
+            "min": "47",
+            "max": "99",
+            "average": "76.097",
+            "median": "73"
         }
     }
 }

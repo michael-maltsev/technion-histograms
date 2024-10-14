@@ -1,31 +1,4 @@
 {
-    "201602": {
-        "Staff": [
-            {
-                "name": "פורמן אלכס",
-                "email": "afurman@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "100",
-            "average": "82.4",
-            "median": "77"
-        },
-        "Finals": {
-            "students": "17",
-            "passFail": "16\/1",
-            "passPercent": "94",
-            "min": "50",
-            "max": "100",
-            "average": "79.294",
-            "median": "77"
-        }
-    },
     "201802": {
         "Staff": [
             {
@@ -61,6 +34,33 @@
             "max": "93",
             "average": "86.273",
             "median": "88.5"
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "פורמן אלכס",
+                "email": "afurman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "100",
+            "average": "82.4",
+            "median": "77"
+        },
+        "Finals": {
+            "students": "17",
+            "passFail": "16\/1",
+            "passPercent": "94",
+            "min": "50",
+            "max": "100",
+            "average": "79.294",
+            "median": "77"
         }
     }
 }

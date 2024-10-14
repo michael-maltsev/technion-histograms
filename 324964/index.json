@@ -1,29 +1,39 @@
 {
-    "201501": {
+    "202001": {
         "Staff": [
             {
                 "name": "שחר עידו",
                 "email": "",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הראל אילנה",
+                "email": "ilanah1@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "45",
-            "passFail": "43\/2",
-            "passPercent": "96",
-            "min": "44",
+            "students": "64",
+            "passFail": "64\/0",
+            "passPercent": "100",
+            "min": "80",
             "max": "100",
-            "average": "79.778",
-            "median": "84"
+            "average": "95.547",
+            "median": "97"
         },
         "Finals": {
-            "students": "45",
-            "passFail": "44\/1",
-            "passPercent": "98",
-            "min": "48",
+            "students": "70",
+            "passFail": "70\/0",
+            "passPercent": "100",
+            "min": "80",
             "max": "100",
-            "average": "85.067",
-            "median": "88"
+            "average": "95.286",
+            "median": "97"
         }
     },
     "201902": {
@@ -72,41 +82,31 @@
             "median": "92"
         }
     },
-    "202001": {
+    "201501": {
         "Staff": [
             {
                 "name": "שחר עידו",
                 "email": "",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "הראל אילנה",
-                "email": "ilanah1@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "64",
-            "passFail": "64\/0",
-            "passPercent": "100",
-            "min": "80",
+            "students": "45",
+            "passFail": "43\/2",
+            "passPercent": "96",
+            "min": "44",
             "max": "100",
-            "average": "95.547",
-            "median": "97"
+            "average": "79.778",
+            "median": "84"
         },
         "Finals": {
-            "students": "70",
-            "passFail": "70\/0",
-            "passPercent": "100",
-            "min": "80",
+            "students": "45",
+            "passFail": "44\/1",
+            "passPercent": "98",
+            "min": "48",
             "max": "100",
-            "average": "95.286",
-            "median": "97"
+            "average": "85.067",
+            "median": "88"
         }
     }
 }

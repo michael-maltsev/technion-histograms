@@ -1,5 +1,5 @@
 {
-    "201701": {
+    "202101": {
         "Staff": [
             {
                 "name": "קריסטלני מקסים",
@@ -8,58 +8,22 @@
             }
         ],
         "Final_A": {
-            "students": "35",
-            "passFail": "35\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "96",
-            "average": "89.514",
-            "median": "90"
+            "students": "29",
+            "passFail": "28\/1",
+            "passPercent": "97",
+            "min": "52",
+            "max": "99",
+            "average": "91.103",
+            "median": "95"
         },
         "Finals": {
-            "students": "35",
-            "passFail": "35\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "96",
-            "average": "89.686",
-            "median": "90"
-        }
-    },
-    "201801": {
-        "Staff": [
-            {
-                "name": "קריסטלני מקסים",
-                "email": "kmaxim@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "37",
-            "passFail": "37\/0",
-            "passPercent": "100",
-            "min": "69",
-            "max": "97",
-            "average": "91.676",
-            "median": "93"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "קריסטלני מקסים",
-                "email": "kmaxim@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "45",
-            "passFail": "45\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "91.867",
-            "median": "91"
+            "students": "29",
+            "passFail": "28\/1",
+            "passPercent": "97",
+            "min": "52",
+            "max": "99",
+            "average": "91.103",
+            "median": "95"
         }
     },
     "202001": {
@@ -89,7 +53,43 @@
             "median": "92.5"
         }
     },
-    "202101": {
+    "201902": {
+        "Staff": [
+            {
+                "name": "קריסטלני מקסים",
+                "email": "kmaxim@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "45",
+            "passFail": "45\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "91.867",
+            "median": "91"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "קריסטלני מקסים",
+                "email": "kmaxim@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "37",
+            "passFail": "37\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "97",
+            "average": "91.676",
+            "median": "93"
+        }
+    },
+    "201701": {
         "Staff": [
             {
                 "name": "קריסטלני מקסים",
@@ -98,22 +98,22 @@
             }
         ],
         "Final_A": {
-            "students": "29",
-            "passFail": "28\/1",
-            "passPercent": "97",
-            "min": "52",
-            "max": "99",
-            "average": "91.103",
-            "median": "95"
+            "students": "35",
+            "passFail": "35\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "96",
+            "average": "89.514",
+            "median": "90"
         },
         "Finals": {
-            "students": "29",
-            "passFail": "28\/1",
-            "passPercent": "97",
-            "min": "52",
-            "max": "99",
-            "average": "91.103",
-            "median": "95"
+            "students": "35",
+            "passFail": "35\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "96",
+            "average": "89.686",
+            "median": "90"
         }
     }
 }

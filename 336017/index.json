@@ -1,22 +1,4 @@
 {
-    "201701": {
-        "Staff": [
-            {
-                "name": "גז אלין",
-                "email": "guezall@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "93",
-            "max": "96",
-            "average": "94.25",
-            "median": "94"
-        }
-    },
     "201702": {
         "Staff": [
             {
@@ -46,6 +28,24 @@
             "min": "58",
             "max": "98",
             "average": "91.357",
+            "median": "94"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "גז אלין",
+                "email": "guezall@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "96",
+            "average": "94.25",
             "median": "94"
         }
     }

@@ -1,22 +1,4 @@
 {
-    "201502": {
-        "Staff": [
-            {
-                "name": "אונגריש מריוס",
-                "email": "unga@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "149",
-            "passFail": "115\/34",
-            "passPercent": "77",
-            "min": "18",
-            "max": "100",
-            "average": "65.242",
-            "median": "66"
-        }
-    },
     "201601": {
         "Staff": [
             {
@@ -33,6 +15,24 @@
             "max": "99",
             "average": "69.076",
             "median": "71"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "אונגריש מריוס",
+                "email": "unga@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "149",
+            "passFail": "115\/34",
+            "passPercent": "77",
+            "min": "18",
+            "max": "100",
+            "average": "65.242",
+            "median": "66"
         }
     }
 }

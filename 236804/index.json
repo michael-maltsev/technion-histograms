@@ -1,34 +1,5 @@
 {
-    "201802": {
-        "Finals": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "98",
-            "average": "94.6",
-            "median": "95"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "רוטבלום רון",
-                "email": "rothblum@cs.technion.ac.il,rothblum@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "82",
-            "max": "100",
-            "average": "92.909",
-            "median": "93"
-        }
-    },
-    "201902": {
+    "202202": {
         "Staff": [
             {
                 "name": "יעקובי איתן",
@@ -37,48 +8,12 @@
             }
         ],
         "Finals": {
-            "students": "24",
-            "passFail": "24\/0",
+            "students": "26",
+            "passFail": "26\/0",
             "passPercent": "100",
-            "min": "90",
-            "max": "99",
-            "average": "95.167",
-            "median": "95.5"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "רוזנפלד ניר",
-                "email": "nirr@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "21",
-            "passFail": "21\/0",
-            "passPercent": "100",
-            "min": "86",
-            "max": "96",
-            "average": "92.619",
-            "median": "93"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "יעקובי איתן",
-                "email": "yaakobi@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "22",
-            "passFail": "22\/0",
-            "passPercent": "100",
-            "min": "93",
+            "min": "92",
             "max": "98",
-            "average": "95.091",
+            "average": "95.077",
             "median": "95"
         }
     },
@@ -100,7 +35,7 @@
             "median": "95"
         }
     },
-    "202202": {
+    "202002": {
         "Staff": [
             {
                 "name": "יעקובי איתן",
@@ -109,12 +44,77 @@
             }
         ],
         "Finals": {
-            "students": "26",
-            "passFail": "26\/0",
+            "students": "22",
+            "passFail": "22\/0",
             "passPercent": "100",
-            "min": "92",
+            "min": "93",
             "max": "98",
-            "average": "95.077",
+            "average": "95.091",
+            "median": "95"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "רוזנפלד ניר",
+                "email": "nirr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "96",
+            "average": "92.619",
+            "median": "93"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "יעקובי איתן",
+                "email": "yaakobi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "99",
+            "average": "95.167",
+            "median": "95.5"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "רוטבלום רון",
+                "email": "rothblum@cs.technion.ac.il,rothblum@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "82",
+            "max": "100",
+            "average": "92.909",
+            "median": "93"
+        }
+    },
+    "201802": {
+        "Finals": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "98",
+            "average": "94.6",
             "median": "95"
         }
     }

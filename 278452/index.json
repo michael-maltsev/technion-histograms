@@ -1,22 +1,4 @@
 {
-    "201602": {
-        "Staff": [
-            {
-                "name": "שן-אור שי",
-                "email": "shenorr@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Exam_A": {
-            "students": "51",
-            "passFail": "50\/1",
-            "passPercent": "98",
-            "min": "51",
-            "max": "100",
-            "average": "93.451",
-            "median": "97"
-        }
-    },
     "201801": {
         "Staff": [
             {
@@ -51,6 +33,24 @@
             "max": "100",
             "average": "89.357",
             "median": "89.5"
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "שן-אור שי",
+                "email": "shenorr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "51",
+            "passFail": "50\/1",
+            "passPercent": "98",
+            "min": "51",
+            "max": "100",
+            "average": "93.451",
+            "median": "97"
         }
     }
 }

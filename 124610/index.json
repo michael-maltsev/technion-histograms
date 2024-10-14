@@ -1,37 +1,4 @@
 {
-    "201702": {
-        "Staff": [
-            {
-                "name": "אמיתי זוהר",
-                "email": "amitayz@technion.ac.il",
-                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "ליבני אורית",
-                "email": "oritli@campus.technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "כורם גפן",
-                "email": "gefenc@technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "אוסקר עליזה",
-                "email": "chaliza@ch.technion.ac.il,chaliza@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "95",
-            "average": "88.8",
-            "median": "87.5"
-        }
-    },
     "201802": {
         "Staff": [
             {
@@ -82,6 +49,39 @@
             "max": "98",
             "average": "92.833",
             "median": "93"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "אמיתי זוהר",
+                "email": "amitayz@technion.ac.il",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ליבני אורית",
+                "email": "oritli@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "כורם גפן",
+                "email": "gefenc@technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "אוסקר עליזה",
+                "email": "chaliza@ch.technion.ac.il,chaliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "10",
+            "passFail": "10\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "95",
+            "average": "88.8",
+            "median": "87.5"
         }
     }
 }

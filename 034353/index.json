@@ -1,123 +1,4 @@
 {
-    "201501": {
-        "Staff": [
-            {
-                "name": "במברגר חגי",
-                "email": "hagaybam@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "75",
-            "passFail": "75\/0",
-            "passPercent": "100",
-            "min": "79",
-            "max": "98",
-            "average": "91.52",
-            "median": "92"
-        }
-    },
-    "201701": {
-        "Staff": [
-            {
-                "name": "במברגר חגי",
-                "email": "hagaybam@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "40",
-            "passFail": "40\/0",
-            "passPercent": "100",
-            "min": "74",
-            "max": "99",
-            "average": "92.65",
-            "median": "94"
-        }
-    },
-    "201801": {
-        "Staff": [
-            {
-                "name": "במברגר חגי",
-                "email": "hagaybam@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "30",
-            "passFail": "30\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "97",
-            "average": "94.067",
-            "median": "95"
-        }
-    },
-    "201901": {
-        "Finals": {
-            "students": "44",
-            "passFail": "44\/0",
-            "passPercent": "100",
-            "min": "87",
-            "max": "97",
-            "average": "93.159",
-            "median": "93"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "בן משה אלון",
-                "email": "alonbenmoshe@campus.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "41",
-            "passFail": "41\/0",
-            "passPercent": "100",
-            "min": "86",
-            "max": "99",
-            "average": "93.683",
-            "median": "94"
-        },
-        "Finals": {
-            "students": "43",
-            "passFail": "43\/0",
-            "passPercent": "100",
-            "min": "86",
-            "max": "100",
-            "average": "94.628",
-            "median": "94"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "בן משה אלון",
-                "email": "alonbenmoshe@campus.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "21",
-            "passFail": "20\/1",
-            "passPercent": "95",
-            "min": "0",
-            "max": "99",
-            "average": "90.857",
-            "median": "97"
-        },
-        "Finals": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "89",
-            "max": "99",
-            "average": "95.4",
-            "median": "97"
-        }
-    },
     "202201": {
         "Staff": [
             {
@@ -148,6 +29,125 @@
             "max": "97",
             "average": "93.367",
             "median": "94"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "בן משה אלון",
+                "email": "alonbenmoshe@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "21",
+            "passFail": "20\/1",
+            "passPercent": "95",
+            "min": "0",
+            "max": "99",
+            "average": "90.857",
+            "median": "97"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "89",
+            "max": "99",
+            "average": "95.4",
+            "median": "97"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "בן משה אלון",
+                "email": "alonbenmoshe@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "99",
+            "average": "93.683",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "43",
+            "passFail": "43\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "100",
+            "average": "94.628",
+            "median": "94"
+        }
+    },
+    "201901": {
+        "Finals": {
+            "students": "44",
+            "passFail": "44\/0",
+            "passPercent": "100",
+            "min": "87",
+            "max": "97",
+            "average": "93.159",
+            "median": "93"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "במברגר חגי",
+                "email": "hagaybam@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "97",
+            "average": "94.067",
+            "median": "95"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "במברגר חגי",
+                "email": "hagaybam@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "40",
+            "passFail": "40\/0",
+            "passPercent": "100",
+            "min": "74",
+            "max": "99",
+            "average": "92.65",
+            "median": "94"
+        }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "במברגר חגי",
+                "email": "hagaybam@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "75",
+            "passFail": "75\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "98",
+            "average": "91.52",
+            "median": "92"
         }
     }
 }

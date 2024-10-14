@@ -1,120 +1,4 @@
 {
-    "201901": {
-        "Staff": [
-            {
-                "name": "ברגינר אמיל",
-                "email": "lawberginer@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "צאצאשוילי תמי",
-                "email": "tami@technion.ac.il,noreplay@norplay.com",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "שביט שרית",
-                "email": "sarits@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "38",
-            "passFail": "38\/0",
-            "passPercent": "100",
-            "min": "74.535",
-            "max": "98.7",
-            "average": "91.915",
-            "median": "92.227"
-        },
-        "Finals": {
-            "students": "38",
-            "passFail": "38\/0",
-            "passPercent": "100",
-            "min": "75",
-            "max": "99",
-            "average": "91.947",
-            "median": "92"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "ברגינר אמיל",
-                "email": "lawberginer@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "שביט שרית",
-                "email": "sarits@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "צאצאשוילי תמי",
-                "email": "tami@technion.ac.il,noreplay@norplay.com",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בלסברג עליזה",
-                "email": "aliza@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "40",
-            "passFail": "40\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "100",
-            "average": "93.875",
-            "median": "95"
-        },
-        "Finals": {
-            "students": "40",
-            "passFail": "40\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "100",
-            "average": "94.025",
-            "median": "95"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "ברגינר אמיל",
-                "email": "lawberginer@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "שביט שרית",
-                "email": "sarits@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "צאצאשוילי תמי",
-                "email": "tami@technion.ac.il,noreplay@norplay.com",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "44",
-            "passFail": "44\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "99",
-            "average": "93.273",
-            "median": "93.5"
-        },
-        "Finals": {
-            "students": "44",
-            "passFail": "44\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "99",
-            "average": "93.5",
-            "median": "94"
-        }
-    },
     "202201": {
         "Staff": [
             {
@@ -170,6 +54,122 @@
             "max": "100",
             "average": "89.151",
             "median": "90"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "ברגינר אמיל",
+                "email": "lawberginer@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "44",
+            "passFail": "44\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "99",
+            "average": "93.273",
+            "median": "93.5"
+        },
+        "Finals": {
+            "students": "44",
+            "passFail": "44\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "99",
+            "average": "93.5",
+            "median": "94"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "ברגינר אמיל",
+                "email": "lawberginer@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "40",
+            "passFail": "40\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "100",
+            "average": "93.875",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "40",
+            "passFail": "40\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "100",
+            "average": "94.025",
+            "median": "95"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "ברגינר אמיל",
+                "email": "lawberginer@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "38",
+            "passFail": "38\/0",
+            "passPercent": "100",
+            "min": "74.535",
+            "max": "98.7",
+            "average": "91.915",
+            "median": "92.227"
+        },
+        "Finals": {
+            "students": "38",
+            "passFail": "38\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "99",
+            "average": "91.947",
+            "median": "92"
         }
     }
 }

@@ -1,37 +1,57 @@
 {
-    "201901": {
+    "202102": {
         "Staff": [
             {
-                "name": "קובלר קונסטנט",
+                "name": "קובלר קונסטנטין",
                 "email": "cvrkost@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מלכה אופירה",
+                "email": "ofiramalka@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "לוינסקי יעל",
+                "email": "yaellevi@technion.ac.il,yaelly@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
-            "students": "35",
-            "passFail": "33\/2",
-            "passPercent": "94",
-            "min": "33",
-            "max": "91",
-            "average": "74.657",
-            "median": "76"
+            "students": "24",
+            "passFail": "0\/24",
+            "passPercent": "0",
+            "min": "29",
+            "max": "50",
+            "average": "41.333",
+            "median": "42"
         },
         "Final_A": {
-            "students": "42",
-            "passFail": "41\/1",
-            "passPercent": "98",
-            "min": "44.965",
+            "students": "26",
+            "passFail": "25\/1",
+            "passPercent": "96",
+            "min": "10",
             "max": "100",
-            "average": "87.119",
+            "average": "85.615",
             "median": "90"
         },
         "Finals": {
-            "students": "44",
-            "passFail": "43\/1",
-            "passPercent": "98",
-            "min": "45",
+            "students": "26",
+            "passFail": "25\/1",
+            "passPercent": "96",
+            "min": "10",
             "max": "100",
-            "average": "86.932",
+            "average": "85.615",
             "median": "90"
         }
     },
@@ -87,59 +107,39 @@
             "median": "87"
         }
     },
-    "202102": {
+    "201901": {
         "Staff": [
             {
-                "name": "קובלר קונסטנטין",
+                "name": "קובלר קונסטנט",
                 "email": "cvrkost@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "צאצאשוילי תמי",
-                "email": "tami@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "מלכה אופירה",
-                "email": "ofiramalka@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "לוינסקי יעל",
-                "email": "yaellevi@technion.ac.il,yaelly@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "שביט שרית",
-                "email": "sarits@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
-            "students": "24",
-            "passFail": "0\/24",
-            "passPercent": "0",
-            "min": "29",
-            "max": "50",
-            "average": "41.333",
-            "median": "42"
+            "students": "35",
+            "passFail": "33\/2",
+            "passPercent": "94",
+            "min": "33",
+            "max": "91",
+            "average": "74.657",
+            "median": "76"
         },
         "Final_A": {
-            "students": "26",
-            "passFail": "25\/1",
-            "passPercent": "96",
-            "min": "10",
+            "students": "42",
+            "passFail": "41\/1",
+            "passPercent": "98",
+            "min": "44.965",
             "max": "100",
-            "average": "85.615",
+            "average": "87.119",
             "median": "90"
         },
         "Finals": {
-            "students": "26",
-            "passFail": "25\/1",
-            "passPercent": "96",
-            "min": "10",
+            "students": "44",
+            "passFail": "43\/1",
+            "passPercent": "98",
+            "min": "45",
             "max": "100",
-            "average": "85.615",
+            "average": "86.932",
             "median": "90"
         }
     }

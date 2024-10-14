@@ -1,4 +1,22 @@
 {
+    "202101": {
+        "Staff": [
+            {
+                "name": "קפון שולמית",
+                "email": "skapon@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "88.9",
+            "median": "92.5"
+        }
+    },
     "201901": {
         "Staff": [
             {
@@ -24,24 +42,6 @@
             "max": "99",
             "average": "95.833",
             "median": "96"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "קפון שולמית",
-                "email": "skapon@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "100",
-            "average": "88.9",
-            "median": "92.5"
         }
     }
 }

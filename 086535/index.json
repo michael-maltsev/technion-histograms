@@ -1,5 +1,5 @@
 {
-    "201702": {
+    "202102": {
         "Staff": [
             {
                 "name": "אור עמנואל",
@@ -7,55 +7,32 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Final_A": {
-            "students": "18",
-            "passFail": "18\/0",
+        "Exam_A": {
+            "students": "11",
+            "passFail": "11\/0",
             "passPercent": "100",
-            "min": "58",
-            "max": "100",
-            "average": "79.889",
-            "median": "79"
+            "min": "60",
+            "max": "99",
+            "average": "82.818",
+            "median": "78"
+        },
+        "Final_A": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "99",
+            "average": "82.727",
+            "median": "78"
         },
         "Finals": {
-            "students": "18",
-            "passFail": "18\/0",
-            "passPercent": "100",
-            "min": "66",
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "46",
             "max": "100",
-            "average": "83.333",
-            "median": "85"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "אור עמנואל",
-                "email": "manuore2@gmail.com,manuore@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "הרשקו דפנה",
-                "email": "ae.ugsec@technion.ac.il",
-                "title": "מרצה"
-            }
-        ],
-        "Final_A": {
-            "students": "23",
-            "passFail": "20\/3",
-            "passPercent": "87",
-            "min": "25",
-            "max": "98",
-            "average": "78.826",
-            "median": "82"
-        },
-        "Finals": {
-            "students": "28",
-            "passFail": "27\/1",
-            "passPercent": "96",
-            "min": "51",
-            "max": "98",
-            "average": "82.321",
-            "median": "85.5"
+            "average": "81.938",
+            "median": "87.5"
         }
     },
     "202002": {
@@ -94,7 +71,39 @@
             "median": "85.5"
         }
     },
-    "202102": {
+    "201902": {
+        "Staff": [
+            {
+                "name": "אור עמנואל",
+                "email": "manuore2@gmail.com,manuore@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הרשקו דפנה",
+                "email": "ae.ugsec@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Final_A": {
+            "students": "23",
+            "passFail": "20\/3",
+            "passPercent": "87",
+            "min": "25",
+            "max": "98",
+            "average": "78.826",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "28",
+            "passFail": "27\/1",
+            "passPercent": "96",
+            "min": "51",
+            "max": "98",
+            "average": "82.321",
+            "median": "85.5"
+        }
+    },
+    "201702": {
         "Staff": [
             {
                 "name": "אור עמנואל",
@@ -102,32 +111,23 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Exam_A": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "99",
-            "average": "82.818",
-            "median": "78"
-        },
         "Final_A": {
-            "students": "11",
-            "passFail": "11\/0",
+            "students": "18",
+            "passFail": "18\/0",
             "passPercent": "100",
-            "min": "55",
-            "max": "99",
-            "average": "82.727",
-            "median": "78"
+            "min": "58",
+            "max": "100",
+            "average": "79.889",
+            "median": "79"
         },
         "Finals": {
-            "students": "16",
-            "passFail": "15\/1",
-            "passPercent": "94",
-            "min": "46",
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "66",
             "max": "100",
-            "average": "81.938",
-            "median": "87.5"
+            "average": "83.333",
+            "median": "85"
         }
     }
 }

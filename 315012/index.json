@@ -1,74 +1,5 @@
 {
-    "201902": {
-        "Staff": [
-            {
-                "name": "אמויאל ירון",
-                "email": "amouyal@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "קיסלוב יוליה",
-                "email": "yuliak@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "79",
-            "max": "98",
-            "average": "91.36",
-            "median": "92"
-        },
-        "Finals": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "79",
-            "max": "98",
-            "average": "91.36",
-            "median": "92"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "אמויאל ירון",
-                "email": "amouyal@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "צימרמן יהונתן",
-                "email": "yoni3246@gmail.com,jonathan-zim@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "קיסלוב יוליה",
-                "email": "yuliak@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "20",
-            "passFail": "19\/1",
-            "passPercent": "95",
-            "min": "42",
-            "max": "98",
-            "average": "81.15",
-            "median": "86"
-        },
-        "Finals": {
-            "students": "22",
-            "passFail": "22\/0",
-            "passPercent": "100",
-            "min": "57",
-            "max": "98",
-            "average": "83.727",
-            "median": "86"
-        }
-    },
-    "202102": {
+    "202302": {
         "Staff": [
             {
                 "name": "אמויאל ירון",
@@ -86,23 +17,23 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
-        "Final_A": {
-            "students": "12",
-            "passFail": "12\/0",
+        "Exam_A": {
+            "students": "23",
+            "passFail": "23\/0",
             "passPercent": "100",
             "min": "62",
-            "max": "96",
-            "average": "81.167",
-            "median": "82"
+            "max": "100",
+            "average": "83.652",
+            "median": "80"
         },
-        "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
+        "Final_A": {
+            "students": "23",
+            "passFail": "23\/0",
             "passPercent": "100",
-            "min": "62",
-            "max": "96",
-            "average": "83",
-            "median": "84.5"
+            "min": "72",
+            "max": "99",
+            "average": "87",
+            "median": "85"
         }
     },
     "202202": {
@@ -151,7 +82,7 @@
             "median": "81"
         }
     },
-    "202302": {
+    "202102": {
         "Staff": [
             {
                 "name": "אמויאל ירון",
@@ -169,23 +100,92 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
-        "Exam_A": {
-            "students": "23",
-            "passFail": "23\/0",
+        "Final_A": {
+            "students": "12",
+            "passFail": "12\/0",
             "passPercent": "100",
             "min": "62",
-            "max": "100",
-            "average": "83.652",
-            "median": "80"
+            "max": "96",
+            "average": "81.167",
+            "median": "82"
         },
-        "Final_A": {
-            "students": "23",
-            "passFail": "23\/0",
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
             "passPercent": "100",
-            "min": "72",
-            "max": "99",
-            "average": "87",
-            "median": "85"
+            "min": "62",
+            "max": "96",
+            "average": "83",
+            "median": "84.5"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "אמויאל ירון",
+                "email": "amouyal@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "צימרמן יהונתן",
+                "email": "yoni3246@gmail.com,jonathan-zim@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "קיסלוב יוליה",
+                "email": "yuliak@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "20",
+            "passFail": "19\/1",
+            "passPercent": "95",
+            "min": "42",
+            "max": "98",
+            "average": "81.15",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "98",
+            "average": "83.727",
+            "median": "86"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "אמויאל ירון",
+                "email": "amouyal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קיסלוב יוליה",
+                "email": "yuliak@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "98",
+            "average": "91.36",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "98",
+            "average": "91.36",
+            "median": "92"
         }
     }
 }

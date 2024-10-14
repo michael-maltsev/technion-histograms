@@ -1,110 +1,135 @@
 {
-    "201601": {
+    "202302": {
         "Staff": [
             {
-                "name": "פוריסמן ארקדי",
-                "email": "puris@research.haifa.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "19",
-            "passFail": "19\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "99",
-            "average": "95.526",
-            "median": "95"
-        },
-        "Finals": {
-            "students": "21",
-            "passFail": "21\/0",
-            "passPercent": "100",
-            "min": "82",
-            "max": "99",
-            "average": "94.429",
-            "median": "95"
-        }
-    },
-    "201602": {
-        "Staff": [
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
             {
-                "name": "פוריסמן ארקדי",
-                "email": "puris@research.haifa.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "24",
-            "passFail": "24\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "94.625",
-            "median": "95"
-        },
-        "Finals": {
-            "students": "24",
-            "passFail": "24\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "94.625",
-            "median": "95"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "פוריסמן ארקדי",
-                "email": "puris@research.haifa.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "86",
-            "max": "100",
-            "average": "94",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "86",
-            "max": "100",
-            "average": "94",
-            "median": "96"
-        }
-    },
-    "201801": {
-        "Staff": [
-            {
-                "name": "פוריסמן ארקדי",
-                "email": "puris@research.haifa.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
             "students": "16",
             "passFail": "16\/0",
             "passPercent": "100",
-            "min": "82",
-            "max": "97",
-            "average": "92.625",
-            "median": "93"
+            "min": "90",
+            "max": "100",
+            "average": "97.5",
+            "median": "100"
         },
         "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
+            "students": "16",
+            "passFail": "16\/0",
             "passPercent": "100",
-            "min": "82",
+            "min": "90",
+            "max": "100",
+            "average": "97.5",
+            "median": "100"
+        }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "רויטברג נטליה",
+                "email": "roitbergnatalia@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "98.348",
+            "median": "100"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "98.348",
+            "median": "100"
+        }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "רויטברג נטליה",
+                "email": "roitbergnatalia@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "93.526",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "93.526",
+            "median": "95"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "פוריסמן ארקדי",
+                "email": "puris@research.haifa.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "73",
             "max": "99",
-            "average": "93",
-            "median": "93"
+            "average": "91.55",
+            "median": "93.5"
+        },
+        "Finals": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "99",
+            "average": "91.182",
+            "median": "93.5"
         }
     },
     "201802": {
@@ -154,7 +179,7 @@
             "median": "95"
         }
     },
-    "201901": {
+    "201801": {
         "Staff": [
             {
                 "name": "פוריסמן ארקדי",
@@ -163,128 +188,103 @@
             }
         ],
         "Final_A": {
-            "students": "20",
-            "passFail": "20\/0",
+            "students": "16",
+            "passFail": "16\/0",
             "passPercent": "100",
-            "min": "73",
-            "max": "99",
-            "average": "91.55",
-            "median": "93.5"
+            "min": "82",
+            "max": "97",
+            "average": "92.625",
+            "median": "93"
         },
         "Finals": {
-            "students": "22",
-            "passFail": "22\/0",
+            "students": "17",
+            "passFail": "17\/0",
             "passPercent": "100",
-            "min": "73",
+            "min": "82",
             "max": "99",
-            "average": "91.182",
-            "median": "93.5"
+            "average": "93",
+            "median": "93"
         }
     },
-    "202202": {
+    "201702": {
         "Staff": [
             {
-                "name": "רויטברג נטליה",
-                "email": "roitbergnatalia@gmail.com",
+                "name": "פוריסמן ארקדי",
+                "email": "puris@research.haifa.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
+            }
+        ],
+        "Final_A": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "100",
+            "average": "94",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "100",
+            "average": "94",
+            "median": "96"
+        }
+    },
+    "201602": {
+        "Staff": [
             {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
+                "name": "פוריסמן ארקדי",
+                "email": "puris@research.haifa.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "94.625",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "94.625",
+            "median": "95"
+        }
+    },
+    "201601": {
+        "Staff": [
             {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+                "name": "פוריסמן ארקדי",
+                "email": "puris@research.haifa.ac.il",
+                "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Final_A": {
             "students": "19",
             "passFail": "19\/0",
             "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "93.526",
+            "min": "90",
+            "max": "99",
+            "average": "95.526",
             "median": "95"
         },
         "Finals": {
-            "students": "19",
-            "passFail": "19\/0",
+            "students": "21",
+            "passFail": "21\/0",
             "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "93.526",
+            "min": "82",
+            "max": "99",
+            "average": "94.429",
             "median": "95"
-        }
-    },
-    "202301": {
-        "Staff": [
-            {
-                "name": "רויטברג נטליה",
-                "email": "roitbergnatalia@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "23",
-            "passFail": "23\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "98.348",
-            "median": "100"
-        },
-        "Finals": {
-            "students": "23",
-            "passFail": "23\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "98.348",
-            "median": "100"
-        }
-    },
-    "202302": {
-        "Staff": [
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "97.5",
-            "median": "100"
-        },
-        "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "97.5",
-            "median": "100"
         }
     }
 }

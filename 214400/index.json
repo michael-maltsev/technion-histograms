@@ -1,4 +1,22 @@
 {
+    "202102": {
+        "Staff": [
+            {
+                "name": "לביא-אלון נירית",
+                "email": "nirita@technion.ac.il,nirita@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "98",
+            "average": "89.733",
+            "median": "90"
+        }
+    },
     "201902": {
         "Staff": [
             {
@@ -23,24 +41,6 @@
             "min": "65",
             "max": "100",
             "average": "89.815",
-            "median": "90"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "לביא-אלון נירית",
-                "email": "nirita@technion.ac.il,nirita@campus.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "81",
-            "max": "98",
-            "average": "89.733",
             "median": "90"
         }
     }

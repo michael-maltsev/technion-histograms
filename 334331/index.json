@@ -1,15 +1,15 @@
 {
-    "201202": {
+    "202302": {
         "Staff": [
             {
-                "name": "גור משה",
-                "email": "mogi@bm.technion.ac.il",
+                "name": "מלר עמית",
+                "email": "ameller@bm.technion.ac.il,ameller@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "ח'מיס חנאן",
-                "email": "khhanan@technion.ac.il",
-                "title": "מתרגל"
+                "name": "אברשמי מיטל",
+                "email": "maytalavr93@gmail.com,maytalavr@campus.technion.ac.il",
+                "title": "מרצה"
             }
         ],
         "Final_A": {
@@ -22,7 +22,7 @@
             "median": ""
         }
     },
-    "201402": {
+    "202202": {
         "Staff": [
             {
                 "name": "אזהרי חיים",
@@ -30,8 +30,8 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "ח'מיס חנאן",
-                "email": "khhanan@technion.ac.il",
+                "name": "אברשמי מיטל",
+                "email": "maytalavr93@gmail.com,maytalavr@campus.technion.ac.il",
                 "title": "מרצה"
             }
         ],
@@ -54,7 +54,7 @@
             "median": ""
         }
     },
-    "201502": {
+    "202102": {
         "Staff": [
             {
                 "name": "אזהרי חיים",
@@ -62,9 +62,9 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "ח'מיס חנאן",
-                "email": "khhanan@technion.ac.il",
-                "title": "מתרגל"
+                "name": "לוי מורן",
+                "email": "smoranle@campus.technion.ac.il",
+                "title": "מרצה"
             }
         ],
         "Final_A": {
@@ -86,75 +86,11 @@
             "median": ""
         }
     },
-    "201602": {
+    "202002": {
         "Staff": [
             {
                 "name": "אזהרי חיים",
                 "email": "haim@bm.technion.ac.il,azhari@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "ארבל גנון לימור",
-                "email": "slimli@campus.technion.ac.il",
-                "title": "מתרגל"
-            }
-        ],
-        "Final_A": {
-            "students": "",
-            "passFail": "",
-            "passPercent": "",
-            "min": "",
-            "max": "",
-            "average": "",
-            "median": ""
-        },
-        "Finals": {
-            "students": "",
-            "passFail": "",
-            "passPercent": "",
-            "min": "",
-            "max": "",
-            "average": "",
-            "median": ""
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "אזהרי חיים",
-                "email": "haim@bm.technion.ac.il,azhari@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "שקיופו ארשטי רואנה נעמי",
-                "email": "sroanis@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "",
-            "passFail": "",
-            "passPercent": "",
-            "min": "",
-            "max": "",
-            "average": "",
-            "median": ""
-        },
-        "Finals": {
-            "students": "",
-            "passFail": "",
-            "passPercent": "",
-            "min": "",
-            "max": "",
-            "average": "",
-            "median": ""
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "לנדסברג אמיר",
-                "email": "amir@bm.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -214,11 +150,11 @@
             "median": ""
         }
     },
-    "202002": {
+    "201802": {
         "Staff": [
             {
-                "name": "אזהרי חיים",
-                "email": "haim@bm.technion.ac.il,azhari@technion.ac.il",
+                "name": "לנדסברג אמיר",
+                "email": "amir@bm.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -246,7 +182,7 @@
             "median": ""
         }
     },
-    "202102": {
+    "201702": {
         "Staff": [
             {
                 "name": "אזהרי חיים",
@@ -254,8 +190,104 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "לוי מורן",
-                "email": "smoranle@campus.technion.ac.il",
+                "name": "שקיופו ארשטי רואנה נעמי",
+                "email": "sroanis@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
+        },
+        "Finals": {
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "אזהרי חיים",
+                "email": "haim@bm.technion.ac.il,azhari@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ארבל גנון לימור",
+                "email": "slimli@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
+        },
+        "Finals": {
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "אזהרי חיים",
+                "email": "haim@bm.technion.ac.il,azhari@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ח'מיס חנאן",
+                "email": "khhanan@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
+        },
+        "Finals": {
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
+        }
+    },
+    "201402": {
+        "Staff": [
+            {
+                "name": "אזהרי חיים",
+                "email": "haim@bm.technion.ac.il,azhari@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ח'מיס חנאן",
+                "email": "khhanan@technion.ac.il",
                 "title": "מרצה"
             }
         ],
@@ -278,49 +310,17 @@
             "median": ""
         }
     },
-    "202202": {
+    "201202": {
         "Staff": [
             {
-                "name": "אזהרי חיים",
-                "email": "haim@bm.technion.ac.il,azhari@technion.ac.il",
+                "name": "גור משה",
+                "email": "mogi@bm.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "אברשמי מיטל",
-                "email": "maytalavr93@gmail.com,maytalavr@campus.technion.ac.il",
-                "title": "מרצה"
-            }
-        ],
-        "Final_A": {
-            "students": "",
-            "passFail": "",
-            "passPercent": "",
-            "min": "",
-            "max": "",
-            "average": "",
-            "median": ""
-        },
-        "Finals": {
-            "students": "",
-            "passFail": "",
-            "passPercent": "",
-            "min": "",
-            "max": "",
-            "average": "",
-            "median": ""
-        }
-    },
-    "202302": {
-        "Staff": [
-            {
-                "name": "מלר עמית",
-                "email": "ameller@bm.technion.ac.il,ameller@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "אברשמי מיטל",
-                "email": "maytalavr93@gmail.com,maytalavr@campus.technion.ac.il",
-                "title": "מרצה"
+                "name": "ח'מיס חנאן",
+                "email": "khhanan@technion.ac.il",
+                "title": "מתרגל"
             }
         ],
         "Final_A": {

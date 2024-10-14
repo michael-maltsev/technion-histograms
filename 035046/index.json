@@ -1,5 +1,5 @@
 {
-    "201702": {
+    "202301": {
         "Staff": [
             {
                 "name": "כץ ראובן",
@@ -7,19 +7,24 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "מנחם אלי",
-                "email": "meli@rafael.co.il",
+                "name": "אלגרבלי ליאל",
+                "email": "lielelg12@gmail.com,liel.elgrabl@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אוחיון שגיא",
+                "email": "sagio@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Finals": {
-            "students": "18",
-            "passFail": "18\/0",
+        "Exam_A": {
+            "students": "13",
+            "passFail": "13\/0",
             "passPercent": "100",
-            "min": "70",
-            "max": "95",
-            "average": "87",
-            "median": "91"
+            "min": "74",
+            "max": "96",
+            "average": "84",
+            "median": "84"
         }
     },
     "202001": {
@@ -54,7 +59,7 @@
             "median": "85.5"
         }
     },
-    "202301": {
+    "201702": {
         "Staff": [
             {
                 "name": "כץ ראובן",
@@ -62,24 +67,19 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "אלגרבלי ליאל",
-                "email": "lielelg12@gmail.com,liel.elgrabl@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "אוחיון שגיא",
-                "email": "sagio@campus.technion.ac.il",
+                "name": "מנחם אלי",
+                "email": "meli@rafael.co.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Exam_A": {
-            "students": "13",
-            "passFail": "13\/0",
+        "Finals": {
+            "students": "18",
+            "passFail": "18\/0",
             "passPercent": "100",
-            "min": "74",
-            "max": "96",
-            "average": "84",
-            "median": "84"
+            "min": "70",
+            "max": "95",
+            "average": "87",
+            "median": "91"
         }
     }
 }

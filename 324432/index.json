@@ -1,83 +1,177 @@
 {
-    "201501": {
+    "202301": {
         "Staff": [
             {
                 "name": "כהן דן",
                 "email": "dancahn.is@gmail.com",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
             "students": "48",
             "passFail": "48\/0",
             "passPercent": "100",
-            "min": "90",
+            "min": "88",
             "max": "100",
-            "average": "95.771",
-            "median": "96"
+            "average": "98.938",
+            "median": "100"
         },
         "Finals": {
             "students": "48",
             "passFail": "48\/0",
             "passPercent": "100",
+            "min": "88",
+            "max": "100",
+            "average": "98.938",
+            "median": "100"
+        }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "כהן דן",
+                "email": "dancahn.is@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "94",
+            "max": "100",
+            "average": "98.974",
+            "median": "100"
+        },
+        "Finals": {
+            "students": "43",
+            "passFail": "43\/0",
+            "passPercent": "100",
+            "min": "92",
+            "max": "100",
+            "average": "98.837",
+            "median": "100"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "כהן דן",
+                "email": "dancahn.is@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "49",
+            "passFail": "49\/0",
+            "passPercent": "100",
+            "min": "95",
+            "max": "100",
+            "average": "99.245",
+            "median": "100"
+        },
+        "Finals": {
+            "students": "53",
+            "passFail": "53\/0",
+            "passPercent": "100",
+            "min": "95",
+            "max": "100",
+            "average": "99.302",
+            "median": "100"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "כהן דן",
+                "email": "dancahn.is@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הראל אילנה",
+                "email": "ilanah1@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "59",
+            "passFail": "59\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "100",
+            "average": "98.271",
+            "median": "99"
+        },
+        "Finals": {
+            "students": "61",
+            "passFail": "61\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "100",
+            "average": "98.23",
+            "median": "99"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "כהן דן",
+                "email": "dancahn.is@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "46",
+            "passFail": "46\/0",
+            "passPercent": "100",
             "min": "90",
             "max": "100",
-            "average": "95.833",
-            "median": "96"
-        }
-    },
-    "201601": {
-        "Staff": [
-            {
-                "name": "כהן דן",
-                "email": "dancahn.is@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "52",
-            "passFail": "52\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "95.462",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "52",
-            "passFail": "52\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "95.731",
-            "median": "96"
-        }
-    },
-    "201701": {
-        "Staff": [
-            {
-                "name": "כהן דן",
-                "email": "dancahn.is@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "52",
-            "passFail": "52\/0",
-            "passPercent": "100",
-            "min": "94",
-            "max": "100",
-            "average": "98.404",
+            "average": "97.565",
             "median": "98.5"
         },
         "Finals": {
-            "students": "52",
-            "passFail": "52\/0",
+            "students": "47",
+            "passFail": "47\/0",
             "passPercent": "100",
-            "min": "94",
+            "min": "90",
             "max": "100",
-            "average": "98.404",
-            "median": "98.5"
+            "average": "97.553",
+            "median": "98"
         }
     },
     "201801": {
@@ -127,7 +221,7 @@
             "median": "98"
         }
     },
-    "201901": {
+    "201701": {
         "Staff": [
             {
                 "name": "כהן דן",
@@ -136,170 +230,76 @@
             }
         ],
         "Final_A": {
-            "students": "46",
-            "passFail": "46\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "97.565",
-            "median": "98.5"
-        },
-        "Finals": {
-            "students": "47",
-            "passFail": "47\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "97.553",
-            "median": "98"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "כהן דן",
-                "email": "dancahn.is@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "הראל אילנה",
-                "email": "ilanah1@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "59",
-            "passFail": "59\/0",
-            "passPercent": "100",
-            "min": "93",
-            "max": "100",
-            "average": "98.271",
-            "median": "99"
-        },
-        "Finals": {
-            "students": "61",
-            "passFail": "61\/0",
-            "passPercent": "100",
-            "min": "93",
-            "max": "100",
-            "average": "98.23",
-            "median": "99"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "כהן דן",
-                "email": "dancahn.is@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "49",
-            "passFail": "49\/0",
-            "passPercent": "100",
-            "min": "95",
-            "max": "100",
-            "average": "99.245",
-            "median": "100"
-        },
-        "Finals": {
-            "students": "53",
-            "passFail": "53\/0",
-            "passPercent": "100",
-            "min": "95",
-            "max": "100",
-            "average": "99.302",
-            "median": "100"
-        }
-    },
-    "202201": {
-        "Staff": [
-            {
-                "name": "כהן דן",
-                "email": "dancahn.is@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "39",
-            "passFail": "39\/0",
+            "students": "52",
+            "passFail": "52\/0",
             "passPercent": "100",
             "min": "94",
             "max": "100",
-            "average": "98.974",
-            "median": "100"
+            "average": "98.404",
+            "median": "98.5"
         },
         "Finals": {
-            "students": "43",
-            "passFail": "43\/0",
+            "students": "52",
+            "passFail": "52\/0",
             "passPercent": "100",
-            "min": "92",
+            "min": "94",
             "max": "100",
-            "average": "98.837",
-            "median": "100"
+            "average": "98.404",
+            "median": "98.5"
         }
     },
-    "202301": {
+    "201601": {
         "Staff": [
             {
                 "name": "כהן דן",
                 "email": "dancahn.is@gmail.com",
                 "title": "מרצה - אחראי מקצוע"
-            },
+            }
+        ],
+        "Final_A": {
+            "students": "52",
+            "passFail": "52\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "95.462",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "52",
+            "passFail": "52\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "95.731",
+            "median": "96"
+        }
+    },
+    "201501": {
+        "Staff": [
             {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+                "name": "כהן דן",
+                "email": "dancahn.is@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Final_A": {
             "students": "48",
             "passFail": "48\/0",
             "passPercent": "100",
-            "min": "88",
+            "min": "90",
             "max": "100",
-            "average": "98.938",
-            "median": "100"
+            "average": "95.771",
+            "median": "96"
         },
         "Finals": {
             "students": "48",
             "passFail": "48\/0",
             "passPercent": "100",
-            "min": "88",
+            "min": "90",
             "max": "100",
-            "average": "98.938",
-            "median": "100"
+            "average": "95.833",
+            "median": "96"
         }
     }
 }

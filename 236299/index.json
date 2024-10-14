@@ -1,23 +1,5 @@
 {
-    "201702": {
-        "Staff": [
-            {
-                "name": "גולדברג יואב",
-                "email": "yoav.goldberg@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "24",
-            "passFail": "24\/0",
-            "passPercent": "100",
-            "min": "83",
-            "max": "100",
-            "average": "93",
-            "median": "93"
-        }
-    },
-    "202001": {
+    "202202": {
         "Staff": [
             {
                 "name": "בלינקוב יונתן",
@@ -26,13 +8,13 @@
             }
         ],
         "Finals": {
-            "students": "35",
-            "passFail": "35\/0",
+            "students": "104",
+            "passFail": "104\/0",
             "passPercent": "100",
-            "min": "91",
-            "max": "100",
-            "average": "96.914",
-            "median": "97"
+            "min": "74",
+            "max": "99",
+            "average": "88.495",
+            "median": "89"
         }
     },
     "202102": {
@@ -53,7 +35,7 @@
             "median": "92"
         }
     },
-    "202202": {
+    "202001": {
         "Staff": [
             {
                 "name": "בלינקוב יונתן",
@@ -62,13 +44,31 @@
             }
         ],
         "Finals": {
-            "students": "104",
-            "passFail": "104\/0",
+            "students": "35",
+            "passFail": "35\/0",
             "passPercent": "100",
-            "min": "74",
-            "max": "99",
-            "average": "88.495",
-            "median": "89"
+            "min": "91",
+            "max": "100",
+            "average": "96.914",
+            "median": "97"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "גולדברג יואב",
+                "email": "yoav.goldberg@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "83",
+            "max": "100",
+            "average": "93",
+            "median": "93"
         }
     }
 }

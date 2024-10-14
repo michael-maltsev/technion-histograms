@@ -1,5 +1,5 @@
 {
-    "201902": {
+    "202202": {
         "Staff": [
             {
                 "name": "מויסייב קונסטנטין",
@@ -8,31 +8,22 @@
             }
         ],
         "Exam_A": {
-            "students": "11",
-            "passFail": "10\/1",
-            "passPercent": "91",
-            "min": "40",
-            "max": "98",
-            "average": "79.455",
-            "median": "81"
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "53",
+            "max": "92",
+            "average": "74.133",
+            "median": "73"
         },
         "Final_A": {
-            "students": "11",
-            "passFail": "11\/0",
+            "students": "15",
+            "passFail": "15\/0",
             "passPercent": "100",
-            "min": "66.625",
-            "max": "94.875",
-            "average": "85.227",
-            "median": "86.25"
-        },
-        "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "75",
-            "max": "95",
-            "average": "86.75",
-            "median": "87"
+            "min": "71.96",
+            "max": "95.405",
+            "average": "85.842",
+            "median": "85.62"
         }
     },
     "202002": {
@@ -67,7 +58,7 @@
             "median": "79.25"
         }
     },
-    "202202": {
+    "201902": {
         "Staff": [
             {
                 "name": "מויסייב קונסטנטין",
@@ -76,22 +67,31 @@
             }
         ],
         "Exam_A": {
-            "students": "15",
-            "passFail": "14\/1",
-            "passPercent": "93",
-            "min": "53",
-            "max": "92",
-            "average": "74.133",
-            "median": "73"
+            "students": "11",
+            "passFail": "10\/1",
+            "passPercent": "91",
+            "min": "40",
+            "max": "98",
+            "average": "79.455",
+            "median": "81"
         },
         "Final_A": {
-            "students": "15",
-            "passFail": "15\/0",
+            "students": "11",
+            "passFail": "11\/0",
             "passPercent": "100",
-            "min": "71.96",
-            "max": "95.405",
-            "average": "85.842",
-            "median": "85.62"
+            "min": "66.625",
+            "max": "94.875",
+            "average": "85.227",
+            "median": "86.25"
+        },
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "95",
+            "average": "86.75",
+            "median": "87"
         }
     }
 }

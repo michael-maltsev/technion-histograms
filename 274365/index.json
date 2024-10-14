@@ -1,40 +1,4 @@
 {
-    "201702": {
-        "Staff": [
-            {
-                "name": "עופרן ישי",
-                "email": "yofran@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Exam_A": {
-            "students": "132",
-            "passFail": "131\/1",
-            "passPercent": "99",
-            "min": "52",
-            "max": "100",
-            "average": "79.879",
-            "median": "81"
-        },
-        "Final_A": {
-            "students": "132",
-            "passFail": "131\/1",
-            "passPercent": "99",
-            "min": "52",
-            "max": "100",
-            "average": "79.879",
-            "median": "81"
-        },
-        "Finals": {
-            "students": "136",
-            "passFail": "136\/0",
-            "passPercent": "100",
-            "min": "56",
-            "max": "100",
-            "average": "80.25",
-            "median": "81"
-        }
-    },
     "201802": {
         "Staff": [
             {
@@ -94,6 +58,42 @@
             "max": "92",
             "average": "78.722",
             "median": "78"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "עופרן ישי",
+                "email": "yofran@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "132",
+            "passFail": "131\/1",
+            "passPercent": "99",
+            "min": "52",
+            "max": "100",
+            "average": "79.879",
+            "median": "81"
+        },
+        "Final_A": {
+            "students": "132",
+            "passFail": "131\/1",
+            "passPercent": "99",
+            "min": "52",
+            "max": "100",
+            "average": "79.879",
+            "median": "81"
+        },
+        "Finals": {
+            "students": "136",
+            "passFail": "136\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "100",
+            "average": "80.25",
+            "median": "81"
         }
     }
 }

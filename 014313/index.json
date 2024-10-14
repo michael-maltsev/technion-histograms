@@ -1,36 +1,9 @@
 {
-    "201701": {
-        "Staff": [
-            {
-                "name": "ארמון רוברט",
-                "email": "cvrrobi@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "95",
-            "average": "90.312",
-            "median": "91"
-        },
-        "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "95",
-            "average": "90.176",
-            "median": "91"
-        }
-    },
-    "201901": {
+    "202101": {
         "Staff": [
             {
                 "name": "פרבר יאיר",
-                "email": "yair.farber@gmail.com",
+                "email": "yair.farber@gmail.com,yairf@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -45,21 +18,21 @@
             }
         ],
         "Final_A": {
-            "students": "21",
-            "passFail": "21\/0",
+            "students": "15",
+            "passFail": "15\/0",
             "passPercent": "100",
-            "min": "64",
-            "max": "96",
-            "average": "85.381",
-            "median": "88"
+            "min": "73",
+            "max": "98",
+            "average": "90.267",
+            "median": "89"
         },
         "Finals": {
-            "students": "24",
-            "passFail": "24\/0",
+            "students": "15",
+            "passFail": "15\/0",
             "passPercent": "100",
-            "min": "72",
+            "min": "73",
             "max": "98",
-            "average": "87.083",
+            "average": "90.267",
             "median": "89"
         }
     },
@@ -100,11 +73,11 @@
             "median": "92"
         }
     },
-    "202101": {
+    "201901": {
         "Staff": [
             {
                 "name": "פרבר יאיר",
-                "email": "yair.farber@gmail.com,yairf@technion.ac.il",
+                "email": "yair.farber@gmail.com",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -119,22 +92,49 @@
             }
         ],
         "Final_A": {
-            "students": "15",
-            "passFail": "15\/0",
+            "students": "21",
+            "passFail": "21\/0",
             "passPercent": "100",
-            "min": "73",
-            "max": "98",
-            "average": "90.267",
-            "median": "89"
+            "min": "64",
+            "max": "96",
+            "average": "85.381",
+            "median": "88"
         },
         "Finals": {
-            "students": "15",
-            "passFail": "15\/0",
+            "students": "24",
+            "passFail": "24\/0",
             "passPercent": "100",
-            "min": "73",
+            "min": "72",
             "max": "98",
-            "average": "90.267",
+            "average": "87.083",
             "median": "89"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "ארמון רוברט",
+                "email": "cvrrobi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "95",
+            "average": "90.312",
+            "median": "91"
+        },
+        "Finals": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "95",
+            "average": "90.176",
+            "median": "91"
         }
     }
 }

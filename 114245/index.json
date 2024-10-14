@@ -1,22 +1,4 @@
 {
-    "201102": {
-        "Staff": [
-            {
-                "name": "לאור ארי",
-                "email": "laor@physics.technion.ac.il,alaor@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "104",
-            "passFail": "69\/35",
-            "passPercent": "66",
-            "min": "12",
-            "max": "100",
-            "average": "66.477",
-            "median": "69.779"
-        }
-    },
     "201202": {
         "Staff": [
             {
@@ -51,6 +33,24 @@
             "max": "95.2",
             "average": "68.112",
             "median": "68.7"
+        }
+    },
+    "201102": {
+        "Staff": [
+            {
+                "name": "לאור ארי",
+                "email": "laor@physics.technion.ac.il,alaor@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "104",
+            "passFail": "69\/35",
+            "passPercent": "66",
+            "min": "12",
+            "max": "100",
+            "average": "66.477",
+            "median": "69.779"
         }
     }
 }

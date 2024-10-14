@@ -1,88 +1,34 @@
 {
-    "201301": {
-        "Staff": [
-            {
-                "name": "ויינשטיין אלכסנדרה",
-                "email": "alexa353@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בונדרב אלכסנדר",
-                "email": "balex@technion.ac.il",
-                "title": "מתרגל"
-            }
-        ],
-        "Final_A": {
-            "students": "23",
-            "passFail": "23\/0",
-            "passPercent": "100",
-            "min": "61",
-            "max": "98",
-            "average": "87.174",
-            "median": "88"
-        }
-    },
-    "201401": {
-        "Staff": [
-            {
-                "name": "ויינשטיין אלכסנדרה",
-                "email": "alexa353@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "82",
-            "max": "97",
-            "average": "90.167",
-            "median": "91"
-        }
-    },
-    "201402": {
-        "Staff": [
-            {
-                "name": "ויינשטיין אלכסנדרה",
-                "email": "alexa353@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "55",
-            "passFail": "55\/0",
-            "passPercent": "100",
-            "min": "57",
-            "max": "98",
-            "average": "84.618",
-            "median": "86"
-        }
-    },
-    "201502": {
+    "201702": {
         "Staff": [
             {
                 "name": "זאק ולאדימיר",
                 "email": "vladimirzak@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "האס יותם",
+                "email": "yotamhs@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "73",
-            "passFail": "66\/7",
-            "passPercent": "90",
-            "min": "32",
-            "max": "100.475",
-            "average": "83.897",
-            "median": "86.5"
+            "students": "78",
+            "passFail": "78\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "100",
+            "average": "84.859",
+            "median": "85"
         },
         "Finals": {
-            "students": "75",
-            "passFail": "74\/1",
-            "passPercent": "99",
-            "min": "38",
+            "students": "84",
+            "passFail": "84\/0",
+            "passPercent": "100",
+            "min": "60",
             "max": "100",
-            "average": "88.613",
-            "median": "90"
+            "average": "84.619",
+            "median": "85.5"
         }
     },
     "201602": {
@@ -131,36 +77,90 @@
             "median": "90"
         }
     },
-    "201702": {
+    "201502": {
         "Staff": [
             {
                 "name": "זאק ולאדימיר",
                 "email": "vladimirzak@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "האס יותם",
-                "email": "yotamhs@gmail.com",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "78",
-            "passFail": "78\/0",
-            "passPercent": "100",
-            "min": "69",
-            "max": "100",
-            "average": "84.859",
-            "median": "85"
+            "students": "73",
+            "passFail": "66\/7",
+            "passPercent": "90",
+            "min": "32",
+            "max": "100.475",
+            "average": "83.897",
+            "median": "86.5"
         },
         "Finals": {
-            "students": "84",
-            "passFail": "84\/0",
-            "passPercent": "100",
-            "min": "60",
+            "students": "75",
+            "passFail": "74\/1",
+            "passPercent": "99",
+            "min": "38",
             "max": "100",
-            "average": "84.619",
-            "median": "85.5"
+            "average": "88.613",
+            "median": "90"
+        }
+    },
+    "201402": {
+        "Staff": [
+            {
+                "name": "ויינשטיין אלכסנדרה",
+                "email": "alexa353@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "55",
+            "passFail": "55\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "98",
+            "average": "84.618",
+            "median": "86"
+        }
+    },
+    "201401": {
+        "Staff": [
+            {
+                "name": "ויינשטיין אלכסנדרה",
+                "email": "alexa353@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "82",
+            "max": "97",
+            "average": "90.167",
+            "median": "91"
+        }
+    },
+    "201301": {
+        "Staff": [
+            {
+                "name": "ויינשטיין אלכסנדרה",
+                "email": "alexa353@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בונדרב אלכסנדר",
+                "email": "balex@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "98",
+            "average": "87.174",
+            "median": "88"
         }
     }
 }

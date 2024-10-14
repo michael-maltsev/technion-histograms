@@ -1,5 +1,41 @@
 {
-    "201801": {
+    "202201": {
+        "Staff": [
+            {
+                "name": "מזרחי בעז",
+                "email": "bmizrahi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "100",
+            "average": "85.5",
+            "median": "88.5"
+        },
+        "Final_A": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "100",
+            "average": "85.5",
+            "median": "88.5"
+        },
+        "Finals": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "100",
+            "average": "85.5",
+            "median": "88.5"
+        }
+    },
+    "202101": {
         "Staff": [
             {
                 "name": "מזרחי בעז",
@@ -8,31 +44,22 @@
             }
         ],
         "Final_A": {
-            "students": "31",
-            "passFail": "28\/3",
-            "passPercent": "90",
-            "min": "35",
-            "max": "98",
-            "average": "77.161",
-            "median": "80"
-        },
-        "Final_B": {
-            "students": "14",
-            "passFail": "14\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "98",
-            "average": "81.857",
-            "median": "89.5"
+            "students": "23",
+            "passFail": "22\/1",
+            "passPercent": "96",
+            "min": "51",
+            "max": "100",
+            "average": "84.87",
+            "median": "86"
         },
         "Finals": {
-            "students": "37",
-            "passFail": "36\/1",
-            "passPercent": "97",
-            "min": "45",
-            "max": "98",
-            "average": "82.622",
-            "median": "89"
+            "students": "23",
+            "passFail": "22\/1",
+            "passPercent": "96",
+            "min": "51",
+            "max": "100",
+            "average": "84.87",
+            "median": "86"
         }
     },
     "201901": {
@@ -71,7 +98,7 @@
             "median": "90"
         }
     },
-    "202101": {
+    "201801": {
         "Staff": [
             {
                 "name": "מזרחי בעז",
@@ -80,58 +107,31 @@
             }
         ],
         "Final_A": {
-            "students": "23",
-            "passFail": "22\/1",
-            "passPercent": "96",
-            "min": "51",
-            "max": "100",
-            "average": "84.87",
-            "median": "86"
+            "students": "31",
+            "passFail": "28\/3",
+            "passPercent": "90",
+            "min": "35",
+            "max": "98",
+            "average": "77.161",
+            "median": "80"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "98",
+            "average": "81.857",
+            "median": "89.5"
         },
         "Finals": {
-            "students": "23",
-            "passFail": "22\/1",
-            "passPercent": "96",
-            "min": "51",
-            "max": "100",
-            "average": "84.87",
-            "median": "86"
-        }
-    },
-    "202201": {
-        "Staff": [
-            {
-                "name": "מזרחי בעז",
-                "email": "bmizrahi@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Exam_A": {
-            "students": "22",
-            "passFail": "22\/0",
-            "passPercent": "100",
-            "min": "59",
-            "max": "100",
-            "average": "85.5",
-            "median": "88.5"
-        },
-        "Final_A": {
-            "students": "22",
-            "passFail": "22\/0",
-            "passPercent": "100",
-            "min": "59",
-            "max": "100",
-            "average": "85.5",
-            "median": "88.5"
-        },
-        "Finals": {
-            "students": "22",
-            "passFail": "22\/0",
-            "passPercent": "100",
-            "min": "59",
-            "max": "100",
-            "average": "85.5",
-            "median": "88.5"
+            "students": "37",
+            "passFail": "36\/1",
+            "passPercent": "97",
+            "min": "45",
+            "max": "98",
+            "average": "82.622",
+            "median": "89"
         }
     }
 }

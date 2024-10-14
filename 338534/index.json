@@ -1,4 +1,40 @@
 {
+    "202002": {
+        "Staff": [
+            {
+                "name": "ילין דביר",
+                "email": "yelin@bm.technion.ac.il,yelin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "35",
+            "max": "100",
+            "average": "89.267",
+            "median": "93"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "ילין דביר",
+                "email": "yelin@bm.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "95.714",
+            "median": "97"
+        }
+    },
     "201802": {
         "Staff": [
             {
@@ -24,42 +60,6 @@
             "max": "100",
             "average": "96.476",
             "median": "98"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "ילין דביר",
-                "email": "yelin@bm.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "21",
-            "passFail": "21\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "95.714",
-            "median": "97"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "ילין דביר",
-                "email": "yelin@bm.technion.ac.il,yelin@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "15",
-            "passFail": "14\/1",
-            "passPercent": "93",
-            "min": "35",
-            "max": "100",
-            "average": "89.267",
-            "median": "93"
         }
     }
 }

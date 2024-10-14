@@ -1,23 +1,5 @@
 {
-    "201401": {
-        "Staff": [
-            {
-                "name": "לינדנבאום מיכאל",
-                "email": "mic@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "223",
-            "passFail": "206\/17",
-            "passPercent": "92",
-            "min": "17",
-            "max": "100",
-            "average": "80.35",
-            "median": "84"
-        }
-    },
-    "201402": {
+    "201802": {
         "Staff": [
             {
                 "name": "מור טל",
@@ -26,16 +8,52 @@
             }
         ],
         "Finals": {
-            "students": "92",
-            "passFail": "84\/8",
-            "passPercent": "91",
-            "min": "41",
+            "students": "99",
+            "passFail": "97\/2",
+            "passPercent": "98",
+            "min": "38",
             "max": "100",
-            "average": "78.522",
+            "average": "79.773",
             "median": "82"
         }
     },
-    "201501": {
+    "201801": {
+        "Staff": [
+            {
+                "name": "ברונשטיין אלכסנדר",
+                "email": "bron@cs.technion.ac.il,bron@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "390",
+            "passFail": "374\/16",
+            "passPercent": "96",
+            "min": "38",
+            "max": "100",
+            "average": "80.364",
+            "median": "83"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "ברונשטיין אלכסנדר",
+                "email": "bron@cs.technion.ac.il,bron@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "184",
+            "passFail": "177\/7",
+            "passPercent": "96",
+            "min": "22",
+            "max": "100",
+            "average": "79.201",
+            "median": "78.5"
+        }
+    },
+    "201701": {
         "Staff": [
             {
                 "name": "לינדנבאום מיכאל",
@@ -44,12 +62,48 @@
             }
         ],
         "Finals": {
-            "students": "193",
-            "passFail": "175\/18",
+            "students": "279",
+            "passFail": "253\/26",
             "passPercent": "91",
-            "min": "29",
+            "min": "31",
             "max": "100",
-            "average": "78.244",
+            "average": "78.022",
+            "median": "81"
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "ברונשטיין אלכסנדר",
+                "email": "bron@cs.technion.ac.il,bron@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "183",
+            "passFail": "178\/5",
+            "passPercent": "97",
+            "min": "35",
+            "max": "100",
+            "average": "81.907",
+            "median": "84"
+        }
+    },
+    "201601": {
+        "Staff": [
+            {
+                "name": "מור טל",
+                "email": "talmo@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "221",
+            "passFail": "198\/23",
+            "passPercent": "90",
+            "min": "33",
+            "max": "100",
+            "average": "78.615",
             "median": "82"
         }
     },
@@ -71,43 +125,7 @@
             "median": "80"
         }
     },
-    "201601": {
-        "Staff": [
-            {
-                "name": "מור טל",
-                "email": "talmo@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "221",
-            "passFail": "198\/23",
-            "passPercent": "90",
-            "min": "33",
-            "max": "100",
-            "average": "78.615",
-            "median": "82"
-        }
-    },
-    "201602": {
-        "Staff": [
-            {
-                "name": "ברונשטיין אלכסנדר",
-                "email": "bron@cs.technion.ac.il,bron@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "183",
-            "passFail": "178\/5",
-            "passPercent": "97",
-            "min": "35",
-            "max": "100",
-            "average": "81.907",
-            "median": "84"
-        }
-    },
-    "201701": {
+    "201501": {
         "Staff": [
             {
                 "name": "לינדנבאום מיכאל",
@@ -116,52 +134,16 @@
             }
         ],
         "Finals": {
-            "students": "279",
-            "passFail": "253\/26",
+            "students": "193",
+            "passFail": "175\/18",
             "passPercent": "91",
-            "min": "31",
+            "min": "29",
             "max": "100",
-            "average": "78.022",
-            "median": "81"
+            "average": "78.244",
+            "median": "82"
         }
     },
-    "201702": {
-        "Staff": [
-            {
-                "name": "ברונשטיין אלכסנדר",
-                "email": "bron@cs.technion.ac.il,bron@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "184",
-            "passFail": "177\/7",
-            "passPercent": "96",
-            "min": "22",
-            "max": "100",
-            "average": "79.201",
-            "median": "78.5"
-        }
-    },
-    "201801": {
-        "Staff": [
-            {
-                "name": "ברונשטיין אלכסנדר",
-                "email": "bron@cs.technion.ac.il,bron@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "390",
-            "passFail": "374\/16",
-            "passPercent": "96",
-            "min": "38",
-            "max": "100",
-            "average": "80.364",
-            "median": "83"
-        }
-    },
-    "201802": {
+    "201402": {
         "Staff": [
             {
                 "name": "מור טל",
@@ -170,13 +152,31 @@
             }
         ],
         "Finals": {
-            "students": "99",
-            "passFail": "97\/2",
-            "passPercent": "98",
-            "min": "38",
+            "students": "92",
+            "passFail": "84\/8",
+            "passPercent": "91",
+            "min": "41",
             "max": "100",
-            "average": "79.773",
+            "average": "78.522",
             "median": "82"
+        }
+    },
+    "201401": {
+        "Staff": [
+            {
+                "name": "לינדנבאום מיכאל",
+                "email": "mic@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "223",
+            "passFail": "206\/17",
+            "passPercent": "92",
+            "min": "17",
+            "max": "100",
+            "average": "80.35",
+            "median": "84"
         }
     }
 }

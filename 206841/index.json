@@ -1,34 +1,29 @@
 {
-    "201901": {
+    "202201": {
         "Staff": [
             {
-                "name": "גרובמן יעקב",
-                "email": "yasha@technion.ac.il",
+                "name": "אוסטרן גיא שלמה",
+                "email": "guyaustern@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "ויצמן מיכאל",
-                "email": "wmichael@campus.technion.ac.il",
-                "title": "מרצה"
             }
         ],
         "Final_A": {
-            "students": "31",
-            "passFail": "31\/0",
+            "students": "56",
+            "passFail": "56\/0",
             "passPercent": "100",
-            "min": "78",
-            "max": "95",
-            "average": "90.194",
-            "median": "91"
+            "min": "87",
+            "max": "100",
+            "average": "92.58",
+            "median": "93"
         },
         "Finals": {
-            "students": "31",
-            "passFail": "31\/0",
+            "students": "56",
+            "passFail": "56\/0",
             "passPercent": "100",
-            "min": "78",
-            "max": "95",
-            "average": "90.194",
-            "median": "91"
+            "min": "87",
+            "max": "100",
+            "average": "93.429",
+            "median": "93"
         }
     },
     "202101": {
@@ -63,31 +58,36 @@
             "median": "85"
         }
     },
-    "202201": {
+    "201901": {
         "Staff": [
             {
-                "name": "אוסטרן גיא שלמה",
-                "email": "guyaustern@technion.ac.il",
+                "name": "גרובמן יעקב",
+                "email": "yasha@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ויצמן מיכאל",
+                "email": "wmichael@campus.technion.ac.il",
+                "title": "מרצה"
             }
         ],
         "Final_A": {
-            "students": "56",
-            "passFail": "56\/0",
+            "students": "31",
+            "passFail": "31\/0",
             "passPercent": "100",
-            "min": "87",
-            "max": "100",
-            "average": "92.58",
-            "median": "93"
+            "min": "78",
+            "max": "95",
+            "average": "90.194",
+            "median": "91"
         },
         "Finals": {
-            "students": "56",
-            "passFail": "56\/0",
+            "students": "31",
+            "passFail": "31\/0",
             "passPercent": "100",
-            "min": "87",
-            "max": "100",
-            "average": "93.429",
-            "median": "93"
+            "min": "78",
+            "max": "95",
+            "average": "90.194",
+            "median": "91"
         }
     }
 }

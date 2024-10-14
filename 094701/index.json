@@ -1,27 +1,4 @@
 {
-    "202101": {
-        "Staff": [
-            {
-                "name": "מולכו גילה",
-                "email": "gila@technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "87",
-            "max": "100",
-            "average": "96.688",
-            "median": "97"
-        }
-    },
     "202201": {
         "Staff": [
             {
@@ -43,6 +20,29 @@
             "max": "100",
             "average": "97.118",
             "median": "98"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "מולכו גילה",
+                "email": "gila@technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "87",
+            "max": "100",
+            "average": "96.688",
+            "median": "97"
         }
     }
 }

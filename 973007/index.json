@@ -1,44 +1,6 @@
 {
-    "201901": {
+    "202301": {
         "Staff": [
-            {
-                "name": "עמר נטע לי",
-                "email": "nataam@technion.ac.il,natham@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "רוזנטל רות",
-                "email": "ruthy@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "שחל אתי",
-                "email": "ettys@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Exam_B": {
-            "students": "156",
-            "passFail": "100\/56",
-            "passPercent": "64",
-            "min": "5",
-            "max": "99",
-            "average": "60",
-            "median": "62"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "מיקוליצקי זיו",
-                "email": "zivm@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "נבייב אלברט",
-                "email": "albert.nab@technion.ac.il",
-                "title": "מתרגל"
-            },
             {
                 "name": "ראשד פרח",
                 "email": "perah.rashah@technion.ac.il",
@@ -47,6 +9,11 @@
             {
                 "name": "שמר רוני",
                 "email": "ronyshe@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "נבייב אלברט",
+                "email": "albert.nab@technion.ac.il",
                 "title": "מתרגל"
             },
             {
@@ -66,22 +33,116 @@
             }
         ],
         "Final_A": {
-            "students": "67",
-            "passFail": "58\/9",
-            "passPercent": "87",
-            "min": "24",
+            "students": "233",
+            "passFail": "179\/54",
+            "passPercent": "77",
+            "min": "2",
             "max": "100",
-            "average": "77.806",
-            "median": "82"
+            "average": "68.18",
+            "median": "71"
         },
         "Final_B": {
-            "students": "24",
-            "passFail": "19\/5",
-            "passPercent": "79",
-            "min": "15",
+            "students": "144",
+            "passFail": "113\/31",
+            "passPercent": "78",
+            "min": "4",
+            "max": "99",
+            "average": "70.361",
+            "median": "76.5"
+        }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "שמר רוני",
+                "email": "ronyshe@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אזולאי מיקה",
+                "email": "amika@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אאא שירי",
+                "email": "shiri.so@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שחל אתי",
+                "email": "ettys@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "207",
+            "passFail": "151\/56",
+            "passPercent": "73",
+            "min": "2",
             "max": "100",
-            "average": "68.5",
-            "median": "72.5"
+            "average": "66.807",
+            "median": "71"
+        },
+        "Final_B": {
+            "students": "144",
+            "passFail": "96\/48",
+            "passPercent": "67",
+            "min": "5",
+            "max": "100",
+            "average": "63.174",
+            "median": "66"
+        }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "מיקוליצקי זיו",
+                "email": "zivm@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ראשד פרח",
+                "email": "perah.rashah@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שמר רוני",
+                "email": "ronyshe@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אאא שירי",
+                "email": "shiri.so@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שחל אתי",
+                "email": "ettys@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אזולאי מיקה",
+                "email": "amika@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "45",
+            "passFail": "36\/9",
+            "passPercent": "80",
+            "min": "9",
+            "max": "98",
+            "average": "69.2",
+            "median": "72"
+        },
+        "Final_B": {
+            "students": "27",
+            "passFail": "19\/8",
+            "passPercent": "70",
+            "min": "21",
+            "max": "96",
+            "average": "67.259",
+            "median": "71"
         }
     },
     "202101": {
@@ -141,110 +202,11 @@
             "median": "65"
         }
     },
-    "202102": {
+    "202002": {
         "Staff": [
             {
                 "name": "מיקוליצקי זיו",
                 "email": "zivm@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "ראשד פרח",
-                "email": "perah.rashah@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "שמר רוני",
-                "email": "ronyshe@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "אאא שירי",
-                "email": "shiri.so@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "שחל אתי",
-                "email": "ettys@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "אזולאי מיקה",
-                "email": "amika@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "45",
-            "passFail": "36\/9",
-            "passPercent": "80",
-            "min": "9",
-            "max": "98",
-            "average": "69.2",
-            "median": "72"
-        },
-        "Final_B": {
-            "students": "27",
-            "passFail": "19\/8",
-            "passPercent": "70",
-            "min": "21",
-            "max": "96",
-            "average": "67.259",
-            "median": "71"
-        }
-    },
-    "202201": {
-        "Staff": [
-            {
-                "name": "שמר רוני",
-                "email": "ronyshe@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "אזולאי מיקה",
-                "email": "amika@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "אאא שירי",
-                "email": "shiri.so@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "שחל אתי",
-                "email": "ettys@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "207",
-            "passFail": "151\/56",
-            "passPercent": "73",
-            "min": "2",
-            "max": "100",
-            "average": "66.807",
-            "median": "71"
-        },
-        "Final_B": {
-            "students": "144",
-            "passFail": "96\/48",
-            "passPercent": "67",
-            "min": "5",
-            "max": "100",
-            "average": "63.174",
-            "median": "66"
-        }
-    },
-    "202301": {
-        "Staff": [
-            {
-                "name": "ראשד פרח",
-                "email": "perah.rashah@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "שמר רוני",
-                "email": "ronyshe@technion.ac.il",
                 "title": "מתרגל"
             },
             {
@@ -253,6 +215,16 @@
                 "title": "מתרגל"
             },
             {
+                "name": "ראשד פרח",
+                "email": "perah.rashah@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שמר רוני",
+                "email": "ronyshe@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "אאא שירי",
                 "email": "shiri.so@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -269,22 +241,50 @@
             }
         ],
         "Final_A": {
-            "students": "233",
-            "passFail": "179\/54",
-            "passPercent": "77",
-            "min": "2",
+            "students": "67",
+            "passFail": "58\/9",
+            "passPercent": "87",
+            "min": "24",
             "max": "100",
-            "average": "68.18",
-            "median": "71"
+            "average": "77.806",
+            "median": "82"
         },
         "Final_B": {
-            "students": "144",
-            "passFail": "113\/31",
-            "passPercent": "78",
-            "min": "4",
+            "students": "24",
+            "passFail": "19\/5",
+            "passPercent": "79",
+            "min": "15",
+            "max": "100",
+            "average": "68.5",
+            "median": "72.5"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "עמר נטע לי",
+                "email": "nataam@technion.ac.il,natham@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "רוזנטל רות",
+                "email": "ruthy@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "שחל אתי",
+                "email": "ettys@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_B": {
+            "students": "156",
+            "passFail": "100\/56",
+            "passPercent": "64",
+            "min": "5",
             "max": "99",
-            "average": "70.361",
-            "median": "76.5"
+            "average": "60",
+            "median": "62"
         }
     }
 }

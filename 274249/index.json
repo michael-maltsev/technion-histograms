@@ -1,5 +1,5 @@
 {
-    "201602": {
+    "201802": {
         "Staff": [
             {
                 "name": "מלמד דורון",
@@ -8,48 +8,48 @@
             }
         ],
         "Exam_A": {
-            "students": "156",
-            "passFail": "152\/4",
+            "students": "115",
+            "passFail": "112\/3",
             "passPercent": "97",
-            "min": "28",
-            "max": "100",
-            "average": "79.833",
+            "min": "44",
+            "max": "98",
+            "average": "79.53",
             "median": "82"
         },
         "Final_A": {
-            "students": "156",
-            "passFail": "153\/3",
-            "passPercent": "98",
-            "min": "30",
-            "max": "100",
-            "average": "81.154",
-            "median": "84"
-        },
-        "Exam_B": {
-            "students": "34",
-            "passFail": "34\/0",
-            "passPercent": "100",
-            "min": "58",
+            "students": "115",
+            "passFail": "112\/3",
+            "passPercent": "97",
+            "min": "44",
             "max": "98",
-            "average": "79.588",
-            "median": "81"
-        },
-        "Final_B": {
-            "students": "34",
-            "passFail": "34\/0",
-            "passPercent": "100",
-            "min": "58",
-            "max": "100",
-            "average": "81.118",
+            "average": "79.791",
             "median": "82"
         },
+        "Exam_B": {
+            "students": "28",
+            "passFail": "28\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "92",
+            "average": "79.071",
+            "median": "79"
+        },
+        "Final_B": {
+            "students": "28",
+            "passFail": "28\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "92",
+            "average": "79.071",
+            "median": "79"
+        },
         "Finals": {
-            "students": "169",
-            "passFail": "168\/1",
-            "passPercent": "99",
-            "min": "30",
-            "max": "100",
-            "average": "83.041",
+            "students": "125",
+            "passFail": "125\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "98",
+            "average": "81.456",
             "median": "84"
         }
     },
@@ -107,7 +107,7 @@
             "median": "82"
         }
     },
-    "201802": {
+    "201602": {
         "Staff": [
             {
                 "name": "מלמד דורון",
@@ -116,48 +116,48 @@
             }
         ],
         "Exam_A": {
-            "students": "115",
-            "passFail": "112\/3",
+            "students": "156",
+            "passFail": "152\/4",
             "passPercent": "97",
-            "min": "44",
-            "max": "98",
-            "average": "79.53",
+            "min": "28",
+            "max": "100",
+            "average": "79.833",
             "median": "82"
         },
         "Final_A": {
-            "students": "115",
-            "passFail": "112\/3",
-            "passPercent": "97",
-            "min": "44",
-            "max": "98",
-            "average": "79.791",
-            "median": "82"
+            "students": "156",
+            "passFail": "153\/3",
+            "passPercent": "98",
+            "min": "30",
+            "max": "100",
+            "average": "81.154",
+            "median": "84"
         },
         "Exam_B": {
-            "students": "28",
-            "passFail": "28\/0",
+            "students": "34",
+            "passFail": "34\/0",
             "passPercent": "100",
             "min": "58",
-            "max": "92",
-            "average": "79.071",
-            "median": "79"
+            "max": "98",
+            "average": "79.588",
+            "median": "81"
         },
         "Final_B": {
-            "students": "28",
-            "passFail": "28\/0",
+            "students": "34",
+            "passFail": "34\/0",
             "passPercent": "100",
             "min": "58",
-            "max": "92",
-            "average": "79.071",
-            "median": "79"
+            "max": "100",
+            "average": "81.118",
+            "median": "82"
         },
         "Finals": {
-            "students": "125",
-            "passFail": "125\/0",
-            "passPercent": "100",
-            "min": "56",
-            "max": "98",
-            "average": "81.456",
+            "students": "169",
+            "passFail": "168\/1",
+            "passPercent": "99",
+            "min": "30",
+            "max": "100",
+            "average": "83.041",
             "median": "84"
         }
     }

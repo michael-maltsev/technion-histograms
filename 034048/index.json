@@ -1,66 +1,119 @@
 {
-    "202002": {
+    "202302": {
         "Staff": [
             {
-                "name": "תחאוחו אנדי",
-                "email": "andyth@technion.ac.il,andythawho@campus.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "name": "גורלי גיורא",
+                "email": "goralig@rafael.co.il",
+                "title": "מרצה"
             },
             {
-                "name": "פלאצקער יונתן",
-                "email": "",
-                "title": "מרצה"
+                "name": "גבעון איתמר",
+                "email": "itamar.givon@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "רוזנשטוק דוד",
+                "email": "rosenstock@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "עבדאללה סלמאן",
+                "email": "salman.ab@campus.technion.ac.il",
+                "title": ""
+            }
+        ],
+        "Exam_A": {
+            "students": "84",
+            "passFail": "50\/34",
+            "passPercent": "60",
+            "min": "26",
+            "max": "103",
+            "average": "66.393",
+            "median": "64.5"
+        }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "שפרי דן",
+                "email": "shafry@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
             },
             {
                 "name": "גרבר ארתור",
                 "email": "arthurg27@yahoo.com",
                 "title": "מרצה"
+            },
+            {
+                "name": "רוזנשטוק דוד",
+                "email": "rosenstock@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "איזנברג אשל",
+                "email": "eshele@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "זיק בעז",
+                "email": "boaz.zick@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "או גינטאו",
+                "email": "jintaowu@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "עבדאללה סלמאן",
+                "email": "salman.ab@campus.technion.ac.il",
+                "title": ""
             }
         ],
         "Exam_A": {
-            "students": "143",
-            "passFail": "96\/47",
-            "passPercent": "67",
-            "min": "0",
-            "max": "102",
-            "average": "63.028",
-            "median": "64"
+            "students": "98",
+            "passFail": "84\/14",
+            "passPercent": "86",
+            "min": "8",
+            "max": "115",
+            "average": "76.01",
+            "median": "76.5"
         },
         "Final_A": {
-            "students": "142",
-            "passFail": "136\/6",
-            "passPercent": "96",
-            "min": "27",
-            "max": "101",
-            "average": "73.19",
-            "median": "74.5"
+            "students": "98",
+            "passFail": "92\/6",
+            "passPercent": "94",
+            "min": "35",
+            "max": "100",
+            "average": "81.439",
+            "median": "82.5"
         },
         "Exam_B": {
-            "students": "20",
-            "passFail": "18\/2",
-            "passPercent": "90",
-            "min": "38",
-            "max": "100",
-            "average": "75.05",
-            "median": "74"
+            "students": "28",
+            "passFail": "17\/11",
+            "passPercent": "61",
+            "min": "42",
+            "max": "97",
+            "average": "60.429",
+            "median": "58.5"
         },
         "Final_B": {
-            "students": "20",
-            "passFail": "19\/1",
-            "passPercent": "95",
-            "min": "53",
-            "max": "100",
-            "average": "81.05",
-            "median": "80.5"
+            "students": "28",
+            "passFail": "27\/1",
+            "passPercent": "96",
+            "min": "36",
+            "max": "97",
+            "average": "70",
+            "median": "70.5"
         },
         "Finals": {
-            "students": "155",
-            "passFail": "152\/3",
-            "passPercent": "98",
-            "min": "29",
+            "students": "113",
+            "passFail": "112\/1",
+            "passPercent": "99",
+            "min": "36",
             "max": "100",
-            "average": "75.335",
-            "median": "76"
+            "average": "84.674",
+            "median": "87"
         }
     },
     "202102": {
@@ -152,121 +205,68 @@
             "median": "82"
         }
     },
-    "202202": {
+    "202002": {
         "Staff": [
             {
-                "name": "שפרי דן",
-                "email": "shafry@technion.ac.il",
+                "name": "תחאוחו אנדי",
+                "email": "andyth@technion.ac.il,andythawho@campus.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פלאצקער יונתן",
+                "email": "",
+                "title": "מרצה"
             },
             {
                 "name": "גרבר ארתור",
                 "email": "arthurg27@yahoo.com",
                 "title": "מרצה"
-            },
-            {
-                "name": "רוזנשטוק דוד",
-                "email": "rosenstock@campus.technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "איזנברג אשל",
-                "email": "eshele@campus.technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "זיק בעז",
-                "email": "boaz.zick@campus.technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "או גינטאו",
-                "email": "jintaowu@campus.technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "עבדאללה סלמאן",
-                "email": "salman.ab@campus.technion.ac.il",
-                "title": ""
             }
         ],
         "Exam_A": {
-            "students": "98",
-            "passFail": "84\/14",
-            "passPercent": "86",
-            "min": "8",
-            "max": "115",
-            "average": "76.01",
-            "median": "76.5"
+            "students": "143",
+            "passFail": "96\/47",
+            "passPercent": "67",
+            "min": "0",
+            "max": "102",
+            "average": "63.028",
+            "median": "64"
         },
         "Final_A": {
-            "students": "98",
-            "passFail": "92\/6",
-            "passPercent": "94",
-            "min": "35",
-            "max": "100",
-            "average": "81.439",
-            "median": "82.5"
+            "students": "142",
+            "passFail": "136\/6",
+            "passPercent": "96",
+            "min": "27",
+            "max": "101",
+            "average": "73.19",
+            "median": "74.5"
         },
         "Exam_B": {
-            "students": "28",
-            "passFail": "17\/11",
-            "passPercent": "61",
-            "min": "42",
-            "max": "97",
-            "average": "60.429",
-            "median": "58.5"
+            "students": "20",
+            "passFail": "18\/2",
+            "passPercent": "90",
+            "min": "38",
+            "max": "100",
+            "average": "75.05",
+            "median": "74"
         },
         "Final_B": {
-            "students": "28",
-            "passFail": "27\/1",
-            "passPercent": "96",
-            "min": "36",
-            "max": "97",
-            "average": "70",
-            "median": "70.5"
+            "students": "20",
+            "passFail": "19\/1",
+            "passPercent": "95",
+            "min": "53",
+            "max": "100",
+            "average": "81.05",
+            "median": "80.5"
         },
         "Finals": {
-            "students": "113",
-            "passFail": "112\/1",
-            "passPercent": "99",
-            "min": "36",
+            "students": "155",
+            "passFail": "152\/3",
+            "passPercent": "98",
+            "min": "29",
             "max": "100",
-            "average": "84.674",
-            "median": "87"
-        }
-    },
-    "202302": {
-        "Staff": [
-            {
-                "name": "גורלי גיורא",
-                "email": "goralig@rafael.co.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "גבעון איתמר",
-                "email": "itamar.givon@campus.technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "רוזנשטוק דוד",
-                "email": "rosenstock@campus.technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "עבדאללה סלמאן",
-                "email": "salman.ab@campus.technion.ac.il",
-                "title": ""
-            }
-        ],
-        "Exam_A": {
-            "students": "84",
-            "passFail": "50\/34",
-            "passPercent": "60",
-            "min": "26",
-            "max": "103",
-            "average": "66.393",
-            "median": "64.5"
+            "average": "75.335",
+            "median": "76"
         }
     }
 }

@@ -1,5 +1,42 @@
 {
-    "200601": {
+    "201101": {
+        "Staff": [
+            {
+                "name": "רהב סער",
+                "email": "rahavs@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טלמון אינה",
+                "email": "ina@ee.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "הלוי גבריאלה",
+                "email": "gabriele@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "413",
+            "passFail": "295\/118",
+            "passPercent": "71",
+            "min": "14",
+            "max": "95",
+            "average": "64.794",
+            "median": "67"
+        },
+        "Final_B": {
+            "students": "166",
+            "passFail": "80\/86",
+            "passPercent": "48",
+            "min": "27",
+            "max": "91",
+            "average": "56.94",
+            "median": "53.5"
+        }
+    },
+    "201001": {
         "Staff": [
             {
                 "name": "שמידט אשר",
@@ -7,33 +44,13 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "רטנר תמר",
-                "email": "tamar@technion.ac.il",
+                "name": "הלוי גבריאלה",
+                "email": "gabriele@technion.ac.il",
                 "title": "מתרגל"
             },
             {
-                "name": "דוברובצקי רומן",
-                "email": "sroma@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "טוביאס אולגה",
-                "email": "olgoosh@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "לוין ענת",
-                "email": "chanat@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "נודלמן איגור",
-                "email": "igornud@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "גרציקוב יוליה",
-                "email": "sgryulia@technion.ac.il",
+                "name": "עקיבא ענת",
+                "email": "",
                 "title": "מתרגל"
             },
             {
@@ -42,43 +59,53 @@
                 "title": "מתרגל"
             },
             {
-                "name": "רבין נירה",
-                "email": "nirar@technion.ac.il",
+                "name": "שריץ רוזליה",
+                "email": "srozalia@technion.ac.il",
                 "title": "מתרגל"
             },
             {
-                "name": "הלוי גבריאלה",
-                "email": "gabriele@technion.ac.il",
+                "name": "קאושנסקי אלכסנדר",
+                "email": "akaushan@technion.ac.il",
                 "title": "מתרגל"
             },
             {
-                "name": "שכטר טליה",
-                "email": "talias@technion.ac.il",
+                "name": "בלומקין מוריה",
+                "email": "",
                 "title": "מתרגל"
             },
             {
-                "name": "קלופר ויקי",
-                "email": "vitik@technion.ac.il",
+                "name": "רטנר תמר",
+                "email": "tamar@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מיכלסון שאול",
+                "email": "mshaul@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שוכן דנה",
+                "email": "sdanah@technion.ac.il",
                 "title": "מתרגל"
             }
         ],
         "Final_A": {
-            "students": "294",
-            "passFail": "235\/59",
-            "passPercent": "80",
-            "min": "10",
-            "max": "99",
-            "average": "67.276",
-            "median": "69"
+            "students": "396",
+            "passFail": "392\/4",
+            "passPercent": "99",
+            "min": "46",
+            "max": "97",
+            "average": "78.24",
+            "median": "78"
         },
         "Final_B": {
-            "students": "140",
-            "passFail": "113\/27",
-            "passPercent": "81",
-            "min": "25",
-            "max": "95",
-            "average": "69.707",
-            "median": "71"
+            "students": "66",
+            "passFail": "43\/23",
+            "passPercent": "65",
+            "min": "35",
+            "max": "85",
+            "average": "59.045",
+            "median": "58"
         }
     },
     "200901": {
@@ -169,7 +196,7 @@
             "median": "72"
         }
     },
-    "201001": {
+    "200601": {
         "Staff": [
             {
                 "name": "שמידט אשר",
@@ -177,76 +204,34 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "הלוי גבריאלה",
-                "email": "gabriele@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "עקיבא ענת",
-                "email": "",
-                "title": "מתרגל"
-            },
-            {
-                "name": "טלמון אינה",
-                "email": "ina@ee.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "שריץ רוזליה",
-                "email": "srozalia@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "קאושנסקי אלכסנדר",
-                "email": "akaushan@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "בלומקין מוריה",
-                "email": "",
-                "title": "מתרגל"
-            },
-            {
                 "name": "רטנר תמר",
                 "email": "tamar@technion.ac.il",
                 "title": "מתרגל"
             },
             {
-                "name": "מיכלסון שאול",
-                "email": "mshaul@technion.ac.il",
+                "name": "דוברובצקי רומן",
+                "email": "sroma@technion.ac.il",
                 "title": "מתרגל"
             },
             {
-                "name": "שוכן דנה",
-                "email": "sdanah@technion.ac.il",
+                "name": "טוביאס אולגה",
+                "email": "olgoosh@technion.ac.il",
                 "title": "מתרגל"
-            }
-        ],
-        "Final_A": {
-            "students": "396",
-            "passFail": "392\/4",
-            "passPercent": "99",
-            "min": "46",
-            "max": "97",
-            "average": "78.24",
-            "median": "78"
-        },
-        "Final_B": {
-            "students": "66",
-            "passFail": "43\/23",
-            "passPercent": "65",
-            "min": "35",
-            "max": "85",
-            "average": "59.045",
-            "median": "58"
-        }
-    },
-    "201101": {
-        "Staff": [
+            },
             {
-                "name": "רהב סער",
-                "email": "rahavs@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "name": "לוין ענת",
+                "email": "chanat@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "נודלמן איגור",
+                "email": "igornud@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "גרציקוב יוליה",
+                "email": "sgryulia@technion.ac.il",
+                "title": "מתרגל"
             },
             {
                 "name": "טלמון אינה",
@@ -254,28 +239,43 @@
                 "title": "מתרגל"
             },
             {
+                "name": "רבין נירה",
+                "email": "nirar@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "הלוי גבריאלה",
                 "email": "gabriele@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שכטר טליה",
+                "email": "talias@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קלופר ויקי",
+                "email": "vitik@technion.ac.il",
                 "title": "מתרגל"
             }
         ],
         "Final_A": {
-            "students": "413",
-            "passFail": "295\/118",
-            "passPercent": "71",
-            "min": "14",
-            "max": "95",
-            "average": "64.794",
-            "median": "67"
+            "students": "294",
+            "passFail": "235\/59",
+            "passPercent": "80",
+            "min": "10",
+            "max": "99",
+            "average": "67.276",
+            "median": "69"
         },
         "Final_B": {
-            "students": "166",
-            "passFail": "80\/86",
-            "passPercent": "48",
-            "min": "27",
-            "max": "91",
-            "average": "56.94",
-            "median": "53.5"
+            "students": "140",
+            "passFail": "113\/27",
+            "passPercent": "81",
+            "min": "25",
+            "max": "95",
+            "average": "69.707",
+            "median": "71"
         }
     }
 }

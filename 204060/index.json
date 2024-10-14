@@ -1,31 +1,4 @@
 {
-    "202002": {
-        "Staff": [
-            {
-                "name": "חגי אביטל",
-                "email": "avitalut@gmail.com,hagai.avital@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "34",
-            "passFail": "33\/1",
-            "passPercent": "97",
-            "min": "50",
-            "max": "93",
-            "average": "84.971",
-            "median": "86.5"
-        },
-        "Finals": {
-            "students": "34",
-            "passFail": "33\/1",
-            "passPercent": "97",
-            "min": "50",
-            "max": "93",
-            "average": "85",
-            "median": "86.5"
-        }
-    },
     "202102": {
         "Staff": [
             {
@@ -61,6 +34,33 @@
             "max": "95",
             "average": "85.067",
             "median": "87.5"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "חגי אביטל",
+                "email": "avitalut@gmail.com,hagai.avital@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "34",
+            "passFail": "33\/1",
+            "passPercent": "97",
+            "min": "50",
+            "max": "93",
+            "average": "84.971",
+            "median": "86.5"
+        },
+        "Finals": {
+            "students": "34",
+            "passFail": "33\/1",
+            "passPercent": "97",
+            "min": "50",
+            "max": "93",
+            "average": "85",
+            "median": "86.5"
         }
     }
 }

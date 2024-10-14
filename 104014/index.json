@@ -1,9 +1,9 @@
 {
-    "200802": {
+    "201002": {
         "Staff": [
             {
-                "name": "מניוביץ רות",
-                "email": "ruthm@technion.ac.il",
+                "name": "מאיר-וולף אדוארדו",
+                "email": "emw@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -13,22 +13,54 @@
             }
         ],
         "Final_A": {
-            "students": "437",
-            "passFail": "351\/86",
-            "passPercent": "80",
-            "min": "2",
-            "max": "98",
-            "average": "65.97",
-            "median": "67"
+            "students": "461",
+            "passFail": "365\/96",
+            "passPercent": "79",
+            "min": "13",
+            "max": "100",
+            "average": "66.573",
+            "median": "68"
         },
         "Final_B": {
-            "students": "224",
-            "passFail": "190\/34",
+            "students": "253",
+            "passFail": "215\/38",
             "passPercent": "85",
-            "min": "14",
-            "max": "99",
-            "average": "70.951",
-            "median": "74"
+            "min": "13",
+            "max": "97",
+            "average": "70.542",
+            "median": "75"
+        }
+    },
+    "201001": {
+        "Staff": [
+            {
+                "name": "מאיר-וולף אדוארדו",
+                "email": "emw@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לנקביץ מיכל",
+                "email": "lemichal@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "184",
+            "passFail": "152\/32",
+            "passPercent": "83",
+            "min": "16",
+            "max": "97",
+            "average": "70.56",
+            "median": "73.5"
+        },
+        "Final_B": {
+            "students": "93",
+            "passFail": "70\/23",
+            "passPercent": "75",
+            "min": "27",
+            "max": "93",
+            "average": "63.323",
+            "median": "66"
         }
     },
     "200902": {
@@ -72,43 +104,11 @@
             "median": "68"
         }
     },
-    "201001": {
+    "200802": {
         "Staff": [
             {
-                "name": "מאיר-וולף אדוארדו",
-                "email": "emw@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "לנקביץ מיכל",
-                "email": "lemichal@technion.ac.il",
-                "title": "מתרגל"
-            }
-        ],
-        "Final_A": {
-            "students": "184",
-            "passFail": "152\/32",
-            "passPercent": "83",
-            "min": "16",
-            "max": "97",
-            "average": "70.56",
-            "median": "73.5"
-        },
-        "Final_B": {
-            "students": "93",
-            "passFail": "70\/23",
-            "passPercent": "75",
-            "min": "27",
-            "max": "93",
-            "average": "63.323",
-            "median": "66"
-        }
-    },
-    "201002": {
-        "Staff": [
-            {
-                "name": "מאיר-וולף אדוארדו",
-                "email": "emw@technion.ac.il",
+                "name": "מניוביץ רות",
+                "email": "ruthm@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -118,22 +118,22 @@
             }
         ],
         "Final_A": {
-            "students": "461",
-            "passFail": "365\/96",
-            "passPercent": "79",
-            "min": "13",
-            "max": "100",
-            "average": "66.573",
-            "median": "68"
+            "students": "437",
+            "passFail": "351\/86",
+            "passPercent": "80",
+            "min": "2",
+            "max": "98",
+            "average": "65.97",
+            "median": "67"
         },
         "Final_B": {
-            "students": "253",
-            "passFail": "215\/38",
+            "students": "224",
+            "passFail": "190\/34",
             "passPercent": "85",
-            "min": "13",
-            "max": "97",
-            "average": "70.542",
-            "median": "75"
+            "min": "14",
+            "max": "99",
+            "average": "70.951",
+            "median": "74"
         }
     }
 }

@@ -1,50 +1,5 @@
 {
-    "201801": {
-        "Staff": [
-            {
-                "name": "סינגר ליויו",
-                "email": "liviu.singer@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "22",
-            "passFail": "22\/0",
-            "passPercent": "100",
-            "min": "91",
-            "max": "100",
-            "average": "97.864",
-            "median": "100"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "סינגר ליויו",
-                "email": "liviu.singer@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "24",
-            "passFail": "24\/0",
-            "passPercent": "100",
-            "min": "93",
-            "max": "100",
-            "average": "97.708",
-            "median": "99"
-        },
-        "Finals": {
-            "students": "24",
-            "passFail": "24\/0",
-            "passPercent": "100",
-            "min": "93",
-            "max": "100",
-            "average": "97.708",
-            "median": "99"
-        }
-    },
-    "202002": {
+    "202202": {
         "Staff": [
             {
                 "name": "סגל רוברט",
@@ -53,22 +8,22 @@
             }
         ],
         "Final_A": {
-            "students": "38",
-            "passFail": "38\/0",
+            "students": "21",
+            "passFail": "21\/0",
             "passPercent": "100",
-            "min": "60",
+            "min": "74",
             "max": "100",
-            "average": "83.947",
-            "median": "85"
+            "average": "94.095",
+            "median": "100"
         },
         "Finals": {
-            "students": "41",
-            "passFail": "41\/0",
+            "students": "24",
+            "passFail": "24\/0",
             "passPercent": "100",
-            "min": "60",
+            "min": "74",
             "max": "100",
-            "average": "84.024",
-            "median": "85"
+            "average": "93.5",
+            "median": "92"
         }
     },
     "202102": {
@@ -98,7 +53,7 @@
             "median": "92"
         }
     },
-    "202202": {
+    "202002": {
         "Staff": [
             {
                 "name": "סגל רוברט",
@@ -107,22 +62,67 @@
             }
         ],
         "Final_A": {
-            "students": "21",
-            "passFail": "21\/0",
+            "students": "38",
+            "passFail": "38\/0",
             "passPercent": "100",
-            "min": "74",
+            "min": "60",
             "max": "100",
-            "average": "94.095",
-            "median": "100"
+            "average": "83.947",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "84.024",
+            "median": "85"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "סינגר ליויו",
+                "email": "liviu.singer@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "100",
+            "average": "97.708",
+            "median": "99"
         },
         "Finals": {
             "students": "24",
             "passFail": "24\/0",
             "passPercent": "100",
-            "min": "74",
+            "min": "93",
             "max": "100",
-            "average": "93.5",
-            "median": "92"
+            "average": "97.708",
+            "median": "99"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "סינגר ליויו",
+                "email": "liviu.singer@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "91",
+            "max": "100",
+            "average": "97.864",
+            "median": "100"
         }
     }
 }

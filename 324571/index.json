@@ -1,22 +1,4 @@
 {
-    "201503": {
-        "Staff": [
-            {
-                "name": "גופר קובי",
-                "email": "kobi.goffer@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "94",
-            "max": "100",
-            "average": "96.846",
-            "median": "97"
-        }
-    },
     "201703": {
         "Final_A": {
             "students": "17",
@@ -35,6 +17,24 @@
             "max": "98",
             "average": "94.722",
             "median": "95"
+        }
+    },
+    "201503": {
+        "Staff": [
+            {
+                "name": "גופר קובי",
+                "email": "kobi.goffer@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "94",
+            "max": "100",
+            "average": "96.846",
+            "median": "97"
         }
     }
 }

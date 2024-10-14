@@ -1,22 +1,4 @@
 {
-    "201802": {
-        "Staff": [
-            {
-                "name": "שיריזלי אמנון",
-                "email": "a.shirizly@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "23",
-            "passFail": "23\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "92.913",
-            "median": "94"
-        }
-    },
     "202202": {
         "Staff": [
             {
@@ -42,6 +24,24 @@
             "max": "100",
             "average": "80.1",
             "median": "87.5"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "שיריזלי אמנון",
+                "email": "a.shirizly@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "92.913",
+            "median": "94"
         }
     }
 }

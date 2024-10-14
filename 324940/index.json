@@ -1,76 +1,4 @@
 {
-    "201402": {
-        "Staff": [
-            {
-                "name": "ראופמן רוית",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "109",
-            "passFail": "109\/0",
-            "passPercent": "100",
-            "min": "56",
-            "max": "100",
-            "average": "91.083",
-            "median": "92"
-        }
-    },
-    "201501": {
-        "Staff": [
-            {
-                "name": "ראופמן רוית",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "84",
-            "passFail": "84\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "100",
-            "average": "92.619",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "89",
-            "passFail": "89\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "100",
-            "average": "92.809",
-            "median": "96"
-        }
-    },
-    "201601": {
-        "Staff": [
-            {
-                "name": "ראופמן רוית",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "82",
-            "passFail": "82\/0",
-            "passPercent": "100",
-            "min": "64",
-            "max": "100",
-            "average": "93.951",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "83",
-            "passFail": "83\/0",
-            "passPercent": "100",
-            "min": "76",
-            "max": "100",
-            "average": "94.843",
-            "median": "96"
-        }
-    },
     "202101": {
         "Staff": [
             {
@@ -106,6 +34,78 @@
             "max": "100",
             "average": "93.314",
             "median": "96"
+        }
+    },
+    "201601": {
+        "Staff": [
+            {
+                "name": "ראופמן רוית",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "82",
+            "passFail": "82\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "100",
+            "average": "93.951",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "83",
+            "passFail": "83\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "100",
+            "average": "94.843",
+            "median": "96"
+        }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "ראופמן רוית",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "84",
+            "passFail": "84\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "92.619",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "89",
+            "passFail": "89\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "92.809",
+            "median": "96"
+        }
+    },
+    "201402": {
+        "Staff": [
+            {
+                "name": "ראופמן רוית",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "109",
+            "passFail": "109\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "100",
+            "average": "91.083",
+            "median": "92"
         }
     }
 }

@@ -1,31 +1,4 @@
 {
-    "202002": {
-        "Staff": [
-            {
-                "name": "זהר אלון",
-                "email": "alonso@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "72",
-            "passFail": "72\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "96",
-            "average": "84.472",
-            "median": "86"
-        },
-        "Finals": {
-            "students": "72",
-            "passFail": "72\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "96",
-            "average": "84.472",
-            "median": "86"
-        }
-    },
     "202102": {
         "Staff": [
             {
@@ -50,6 +23,33 @@
             "min": "64",
             "max": "93",
             "average": "84.944",
+            "median": "86"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "זהר אלון",
+                "email": "alonso@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "72",
+            "passFail": "72\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "96",
+            "average": "84.472",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "72",
+            "passFail": "72\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "96",
+            "average": "84.472",
             "median": "86"
         }
     }

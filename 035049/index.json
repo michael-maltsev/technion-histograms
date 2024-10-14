@@ -1,5 +1,5 @@
 {
-    "201901": {
+    "202301": {
         "Staff": [
             {
                 "name": "אשד שלמה",
@@ -7,77 +7,32 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Final_A": {
-            "students": "30",
-            "passFail": "30\/0",
+        "Exam_A": {
+            "students": "27",
+            "passFail": "27\/0",
             "passPercent": "100",
-            "min": "87",
-            "max": "98",
-            "average": "94.033",
-            "median": "95"
+            "min": "83",
+            "max": "100",
+            "average": "95.926",
+            "median": "97"
         },
-        "Finals": {
-            "students": "37",
-            "passFail": "37\/0",
-            "passPercent": "100",
-            "min": "87",
-            "max": "98",
-            "average": "93.622",
-            "median": "94"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "אשד שלמה",
-                "email": "meseshed@me.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
         "Final_A": {
-            "students": "40",
-            "passFail": "40\/0",
+            "students": "27",
+            "passFail": "27\/0",
             "passPercent": "100",
-            "min": "87",
-            "max": "99.16",
-            "average": "95.536",
-            "median": "96.154"
-        },
-        "Finals": {
-            "students": "40",
-            "passFail": "40\/0",
-            "passPercent": "100",
-            "min": "87",
-            "max": "99",
-            "average": "95.775",
-            "median": "96"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "אשד שלמה",
-                "email": "meseshed@me.technion.ac.il,meseshed@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "32",
-            "passFail": "32\/0",
-            "passPercent": "100",
-            "min": "89.244",
-            "max": "98.1",
-            "average": "93.814",
-            "median": "94.3"
+            "min": "89.776",
+            "max": "100",
+            "average": "96.445",
+            "median": "96.68"
         },
         "Finals": {
             "students": "33",
             "passFail": "33\/0",
             "passPercent": "100",
-            "min": "89",
-            "max": "98",
-            "average": "93.909",
-            "median": "94"
+            "min": "90",
+            "max": "100",
+            "average": "96.394",
+            "median": "97"
         }
     },
     "202201": {
@@ -116,7 +71,7 @@
             "median": "95"
         }
     },
-    "202301": {
+    "202101": {
         "Staff": [
             {
                 "name": "אשד שלמה",
@@ -124,32 +79,77 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Exam_A": {
-            "students": "27",
-            "passFail": "27\/0",
-            "passPercent": "100",
-            "min": "83",
-            "max": "100",
-            "average": "95.926",
-            "median": "97"
-        },
         "Final_A": {
-            "students": "27",
-            "passFail": "27\/0",
+            "students": "32",
+            "passFail": "32\/0",
             "passPercent": "100",
-            "min": "89.776",
-            "max": "100",
-            "average": "96.445",
-            "median": "96.68"
+            "min": "89.244",
+            "max": "98.1",
+            "average": "93.814",
+            "median": "94.3"
         },
         "Finals": {
             "students": "33",
             "passFail": "33\/0",
             "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "96.394",
-            "median": "97"
+            "min": "89",
+            "max": "98",
+            "average": "93.909",
+            "median": "94"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "אשד שלמה",
+                "email": "meseshed@me.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "40",
+            "passFail": "40\/0",
+            "passPercent": "100",
+            "min": "87",
+            "max": "99.16",
+            "average": "95.536",
+            "median": "96.154"
+        },
+        "Finals": {
+            "students": "40",
+            "passFail": "40\/0",
+            "passPercent": "100",
+            "min": "87",
+            "max": "99",
+            "average": "95.775",
+            "median": "96"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "אשד שלמה",
+                "email": "meseshed@me.technion.ac.il,meseshed@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "87",
+            "max": "98",
+            "average": "94.033",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "37",
+            "passFail": "37\/0",
+            "passPercent": "100",
+            "min": "87",
+            "max": "98",
+            "average": "93.622",
+            "median": "94"
         }
     }
 }

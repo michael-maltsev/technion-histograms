@@ -1,5 +1,5 @@
 {
-    "201901": {
+    "202201": {
         "Staff": [
             {
                 "name": "ארד איתי",
@@ -7,23 +7,14 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Final_B": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "99",
-            "average": "95.867",
-            "median": "96"
-        },
         "Finals": {
-            "students": "15",
-            "passFail": "15\/0",
+            "students": "10",
+            "passFail": "10\/0",
             "passPercent": "100",
-            "min": "90",
-            "max": "99",
-            "average": "95.867",
-            "median": "96"
+            "min": "80",
+            "max": "100",
+            "average": "95",
+            "median": "99"
         }
     },
     "202001": {
@@ -53,7 +44,7 @@
             "median": "98"
         }
     },
-    "202201": {
+    "201901": {
         "Staff": [
             {
                 "name": "ארד איתי",
@@ -61,14 +52,23 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
+        "Final_B": {
+            "students": "15",
+            "passFail": "15\/0",
             "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "95",
-            "median": "99"
+            "min": "90",
+            "max": "99",
+            "average": "95.867",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "99",
+            "average": "95.867",
+            "median": "96"
         }
     }
 }

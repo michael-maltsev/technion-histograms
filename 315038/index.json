@@ -1,36 +1,4 @@
 {
-    "201802": {
-        "Staff": [
-            {
-                "name": "ישורון יהושע",
-                "email": "shukin@netvision.co.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "הרשקוביץ אסף",
-                "email": "asafh@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "88.438",
-            "median": "85"
-        },
-        "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "88.235",
-            "median": "85"
-        }
-    },
     "201902": {
         "Staff": [
             {
@@ -66,6 +34,38 @@
             "max": "100",
             "average": "89.828",
             "median": "95"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "ישורון יהושע",
+                "email": "shukin@netvision.co.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הרשקוביץ אסף",
+                "email": "asafh@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "88.438",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "88.235",
+            "median": "85"
         }
     }
 }

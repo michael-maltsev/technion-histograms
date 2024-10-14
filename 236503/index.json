@@ -1,5 +1,45 @@
 {
-    "201602": {
+    "202202": {
+        "Staff": [
+            {
+                "name": "עציון טובי",
+                "email": "etzion@cs.technion.ac.il,etzion@technion.ac.il",
+                "title": "מנחה פרויקטים  - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "100",
+            "average": "96.818",
+            "median": "96.5"
+        }
+    },
+    "202102": {
+        "Finals": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "94",
+            "max": "100",
+            "average": "97.735",
+            "median": "98"
+        }
+    },
+    "202101": {
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "91",
+            "max": "100",
+            "average": "97.312",
+            "median": "98"
+        }
+    },
+    "201902": {
         "Staff": [
             {
                 "name": "משלי אורן",
@@ -8,12 +48,30 @@
             }
         ],
         "Finals": {
-            "students": "37",
-            "passFail": "37\/0",
+            "students": "32",
+            "passFail": "32\/0",
             "passPercent": "100",
-            "min": "86",
+            "min": "65",
             "max": "100",
-            "average": "94.757",
+            "average": "88.344",
+            "median": "92"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "משלי אורן",
+                "email": "omishali@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "46",
+            "passFail": "46\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "100",
+            "average": "91.217",
             "median": "94"
         }
     },
@@ -35,7 +93,7 @@
             "median": "94"
         }
     },
-    "201901": {
+    "201602": {
         "Staff": [
             {
                 "name": "משלי אורן",
@@ -44,71 +102,13 @@
             }
         ],
         "Finals": {
-            "students": "46",
-            "passFail": "46\/0",
+            "students": "37",
+            "passFail": "37\/0",
             "passPercent": "100",
-            "min": "75",
+            "min": "86",
             "max": "100",
-            "average": "91.217",
+            "average": "94.757",
             "median": "94"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "משלי אורן",
-                "email": "omishali@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "32",
-            "passFail": "32\/0",
-            "passPercent": "100",
-            "min": "65",
-            "max": "100",
-            "average": "88.344",
-            "median": "92"
-        }
-    },
-    "202101": {
-        "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "91",
-            "max": "100",
-            "average": "97.312",
-            "median": "98"
-        }
-    },
-    "202102": {
-        "Finals": {
-            "students": "34",
-            "passFail": "34\/0",
-            "passPercent": "100",
-            "min": "94",
-            "max": "100",
-            "average": "97.735",
-            "median": "98"
-        }
-    },
-    "202202": {
-        "Staff": [
-            {
-                "name": "עציון טובי",
-                "email": "etzion@cs.technion.ac.il,etzion@technion.ac.il",
-                "title": "מנחה פרויקטים  - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "22",
-            "passFail": "22\/0",
-            "passPercent": "100",
-            "min": "93",
-            "max": "100",
-            "average": "96.818",
-            "median": "96.5"
         }
     }
 }

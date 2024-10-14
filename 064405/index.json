@@ -1,71 +1,4 @@
 {
-    "201701": {
-        "Staff": [
-            {
-                "name": "קשי יחזקאל",
-                "email": "kashi@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "סינואני פרתי אילנה",
-                "email": "ilanasf@campus.technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "פרכטל רוני",
-                "email": "ronilu7@gmail.com",
-                "title": ""
-            },
-            {
-                "name": "סמוסב אלכס",
-                "email": "alex.s@campus.technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "ג'מאל ג'ואנה",
-                "email": "joannajammal@campus.technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "אוקון זויה",
-                "email": "gzoya@technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "ערן עדן",
-                "email": "edeneran@gmail.com,sedener@campus.technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "פרייליך שי",
-                "email": "shayfr@campus.technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "מלכה נטלי",
-                "email": "natalidm@campus.technion.ac.il",
-                "title": ""
-            }
-        ],
-        "Final_A": {
-            "students": "58",
-            "passFail": "58\/0",
-            "passPercent": "100",
-            "min": "65",
-            "max": "96",
-            "average": "86.569",
-            "median": "88"
-        },
-        "Finals": {
-            "students": "66",
-            "passFail": "66\/0",
-            "passPercent": "100",
-            "min": "63",
-            "max": "96",
-            "average": "85.833",
-            "median": "88"
-        }
-    },
     "201801": {
         "Staff": [
             {
@@ -153,6 +86,73 @@
             "max": "97",
             "average": "83.113",
             "median": "86"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "קשי יחזקאל",
+                "email": "kashi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סינואני פרתי אילנה",
+                "email": "ilanasf@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "פרכטל רוני",
+                "email": "ronilu7@gmail.com",
+                "title": ""
+            },
+            {
+                "name": "סמוסב אלכס",
+                "email": "alex.s@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "ג'מאל ג'ואנה",
+                "email": "joannajammal@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "אוקון זויה",
+                "email": "gzoya@technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "ערן עדן",
+                "email": "edeneran@gmail.com,sedener@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "פרייליך שי",
+                "email": "shayfr@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "מלכה נטלי",
+                "email": "natalidm@campus.technion.ac.il",
+                "title": ""
+            }
+        ],
+        "Final_A": {
+            "students": "58",
+            "passFail": "58\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "96",
+            "average": "86.569",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "66",
+            "passFail": "66\/0",
+            "passPercent": "100",
+            "min": "63",
+            "max": "96",
+            "average": "85.833",
+            "median": "88"
         }
     }
 }

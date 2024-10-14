@@ -1,5 +1,5 @@
 {
-    "201902": {
+    "202301": {
         "Staff": [
             {
                 "name": "סלינג'ר אייל",
@@ -12,14 +12,23 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
-        "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
+        "Final_A": {
+            "students": "21",
+            "passFail": "21\/0",
             "passPercent": "100",
-            "min": "57",
-            "max": "96",
-            "average": "82.4",
-            "median": "87"
+            "min": "56",
+            "max": "95",
+            "average": "86",
+            "median": "89"
+        },
+        "Finals": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "95",
+            "average": "86",
+            "median": "89"
         }
     },
     "202201": {
@@ -59,7 +68,7 @@
             "median": "90"
         }
     },
-    "202301": {
+    "201902": {
         "Staff": [
             {
                 "name": "סלינג'ר אייל",
@@ -72,23 +81,14 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
-        "Final_A": {
-            "students": "21",
-            "passFail": "21\/0",
-            "passPercent": "100",
-            "min": "56",
-            "max": "95",
-            "average": "86",
-            "median": "89"
-        },
         "Finals": {
-            "students": "21",
-            "passFail": "21\/0",
+            "students": "10",
+            "passFail": "10\/0",
             "passPercent": "100",
-            "min": "56",
-            "max": "95",
-            "average": "86",
-            "median": "89"
+            "min": "57",
+            "max": "96",
+            "average": "82.4",
+            "median": "87"
         }
     }
 }

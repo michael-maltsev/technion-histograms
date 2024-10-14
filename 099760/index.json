@@ -1,4 +1,27 @@
 {
+    "202102": {
+        "Staff": [
+            {
+                "name": "ערב עדו",
+                "email": "erev@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גנאור אילנית",
+                "email": "ganorilanit@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "36",
+            "passFail": "36\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "97",
+            "average": "87.278",
+            "median": "88"
+        }
+    },
     "201901": {
         "Staff": [
             {
@@ -23,29 +46,6 @@
             "min": "79",
             "max": "100",
             "average": "88.6",
-            "median": "88"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "ערב עדו",
-                "email": "erev@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "גנאור אילנית",
-                "email": "ganorilanit@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "36",
-            "passFail": "36\/0",
-            "passPercent": "100",
-            "min": "72",
-            "max": "97",
-            "average": "87.278",
             "median": "88"
         }
     }

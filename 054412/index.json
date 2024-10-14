@@ -1,86 +1,5 @@
 {
-    "201701": {
-        "Staff": [
-            {
-                "name": "שרודר אברהם",
-                "email": "avids@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "23",
-            "passFail": "23\/0",
-            "passPercent": "100",
-            "min": "94",
-            "max": "100",
-            "average": "97.652",
-            "median": "97"
-        },
-        "Finals": {
-            "students": "23",
-            "passFail": "23\/0",
-            "passPercent": "100",
-            "min": "94",
-            "max": "100",
-            "average": "97.652",
-            "median": "97"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "שרודר אברהם",
-                "email": "avids@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "94.5",
-            "median": "94"
-        },
-        "Finals": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "94.5",
-            "median": "94"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "שרודר אברהם",
-                "email": "avids@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "22",
-            "passFail": "22\/0",
-            "passPercent": "100",
-            "min": "96",
-            "max": "100",
-            "average": "98.636",
-            "median": "98"
-        },
-        "Finals": {
-            "students": "22",
-            "passFail": "22\/0",
-            "passPercent": "100",
-            "min": "96",
-            "max": "100",
-            "average": "98.636",
-            "median": "98"
-        }
-    },
-    "202101": {
+    "202301": {
         "Staff": [
             {
                 "name": "שרודר אברהם",
@@ -90,26 +9,26 @@
             {
                 "name": "שרף פאוקר נגה לאה",
                 "email": "noga.s@campus.technion.ac.il",
-                "title": "מרצה"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "34",
-            "passFail": "34\/0",
+            "students": "50",
+            "passFail": "50\/0",
             "passPercent": "100",
             "min": "90",
             "max": "100",
-            "average": "96.559",
-            "median": "97"
+            "average": "96.54",
+            "median": "98"
         },
         "Finals": {
-            "students": "34",
-            "passFail": "34\/0",
+            "students": "50",
+            "passFail": "50\/0",
             "passPercent": "100",
             "min": "90",
             "max": "100",
-            "average": "96.559",
-            "median": "97"
+            "average": "96.54",
+            "median": "98"
         }
     },
     "202201": {
@@ -144,7 +63,7 @@
             "median": "93"
         }
     },
-    "202301": {
+    "202101": {
         "Staff": [
             {
                 "name": "שרודר אברהם",
@@ -154,26 +73,107 @@
             {
                 "name": "שרף פאוקר נגה לאה",
                 "email": "noga.s@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
+                "title": "מרצה"
             }
         ],
         "Final_A": {
-            "students": "50",
-            "passFail": "50\/0",
+            "students": "34",
+            "passFail": "34\/0",
             "passPercent": "100",
             "min": "90",
             "max": "100",
-            "average": "96.54",
+            "average": "96.559",
+            "median": "97"
+        },
+        "Finals": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "96.559",
+            "median": "97"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "שרודר אברהם",
+                "email": "avids@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "96",
+            "max": "100",
+            "average": "98.636",
             "median": "98"
         },
         "Finals": {
-            "students": "50",
-            "passFail": "50\/0",
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "96",
+            "max": "100",
+            "average": "98.636",
+            "median": "98"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "שרודר אברהם",
+                "email": "avids@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
             "passPercent": "100",
             "min": "90",
             "max": "100",
-            "average": "96.54",
-            "median": "98"
+            "average": "94.5",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "94.5",
+            "median": "94"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "שרודר אברהם",
+                "email": "avids@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "94",
+            "max": "100",
+            "average": "97.652",
+            "median": "97"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "94",
+            "max": "100",
+            "average": "97.652",
+            "median": "97"
         }
     }
 }

@@ -1,185 +1,39 @@
 {
-    "201601": {
+    "202301": {
         "Staff": [
             {
                 "name": "אוסטפלד אברהם",
                 "email": "ostfeld@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מלכה אופירה",
+                "email": "ofiramalka@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
             "students": "23",
-            "passFail": "17\/6",
-            "passPercent": "74",
-            "min": "40",
-            "max": "97",
-            "average": "71.696",
-            "median": "72"
-        },
-        "Final_B": {
-            "students": "24",
-            "passFail": "21\/3",
-            "passPercent": "88",
-            "min": "42",
-            "max": "93",
-            "average": "74.208",
-            "median": "76.5"
-        },
-        "Finals": {
-            "students": "45",
-            "passFail": "42\/3",
-            "passPercent": "93",
-            "min": "1",
-            "max": "97",
-            "average": "75.578",
-            "median": "81"
-        }
-    },
-    "201801": {
-        "Staff": [
-            {
-                "name": "אוסטפלד אברהם",
-                "email": "ostfeld@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "קובלר קרן",
-                "email": "kovlerk@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "סגל רחלי",
-                "email": "srachel@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "25",
-            "passFail": "23\/2",
-            "passPercent": "92",
-            "min": "49.68",
-            "max": "100",
-            "average": "81.963",
-            "median": "85.648"
-        },
-        "Finals": {
-            "students": "32",
-            "passFail": "32\/0",
-            "passPercent": "100",
-            "min": "57",
-            "max": "100",
-            "average": "84.125",
-            "median": "85.5"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "אוסטפלד אברהם",
-                "email": "ostfeld@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "26",
-            "passFail": "25\/1",
+            "passFail": "22\/1",
             "passPercent": "96",
-            "min": "42.04",
-            "max": "100",
-            "average": "77.733",
-            "median": "79.76"
+            "min": "45.94",
+            "max": "98.2",
+            "average": "83.602",
+            "median": "85.54"
         },
         "Finals": {
-            "students": "28",
-            "passFail": "28\/0",
+            "students": "23",
+            "passFail": "23\/0",
             "passPercent": "100",
-            "min": "56",
-            "max": "100",
-            "average": "80.321",
-            "median": "84.5"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "אוסטפלד אברהם",
-                "email": "ostfeld@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "קובלר קרן",
-                "email": "kovlerk@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "מלכה אופירה",
-                "email": "ofiramalka@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "16",
-            "passFail": "14\/2",
-            "passPercent": "88",
-            "min": "31",
-            "max": "84",
-            "average": "70.625",
-            "median": "73"
-        },
-        "Final_B": {
-            "students": "15",
-            "passFail": "12\/3",
-            "passPercent": "80",
-            "min": "24",
-            "max": "99",
-            "average": "70.667",
-            "median": "64"
-        },
-        "Finals": {
-            "students": "25",
-            "passFail": "23\/2",
-            "passPercent": "92",
-            "min": "24",
-            "max": "99",
-            "average": "72.88",
-            "median": "73"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "אוסטפלד אברהם",
-                "email": "ostfeld@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "מלכה אופירה",
-                "email": "ofiramalka@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "קובלר קרן",
-                "email": "kovlerk@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "26",
-            "passFail": "22\/4",
-            "passPercent": "85",
-            "min": "39",
-            "max": "100",
-            "average": "75.5",
-            "median": "77.5"
-        },
-        "Finals": {
-            "students": "24",
-            "passFail": "23\/1",
-            "passPercent": "96",
-            "min": "45",
-            "max": "97",
-            "average": "74.5",
-            "median": "76"
+            "min": "59",
+            "max": "98",
+            "average": "84.913",
+            "median": "88"
         }
     },
     "202201": {
@@ -228,7 +82,7 @@
             "median": "80"
         }
     },
-    "202301": {
+    "202101": {
         "Staff": [
             {
                 "name": "אוסטפלד אברהם",
@@ -247,22 +101,168 @@
             }
         ],
         "Final_A": {
-            "students": "23",
-            "passFail": "22\/1",
-            "passPercent": "96",
-            "min": "45.94",
-            "max": "98.2",
-            "average": "83.602",
-            "median": "85.54"
+            "students": "26",
+            "passFail": "22\/4",
+            "passPercent": "85",
+            "min": "39",
+            "max": "100",
+            "average": "75.5",
+            "median": "77.5"
         },
         "Finals": {
-            "students": "23",
-            "passFail": "23\/0",
+            "students": "24",
+            "passFail": "23\/1",
+            "passPercent": "96",
+            "min": "45",
+            "max": "97",
+            "average": "74.5",
+            "median": "76"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "אוסטפלד אברהם",
+                "email": "ostfeld@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מלכה אופירה",
+                "email": "ofiramalka@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "16",
+            "passFail": "14\/2",
+            "passPercent": "88",
+            "min": "31",
+            "max": "84",
+            "average": "70.625",
+            "median": "73"
+        },
+        "Final_B": {
+            "students": "15",
+            "passFail": "12\/3",
+            "passPercent": "80",
+            "min": "24",
+            "max": "99",
+            "average": "70.667",
+            "median": "64"
+        },
+        "Finals": {
+            "students": "25",
+            "passFail": "23\/2",
+            "passPercent": "92",
+            "min": "24",
+            "max": "99",
+            "average": "72.88",
+            "median": "73"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "אוסטפלד אברהם",
+                "email": "ostfeld@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "26",
+            "passFail": "25\/1",
+            "passPercent": "96",
+            "min": "42.04",
+            "max": "100",
+            "average": "77.733",
+            "median": "79.76"
+        },
+        "Finals": {
+            "students": "28",
+            "passFail": "28\/0",
             "passPercent": "100",
-            "min": "59",
-            "max": "98",
-            "average": "84.913",
-            "median": "88"
+            "min": "56",
+            "max": "100",
+            "average": "80.321",
+            "median": "84.5"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "אוסטפלד אברהם",
+                "email": "ostfeld@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "סגל רחלי",
+                "email": "srachel@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "25",
+            "passFail": "23\/2",
+            "passPercent": "92",
+            "min": "49.68",
+            "max": "100",
+            "average": "81.963",
+            "median": "85.648"
+        },
+        "Finals": {
+            "students": "32",
+            "passFail": "32\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "100",
+            "average": "84.125",
+            "median": "85.5"
+        }
+    },
+    "201601": {
+        "Staff": [
+            {
+                "name": "אוסטפלד אברהם",
+                "email": "ostfeld@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "23",
+            "passFail": "17\/6",
+            "passPercent": "74",
+            "min": "40",
+            "max": "97",
+            "average": "71.696",
+            "median": "72"
+        },
+        "Final_B": {
+            "students": "24",
+            "passFail": "21\/3",
+            "passPercent": "88",
+            "min": "42",
+            "max": "93",
+            "average": "74.208",
+            "median": "76.5"
+        },
+        "Finals": {
+            "students": "45",
+            "passFail": "42\/3",
+            "passPercent": "93",
+            "min": "1",
+            "max": "97",
+            "average": "75.578",
+            "median": "81"
         }
     }
 }

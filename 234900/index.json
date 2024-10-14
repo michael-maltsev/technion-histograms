@@ -1,22 +1,4 @@
 {
-    "201502": {
-        "Staff": [
-            {
-                "name": "ברקת גיל",
-                "email": "barequet@cs.technion.ac.il,barequet@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "35",
-            "passFail": "35\/0",
-            "passPercent": "100",
-            "min": "75",
-            "max": "100",
-            "average": "89.914",
-            "median": "91"
-        }
-    },
     "201702": {
         "Staff": [
             {
@@ -33,6 +15,24 @@
             "max": "100",
             "average": "89.49",
             "median": "90"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "ברקת גיל",
+                "email": "barequet@cs.technion.ac.il,barequet@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "35",
+            "passFail": "35\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "100",
+            "average": "89.914",
+            "median": "91"
         }
     }
 }

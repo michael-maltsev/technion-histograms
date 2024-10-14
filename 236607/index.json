@@ -1,38 +1,20 @@
 {
-    "201702": {
+    "202301": {
         "Staff": [
             {
-                "name": "ביתן-ארליך שרה",
-                "email": "sarab@cs.technion.ac.il",
+                "name": "רוטבלום רון",
+                "email": "rothblum@cs.technion.ac.il,rothblum@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "25",
-            "passFail": "25\/0",
+            "students": "37",
+            "passFail": "37\/0",
             "passPercent": "100",
-            "min": "66",
-            "max": "99",
-            "average": "81.24",
-            "median": "81"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "ברונשטיין אלכסנדר",
-                "email": "bron@cs.technion.ac.il,bron@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "50",
-            "passFail": "50\/0",
-            "passPercent": "100",
-            "min": "92",
+            "min": "81",
             "max": "100",
-            "average": "95.88",
-            "median": "96"
+            "average": "90.944",
+            "median": "90.5"
         }
     },
     "202201": {
@@ -53,22 +35,40 @@
             "median": "91"
         }
     },
-    "202301": {
+    "202102": {
         "Staff": [
             {
-                "name": "רוטבלום רון",
-                "email": "rothblum@cs.technion.ac.il,rothblum@technion.ac.il",
+                "name": "ברונשטיין אלכסנדר",
+                "email": "bron@cs.technion.ac.il,bron@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "37",
-            "passFail": "37\/0",
+            "students": "50",
+            "passFail": "50\/0",
             "passPercent": "100",
-            "min": "81",
+            "min": "92",
             "max": "100",
-            "average": "90.944",
-            "median": "90.5"
+            "average": "95.88",
+            "median": "96"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "ביתן-ארליך שרה",
+                "email": "sarab@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "99",
+            "average": "81.24",
+            "median": "81"
         }
     }
 }

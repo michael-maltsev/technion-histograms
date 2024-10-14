@@ -1,86 +1,5 @@
 {
-    "201501": {
-        "Staff": [
-            {
-                "name": "קוזלובסקי גו איבון",
-                "email": "ykozlovsky@univ.haifa.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "84",
-            "passFail": "84\/0",
-            "passPercent": "100",
-            "min": "64",
-            "max": "100",
-            "average": "88.905",
-            "median": "88"
-        },
-        "Finals": {
-            "students": "88",
-            "passFail": "88\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "97.455",
-            "median": "100"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "קוזלובסקי גו איבון",
-                "email": "ykozlovsky@univ.haifa.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "100",
-            "passFail": "100\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "97.509",
-            "median": "97"
-        },
-        "Finals": {
-            "students": "104",
-            "passFail": "104\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "97.606",
-            "median": "97"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "קוזלובסקי גו איבון",
-                "email": "ykozlovsky@univ.haifa.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "99",
-            "passFail": "99\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "95.172",
-            "median": "95"
-        },
-        "Finals": {
-            "students": "100",
-            "passFail": "100\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "96.06",
-            "median": "98"
-        }
-    },
-    "201902": {
+    "202002": {
         "Staff": [
             {
                 "name": "קוזלובסקי גו איבון",
@@ -88,8 +7,8 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "הראל אילנה",
-                "email": "ilanah1@technion.ac.il",
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
@@ -99,22 +18,22 @@
             }
         ],
         "Final_A": {
-            "students": "82",
-            "passFail": "82\/0",
+            "students": "72",
+            "passFail": "72\/0",
             "passPercent": "100",
-            "min": "82.5",
+            "min": "85",
             "max": "100",
-            "average": "95.409",
-            "median": "97.5"
+            "average": "92.333",
+            "median": "91"
         },
         "Finals": {
-            "students": "90",
-            "passFail": "90\/0",
+            "students": "79",
+            "passFail": "79\/0",
             "passPercent": "100",
-            "min": "83",
+            "min": "85",
             "max": "100",
-            "average": "95.767",
-            "median": "98"
+            "average": "92.456",
+            "median": "91"
         }
     },
     "202001": {
@@ -163,7 +82,7 @@
             "median": "95"
         }
     },
-    "202002": {
+    "201902": {
         "Staff": [
             {
                 "name": "קוזלובסקי גו איבון",
@@ -171,8 +90,8 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
+                "name": "הראל אילנה",
+                "email": "ilanah1@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
@@ -182,22 +101,103 @@
             }
         ],
         "Final_A": {
-            "students": "72",
-            "passFail": "72\/0",
+            "students": "82",
+            "passFail": "82\/0",
             "passPercent": "100",
-            "min": "85",
+            "min": "82.5",
             "max": "100",
-            "average": "92.333",
-            "median": "91"
+            "average": "95.409",
+            "median": "97.5"
         },
         "Finals": {
-            "students": "79",
-            "passFail": "79\/0",
+            "students": "90",
+            "passFail": "90\/0",
+            "passPercent": "100",
+            "min": "83",
+            "max": "100",
+            "average": "95.767",
+            "median": "98"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "קוזלובסקי גו איבון",
+                "email": "ykozlovsky@univ.haifa.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "99",
+            "passFail": "99\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "95.172",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "100",
+            "passFail": "100\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "96.06",
+            "median": "98"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "קוזלובסקי גו איבון",
+                "email": "ykozlovsky@univ.haifa.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "100",
+            "passFail": "100\/0",
             "passPercent": "100",
             "min": "85",
             "max": "100",
-            "average": "92.456",
-            "median": "91"
+            "average": "97.509",
+            "median": "97"
+        },
+        "Finals": {
+            "students": "104",
+            "passFail": "104\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "97.606",
+            "median": "97"
+        }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "קוזלובסקי גו איבון",
+                "email": "ykozlovsky@univ.haifa.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "84",
+            "passFail": "84\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "100",
+            "average": "88.905",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "88",
+            "passFail": "88\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "97.455",
+            "median": "100"
         }
     }
 }

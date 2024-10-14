@@ -1,45 +1,9 @@
 {
-    "201701": {
+    "202101": {
         "Staff": [
             {
-                "name": "קלס סיון",
-                "email": "sivan.klas@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "68",
-            "max": "100",
-            "average": "86.533",
-            "median": "85"
-        },
-        "Final_B": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "93.455",
-            "median": "93"
-        },
-        "Finals": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "68",
-            "max": "100",
-            "average": "90",
-            "median": "92"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "קלס סיון",
-                "email": "sivan.klas@gmail.com",
+                "name": "אפשטיין רזי",
+                "email": "raziepsztein@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -54,22 +18,22 @@
             }
         ],
         "Final_A": {
-            "students": "22",
-            "passFail": "21\/1",
-            "passPercent": "95",
-            "min": "45",
+            "students": "17",
+            "passFail": "15\/2",
+            "passPercent": "88",
+            "min": "30",
             "max": "100",
-            "average": "79.455",
-            "median": "80.5"
+            "average": "82.235",
+            "median": "87"
         },
         "Finals": {
-            "students": "30",
-            "passFail": "30\/0",
+            "students": "20",
+            "passFail": "20\/0",
             "passPercent": "100",
-            "min": "65",
+            "min": "75",
             "max": "100",
-            "average": "81.533",
-            "median": "82"
+            "average": "88.9",
+            "median": "88"
         }
     },
     "202001": {
@@ -109,11 +73,11 @@
             "median": "82"
         }
     },
-    "202101": {
+    "201901": {
         "Staff": [
             {
-                "name": "אפשטיין רזי",
-                "email": "raziepsztein@technion.ac.il",
+                "name": "קלס סיון",
+                "email": "sivan.klas@gmail.com",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -128,22 +92,58 @@
             }
         ],
         "Final_A": {
-            "students": "17",
-            "passFail": "15\/2",
-            "passPercent": "88",
-            "min": "30",
+            "students": "22",
+            "passFail": "21\/1",
+            "passPercent": "95",
+            "min": "45",
             "max": "100",
-            "average": "82.235",
-            "median": "87"
+            "average": "79.455",
+            "median": "80.5"
         },
         "Finals": {
-            "students": "20",
-            "passFail": "20\/0",
+            "students": "30",
+            "passFail": "30\/0",
             "passPercent": "100",
-            "min": "75",
+            "min": "65",
             "max": "100",
-            "average": "88.9",
-            "median": "88"
+            "average": "81.533",
+            "median": "82"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "קלס סיון",
+                "email": "sivan.klas@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "86.533",
+            "median": "85"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "93.455",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "90",
+            "median": "92"
         }
     }
 }

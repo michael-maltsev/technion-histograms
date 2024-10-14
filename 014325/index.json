@@ -1,31 +1,4 @@
 {
-    "201602": {
-        "Staff": [
-            {
-                "name": "פרידלר ערן",
-                "email": "eranf@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "34",
-            "passFail": "34\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "96",
-            "average": "84",
-            "median": "88.5"
-        },
-        "Finals": {
-            "students": "34",
-            "passFail": "34\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "96",
-            "average": "84.412",
-            "median": "88.5"
-        }
-    },
     "201902": {
         "Staff": [
             {
@@ -61,6 +34,33 @@
             "max": "100",
             "average": "86.923",
             "median": "88"
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "פרידלר ערן",
+                "email": "eranf@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "96",
+            "average": "84",
+            "median": "88.5"
+        },
+        "Finals": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "96",
+            "average": "84.412",
+            "median": "88.5"
         }
     }
 }

@@ -1,22 +1,4 @@
 {
-    "201902": {
-        "Staff": [
-            {
-                "name": "אופנהיימר רחלה",
-                "email": "rachelaopp@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "26",
-            "passFail": "26\/0",
-            "passPercent": "100",
-            "min": "93",
-            "max": "99",
-            "average": "96.577",
-            "median": "97"
-        }
-    },
     "202002": {
         "Staff": [
             {
@@ -33,6 +15,24 @@
             "max": "100",
             "average": "95.68",
             "median": "95"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "אופנהיימר רחלה",
+                "email": "rachelaopp@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "99",
+            "average": "96.577",
+            "median": "97"
         }
     }
 }

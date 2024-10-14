@@ -1,5 +1,5 @@
 {
-    "201901": {
+    "202301": {
         "Staff": [
             {
                 "name": "ריטל דניאל",
@@ -7,28 +7,28 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "חן שגיא",
-                "email": "sagich@technion.ac.il,sagich@campus.technion.ac.il",
+                "name": "דוד תאיר",
+                "email": "tair.david@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "41",
-            "passFail": "41\/0",
+            "students": "39",
+            "passFail": "39\/0",
             "passPercent": "100",
-            "min": "85",
+            "min": "88",
             "max": "100",
-            "average": "94.39",
-            "median": "96"
+            "average": "95",
+            "median": "93"
         },
         "Finals": {
             "students": "41",
             "passFail": "41\/0",
             "passPercent": "100",
-            "min": "85",
+            "min": "88",
             "max": "100",
-            "average": "94.463",
-            "median": "96"
+            "average": "94.902",
+            "median": "93"
         }
     },
     "202101": {
@@ -63,7 +63,7 @@
             "median": "92"
         }
     },
-    "202301": {
+    "201901": {
         "Staff": [
             {
                 "name": "ריטל דניאל",
@@ -71,28 +71,28 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "דוד תאיר",
-                "email": "tair.david@campus.technion.ac.il",
+                "name": "חן שגיא",
+                "email": "sagich@technion.ac.il,sagich@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "39",
-            "passFail": "39\/0",
+            "students": "41",
+            "passFail": "41\/0",
             "passPercent": "100",
-            "min": "88",
+            "min": "85",
             "max": "100",
-            "average": "95",
-            "median": "93"
+            "average": "94.39",
+            "median": "96"
         },
         "Finals": {
             "students": "41",
             "passFail": "41\/0",
             "passPercent": "100",
-            "min": "88",
+            "min": "85",
             "max": "100",
-            "average": "94.902",
-            "median": "93"
+            "average": "94.463",
+            "median": "96"
         }
     }
 }

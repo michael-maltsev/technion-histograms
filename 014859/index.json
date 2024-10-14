@@ -1,5 +1,5 @@
 {
-    "201802": {
+    "202202": {
         "Staff": [
             {
                 "name": "גרינקר ברי",
@@ -13,86 +13,22 @@
             }
         ],
         "Final_A": {
-            "students": "18",
-            "passFail": "18\/0",
+            "students": "13",
+            "passFail": "13\/0",
             "passPercent": "100",
-            "min": "60",
-            "max": "95",
-            "average": "85.056",
-            "median": "87"
-        },
-        "Finals": {
-            "students": "18",
-            "passFail": "18\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "95",
-            "average": "86",
-            "median": "87.5"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "גרינקר ברי",
-                "email": "barryg@netvision.net.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בלסברג עליזה",
-                "email": "aliza@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "23",
-            "passFail": "21\/2",
-            "passPercent": "91",
-            "min": "35",
-            "max": "99",
-            "average": "86.478",
-            "median": "89"
-        },
-        "Finals": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "76",
-            "max": "99",
-            "average": "89.28",
-            "median": "89"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "גרינקר ברי",
-                "email": "barryg@netvision.net.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בלסברג עליזה",
-                "email": "aliza@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "95",
-            "average": "78.471",
+            "min": "68",
+            "max": "98",
+            "average": "80.692",
             "median": "80"
         },
         "Finals": {
-            "students": "28",
-            "passFail": "28\/0",
+            "students": "15",
+            "passFail": "15\/0",
             "passPercent": "100",
-            "min": "60",
-            "max": "95",
-            "average": "76.714",
-            "median": "76"
+            "min": "68",
+            "max": "98",
+            "average": "84.667",
+            "median": "83"
         }
     },
     "202102": {
@@ -127,7 +63,7 @@
             "median": "74.5"
         }
     },
-    "202202": {
+    "202002": {
         "Staff": [
             {
                 "name": "גרינקר ברי",
@@ -141,22 +77,86 @@
             }
         ],
         "Final_A": {
-            "students": "13",
-            "passFail": "13\/0",
+            "students": "17",
+            "passFail": "17\/0",
             "passPercent": "100",
-            "min": "68",
-            "max": "98",
-            "average": "80.692",
+            "min": "60",
+            "max": "95",
+            "average": "78.471",
             "median": "80"
         },
         "Finals": {
-            "students": "15",
-            "passFail": "15\/0",
+            "students": "28",
+            "passFail": "28\/0",
             "passPercent": "100",
-            "min": "68",
-            "max": "98",
-            "average": "84.667",
-            "median": "83"
+            "min": "60",
+            "max": "95",
+            "average": "76.714",
+            "median": "76"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "גרינקר ברי",
+                "email": "barryg@netvision.net.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "23",
+            "passFail": "21\/2",
+            "passPercent": "91",
+            "min": "35",
+            "max": "99",
+            "average": "86.478",
+            "median": "89"
+        },
+        "Finals": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "99",
+            "average": "89.28",
+            "median": "89"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "גרינקר ברי",
+                "email": "barryg@netvision.net.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "95",
+            "average": "85.056",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "95",
+            "average": "86",
+            "median": "87.5"
         }
     }
 }

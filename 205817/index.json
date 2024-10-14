@@ -1,5 +1,5 @@
 {
-    "201502": {
+    "201902": {
         "Staff": [
             {
                 "name": "לובוביקוב-כץ אננה",
@@ -8,49 +8,22 @@
             }
         ],
         "Final_A": {
-            "students": "100",
-            "passFail": "100\/0",
+            "students": "72",
+            "passFail": "72\/0",
             "passPercent": "100",
-            "min": "60",
+            "min": "73",
             "max": "100",
-            "average": "84.52",
-            "median": "89"
+            "average": "93.222",
+            "median": "96"
         },
         "Finals": {
-            "students": "100",
-            "passFail": "100\/0",
+            "students": "72",
+            "passFail": "72\/0",
             "passPercent": "100",
-            "min": "60",
+            "min": "73",
             "max": "100",
-            "average": "84.52",
-            "median": "89"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "לובוביקוב-כץ אננה",
-                "email": "anna@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "98",
-            "passFail": "96\/2",
-            "passPercent": "98",
-            "min": "0",
-            "max": "100",
-            "average": "90.694",
-            "median": "94.5"
-        },
-        "Finals": {
-            "students": "96",
-            "passFail": "96\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "92.583",
-            "median": "95"
+            "average": "93.222",
+            "median": "96"
         }
     },
     "201802": {
@@ -80,7 +53,7 @@
             "median": "91"
         }
     },
-    "201902": {
+    "201702": {
         "Staff": [
             {
                 "name": "לובוביקוב-כץ אננה",
@@ -89,22 +62,49 @@
             }
         ],
         "Final_A": {
-            "students": "72",
-            "passFail": "72\/0",
-            "passPercent": "100",
-            "min": "73",
+            "students": "98",
+            "passFail": "96\/2",
+            "passPercent": "98",
+            "min": "0",
             "max": "100",
-            "average": "93.222",
-            "median": "96"
+            "average": "90.694",
+            "median": "94.5"
         },
         "Finals": {
-            "students": "72",
-            "passFail": "72\/0",
+            "students": "96",
+            "passFail": "96\/0",
             "passPercent": "100",
-            "min": "73",
+            "min": "80",
             "max": "100",
-            "average": "93.222",
-            "median": "96"
+            "average": "92.583",
+            "median": "95"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "לובוביקוב-כץ אננה",
+                "email": "anna@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "100",
+            "passFail": "100\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "84.52",
+            "median": "89"
+        },
+        "Finals": {
+            "students": "100",
+            "passFail": "100\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "84.52",
+            "median": "89"
         }
     }
 }

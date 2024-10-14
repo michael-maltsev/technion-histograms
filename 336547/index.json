@@ -1,36 +1,4 @@
 {
-    "202001": {
-        "Staff": [
-            {
-                "name": "שכטמן יואב",
-                "email": "yoavsh@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "נעמה אליאס",
-                "email": "seliasne@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "86",
-            "max": "99",
-            "average": "93.529",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "86",
-            "max": "99",
-            "average": "93.529",
-            "median": "96"
-        }
-    },
     "202102": {
         "Staff": [
             {
@@ -70,6 +38,38 @@
             "max": "100",
             "average": "97.154",
             "median": "98"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "שכטמן יואב",
+                "email": "yoavsh@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "נעמה אליאס",
+                "email": "seliasne@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "99",
+            "average": "93.529",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "99",
+            "average": "93.529",
+            "median": "96"
         }
     }
 }

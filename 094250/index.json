@@ -1,36 +1,4 @@
 {
-    "201702": {
-        "Staff": [
-            {
-                "name": "קמחי יחיאל",
-                "email": "yechiel@cs.technion.ac.il,yechiel@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "גוטמן עופר",
-                "email": "ofer.guthmann@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "24",
-            "passFail": "24\/0",
-            "passPercent": "100",
-            "min": "57",
-            "max": "97",
-            "average": "74.417",
-            "median": "76.5"
-        },
-        "Finals": {
-            "students": "27",
-            "passFail": "27\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "100",
-            "average": "74.778",
-            "median": "75"
-        }
-    },
     "201802": {
         "Staff": [
             {
@@ -79,6 +47,38 @@
             "max": "100",
             "average": "78.208",
             "median": "78"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "קמחי יחיאל",
+                "email": "yechiel@cs.technion.ac.il,yechiel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גוטמן עופר",
+                "email": "ofer.guthmann@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "97",
+            "average": "74.417",
+            "median": "76.5"
+        },
+        "Finals": {
+            "students": "27",
+            "passFail": "27\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "74.778",
+            "median": "75"
         }
     }
 }

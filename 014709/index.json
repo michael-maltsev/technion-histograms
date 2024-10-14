@@ -1,132 +1,4 @@
 {
-    "201901": {
-        "Staff": [
-            {
-                "name": "סידס אריה",
-                "email": "sidess@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן-סימון ציפורה",
-                "email": "transeng@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "19",
-            "passFail": "15\/4",
-            "passPercent": "79",
-            "min": "40",
-            "max": "96",
-            "average": "74.684",
-            "median": "77"
-        },
-        "Finals": {
-            "students": "23",
-            "passFail": "22\/1",
-            "passPercent": "96",
-            "min": "40",
-            "max": "96",
-            "average": "80",
-            "median": "78"
-        }
-    },
-    "201903": {
-        "Staff": [
-            {
-                "name": "סידס אריה",
-                "email": "sidess@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן-סימון ציפורה",
-                "email": "transeng@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "16",
-            "passFail": "14\/2",
-            "passPercent": "88",
-            "min": "43",
-            "max": "96",
-            "average": "77.938",
-            "median": "81.5"
-        },
-        "Finals": {
-            "students": "16",
-            "passFail": "15\/1",
-            "passPercent": "94",
-            "min": "30",
-            "max": "96",
-            "average": "78.688",
-            "median": "81.5"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "סידס אריה",
-                "email": "sidess@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן-סימון ציפורה",
-                "email": "transeng@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "15",
-            "passFail": "11\/4",
-            "passPercent": "73",
-            "min": "32",
-            "max": "94",
-            "average": "66.867",
-            "median": "66"
-        },
-        "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "65",
-            "max": "94",
-            "average": "78.75",
-            "median": "77.5"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "סידס אריה",
-                "email": "sidess@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן-סימון ציפורה",
-                "email": "transeng@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "19",
-            "passFail": "16\/3",
-            "passPercent": "84",
-            "min": "44",
-            "max": "92",
-            "average": "73.158",
-            "median": "78"
-        },
-        "Finals": {
-            "students": "19",
-            "passFail": "16\/3",
-            "passPercent": "84",
-            "min": "44",
-            "max": "92",
-            "average": "73.158",
-            "median": "78"
-        }
-    },
     "202201": {
         "Staff": [
             {
@@ -167,6 +39,134 @@
             "max": "100",
             "average": "83.441",
             "median": "82.5"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "סידס אריה",
+                "email": "sidess@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "19",
+            "passFail": "16\/3",
+            "passPercent": "84",
+            "min": "44",
+            "max": "92",
+            "average": "73.158",
+            "median": "78"
+        },
+        "Finals": {
+            "students": "19",
+            "passFail": "16\/3",
+            "passPercent": "84",
+            "min": "44",
+            "max": "92",
+            "average": "73.158",
+            "median": "78"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "סידס אריה",
+                "email": "sidess@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "15",
+            "passFail": "11\/4",
+            "passPercent": "73",
+            "min": "32",
+            "max": "94",
+            "average": "66.867",
+            "median": "66"
+        },
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "94",
+            "average": "78.75",
+            "median": "77.5"
+        }
+    },
+    "201903": {
+        "Staff": [
+            {
+                "name": "סידס אריה",
+                "email": "sidess@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "16",
+            "passFail": "14\/2",
+            "passPercent": "88",
+            "min": "43",
+            "max": "96",
+            "average": "77.938",
+            "median": "81.5"
+        },
+        "Finals": {
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "30",
+            "max": "96",
+            "average": "78.688",
+            "median": "81.5"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "סידס אריה",
+                "email": "sidess@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "19",
+            "passFail": "15\/4",
+            "passPercent": "79",
+            "min": "40",
+            "max": "96",
+            "average": "74.684",
+            "median": "77"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "22\/1",
+            "passPercent": "96",
+            "min": "40",
+            "max": "96",
+            "average": "80",
+            "median": "78"
         }
     }
 }

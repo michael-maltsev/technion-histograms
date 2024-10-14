@@ -1,4 +1,45 @@
 {
+    "201902": {
+        "Staff": [
+            {
+                "name": "מחלוף מרסל",
+                "email": "machlufm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הים רתם",
+                "email": "rotemh27@gmail.com,rhayam@campus.technion.ac.il",
+                "title": "מנחה פרויקטים"
+            }
+        ],
+        "Exam_A": {
+            "students": "29",
+            "passFail": "26\/3",
+            "passPercent": "90",
+            "min": "48",
+            "max": "100",
+            "average": "77.793",
+            "median": "82"
+        },
+        "Final_A": {
+            "students": "29",
+            "passFail": "26\/3",
+            "passPercent": "90",
+            "min": "48",
+            "max": "99",
+            "average": "80.586",
+            "median": "84"
+        },
+        "Finals": {
+            "students": "33",
+            "passFail": "33\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "99",
+            "average": "81.455",
+            "median": "81"
+        }
+    },
     "201802": {
         "Staff": [
             {
@@ -43,47 +84,6 @@
             "max": "99",
             "average": "84.407",
             "median": "84"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "מחלוף מרסל",
-                "email": "machlufm@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "הים רתם",
-                "email": "rotemh27@gmail.com,rhayam@campus.technion.ac.il",
-                "title": "מנחה פרויקטים"
-            }
-        ],
-        "Exam_A": {
-            "students": "29",
-            "passFail": "26\/3",
-            "passPercent": "90",
-            "min": "48",
-            "max": "100",
-            "average": "77.793",
-            "median": "82"
-        },
-        "Final_A": {
-            "students": "29",
-            "passFail": "26\/3",
-            "passPercent": "90",
-            "min": "48",
-            "max": "99",
-            "average": "80.586",
-            "median": "84"
-        },
-        "Finals": {
-            "students": "33",
-            "passFail": "33\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "99",
-            "average": "81.455",
-            "median": "81"
         }
     }
 }

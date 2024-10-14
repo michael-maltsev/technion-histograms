@@ -1,31 +1,4 @@
 {
-    "201901": {
-        "Staff": [
-            {
-                "name": "שמאי יוסי",
-                "email": "yshamay@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "43",
-            "passFail": "43\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "98",
-            "average": "92.256",
-            "median": "92"
-        },
-        "Finals": {
-            "students": "43",
-            "passFail": "43\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "98",
-            "average": "92.256",
-            "median": "92"
-        }
-    },
     "202001": {
         "Staff": [
             {
@@ -56,6 +29,33 @@
             "max": "100",
             "average": "95.531",
             "median": "96"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "שמאי יוסי",
+                "email": "yshamay@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "43",
+            "passFail": "43\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "98",
+            "average": "92.256",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "43",
+            "passFail": "43\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "98",
+            "average": "92.256",
+            "median": "92"
         }
     }
 }

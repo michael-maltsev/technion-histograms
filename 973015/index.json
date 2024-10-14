@@ -1,27 +1,4 @@
 {
-    "202101": {
-        "Staff": [
-            {
-                "name": "אזולאי מיקה",
-                "email": "amika@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "שחל אתי",
-                "email": "ettys@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Exam_A": {
-            "students": "33",
-            "passFail": "32\/1",
-            "passPercent": "97",
-            "min": "51",
-            "max": "100",
-            "average": "86.697",
-            "median": "90"
-        }
-    },
     "202201": {
         "Staff": [
             {
@@ -43,6 +20,29 @@
             "max": "100",
             "average": "88.208",
             "median": "91"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "אזולאי מיקה",
+                "email": "amika@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שחל אתי",
+                "email": "ettys@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "33",
+            "passFail": "32\/1",
+            "passPercent": "97",
+            "min": "51",
+            "max": "100",
+            "average": "86.697",
+            "median": "90"
         }
     }
 }

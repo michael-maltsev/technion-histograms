@@ -1,16 +1,6 @@
 {
-    "201802": {
+    "202002": {
         "Staff": [
-            {
-                "name": "אדרס איתן",
-                "email": "adres@netvision.net.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "אגסי זיוה",
-                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
             {
                 "name": "זיו דוד מורן",
                 "email": "moran.z@technion.ac.il",
@@ -18,12 +8,12 @@
             }
         ],
         "Finals": {
-            "students": "20",
-            "passFail": "20\/0",
+            "students": "17",
+            "passFail": "17\/0",
             "passPercent": "100",
             "min": "92",
-            "max": "97",
-            "average": "94.9",
+            "max": "100",
+            "average": "95.353",
             "median": "95"
         }
     },
@@ -50,8 +40,18 @@
             "median": "95"
         }
     },
-    "202002": {
+    "201802": {
         "Staff": [
+            {
+                "name": "אדרס איתן",
+                "email": "adres@netvision.net.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אגסי זיוה",
+                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
             {
                 "name": "זיו דוד מורן",
                 "email": "moran.z@technion.ac.il",
@@ -59,12 +59,12 @@
             }
         ],
         "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
+            "students": "20",
+            "passFail": "20\/0",
             "passPercent": "100",
             "min": "92",
-            "max": "100",
-            "average": "95.353",
+            "max": "97",
+            "average": "94.9",
             "median": "95"
         }
     }

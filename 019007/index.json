@@ -1,41 +1,4 @@
 {
-    "201902": {
-        "Staff": [
-            {
-                "name": "פישביין ברק",
-                "email": "fishbain@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "קובלר קרן",
-                "email": "kovlerk@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "מלכה אופירה",
-                "email": "ofiramalka@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "48",
-            "passFail": "46\/2",
-            "passPercent": "96",
-            "min": "44.391",
-            "max": "97.052",
-            "average": "87.653",
-            "median": "89.4265"
-        },
-        "Finals": {
-            "students": "50",
-            "passFail": "48\/2",
-            "passPercent": "96",
-            "min": "44",
-            "max": "97",
-            "average": "87.28",
-            "median": "89"
-        }
-    },
     "202102": {
         "Staff": [
             {
@@ -71,6 +34,43 @@
             "max": "100",
             "average": "93.125",
             "median": "92"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "פישביין ברק",
+                "email": "fishbain@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מלכה אופירה",
+                "email": "ofiramalka@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "48",
+            "passFail": "46\/2",
+            "passPercent": "96",
+            "min": "44.391",
+            "max": "97.052",
+            "average": "87.653",
+            "median": "89.4265"
+        },
+        "Finals": {
+            "students": "50",
+            "passFail": "48\/2",
+            "passPercent": "96",
+            "min": "44",
+            "max": "97",
+            "average": "87.28",
+            "median": "89"
         }
     }
 }

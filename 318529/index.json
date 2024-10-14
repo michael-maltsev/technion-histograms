@@ -1,73 +1,9 @@
 {
-    "201801": {
+    "202301": {
         "Staff": [
             {
                 "name": "ברנר אלכסנדר",
                 "email": "alik.berner@gmail.com,berner@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "98",
-            "average": "93.6",
-            "median": "94"
-        },
-        "Finals": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "98",
-            "average": "93.6",
-            "median": "94"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "ברנר אלכסנדר",
-                "email": "alik.berner@gmail.com,berner@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "דוד רותי",
-                "email": "ruthi@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "סנדר אושרית",
-                "email": "oshrits@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "100",
-            "average": "93.8",
-            "median": "94"
-        },
-        "Finals": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "100",
-            "average": "93.8",
-            "median": "94"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "קפלן וויין",
-                "email": "kaplan@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -77,22 +13,22 @@
             }
         ],
         "Final_A": {
-            "students": "21",
-            "passFail": "20\/1",
-            "passPercent": "95",
-            "min": "47",
-            "max": "100",
-            "average": "87.476",
-            "median": "93.4"
+            "students": "31",
+            "passFail": "31\/0",
+            "passPercent": "100",
+            "min": "88",
+            "max": "99",
+            "average": "94.323",
+            "median": "95"
         },
         "Finals": {
-            "students": "22",
-            "passFail": "20\/2",
-            "passPercent": "91",
-            "min": "40",
-            "max": "100",
-            "average": "86.364",
-            "median": "93"
+            "students": "31",
+            "passFail": "31\/0",
+            "passPercent": "100",
+            "min": "88",
+            "max": "99",
+            "average": "94.323",
+            "median": "95"
         }
     },
     "202201": {
@@ -132,11 +68,11 @@
             "median": "93"
         }
     },
-    "202301": {
+    "202001": {
         "Staff": [
             {
-                "name": "ברנר אלכסנדר",
-                "email": "alik.berner@gmail.com,berner@technion.ac.il",
+                "name": "קפלן וויין",
+                "email": "kaplan@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -146,22 +82,86 @@
             }
         ],
         "Final_A": {
-            "students": "31",
-            "passFail": "31\/0",
-            "passPercent": "100",
-            "min": "88",
-            "max": "99",
-            "average": "94.323",
-            "median": "95"
+            "students": "21",
+            "passFail": "20\/1",
+            "passPercent": "95",
+            "min": "47",
+            "max": "100",
+            "average": "87.476",
+            "median": "93.4"
         },
         "Finals": {
-            "students": "31",
-            "passFail": "31\/0",
+            "students": "22",
+            "passFail": "20\/2",
+            "passPercent": "91",
+            "min": "40",
+            "max": "100",
+            "average": "86.364",
+            "median": "93"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "ברנר אלכסנדר",
+                "email": "alik.berner@gmail.com,berner@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דוד רותי",
+                "email": "ruthi@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "סנדר אושרית",
+                "email": "oshrits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "25",
+            "passFail": "25\/0",
             "passPercent": "100",
-            "min": "88",
-            "max": "99",
-            "average": "94.323",
-            "median": "95"
+            "min": "84",
+            "max": "100",
+            "average": "93.8",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "100",
+            "average": "93.8",
+            "median": "94"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "ברנר אלכסנדר",
+                "email": "alik.berner@gmail.com,berner@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "98",
+            "average": "93.6",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "98",
+            "average": "93.6",
+            "median": "94"
         }
     }
 }

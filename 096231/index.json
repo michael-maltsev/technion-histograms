@@ -1,27 +1,4 @@
 {
-    "202002": {
-        "Staff": [
-            {
-                "name": "קורלנד אורן",
-                "email": "kurland@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "95.188",
-            "median": "97"
-        }
-    },
     "202301": {
         "Staff": [
             {
@@ -52,6 +29,29 @@
             "max": "100",
             "average": "91.732",
             "median": "91"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "קורלנד אורן",
+                "email": "kurland@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "95.188",
+            "median": "97"
         }
     }
 }

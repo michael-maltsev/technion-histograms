@@ -1,5 +1,5 @@
 {
-    "202101": {
+    "202302": {
         "Staff": [
             {
                 "name": "נאמן ישראל",
@@ -8,39 +8,21 @@
             }
         ],
         "Final_A": {
-            "students": "31",
-            "passFail": "30\/1",
-            "passPercent": "97",
-            "min": "52",
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "64",
             "max": "100",
-            "average": "90.71",
-            "median": "96"
+            "average": "91.077",
+            "median": "92"
         },
         "Finals": {
-            "students": "32",
-            "passFail": "31\/1",
-            "passPercent": "97",
-            "min": "52",
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "64",
             "max": "100",
-            "average": "91",
-            "median": "96"
-        }
-    },
-    "202201": {
-        "Staff": [
-            {
-                "name": "נאמן ישראל",
-                "email": "syneeman@bezeqint.net,yisraeln@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "34",
-            "passFail": "33\/1",
-            "passPercent": "97",
-            "min": "52",
-            "max": "100",
-            "average": "89.059",
+            "average": "91.077",
             "median": "92"
         }
     },
@@ -71,7 +53,25 @@
             "median": "96"
         }
     },
-    "202302": {
+    "202201": {
+        "Staff": [
+            {
+                "name": "נאמן ישראל",
+                "email": "syneeman@bezeqint.net,yisraeln@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "34",
+            "passFail": "33\/1",
+            "passPercent": "97",
+            "min": "52",
+            "max": "100",
+            "average": "89.059",
+            "median": "92"
+        }
+    },
+    "202101": {
         "Staff": [
             {
                 "name": "נאמן ישראל",
@@ -80,22 +80,22 @@
             }
         ],
         "Final_A": {
-            "students": "26",
-            "passFail": "26\/0",
-            "passPercent": "100",
-            "min": "64",
+            "students": "31",
+            "passFail": "30\/1",
+            "passPercent": "97",
+            "min": "52",
             "max": "100",
-            "average": "91.077",
-            "median": "92"
+            "average": "90.71",
+            "median": "96"
         },
         "Finals": {
-            "students": "26",
-            "passFail": "26\/0",
-            "passPercent": "100",
-            "min": "64",
+            "students": "32",
+            "passFail": "31\/1",
+            "passPercent": "97",
+            "min": "52",
             "max": "100",
-            "average": "91.077",
-            "median": "92"
+            "average": "91",
+            "median": "96"
         }
     }
 }

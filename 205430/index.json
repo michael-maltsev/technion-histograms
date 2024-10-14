@@ -1,59 +1,83 @@
 {
-    "201702": {
+    "202102": {
+        "Staff": [
+            {
+                "name": "טיבי אריאל",
+                "email": "ariel@tibiarc.co.il,tibi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "70",
+            "passFail": "69\/1",
+            "passPercent": "99",
+            "min": "0",
+            "max": "96",
+            "average": "84.114",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "69",
+            "passFail": "69\/0",
+            "passPercent": "100",
+            "min": "77",
+            "max": "96",
+            "average": "85.478",
+            "median": "85"
+        }
+    },
+    "202002": {
         "Staff": [
             {
                 "name": "טיבי אריאל",
                 "email": "tibi@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "פורת עופר",
-                "email": "porat@porat.co.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "רונן אורי",
-                "email": "uriarch@gmail.com",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "ביימל שולמית",
-                "email": "beimels@netvision.net.il,beimels@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "דיאמונד אסף",
-                "email": "diamondarch2@gmail.com",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בלפרמן אהוד",
-                "email": "udibelfer@walla.co.il,ehudb@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "עמיר יוסי",
-                "email": "yossi@n-t-a-arch.com,yosiamir@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "69",
-            "passFail": "68\/1",
+            "students": "77",
+            "passFail": "77\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "95",
+            "average": "84.974",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "78",
+            "passFail": "78\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "95",
+            "average": "85.09",
+            "median": "85"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "טיבי אריאל",
+                "email": "tibi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "67",
+            "passFail": "66\/1",
             "passPercent": "99",
             "min": "0",
             "max": "95",
-            "average": "86.014",
-            "median": "87"
+            "average": "83.06",
+            "median": "84"
         },
         "Finals": {
-            "students": "68",
-            "passFail": "68\/0",
+            "students": "66",
+            "passFail": "66\/0",
             "passPercent": "100",
-            "min": "75",
+            "min": "67",
             "max": "95",
-            "average": "87.279",
-            "median": "87.5"
+            "average": "84.394",
+            "median": "85"
         }
     },
     "201802": {
@@ -113,85 +137,61 @@
             "median": "86"
         }
     },
-    "201902": {
+    "201702": {
         "Staff": [
             {
                 "name": "טיבי אריאל",
                 "email": "tibi@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "67",
-            "passFail": "66\/1",
-            "passPercent": "99",
-            "min": "0",
-            "max": "95",
-            "average": "83.06",
-            "median": "84"
-        },
-        "Finals": {
-            "students": "66",
-            "passFail": "66\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "95",
-            "average": "84.394",
-            "median": "85"
-        }
-    },
-    "202002": {
-        "Staff": [
+            },
             {
-                "name": "טיבי אריאל",
-                "email": "tibi@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "77",
-            "passFail": "77\/0",
-            "passPercent": "100",
-            "min": "57",
-            "max": "95",
-            "average": "84.974",
-            "median": "85"
-        },
-        "Finals": {
-            "students": "78",
-            "passFail": "78\/0",
-            "passPercent": "100",
-            "min": "57",
-            "max": "95",
-            "average": "85.09",
-            "median": "85"
-        }
-    },
-    "202102": {
-        "Staff": [
+                "name": "פורת עופר",
+                "email": "porat@porat.co.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
             {
-                "name": "טיבי אריאל",
-                "email": "ariel@tibiarc.co.il,tibi@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "name": "רונן אורי",
+                "email": "uriarch@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ביימל שולמית",
+                "email": "beimels@netvision.net.il,beimels@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דיאמונד אסף",
+                "email": "diamondarch2@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בלפרמן אהוד",
+                "email": "udibelfer@walla.co.il,ehudb@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "עמיר יוסי",
+                "email": "yossi@n-t-a-arch.com,yosiamir@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "70",
-            "passFail": "69\/1",
-            "passPercent": "99",
-            "min": "0",
-            "max": "96",
-            "average": "84.114",
-            "median": "85"
-        },
-        "Finals": {
             "students": "69",
-            "passFail": "69\/0",
+            "passFail": "68\/1",
+            "passPercent": "99",
+            "min": "0",
+            "max": "95",
+            "average": "86.014",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "68",
+            "passFail": "68\/0",
             "passPercent": "100",
-            "min": "77",
-            "max": "96",
-            "average": "85.478",
-            "median": "85"
+            "min": "75",
+            "max": "95",
+            "average": "87.279",
+            "median": "87.5"
         }
     }
 }

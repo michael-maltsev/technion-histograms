@@ -1,23 +1,5 @@
 {
-    "201801": {
-        "Staff": [
-            {
-                "name": "גיל יוסף",
-                "email": "yogi@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "40",
-            "passFail": "40\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "99",
-            "average": "90.35",
-            "median": "90.5"
-        }
-    },
-    "201901": {
+    "202301": {
         "Staff": [
             {
                 "name": "יהב ערן",
@@ -26,41 +8,12 @@
             }
         ],
         "Finals": {
-            "students": "64",
-            "passFail": "64\/0",
+            "students": "56",
+            "passFail": "56\/0",
             "passPercent": "100",
-            "min": "70",
-            "max": "94",
-            "average": "91.547",
-            "median": "92"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "יהב ערן",
-                "email": "yahave@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "42",
-            "passFail": "42\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "97",
-            "average": "89.976",
-            "median": "91"
-        }
-    },
-    "202101": {
-        "Finals": {
-            "students": "42",
-            "passFail": "42\/0",
-            "passPercent": "100",
-            "min": "88",
-            "max": "94",
-            "average": "91.357",
+            "min": "64",
+            "max": "96",
+            "average": "90.536",
             "median": "92"
         }
     },
@@ -82,7 +35,18 @@
             "median": "91"
         }
     },
-    "202301": {
+    "202101": {
+        "Finals": {
+            "students": "42",
+            "passFail": "42\/0",
+            "passPercent": "100",
+            "min": "88",
+            "max": "94",
+            "average": "91.357",
+            "median": "92"
+        }
+    },
+    "202001": {
         "Staff": [
             {
                 "name": "יהב ערן",
@@ -91,13 +55,49 @@
             }
         ],
         "Finals": {
-            "students": "56",
-            "passFail": "56\/0",
+            "students": "42",
+            "passFail": "42\/0",
             "passPercent": "100",
-            "min": "64",
-            "max": "96",
-            "average": "90.536",
+            "min": "67",
+            "max": "97",
+            "average": "89.976",
+            "median": "91"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "יהב ערן",
+                "email": "yahave@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "64",
+            "passFail": "64\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "94",
+            "average": "91.547",
             "median": "92"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "גיל יוסף",
+                "email": "yogi@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "40",
+            "passFail": "40\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "99",
+            "average": "90.35",
+            "median": "90.5"
         }
     }
 }

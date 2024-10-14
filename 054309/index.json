@@ -1,4 +1,31 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "סגל-פרץ תמר",
+                "email": "tamarps@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "28",
+            "passFail": "19\/9",
+            "passPercent": "68",
+            "min": "29",
+            "max": "106",
+            "average": "66.071",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "28",
+            "passFail": "22\/6",
+            "passPercent": "79",
+            "min": "38.778",
+            "max": "99.694",
+            "average": "73.118",
+            "median": "78.611"
+        }
+    },
     "202202": {
         "Staff": [
             {
@@ -43,33 +70,6 @@
             "max": "96",
             "average": "83.206",
             "median": "84"
-        }
-    },
-    "202302": {
-        "Staff": [
-            {
-                "name": "סגל-פרץ תמר",
-                "email": "tamarps@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Exam_A": {
-            "students": "28",
-            "passFail": "19\/9",
-            "passPercent": "68",
-            "min": "29",
-            "max": "106",
-            "average": "66.071",
-            "median": "68"
-        },
-        "Final_A": {
-            "students": "28",
-            "passFail": "22\/6",
-            "passPercent": "79",
-            "min": "38.778",
-            "max": "99.694",
-            "average": "73.118",
-            "median": "78.611"
         }
     }
 }

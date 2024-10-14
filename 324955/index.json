@@ -1,139 +1,4 @@
 {
-    "201501": {
-        "Staff": [
-            {
-                "name": "תורג'מן אסף",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "80",
-            "passFail": "80\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "100",
-            "average": "89.225",
-            "median": "90"
-        },
-        "Final_B": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "91.417",
-            "median": "93"
-        },
-        "Finals": {
-            "students": "87",
-            "passFail": "87\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "94.437",
-            "median": "97"
-        }
-    },
-    "201601": {
-        "Staff": [
-            {
-                "name": "תורג'מן אסף",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "85",
-            "passFail": "85\/0",
-            "passPercent": "100",
-            "min": "57",
-            "max": "100",
-            "average": "93.365",
-            "median": "97"
-        },
-        "Finals": {
-            "students": "85",
-            "passFail": "85\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "94.212",
-            "median": "97"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "תורג'מן אסף",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "87",
-            "passFail": "85\/2",
-            "passPercent": "98",
-            "min": "47",
-            "max": "100",
-            "average": "88.218",
-            "median": "90"
-        },
-        "Final_B": {
-            "students": "28",
-            "passFail": "28\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "91.107",
-            "median": "94"
-        },
-        "Finals": {
-            "students": "92",
-            "passFail": "92\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "100",
-            "average": "91.946",
-            "median": "93"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "תורג'מן אסף",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "84",
-            "passFail": "80\/4",
-            "passPercent": "95",
-            "min": "27",
-            "max": "100",
-            "average": "85.083",
-            "median": "90"
-        },
-        "Final_B": {
-            "students": "35",
-            "passFail": "34\/1",
-            "passPercent": "97",
-            "min": "51",
-            "max": "100",
-            "average": "88.629",
-            "median": "90"
-        },
-        "Finals": {
-            "students": "93",
-            "passFail": "92\/1",
-            "passPercent": "99",
-            "min": "51",
-            "max": "100",
-            "average": "90.258",
-            "median": "90"
-        }
-    },
     "201902": {
         "Staff": [
             {
@@ -177,6 +42,141 @@
             "min": "63",
             "max": "100",
             "average": "95.319",
+            "median": "97"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "תורג'מן אסף",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "84",
+            "passFail": "80\/4",
+            "passPercent": "95",
+            "min": "27",
+            "max": "100",
+            "average": "85.083",
+            "median": "90"
+        },
+        "Final_B": {
+            "students": "35",
+            "passFail": "34\/1",
+            "passPercent": "97",
+            "min": "51",
+            "max": "100",
+            "average": "88.629",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "93",
+            "passFail": "92\/1",
+            "passPercent": "99",
+            "min": "51",
+            "max": "100",
+            "average": "90.258",
+            "median": "90"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "תורג'מן אסף",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "87",
+            "passFail": "85\/2",
+            "passPercent": "98",
+            "min": "47",
+            "max": "100",
+            "average": "88.218",
+            "median": "90"
+        },
+        "Final_B": {
+            "students": "28",
+            "passFail": "28\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "91.107",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "92",
+            "passFail": "92\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "91.946",
+            "median": "93"
+        }
+    },
+    "201601": {
+        "Staff": [
+            {
+                "name": "תורג'מן אסף",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "85",
+            "passFail": "85\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "100",
+            "average": "93.365",
+            "median": "97"
+        },
+        "Finals": {
+            "students": "85",
+            "passFail": "85\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "94.212",
+            "median": "97"
+        }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "תורג'מן אסף",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "80",
+            "passFail": "80\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "89.225",
+            "median": "90"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "91.417",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "87",
+            "passFail": "87\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "94.437",
             "median": "97"
         }
     }

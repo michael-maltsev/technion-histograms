@@ -1,54 +1,4 @@
 {
-    "201601": {
-        "Staff": [
-            {
-                "name": "בן-אוליאל דניאל",
-                "email": "dbenolie@research.haifa.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "ניסנבוים נעה",
-                "email": "noaniss@technion.ac.il,noaniss@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Exam_A": {
-            "students": "39",
-            "passFail": "38\/1",
-            "passPercent": "97",
-            "min": "48",
-            "max": "100",
-            "average": "83.692",
-            "median": "86"
-        },
-        "Final_A": {
-            "students": "39",
-            "passFail": "38\/1",
-            "passPercent": "97",
-            "min": "48",
-            "max": "100",
-            "average": "83.692",
-            "median": "86"
-        },
-        "Final_B": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "90",
-            "median": "90"
-        },
-        "Finals": {
-            "students": "44",
-            "passFail": "44\/0",
-            "passPercent": "100",
-            "min": "64",
-            "max": "100",
-            "average": "88.727",
-            "median": "92"
-        }
-    },
     "201801": {
         "Staff": [
             {
@@ -98,6 +48,56 @@
             "max": "100",
             "average": "90.171",
             "median": "90"
+        }
+    },
+    "201601": {
+        "Staff": [
+            {
+                "name": "בן-אוליאל דניאל",
+                "email": "dbenolie@research.haifa.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ניסנבוים נעה",
+                "email": "noaniss@technion.ac.il,noaniss@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "39",
+            "passFail": "38\/1",
+            "passPercent": "97",
+            "min": "48",
+            "max": "100",
+            "average": "83.692",
+            "median": "86"
+        },
+        "Final_A": {
+            "students": "39",
+            "passFail": "38\/1",
+            "passPercent": "97",
+            "min": "48",
+            "max": "100",
+            "average": "83.692",
+            "median": "86"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "90",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "44",
+            "passFail": "44\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "100",
+            "average": "88.727",
+            "median": "92"
         }
     }
 }

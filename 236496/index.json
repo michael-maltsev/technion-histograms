@@ -1,23 +1,5 @@
 {
-    "201901": {
-        "Staff": [
-            {
-                "name": "ביהם אלי",
-                "email": "biham@cs.technion.ac.il,noreplay@norplay.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "50",
-            "passFail": "49\/1",
-            "passPercent": "98",
-            "min": "44",
-            "max": "100",
-            "average": "84.2",
-            "median": "85.5"
-        }
-    },
-    "202001": {
+    "202202": {
         "Staff": [
             {
                 "name": "ביהם אלי",
@@ -26,31 +8,13 @@
             }
         ],
         "Finals": {
-            "students": "53",
-            "passFail": "53\/0",
+            "students": "67",
+            "passFail": "67\/0",
             "passPercent": "100",
-            "min": "64",
+            "min": "74",
             "max": "100",
-            "average": "87.151",
-            "median": "89"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "ביהם אלי",
-                "email": "biham@cs.technion.ac.il,noreplay@norplay.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "26",
-            "passFail": "26\/0",
-            "passPercent": "100",
-            "min": "68",
-            "max": "100",
-            "average": "87.846",
-            "median": "91"
+            "average": "90.582",
+            "median": "92"
         }
     },
     "202102": {
@@ -71,7 +35,25 @@
             "median": "90"
         }
     },
-    "202202": {
+    "202002": {
+        "Staff": [
+            {
+                "name": "ביהם אלי",
+                "email": "biham@cs.technion.ac.il,noreplay@norplay.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "87.846",
+            "median": "91"
+        }
+    },
+    "202001": {
         "Staff": [
             {
                 "name": "ביהם אלי",
@@ -80,13 +62,31 @@
             }
         ],
         "Finals": {
-            "students": "67",
-            "passFail": "67\/0",
+            "students": "53",
+            "passFail": "53\/0",
             "passPercent": "100",
-            "min": "74",
+            "min": "64",
             "max": "100",
-            "average": "90.582",
-            "median": "92"
+            "average": "87.151",
+            "median": "89"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "ביהם אלי",
+                "email": "biham@cs.technion.ac.il,noreplay@norplay.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "50",
+            "passFail": "49\/1",
+            "passPercent": "98",
+            "min": "44",
+            "max": "100",
+            "average": "84.2",
+            "median": "85.5"
         }
     }
 }

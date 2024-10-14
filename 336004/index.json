@@ -1,54 +1,4 @@
 {
-    "201202": {
-        "Staff": [
-            {
-                "name": "צזנה רועי",
-                "email": "dup@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "פרי לובה",
-                "email": "lubash@technion.ac.il",
-                "title": "מתרגל"
-            }
-        ],
-        "Final_A": {
-            "students": "29",
-            "passFail": "28\/1",
-            "passPercent": "97",
-            "min": "52",
-            "max": "99",
-            "average": "81.897",
-            "median": "83"
-        }
-    },
-    "201302": {
-        "Staff": [
-            {
-                "name": "צזנה רועי",
-                "email": "dup@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Exam_A": {
-            "students": "23",
-            "passFail": "23\/0",
-            "passPercent": "100",
-            "min": "56",
-            "max": "91",
-            "average": "75.696",
-            "median": "76"
-        },
-        "Final_A": {
-            "students": "23",
-            "passFail": "23\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "92",
-            "average": "77.739",
-            "median": "79"
-        }
-    },
     "201402": {
         "Staff": [
             {
@@ -105,6 +55,56 @@
             "min": "50",
             "max": "100",
             "average": "81.196",
+            "median": "83"
+        }
+    },
+    "201302": {
+        "Staff": [
+            {
+                "name": "צזנה רועי",
+                "email": "dup@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "91",
+            "average": "75.696",
+            "median": "76"
+        },
+        "Final_A": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "92",
+            "average": "77.739",
+            "median": "79"
+        }
+    },
+    "201202": {
+        "Staff": [
+            {
+                "name": "צזנה רועי",
+                "email": "dup@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרי לובה",
+                "email": "lubash@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "29",
+            "passFail": "28\/1",
+            "passPercent": "97",
+            "min": "52",
+            "max": "99",
+            "average": "81.897",
             "median": "83"
         }
     }

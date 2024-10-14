@@ -1,55 +1,10 @@
 {
-    "201402": {
-        "Staff": [
-            {
-                "name": "רזניקוב מכאל",
-                "email": "reznikov@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "83",
-            "max": "97",
-            "average": "89.467",
-            "median": "87"
-        }
-    },
-    "201501": {
+    "202202": {
         "Staff": [
             {
                 "name": "קניגל עמית",
                 "email": "amitk@physics.technion.ac.il,phamit@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "19",
-            "passFail": "19\/0",
-            "passPercent": "100",
-            "min": "91",
-            "max": "99",
-            "average": "93.263",
-            "median": "93"
-        },
-        "Finals": {
-            "students": "19",
-            "passFail": "19\/0",
-            "passPercent": "100",
-            "min": "91",
-            "max": "99",
-            "average": "93.263",
-            "median": "93"
-        }
-    },
-    "201603": {
-        "Staff": [
-            {
-                "name": "רזניקוב מכאל",
-                "email": "reznikov@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
             },
             {
                 "name": "פריזאנט יוליה",
@@ -58,77 +13,13 @@
             }
         ],
         "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
+            "students": "10",
+            "passFail": "10\/0",
             "passPercent": "100",
-            "min": "85",
+            "min": "92",
             "max": "97",
-            "average": "91.25",
-            "median": "93"
-        }
-    },
-    "201701": {
-        "Staff": [
-            {
-                "name": "רזניקוב מכאל",
-                "email": "reznikov@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "פריזאנט יוליה",
-                "email": "jammia@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "14",
-            "passFail": "14\/0",
-            "passPercent": "100",
-            "min": "87",
-            "max": "95",
-            "average": "92.357",
-            "median": "92"
-        },
-        "Finals": {
-            "students": "14",
-            "passFail": "14\/0",
-            "passPercent": "100",
-            "min": "87",
-            "max": "95",
-            "average": "92.357",
-            "median": "92"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "קרסיק יעקב",
-                "email": "fnkrasik@physics.technion.ac.il,fnkrasik@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "פריזאנט יוליה",
-                "email": "jammia@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "89.233",
-            "max": "99.788",
-            "average": "94.267",
-            "median": "94.082"
-        },
-        "Finals": {
-            "students": "14",
-            "passFail": "14\/0",
-            "passPercent": "100",
-            "min": "87",
-            "max": "100",
-            "average": "93.714",
-            "median": "94"
+            "average": "94.4",
+            "median": "94.5"
         }
     },
     "202102": {
@@ -163,11 +54,75 @@
             "median": "94"
         }
     },
-    "202202": {
+    "202002": {
         "Staff": [
             {
-                "name": "קניגל עמית",
-                "email": "amitk@physics.technion.ac.il,phamit@technion.ac.il",
+                "name": "קרסיק יעקב",
+                "email": "fnkrasik@physics.technion.ac.il,fnkrasik@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פריזאנט יוליה",
+                "email": "jammia@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "89.233",
+            "max": "99.788",
+            "average": "94.267",
+            "median": "94.082"
+        },
+        "Finals": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "87",
+            "max": "100",
+            "average": "93.714",
+            "median": "94"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "רזניקוב מכאל",
+                "email": "reznikov@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פריזאנט יוליה",
+                "email": "jammia@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "87",
+            "max": "95",
+            "average": "92.357",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "87",
+            "max": "95",
+            "average": "92.357",
+            "median": "92"
+        }
+    },
+    "201603": {
+        "Staff": [
+            {
+                "name": "רזניקוב מכאל",
+                "email": "reznikov@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -177,13 +132,58 @@
             }
         ],
         "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
+            "students": "16",
+            "passFail": "16\/0",
             "passPercent": "100",
-            "min": "92",
+            "min": "85",
             "max": "97",
-            "average": "94.4",
-            "median": "94.5"
+            "average": "91.25",
+            "median": "93"
+        }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "קניגל עמית",
+                "email": "amitk@physics.technion.ac.il,phamit@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "91",
+            "max": "99",
+            "average": "93.263",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "91",
+            "max": "99",
+            "average": "93.263",
+            "median": "93"
+        }
+    },
+    "201402": {
+        "Staff": [
+            {
+                "name": "רזניקוב מכאל",
+                "email": "reznikov@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "83",
+            "max": "97",
+            "average": "89.467",
+            "median": "87"
         }
     }
 }

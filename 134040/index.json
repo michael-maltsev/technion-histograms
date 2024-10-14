@@ -1,5 +1,5 @@
 {
-    "201602": {
+    "202202": {
         "Staff": [
             {
                 "name": "סבלדי סיגל",
@@ -8,52 +8,16 @@
             }
         ],
         "Final_A": {
-            "students": "17",
-            "passFail": "14\/3",
-            "passPercent": "82",
-            "min": "41.4",
-            "max": "91.3",
-            "average": "75.582",
-            "median": "83.1"
-        },
-        "Finals": {
-            "students": "22",
-            "passFail": "21\/1",
-            "passPercent": "95",
-            "min": "33",
-            "max": "91",
-            "average": "76.091",
-            "median": "79"
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "42.791",
+            "max": "94.2",
+            "average": "79.139",
+            "median": "79.072"
         }
     },
-    "201702": {
-        "Staff": [
-            {
-                "name": "גפשטיין שמעון",
-                "email": "gepstein@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "20",
-            "passFail": "17\/3",
-            "passPercent": "85",
-            "min": "46",
-            "max": "92",
-            "average": "72.2",
-            "median": "75"
-        },
-        "Finals": {
-            "students": "22",
-            "passFail": "21\/1",
-            "passPercent": "95",
-            "min": "49",
-            "max": "96",
-            "average": "76.273",
-            "median": "75"
-        }
-    },
-    "201802": {
+    "202102": {
         "Staff": [
             {
                 "name": "סבלדי סיגל",
@@ -61,50 +25,14 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Final_A": {
-            "students": "17",
-            "passFail": "15\/2",
-            "passPercent": "88",
-            "min": "21.867",
-            "max": "97.393",
-            "average": "75.664",
-            "median": "81.82"
-        },
         "Finals": {
-            "students": "20",
-            "passFail": "19\/1",
-            "passPercent": "95",
-            "min": "39",
-            "max": "97",
-            "average": "76.9",
-            "median": "82"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "סבלדי סיגל",
-                "email": "sigal@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "22",
-            "passFail": "21\/1",
-            "passPercent": "95",
-            "min": "39.2",
-            "max": "100.3",
-            "average": "79.314",
-            "median": "82.55"
-        },
-        "Finals": {
-            "students": "25",
-            "passFail": "24\/1",
-            "passPercent": "96",
-            "min": "51",
-            "max": "100",
-            "average": "80.12",
-            "median": "81"
+            "students": "10",
+            "passFail": "9\/1",
+            "passPercent": "90",
+            "min": "42",
+            "max": "94",
+            "average": "84.8",
+            "median": "90"
         }
     },
     "202002": {
@@ -134,25 +62,7 @@
             "median": "80"
         }
     },
-    "202102": {
-        "Staff": [
-            {
-                "name": "סבלדי סיגל",
-                "email": "sigal@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "10",
-            "passFail": "9\/1",
-            "passPercent": "90",
-            "min": "42",
-            "max": "94",
-            "average": "84.8",
-            "median": "90"
-        }
-    },
-    "202202": {
+    "201902": {
         "Staff": [
             {
                 "name": "סבלדי סיגל",
@@ -161,13 +71,103 @@
             }
         ],
         "Final_A": {
-            "students": "15",
-            "passFail": "14\/1",
-            "passPercent": "93",
-            "min": "42.791",
-            "max": "94.2",
-            "average": "79.139",
-            "median": "79.072"
+            "students": "22",
+            "passFail": "21\/1",
+            "passPercent": "95",
+            "min": "39.2",
+            "max": "100.3",
+            "average": "79.314",
+            "median": "82.55"
+        },
+        "Finals": {
+            "students": "25",
+            "passFail": "24\/1",
+            "passPercent": "96",
+            "min": "51",
+            "max": "100",
+            "average": "80.12",
+            "median": "81"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "סבלדי סיגל",
+                "email": "sigal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "17",
+            "passFail": "15\/2",
+            "passPercent": "88",
+            "min": "21.867",
+            "max": "97.393",
+            "average": "75.664",
+            "median": "81.82"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "19\/1",
+            "passPercent": "95",
+            "min": "39",
+            "max": "97",
+            "average": "76.9",
+            "median": "82"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "גפשטיין שמעון",
+                "email": "gepstein@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "20",
+            "passFail": "17\/3",
+            "passPercent": "85",
+            "min": "46",
+            "max": "92",
+            "average": "72.2",
+            "median": "75"
+        },
+        "Finals": {
+            "students": "22",
+            "passFail": "21\/1",
+            "passPercent": "95",
+            "min": "49",
+            "max": "96",
+            "average": "76.273",
+            "median": "75"
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "סבלדי סיגל",
+                "email": "sigal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "17",
+            "passFail": "14\/3",
+            "passPercent": "82",
+            "min": "41.4",
+            "max": "91.3",
+            "average": "75.582",
+            "median": "83.1"
+        },
+        "Finals": {
+            "students": "22",
+            "passFail": "21\/1",
+            "passPercent": "95",
+            "min": "33",
+            "max": "91",
+            "average": "76.091",
+            "median": "79"
         }
     }
 }

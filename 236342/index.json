@@ -1,59 +1,5 @@
 {
-    "201701": {
-        "Staff": [
-            {
-                "name": "גרימברג אורנה",
-                "email": "orna@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "90",
-            "passFail": "87\/3",
-            "passPercent": "97",
-            "min": "43",
-            "max": "98",
-            "average": "78.978",
-            "median": "81"
-        }
-    },
-    "201801": {
-        "Staff": [
-            {
-                "name": "גרימברג אורנה",
-                "email": "orna@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "73",
-            "passFail": "69\/4",
-            "passPercent": "95",
-            "min": "37",
-            "max": "100",
-            "average": "81.466",
-            "median": "86"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "גרימברג אורנה",
-                "email": "orna@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "93",
-            "passFail": "84\/9",
-            "passPercent": "90",
-            "min": "19",
-            "max": "100",
-            "average": "77.742",
-            "median": "83"
-        }
-    },
-    "202001": {
+    "202301": {
         "Staff": [
             {
                 "name": "ויזל יקיר",
@@ -62,30 +8,12 @@
             }
         ],
         "Finals": {
-            "students": "72",
-            "passFail": "71\/1",
-            "passPercent": "99",
-            "min": "41",
-            "max": "96",
-            "average": "77.139",
-            "median": "80"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "ויזל יקיר",
-                "email": "yvizel@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "65",
-            "passFail": "63\/2",
-            "passPercent": "97",
-            "min": "48",
+            "students": "114",
+            "passFail": "105\/9",
+            "passPercent": "92",
+            "min": "38",
             "max": "100",
-            "average": "80.308",
+            "average": "80.605",
             "median": "84"
         }
     },
@@ -107,7 +35,7 @@
             "median": "84"
         }
     },
-    "202301": {
+    "202101": {
         "Staff": [
             {
                 "name": "ויזל יקיר",
@@ -116,13 +44,85 @@
             }
         ],
         "Finals": {
-            "students": "114",
-            "passFail": "105\/9",
-            "passPercent": "92",
-            "min": "38",
+            "students": "65",
+            "passFail": "63\/2",
+            "passPercent": "97",
+            "min": "48",
             "max": "100",
-            "average": "80.605",
+            "average": "80.308",
             "median": "84"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "ויזל יקיר",
+                "email": "yvizel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "72",
+            "passFail": "71\/1",
+            "passPercent": "99",
+            "min": "41",
+            "max": "96",
+            "average": "77.139",
+            "median": "80"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "גרימברג אורנה",
+                "email": "orna@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "93",
+            "passFail": "84\/9",
+            "passPercent": "90",
+            "min": "19",
+            "max": "100",
+            "average": "77.742",
+            "median": "83"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "גרימברג אורנה",
+                "email": "orna@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "73",
+            "passFail": "69\/4",
+            "passPercent": "95",
+            "min": "37",
+            "max": "100",
+            "average": "81.466",
+            "median": "86"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "גרימברג אורנה",
+                "email": "orna@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "90",
+            "passFail": "87\/3",
+            "passPercent": "97",
+            "min": "43",
+            "max": "98",
+            "average": "78.978",
+            "median": "81"
         }
     }
 }

@@ -1,4 +1,46 @@
 {
+    "201802": {
+        "Staff": [
+            {
+                "name": "ליבני יואב",
+                "email": "livney@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דנינו דגנית",
+                "email": "dganitd@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "אנגלברג שירה",
+                "email": "shira125@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "יוגב סיון",
+                "email": "sivan91@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "48",
+            "passFail": "45\/3",
+            "passPercent": "94",
+            "min": "43",
+            "max": "100",
+            "average": "85.375",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "52",
+            "passFail": "52\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "87.923",
+            "median": "88"
+        }
+    },
     "201702": {
         "Staff": [
             {
@@ -52,48 +94,6 @@
             "max": "100",
             "average": "89.068",
             "median": "90"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "ליבני יואב",
-                "email": "livney@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "דנינו דגנית",
-                "email": "dganitd@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "אנגלברג שירה",
-                "email": "shira125@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "יוגב סיון",
-                "email": "sivan91@campus.technion.ac.il",
-                "title": "מתרגל"
-            }
-        ],
-        "Final_A": {
-            "students": "48",
-            "passFail": "45\/3",
-            "passPercent": "94",
-            "min": "43",
-            "max": "100",
-            "average": "85.375",
-            "median": "88"
-        },
-        "Finals": {
-            "students": "52",
-            "passFail": "52\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "87.923",
-            "median": "88"
         }
     }
 }

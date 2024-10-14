@@ -1,25 +1,20 @@
 {
-    "201802": {
+    "202301": {
         "Staff": [
             {
-                "name": "יוסיפון גלעד",
-                "email": "yossifon@technion.ac.il",
+                "name": "רייזנר מוטי",
+                "email": "raiznerm@gmail.com",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "סבג ברק",
-                "email": "baraksabbagh@gmail.com,baraksabbagh@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Finals": {
-            "students": "11",
-            "passFail": "11\/0",
+            "students": "22",
+            "passFail": "22\/0",
             "passPercent": "100",
-            "min": "85",
-            "max": "98",
-            "average": "93.727",
-            "median": "94"
+            "min": "76",
+            "max": "97",
+            "average": "90.773",
+            "median": "92"
         }
     },
     "202001": {
@@ -54,22 +49,27 @@
             "median": "88"
         }
     },
-    "202301": {
+    "201802": {
         "Staff": [
             {
-                "name": "רייזנר מוטי",
-                "email": "raiznerm@gmail.com",
+                "name": "יוסיפון גלעד",
+                "email": "yossifon@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סבג ברק",
+                "email": "baraksabbagh@gmail.com,baraksabbagh@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Finals": {
-            "students": "22",
-            "passFail": "22\/0",
+            "students": "11",
+            "passFail": "11\/0",
             "passPercent": "100",
-            "min": "76",
-            "max": "97",
-            "average": "90.773",
-            "median": "92"
+            "min": "85",
+            "max": "98",
+            "average": "93.727",
+            "median": "94"
         }
     }
 }

@@ -1,4 +1,54 @@
 {
+    "202202": {
+        "Staff": [
+            {
+                "name": "הרשקוביץ פול יעל",
+                "email": "yhershkovitz@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גרינברג-דנה אלון",
+                "email": "alon@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "58",
+            "passFail": "51\/7",
+            "passPercent": "88",
+            "min": "12",
+            "max": "95",
+            "average": "70.672",
+            "median": "72.5"
+        },
+        "Final_A": {
+            "students": "58",
+            "passFail": "51\/7",
+            "passPercent": "88",
+            "min": "12",
+            "max": "97",
+            "average": "77.552",
+            "median": "81.5"
+        },
+        "Final_B": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "95",
+            "average": "84.467",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "62",
+            "passFail": "62\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "97",
+            "average": "84.741",
+            "median": "84.5"
+        }
+    },
     "202102": {
         "Staff": [
             {
@@ -61,56 +111,6 @@
             "max": "98",
             "average": "86.029",
             "median": "87"
-        }
-    },
-    "202202": {
-        "Staff": [
-            {
-                "name": "הרשקוביץ פול יעל",
-                "email": "yhershkovitz@campus.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "גרינברג-דנה אלון",
-                "email": "alon@technion.ac.il",
-                "title": "מרצה"
-            }
-        ],
-        "Exam_A": {
-            "students": "58",
-            "passFail": "51\/7",
-            "passPercent": "88",
-            "min": "12",
-            "max": "95",
-            "average": "70.672",
-            "median": "72.5"
-        },
-        "Final_A": {
-            "students": "58",
-            "passFail": "51\/7",
-            "passPercent": "88",
-            "min": "12",
-            "max": "97",
-            "average": "77.552",
-            "median": "81.5"
-        },
-        "Final_B": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "71",
-            "max": "95",
-            "average": "84.467",
-            "median": "82"
-        },
-        "Finals": {
-            "students": "62",
-            "passFail": "62\/0",
-            "passPercent": "100",
-            "min": "71",
-            "max": "97",
-            "average": "84.741",
-            "median": "84.5"
         }
     }
 }

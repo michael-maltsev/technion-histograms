@@ -1,93 +1,34 @@
 {
-    "201801": {
+    "202201": {
         "Staff": [
             {
                 "name": "קפלוטו יצחק",
                 "email": "arrguedi@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "title": "מרצה"
             },
             {
-                "name": "בליברג תמר",
-                "email": "btamar@technion.ac.il",
+                "name": "קאופמן גנית",
+                "email": "ganitk@technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "68",
-            "passFail": "68\/0",
+            "students": "67",
+            "passFail": "67\/0",
             "passPercent": "100",
-            "min": "81",
-            "max": "95",
-            "average": "87.941",
-            "median": "89"
+            "min": "80",
+            "max": "98",
+            "average": "90.507",
+            "median": "91"
         },
         "Finals": {
-            "students": "68",
-            "passFail": "68\/0",
+            "students": "67",
+            "passFail": "67\/0",
             "passPercent": "100",
-            "min": "81",
-            "max": "95",
-            "average": "87.941",
-            "median": "89"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "קפלוטו יצחק",
-                "email": "arrguedi@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בליברג תמר",
-                "email": "btamar@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "69",
-            "passFail": "69\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "95",
-            "average": "87.043",
-            "median": "89"
-        },
-        "Finals": {
-            "students": "69",
-            "passFail": "69\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "95",
-            "average": "87.043",
-            "median": "89"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "קפלוטו יצחק",
-                "email": "arrguedi@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "71",
-            "passFail": "71\/0",
-            "passPercent": "100",
-            "min": "73",
-            "max": "97",
-            "average": "91.563",
-            "median": "92"
-        },
-        "Finals": {
-            "students": "71",
-            "passFail": "71\/0",
-            "passPercent": "100",
-            "min": "73",
-            "max": "97",
-            "average": "91.563",
-            "median": "92"
+            "min": "80",
+            "max": "98",
+            "average": "90.507",
+            "median": "91"
         }
     },
     "202101": {
@@ -122,36 +63,95 @@
             "median": "90"
         }
     },
-    "202201": {
+    "202001": {
         "Staff": [
             {
                 "name": "קפלוטו יצחק",
                 "email": "arrguedi@technion.ac.il",
-                "title": "מרצה"
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "71",
+            "passFail": "71\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "97",
+            "average": "91.563",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "71",
+            "passFail": "71\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "97",
+            "average": "91.563",
+            "median": "92"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "קפלוטו יצחק",
+                "email": "arrguedi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "קאופמן גנית",
-                "email": "ganitk@technion.ac.il",
+                "name": "בליברג תמר",
+                "email": "btamar@technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "67",
-            "passFail": "67\/0",
+            "students": "69",
+            "passFail": "69\/0",
             "passPercent": "100",
-            "min": "80",
-            "max": "98",
-            "average": "90.507",
-            "median": "91"
+            "min": "70",
+            "max": "95",
+            "average": "87.043",
+            "median": "89"
         },
         "Finals": {
-            "students": "67",
-            "passFail": "67\/0",
+            "students": "69",
+            "passFail": "69\/0",
             "passPercent": "100",
-            "min": "80",
-            "max": "98",
-            "average": "90.507",
-            "median": "91"
+            "min": "70",
+            "max": "95",
+            "average": "87.043",
+            "median": "89"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "קפלוטו יצחק",
+                "email": "arrguedi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בליברג תמר",
+                "email": "btamar@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "68",
+            "passFail": "68\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "95",
+            "average": "87.941",
+            "median": "89"
+        },
+        "Finals": {
+            "students": "68",
+            "passFail": "68\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "95",
+            "average": "87.941",
+            "median": "89"
         }
     }
 }

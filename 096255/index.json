@@ -1,36 +1,4 @@
 {
-    "201901": {
-        "Staff": [
-            {
-                "name": "דורי דב",
-                "email": "dori@ie.technion.ac.il,dori@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "לוי נטליה",
-                "email": "soskin.natali@gmail.com,natali.levi@campus.technion.ac.il",
-                "title": ""
-            }
-        ],
-        "Final_A": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "94.867",
-            "median": "92"
-        },
-        "Finals": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "94.867",
-            "median": "92"
-        }
-    },
     "202001": {
         "Staff": [
             {
@@ -71,6 +39,38 @@
             "max": "100",
             "average": "95.407",
             "median": "97"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "דורי דב",
+                "email": "dori@ie.technion.ac.il,dori@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לוי נטליה",
+                "email": "soskin.natali@gmail.com,natali.levi@campus.technion.ac.il",
+                "title": ""
+            }
+        ],
+        "Final_A": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "94.867",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "94.867",
+            "median": "92"
         }
     }
 }

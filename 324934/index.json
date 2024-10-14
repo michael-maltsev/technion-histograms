@@ -1,22 +1,4 @@
 {
-    "201402": {
-        "Staff": [
-            {
-                "name": "אשר יוני",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "44",
-            "passFail": "44\/0",
-            "passPercent": "100",
-            "min": "64",
-            "max": "100",
-            "average": "87.159",
-            "median": "89"
-        }
-    },
     "201602": {
         "Staff": [
             {
@@ -42,6 +24,24 @@
             "max": "100",
             "average": "87.465",
             "median": "88"
+        }
+    },
+    "201402": {
+        "Staff": [
+            {
+                "name": "אשר יוני",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "44",
+            "passFail": "44\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "100",
+            "average": "87.159",
+            "median": "89"
         }
     }
 }

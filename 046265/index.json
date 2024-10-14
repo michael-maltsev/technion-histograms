@@ -1,123 +1,4 @@
 {
-    "201901": {
-        "Staff": [
-            {
-                "name": "קוטינסקי שחר",
-                "email": "skva@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "ויינשטיין ניקולס",
-                "email": "nicolasw@technion.ac.il,nicolasw@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן-חור רתם",
-                "email": "rotembenhur@technion.ac.il,rotembenhur@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "56",
-            "max": "100",
-            "average": "85.167",
-            "median": "88"
-        },
-        "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "56",
-            "max": "100",
-            "average": "85.167",
-            "median": "88"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "קוטינסקי שחר",
-                "email": "skva@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן-חור רתם",
-                "email": "rotembenhur@technion.ac.il,rotembenhur@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Exam_A": {
-            "students": "16",
-            "passFail": "15\/1",
-            "passPercent": "94",
-            "min": "42.5",
-            "max": "97",
-            "average": "80.688",
-            "median": "83"
-        },
-        "Final_A": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "64",
-            "max": "97",
-            "average": "87.75",
-            "median": "89.5"
-        },
-        "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "79",
-            "max": "97",
-            "average": "89.176",
-            "median": "90"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "קוטינסקי שחר",
-                "email": "skva@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן-חור רתם",
-                "email": "rotembenhur@technion.ac.il,rotembenhur@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Exam_A": {
-            "students": "51",
-            "passFail": "47\/4",
-            "passPercent": "92",
-            "min": "43.5",
-            "max": "100",
-            "average": "77.5",
-            "median": "80"
-        },
-        "Final_A": {
-            "students": "51",
-            "passFail": "51\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "100",
-            "average": "86.373",
-            "median": "88"
-        },
-        "Finals": {
-            "students": "54",
-            "passFail": "54\/0",
-            "passPercent": "100",
-            "min": "61",
-            "max": "100",
-            "average": "85.963",
-            "median": "88"
-        }
-    },
     "202201": {
         "Staff": [
             {
@@ -180,6 +61,125 @@
             "max": "100",
             "average": "80.869",
             "median": "80"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "קוטינסקי שחר",
+                "email": "skva@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-חור רתם",
+                "email": "rotembenhur@technion.ac.il,rotembenhur@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "51",
+            "passFail": "47\/4",
+            "passPercent": "92",
+            "min": "43.5",
+            "max": "100",
+            "average": "77.5",
+            "median": "80"
+        },
+        "Final_A": {
+            "students": "51",
+            "passFail": "51\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "100",
+            "average": "86.373",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "54",
+            "passFail": "54\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "100",
+            "average": "85.963",
+            "median": "88"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "קוטינסקי שחר",
+                "email": "skva@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-חור רתם",
+                "email": "rotembenhur@technion.ac.il,rotembenhur@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "42.5",
+            "max": "97",
+            "average": "80.688",
+            "median": "83"
+        },
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "97",
+            "average": "87.75",
+            "median": "89.5"
+        },
+        "Finals": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "97",
+            "average": "89.176",
+            "median": "90"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "קוטינסקי שחר",
+                "email": "skva@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ויינשטיין ניקולס",
+                "email": "nicolasw@technion.ac.il,nicolasw@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-חור רתם",
+                "email": "rotembenhur@technion.ac.il,rotembenhur@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "100",
+            "average": "85.167",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "100",
+            "average": "85.167",
+            "median": "88"
         }
     }
 }

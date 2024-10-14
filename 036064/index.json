@@ -1,47 +1,20 @@
 {
-    "201902": {
+    "202102": {
         "Staff": [
             {
-                "name": "גוטמן פר אולוף",
-                "email": "peo@technion.ac.il",
+                "name": "גבלי יוסף",
+                "email": "givli@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
+            "students": "11",
+            "passFail": "11\/0",
             "passPercent": "100",
-            "min": "69",
+            "min": "83",
             "max": "100",
-            "average": "89.1",
-            "median": "90.5"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "פריד מאור",
-                "email": "maorfarid@gmail.com,faridm@campus.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "40",
-            "passFail": "39\/1",
-            "passPercent": "98",
-            "min": "0",
-            "max": "100",
-            "average": "96.355",
-            "median": "99.1"
-        },
-        "Finals": {
-            "students": "39",
-            "passFail": "39\/0",
-            "passPercent": "100",
-            "min": "93",
-            "max": "100",
-            "average": "98.923",
-            "median": "99"
+            "average": "95.818",
+            "median": "98"
         }
     },
     "202002": {
@@ -71,22 +44,49 @@
             "median": "95"
         }
     },
-    "202102": {
+    "202001": {
         "Staff": [
             {
-                "name": "גבלי יוסף",
-                "email": "givli@technion.ac.il",
+                "name": "פריד מאור",
+                "email": "maorfarid@gmail.com,faridm@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "40",
+            "passFail": "39\/1",
+            "passPercent": "98",
+            "min": "0",
+            "max": "100",
+            "average": "96.355",
+            "median": "99.1"
+        },
+        "Finals": {
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "100",
+            "average": "98.923",
+            "median": "99"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "גוטמן פר אולוף",
+                "email": "peo@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "11",
-            "passFail": "11\/0",
+            "students": "10",
+            "passFail": "10\/0",
             "passPercent": "100",
-            "min": "83",
+            "min": "69",
             "max": "100",
-            "average": "95.818",
-            "median": "98"
+            "average": "89.1",
+            "median": "90.5"
         }
     }
 }

@@ -1,31 +1,4 @@
 {
-    "202001": {
-        "Staff": [
-            {
-                "name": "פישר-גבירצמן דפנה",
-                "email": "ardafna@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "113",
-            "passFail": "110\/3",
-            "passPercent": "97",
-            "min": "40",
-            "max": "97",
-            "average": "84.478",
-            "median": "86"
-        },
-        "Finals": {
-            "students": "113",
-            "passFail": "110\/3",
-            "passPercent": "97",
-            "min": "40",
-            "max": "97",
-            "average": "84.478",
-            "median": "86"
-        }
-    },
     "202101": {
         "Staff": [
             {
@@ -56,6 +29,33 @@
             "max": "95",
             "average": "84.788",
             "median": "85.5"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "פישר-גבירצמן דפנה",
+                "email": "ardafna@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "113",
+            "passFail": "110\/3",
+            "passPercent": "97",
+            "min": "40",
+            "max": "97",
+            "average": "84.478",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "113",
+            "passFail": "110\/3",
+            "passPercent": "97",
+            "min": "40",
+            "max": "97",
+            "average": "84.478",
+            "median": "86"
         }
     }
 }

@@ -1,15 +1,15 @@
 {
-    "201901": {
+    "202101": {
         "Staff": [
             {
-                "name": "בן-ארצי אחיקם",
-                "email": "eric.ben.artzi@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
+                "name": "גולדבראיך אדם ודים",
+                "email": "goldb.adam@gmail.com,sgoadam@campus.technion.ac.il",
+                "title": "מתרגל"
             },
             {
-                "name": "אגסי זיוה",
-                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+                "name": "לויפר שלומי",
+                "email": "laufer@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
             },
             {
                 "name": "זיו דוד מורן",
@@ -17,14 +17,23 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
-        "Finals": {
-            "students": "21",
-            "passFail": "21\/0",
+        "Final_A": {
+            "students": "39",
+            "passFail": "39\/0",
             "passPercent": "100",
-            "min": "80",
+            "min": "90",
             "max": "100",
-            "average": "94.81",
-            "median": "94"
+            "average": "96.077",
+            "median": "97"
+        },
+        "Finals": {
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "96.077",
+            "median": "97"
         }
     },
     "202001": {
@@ -64,17 +73,17 @@
             "median": "95.5"
         }
     },
-    "202101": {
+    "201901": {
         "Staff": [
             {
-                "name": "גולדבראיך אדם ודים",
-                "email": "goldb.adam@gmail.com,sgoadam@campus.technion.ac.il",
-                "title": "מתרגל"
+                "name": "בן-ארצי אחיקם",
+                "email": "eric.ben.artzi@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "לויפר שלומי",
-                "email": "laufer@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "name": "אגסי זיוה",
+                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "זיו דוד מורן",
@@ -82,23 +91,14 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
-        "Final_A": {
-            "students": "39",
-            "passFail": "39\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "96.077",
-            "median": "97"
-        },
         "Finals": {
-            "students": "39",
-            "passFail": "39\/0",
+            "students": "21",
+            "passFail": "21\/0",
             "passPercent": "100",
-            "min": "90",
+            "min": "80",
             "max": "100",
-            "average": "96.077",
-            "median": "97"
+            "average": "94.81",
+            "median": "94"
         }
     }
 }

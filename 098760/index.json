@@ -1,31 +1,4 @@
 {
-    "201901": {
-        "Staff": [
-            {
-                "name": "פפרמן טליה",
-                "email": "taliapfe@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "54",
-            "passFail": "54\/0",
-            "passPercent": "100",
-            "min": "81",
-            "max": "99",
-            "average": "88.537",
-            "median": "86.5"
-        },
-        "Finals": {
-            "students": "54",
-            "passFail": "54\/0",
-            "passPercent": "100",
-            "min": "81",
-            "max": "99",
-            "average": "88.667",
-            "median": "87.5"
-        }
-    },
     "202201": {
         "Staff": [
             {
@@ -52,6 +25,33 @@
             "max": "98",
             "average": "89.491",
             "median": "91"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "פפרמן טליה",
+                "email": "taliapfe@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "54",
+            "passFail": "54\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "99",
+            "average": "88.537",
+            "median": "86.5"
+        },
+        "Finals": {
+            "students": "54",
+            "passFail": "54\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "99",
+            "average": "88.667",
+            "median": "87.5"
         }
     }
 }

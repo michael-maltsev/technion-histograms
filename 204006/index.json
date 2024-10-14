@@ -1,31 +1,4 @@
 {
-    "202002": {
-        "Staff": [
-            {
-                "name": "גלון ישראל",
-                "email": "isgalon@shaham.moag.gov.il,israelg@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "33",
-            "passFail": "33\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "99",
-            "average": "92.97",
-            "median": "94"
-        },
-        "Finals": {
-            "students": "34",
-            "passFail": "34\/0",
-            "passPercent": "100",
-            "min": "76",
-            "max": "99",
-            "average": "92.471",
-            "median": "94"
-        }
-    },
     "202102": {
         "Staff": [
             {
@@ -51,6 +24,33 @@
             "max": "97",
             "average": "93.621",
             "median": "93"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "גלון ישראל",
+                "email": "isgalon@shaham.moag.gov.il,israelg@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "33",
+            "passFail": "33\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "99",
+            "average": "92.97",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "99",
+            "average": "92.471",
+            "median": "94"
         }
     }
 }

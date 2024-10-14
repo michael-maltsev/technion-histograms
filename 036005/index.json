@@ -1,4 +1,22 @@
 {
+    "201901": {
+        "Staff": [
+            {
+                "name": "גנדלמן אולג",
+                "email": "ovgend@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "10",
+            "passFail": "10\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "81",
+            "median": "82.5"
+        }
+    },
     "201701": {
         "Staff": [
             {
@@ -24,24 +42,6 @@
             "max": "100",
             "average": "81.25",
             "median": "81.5"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "גנדלמן אולג",
-                "email": "ovgend@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "100",
-            "average": "81",
-            "median": "82.5"
         }
     }
 }

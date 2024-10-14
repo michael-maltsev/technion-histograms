@@ -1,36 +1,4 @@
 {
-    "202001": {
-        "Staff": [
-            {
-                "name": "קריספל יונתן",
-                "email": "y_crispel@rmc.gov.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "רז טלי",
-                "email": "taliraz@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "77",
-            "max": "100",
-            "average": "89.68",
-            "median": "90"
-        },
-        "Finals": {
-            "students": "26",
-            "passFail": "26\/0",
-            "passPercent": "100",
-            "min": "77",
-            "max": "100",
-            "average": "90.077",
-            "median": "91.5"
-        }
-    },
     "202101": {
         "Staff": [
             {
@@ -61,6 +29,38 @@
             "max": "100",
             "average": "86.077",
             "median": "89"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "קריספל יונתן",
+                "email": "y_crispel@rmc.gov.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רז טלי",
+                "email": "taliraz@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "77",
+            "max": "100",
+            "average": "89.68",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "77",
+            "max": "100",
+            "average": "90.077",
+            "median": "91.5"
         }
     }
 }

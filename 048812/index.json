@@ -1,31 +1,4 @@
 {
-    "202102": {
-        "Staff": [
-            {
-                "name": "קורנבלום ליאור",
-                "email": "liork@ee.technion.ac.il,liork@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "99",
-            "average": "94.333",
-            "median": "95.5"
-        },
-        "Finals": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "99",
-            "average": "94.231",
-            "median": "95"
-        }
-    },
     "202202": {
         "Staff": [
             {
@@ -50,6 +23,33 @@
             "min": "87",
             "max": "99",
             "average": "93.462",
+            "median": "95"
+        }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "קורנבלום ליאור",
+                "email": "liork@ee.technion.ac.il,liork@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "99",
+            "average": "94.333",
+            "median": "95.5"
+        },
+        "Finals": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "99",
+            "average": "94.231",
             "median": "95"
         }
     }

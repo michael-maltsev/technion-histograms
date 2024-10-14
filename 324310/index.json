@@ -1,5 +1,42 @@
 {
-    "202101": {
+    "202203": {
+        "Staff": [
+            {
+                "name": "פסקוביץ אייל",
+                "email": "eyalkudu@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "59",
+            "passFail": "59\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "86.907",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "63",
+            "passFail": "63\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "88.1",
+            "median": "90"
+        }
+    },
+    "202201": {
         "Staff": [
             {
                 "name": "פסקוביץ אייל",
@@ -18,21 +55,30 @@
             }
         ],
         "Final_A": {
-            "students": "67",
-            "passFail": "67\/0",
-            "passPercent": "100",
-            "min": "65",
-            "max": "100",
-            "average": "88.993",
-            "median": "90"
-        },
-        "Finals": {
             "students": "70",
             "passFail": "70\/0",
             "passPercent": "100",
-            "min": "78",
+            "min": "68",
             "max": "100",
-            "average": "91.586",
+            "average": "89.171",
+            "median": "90"
+        },
+        "Final_B": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "89.1",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "123",
+            "passFail": "123\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "91.089",
             "median": "93"
         }
     },
@@ -82,7 +128,7 @@
             "median": "93"
         }
     },
-    "202201": {
+    "202101": {
         "Staff": [
             {
                 "name": "פסקוביץ אייל",
@@ -101,68 +147,22 @@
             }
         ],
         "Final_A": {
+            "students": "67",
+            "passFail": "67\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "88.993",
+            "median": "90"
+        },
+        "Finals": {
             "students": "70",
             "passFail": "70\/0",
             "passPercent": "100",
-            "min": "68",
+            "min": "78",
             "max": "100",
-            "average": "89.171",
-            "median": "90"
-        },
-        "Final_B": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "68",
-            "max": "100",
-            "average": "89.1",
-            "median": "90"
-        },
-        "Finals": {
-            "students": "123",
-            "passFail": "123\/0",
-            "passPercent": "100",
-            "min": "68",
-            "max": "100",
-            "average": "91.089",
+            "average": "91.586",
             "median": "93"
-        }
-    },
-    "202203": {
-        "Staff": [
-            {
-                "name": "פסקוביץ אייל",
-                "email": "eyalkudu@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "59",
-            "passFail": "59\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "100",
-            "average": "86.907",
-            "median": "90"
-        },
-        "Finals": {
-            "students": "63",
-            "passFail": "63\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "100",
-            "average": "88.1",
-            "median": "90"
         }
     }
 }

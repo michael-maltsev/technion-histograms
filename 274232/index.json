@@ -1,76 +1,4 @@
 {
-    "201602": {
-        "Staff": [
-            {
-                "name": "אור-חן קרן",
-                "email": "korchen@psy.haifa.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Exam_A": {
-            "students": "146",
-            "passFail": "146\/0",
-            "passPercent": "100",
-            "min": "78",
-            "max": "100",
-            "average": "95.445",
-            "median": "97.5"
-        },
-        "Final_A": {
-            "students": "146",
-            "passFail": "146\/0",
-            "passPercent": "100",
-            "min": "78",
-            "max": "100",
-            "average": "95.466",
-            "median": "97.5"
-        },
-        "Final_B": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "87.733",
-            "median": "88"
-        },
-        "Finals": {
-            "students": "160",
-            "passFail": "160\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "94.85",
-            "median": "96"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "אור-חן קרן",
-                "email": "korchen@psy.haifa.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "179",
-            "passFail": "179\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "96.218",
-            "median": "97"
-        },
-        "Finals": {
-            "students": "179",
-            "passFail": "179\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "96.218",
-            "median": "97"
-        }
-    },
     "201802": {
         "Staff": [
             {
@@ -116,6 +44,78 @@
             "max": "99",
             "average": "92.164",
             "median": "93"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "אור-חן קרן",
+                "email": "korchen@psy.haifa.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "179",
+            "passFail": "179\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "96.218",
+            "median": "97"
+        },
+        "Finals": {
+            "students": "179",
+            "passFail": "179\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "96.218",
+            "median": "97"
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "אור-חן קרן",
+                "email": "korchen@psy.haifa.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "146",
+            "passFail": "146\/0",
+            "passPercent": "100",
+            "min": "78",
+            "max": "100",
+            "average": "95.445",
+            "median": "97.5"
+        },
+        "Final_A": {
+            "students": "146",
+            "passFail": "146\/0",
+            "passPercent": "100",
+            "min": "78",
+            "max": "100",
+            "average": "95.466",
+            "median": "97.5"
+        },
+        "Final_B": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "87.733",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "160",
+            "passFail": "160\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "94.85",
+            "median": "96"
         }
     }
 }

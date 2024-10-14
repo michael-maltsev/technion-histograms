@@ -1,83 +1,4 @@
 {
-    "201802": {
-        "Staff": [
-            {
-                "name": "גולדשטיין עומר",
-                "email": "omer.g@b-zion.org.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "24",
-            "passFail": "24\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "94",
-            "average": "92.333",
-            "median": "92"
-        },
-        "Finals": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "94",
-            "average": "92.32",
-            "median": "92"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "גולדשטיין עומר",
-                "email": "omer.g@b-zion.org.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "גרשקוביץ ממן רינת שרית",
-                "email": "rinatgm@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "שפורן שירי",
-                "email": "musmach@technion.ac.il,shiris@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "כהן שרית",
-                "email": "saritc@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בוניאל מורן",
-                "email": "moranbo@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "איינשטיין ליאת",
-                "email": "liate@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "97",
-            "max": "100",
-            "average": "98.333",
-            "median": "98"
-        },
-        "Finals": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "97",
-            "max": "100",
-            "average": "98.333",
-            "median": "98"
-        }
-    },
     "202002": {
         "Staff": [
             {
@@ -143,6 +64,85 @@
             "max": "97",
             "average": "94.4",
             "median": "94"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "גולדשטיין עומר",
+                "email": "omer.g@b-zion.org.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גרשקוביץ ממן רינת שרית",
+                "email": "rinatgm@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שפורן שירי",
+                "email": "musmach@technion.ac.il,shiris@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "כהן שרית",
+                "email": "saritc@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בוניאל מורן",
+                "email": "moranbo@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "איינשטיין ליאת",
+                "email": "liate@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "97",
+            "max": "100",
+            "average": "98.333",
+            "median": "98"
+        },
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "97",
+            "max": "100",
+            "average": "98.333",
+            "median": "98"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "גולדשטיין עומר",
+                "email": "omer.g@b-zion.org.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "94",
+            "average": "92.333",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "94",
+            "average": "92.32",
+            "median": "92"
         }
     }
 }

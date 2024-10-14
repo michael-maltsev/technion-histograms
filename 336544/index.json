@@ -1,59 +1,9 @@
 {
-    "201602": {
+    "202202": {
         "Staff": [
             {
                 "name": "דאניאל ראמז",
                 "email": "ramizda@bm.technion.ac.il,ramizda@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "89",
-            "max": "100",
-            "average": "92.545",
-            "median": "91"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "דאניאל ראמז",
-                "email": "ramizda@bm.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "דניאלי לנה",
-                "email": "danelena@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "91",
-            "max": "96",
-            "average": "94",
-            "median": "94.5"
-        },
-        "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "91",
-            "max": "96",
-            "average": "94",
-            "median": "94.5"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "דאניאל ראמז",
-                "email": "ramizda@bm.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -62,14 +12,32 @@
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Finals": {
-            "students": "29",
-            "passFail": "29\/0",
+        "Exam_A": {
+            "students": "32",
+            "passFail": "32\/0",
             "passPercent": "100",
-            "min": "86",
+            "min": "65",
             "max": "100",
-            "average": "93.103",
+            "average": "85.938",
+            "median": "90"
+        },
+        "Final_A": {
+            "students": "32",
+            "passFail": "32\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "100",
+            "average": "92.344",
             "median": "94"
+        },
+        "Finals": {
+            "students": "38",
+            "passFail": "38\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "100",
+            "average": "92.895",
+            "median": "95"
         }
     },
     "202102": {
@@ -118,11 +86,11 @@
             "median": "90"
         }
     },
-    "202202": {
+    "201902": {
         "Staff": [
             {
                 "name": "דאניאל ראמז",
-                "email": "ramizda@bm.technion.ac.il,ramizda@technion.ac.il",
+                "email": "ramizda@bm.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -131,32 +99,64 @@
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Exam_A": {
-            "students": "32",
-            "passFail": "32\/0",
+        "Finals": {
+            "students": "29",
+            "passFail": "29\/0",
             "passPercent": "100",
-            "min": "65",
+            "min": "86",
             "max": "100",
-            "average": "85.938",
-            "median": "90"
-        },
-        "Final_A": {
-            "students": "32",
-            "passFail": "32\/0",
-            "passPercent": "100",
-            "min": "81",
-            "max": "100",
-            "average": "92.344",
+            "average": "93.103",
             "median": "94"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "דאניאל ראמז",
+                "email": "ramizda@bm.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דניאלי לנה",
+                "email": "danelena@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "91",
+            "max": "96",
+            "average": "94",
+            "median": "94.5"
         },
         "Finals": {
-            "students": "38",
-            "passFail": "38\/0",
+            "students": "16",
+            "passFail": "16\/0",
             "passPercent": "100",
-            "min": "81",
+            "min": "91",
+            "max": "96",
+            "average": "94",
+            "median": "94.5"
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "דאניאל ראמז",
+                "email": "ramizda@bm.technion.ac.il,ramizda@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "89",
             "max": "100",
-            "average": "92.895",
-            "median": "95"
+            "average": "92.545",
+            "median": "91"
         }
     }
 }

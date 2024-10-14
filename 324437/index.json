@@ -1,58 +1,4 @@
 {
-    "201502": {
-        "Staff": [
-            {
-                "name": "נבנהויז מנחם",
-                "email": "mneben@zahav.net.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "56",
-            "passFail": "56\/0",
-            "passPercent": "100",
-            "min": "89",
-            "max": "100",
-            "average": "97.75",
-            "median": "99"
-        },
-        "Finals": {
-            "students": "57",
-            "passFail": "57\/0",
-            "passPercent": "100",
-            "min": "89",
-            "max": "100",
-            "average": "97.789",
-            "median": "99"
-        }
-    },
-    "201602": {
-        "Staff": [
-            {
-                "name": "נבנהויז מנחם",
-                "email": "mneben@zahav.net.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "57",
-            "passFail": "57\/0",
-            "passPercent": "100",
-            "min": "72",
-            "max": "100",
-            "average": "92.702",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "59",
-            "passFail": "59\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "94.169",
-            "median": "96"
-        }
-    },
     "201702": {
         "Staff": [
             {
@@ -87,6 +33,60 @@
             "max": "100",
             "average": "89.971",
             "median": "91"
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "נבנהויז מנחם",
+                "email": "mneben@zahav.net.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "57",
+            "passFail": "57\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "100",
+            "average": "92.702",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "59",
+            "passFail": "59\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "94.169",
+            "median": "96"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "נבנהויז מנחם",
+                "email": "mneben@zahav.net.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "56",
+            "passFail": "56\/0",
+            "passPercent": "100",
+            "min": "89",
+            "max": "100",
+            "average": "97.75",
+            "median": "99"
+        },
+        "Finals": {
+            "students": "57",
+            "passFail": "57\/0",
+            "passPercent": "100",
+            "min": "89",
+            "max": "100",
+            "average": "97.789",
+            "median": "99"
         }
     }
 }

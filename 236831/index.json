@@ -1,4 +1,40 @@
 {
+    "202101": {
+        "Staff": [
+            {
+                "name": "ברקת גיל",
+                "email": "barequet@cs.technion.ac.il,barequet@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "88.529",
+            "median": "90"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "ברקת גיל",
+                "email": "barequet@cs.technion.ac.il,barequet@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "91.727",
+            "median": "90"
+        }
+    },
     "201901": {
         "Staff": [
             {
@@ -23,42 +59,6 @@
             "min": "72",
             "max": "100",
             "average": "88.133",
-            "median": "90"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "ברקת גיל",
-                "email": "barequet@cs.technion.ac.il,barequet@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "91.727",
-            "median": "90"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "ברקת גיל",
-                "email": "barequet@cs.technion.ac.il,barequet@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "88.529",
             "median": "90"
         }
     }

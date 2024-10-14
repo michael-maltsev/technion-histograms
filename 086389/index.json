@@ -1,5 +1,5 @@
 {
-    "201601": {
+    "201901": {
         "Staff": [
             {
                 "name": "מאיר יוסי",
@@ -13,54 +13,49 @@
             }
         ],
         "Final_A": {
-            "students": "26",
-            "passFail": "26\/0",
-            "passPercent": "100",
-            "min": "75",
-            "max": "98",
-            "average": "90.423",
-            "median": "92"
-        },
-        "Finals": {
-            "students": "26",
-            "passFail": "26\/0",
+            "students": "39",
+            "passFail": "39\/0",
             "passPercent": "100",
             "min": "76",
-            "max": "98",
-            "average": "91",
-            "median": "92.5"
+            "max": "96",
+            "average": "88",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "43",
+            "passFail": "43\/0",
+            "passPercent": "100",
+            "min": "74",
+            "max": "96",
+            "average": "87.837",
+            "median": "89"
         }
     },
-    "201702": {
+    "201802": {
         "Staff": [
             {
                 "name": "מאיר יוסי",
                 "email": "josemeir@bezeqint.net",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "שוגייב סטניסלב",
-                "email": "slaviash@campus.technion.ac.il",
-                "title": "מרצה"
             }
         ],
         "Final_A": {
-            "students": "37",
-            "passFail": "37\/0",
+            "students": "14",
+            "passFail": "14\/0",
             "passPercent": "100",
-            "min": "77",
-            "max": "97",
-            "average": "87.541",
+            "min": "80",
+            "max": "93",
+            "average": "86.786",
             "median": "87"
         },
         "Finals": {
-            "students": "38",
-            "passFail": "38\/0",
+            "students": "16",
+            "passFail": "16\/0",
             "passPercent": "100",
-            "min": "77",
-            "max": "97",
-            "average": "87.632",
-            "median": "87.5"
+            "min": "73",
+            "max": "93",
+            "average": "85.75",
+            "median": "87"
         }
     },
     "201801": {
@@ -95,34 +90,7 @@
             "median": "87"
         }
     },
-    "201802": {
-        "Staff": [
-            {
-                "name": "מאיר יוסי",
-                "email": "josemeir@bezeqint.net",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "14",
-            "passFail": "14\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "93",
-            "average": "86.786",
-            "median": "87"
-        },
-        "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "73",
-            "max": "93",
-            "average": "85.75",
-            "median": "87"
-        }
-    },
-    "201901": {
+    "201702": {
         "Staff": [
             {
                 "name": "מאיר יוסי",
@@ -136,22 +104,54 @@
             }
         ],
         "Final_A": {
-            "students": "39",
-            "passFail": "39\/0",
+            "students": "37",
+            "passFail": "37\/0",
             "passPercent": "100",
-            "min": "76",
-            "max": "96",
-            "average": "88",
-            "median": "90"
+            "min": "77",
+            "max": "97",
+            "average": "87.541",
+            "median": "87"
         },
         "Finals": {
-            "students": "43",
-            "passFail": "43\/0",
+            "students": "38",
+            "passFail": "38\/0",
             "passPercent": "100",
-            "min": "74",
-            "max": "96",
-            "average": "87.837",
-            "median": "89"
+            "min": "77",
+            "max": "97",
+            "average": "87.632",
+            "median": "87.5"
+        }
+    },
+    "201601": {
+        "Staff": [
+            {
+                "name": "מאיר יוסי",
+                "email": "josemeir@bezeqint.net",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שוגייב סטניסלב",
+                "email": "slaviash@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Final_A": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "98",
+            "average": "90.423",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "98",
+            "average": "91",
+            "median": "92.5"
         }
     }
 }

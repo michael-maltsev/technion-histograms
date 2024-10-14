@@ -1,27 +1,4 @@
 {
-    "202202": {
-        "Staff": [
-            {
-                "name": "בן פורת עומר",
-                "email": "omerbp@technion.ac.il,omerbp@campus.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "94",
-            "max": "98",
-            "average": "96.75",
-            "median": "97"
-        }
-    },
     "202301": {
         "Staff": [
             {
@@ -57,6 +34,29 @@
             "max": "99",
             "average": "93.579",
             "median": "94"
+        }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "בן פורת עומר",
+                "email": "omerbp@technion.ac.il,omerbp@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "94",
+            "max": "98",
+            "average": "96.75",
+            "median": "97"
         }
     }
 }

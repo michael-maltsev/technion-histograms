@@ -1,4 +1,58 @@
 {
+    "201802": {
+        "Staff": [
+            {
+                "name": "חזן אורית",
+                "email": "oritha@ed.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "37",
+            "passFail": "37\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "100",
+            "average": "90.432",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "100",
+            "average": "91.154",
+            "median": "92"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "חזן אורית",
+                "email": "oritha@ed.technion.ac.il,oritha@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "50",
+            "passFail": "50\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "100",
+            "average": "87.56",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "52",
+            "passFail": "52\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "100",
+            "average": "88.173",
+            "median": "90.5"
+        }
+    },
     "201702": {
         "Staff": [
             {
@@ -42,60 +96,6 @@
             "max": "100",
             "average": "92.956",
             "median": "96"
-        }
-    },
-    "201801": {
-        "Staff": [
-            {
-                "name": "חזן אורית",
-                "email": "oritha@ed.technion.ac.il,oritha@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "50",
-            "passFail": "50\/0",
-            "passPercent": "100",
-            "min": "64",
-            "max": "100",
-            "average": "87.56",
-            "median": "88"
-        },
-        "Finals": {
-            "students": "52",
-            "passFail": "52\/0",
-            "passPercent": "100",
-            "min": "64",
-            "max": "100",
-            "average": "88.173",
-            "median": "90.5"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "חזן אורית",
-                "email": "oritha@ed.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "37",
-            "passFail": "37\/0",
-            "passPercent": "100",
-            "min": "62",
-            "max": "100",
-            "average": "90.432",
-            "median": "92"
-        },
-        "Finals": {
-            "students": "39",
-            "passFail": "39\/0",
-            "passPercent": "100",
-            "min": "62",
-            "max": "100",
-            "average": "91.154",
-            "median": "92"
         }
     }
 }

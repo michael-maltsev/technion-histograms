@@ -1,4 +1,41 @@
 {
+    "202101": {
+        "Staff": [
+            {
+                "name": "רפאלי ענת",
+                "email": "anat@rafaeli.net,anatr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גלעד זהר",
+                "email": "zohargilad@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "97",
+            "average": "91.971",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "97",
+            "average": "92.059",
+            "median": "92"
+        }
+    },
     "202001": {
         "Staff": [
             {
@@ -39,43 +76,6 @@
             "max": "100",
             "average": "95.588",
             "median": "96"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "רפאלי ענת",
-                "email": "anat@rafaeli.net,anatr@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "גלעד זהר",
-                "email": "zohargilad@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "34",
-            "passFail": "34\/0",
-            "passPercent": "100",
-            "min": "86",
-            "max": "97",
-            "average": "91.971",
-            "median": "92"
-        },
-        "Finals": {
-            "students": "34",
-            "passFail": "34\/0",
-            "passPercent": "100",
-            "min": "86",
-            "max": "97",
-            "average": "92.059",
-            "median": "92"
         }
     }
 }

@@ -1,4 +1,85 @@
 {
+    "202301": {
+        "Staff": [
+            {
+                "name": "איזנברג אפרת",
+                "email": "efrate@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "76",
+            "passFail": "76\/0",
+            "passPercent": "100",
+            "min": "87.25",
+            "max": "100",
+            "average": "94.513",
+            "median": "95.5"
+        },
+        "Finals": {
+            "students": "84",
+            "passFail": "84\/0",
+            "passPercent": "100",
+            "min": "87",
+            "max": "100",
+            "average": "94.429",
+            "median": "96"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "איזנברג אפרת",
+                "email": "efrate@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "72",
+            "passFail": "70\/2",
+            "passPercent": "97",
+            "min": "20",
+            "max": "100",
+            "average": "87.733",
+            "median": "89.8"
+        },
+        "Finals": {
+            "students": "73",
+            "passFail": "72\/1",
+            "passPercent": "99",
+            "min": "20",
+            "max": "100",
+            "average": "88.247",
+            "median": "90"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "איזנברג אפרת",
+                "email": "efrate@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "54",
+            "passFail": "54\/0",
+            "passPercent": "100",
+            "min": "57.6",
+            "max": "98",
+            "average": "87.956",
+            "median": "88.4"
+        },
+        "Finals": {
+            "students": "65",
+            "passFail": "65\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "98",
+            "average": "88.015",
+            "median": "89"
+        }
+    },
     "201802": {
         "Staff": [
             {
@@ -33,87 +114,6 @@
             "max": "100",
             "average": "92.512",
             "median": "95"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "איזנברג אפרת",
-                "email": "efrate@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "54",
-            "passFail": "54\/0",
-            "passPercent": "100",
-            "min": "57.6",
-            "max": "98",
-            "average": "87.956",
-            "median": "88.4"
-        },
-        "Finals": {
-            "students": "65",
-            "passFail": "65\/0",
-            "passPercent": "100",
-            "min": "69",
-            "max": "98",
-            "average": "88.015",
-            "median": "89"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "איזנברג אפרת",
-                "email": "efrate@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "72",
-            "passFail": "70\/2",
-            "passPercent": "97",
-            "min": "20",
-            "max": "100",
-            "average": "87.733",
-            "median": "89.8"
-        },
-        "Finals": {
-            "students": "73",
-            "passFail": "72\/1",
-            "passPercent": "99",
-            "min": "20",
-            "max": "100",
-            "average": "88.247",
-            "median": "90"
-        }
-    },
-    "202301": {
-        "Staff": [
-            {
-                "name": "איזנברג אפרת",
-                "email": "efrate@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "76",
-            "passFail": "76\/0",
-            "passPercent": "100",
-            "min": "87.25",
-            "max": "100",
-            "average": "94.513",
-            "median": "95.5"
-        },
-        "Finals": {
-            "students": "84",
-            "passFail": "84\/0",
-            "passPercent": "100",
-            "min": "87",
-            "max": "100",
-            "average": "94.429",
-            "median": "96"
         }
     }
 }

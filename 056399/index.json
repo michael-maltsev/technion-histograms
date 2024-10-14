@@ -1,36 +1,4 @@
 {
-    "201802": {
-        "Staff": [
-            {
-                "name": "קפוסטה סרגיו דניא",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "חאיכ נסים",
-                "email": "naseemha@technion.ac.il,naseemha@campus.technion.ac.il",
-                "title": "מרצה"
-            }
-        ],
-        "Final_A": {
-            "students": "35",
-            "passFail": "34\/1",
-            "passPercent": "97",
-            "min": "32",
-            "max": "100",
-            "average": "88.257",
-            "median": "90"
-        },
-        "Finals": {
-            "students": "35",
-            "passFail": "34\/1",
-            "passPercent": "97",
-            "min": "32",
-            "max": "100",
-            "average": "88.257",
-            "median": "90"
-        }
-    },
     "202002": {
         "Staff": [
             {
@@ -61,6 +29,38 @@
             "max": "100",
             "average": "92.833",
             "median": "93.5"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "קפוסטה סרגיו דניא",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חאיכ נסים",
+                "email": "naseemha@technion.ac.il,naseemha@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Final_A": {
+            "students": "35",
+            "passFail": "34\/1",
+            "passPercent": "97",
+            "min": "32",
+            "max": "100",
+            "average": "88.257",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "35",
+            "passFail": "34\/1",
+            "passPercent": "97",
+            "min": "32",
+            "max": "100",
+            "average": "88.257",
+            "median": "90"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "202001": {
+    "202101": {
         "Staff": [
             {
                 "name": "פרייס דן",
@@ -7,8 +7,8 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "חן ניר",
-                "email": "nir@ncarch.com",
+                "name": "גרובמן יעקב",
+                "email": "yasha@technion.ac.il",
                 "title": "מרצה"
             }
         ],
@@ -16,10 +16,10 @@
             "students": "10",
             "passFail": "10\/0",
             "passPercent": "100",
-            "min": "72",
-            "max": "100",
-            "average": "85",
-            "median": "85"
+            "min": "79",
+            "max": "95",
+            "average": "87.1",
+            "median": "85.5"
         }
     },
     "202002": {
@@ -59,7 +59,7 @@
             "median": "90"
         }
     },
-    "202101": {
+    "202001": {
         "Staff": [
             {
                 "name": "פרייס דן",
@@ -67,8 +67,8 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "גרובמן יעקב",
-                "email": "yasha@technion.ac.il",
+                "name": "חן ניר",
+                "email": "nir@ncarch.com",
                 "title": "מרצה"
             }
         ],
@@ -76,10 +76,10 @@
             "students": "10",
             "passFail": "10\/0",
             "passPercent": "100",
-            "min": "79",
-            "max": "95",
-            "average": "87.1",
-            "median": "85.5"
+            "min": "72",
+            "max": "100",
+            "average": "85",
+            "median": "85"
         }
     }
 }

@@ -1,23 +1,5 @@
 {
-    "201901": {
-        "Staff": [
-            {
-                "name": "קימלפלד בני",
-                "email": "bennyk@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "46",
-            "passFail": "46\/0",
-            "passPercent": "100",
-            "min": "82",
-            "max": "98",
-            "average": "90.957",
-            "median": "91"
-        }
-    },
-    "202101": {
+    "202301": {
         "Staff": [
             {
                 "name": "קימלפלד בני",
@@ -26,13 +8,13 @@
             }
         ],
         "Finals": {
-            "students": "81",
-            "passFail": "81\/0",
+            "students": "68",
+            "passFail": "68\/0",
             "passPercent": "100",
-            "min": "78",
+            "min": "56",
             "max": "100",
-            "average": "92.704",
-            "median": "94"
+            "average": "91.412",
+            "median": "95"
         }
     },
     "202201": {
@@ -58,7 +40,7 @@
             "median": "94"
         }
     },
-    "202301": {
+    "202101": {
         "Staff": [
             {
                 "name": "קימלפלד בני",
@@ -67,13 +49,31 @@
             }
         ],
         "Finals": {
-            "students": "68",
-            "passFail": "68\/0",
+            "students": "81",
+            "passFail": "81\/0",
             "passPercent": "100",
-            "min": "56",
+            "min": "78",
             "max": "100",
-            "average": "91.412",
-            "median": "95"
+            "average": "92.704",
+            "median": "94"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "קימלפלד בני",
+                "email": "bennyk@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "46",
+            "passFail": "46\/0",
+            "passPercent": "100",
+            "min": "82",
+            "max": "98",
+            "average": "90.957",
+            "median": "91"
         }
     }
 }

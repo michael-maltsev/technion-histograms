@@ -1,4 +1,22 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "רפפורט אריאל",
+                "email": "arapaport@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "94.091",
+            "median": "95"
+        }
+    },
     "202102": {
         "Staff": [
             {
@@ -24,24 +42,6 @@
             "max": "100",
             "average": "93.727",
             "median": "92"
-        }
-    },
-    "202302": {
-        "Staff": [
-            {
-                "name": "רפפורט אריאל",
-                "email": "arapaport@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "94.091",
-            "median": "95"
         }
     }
 }

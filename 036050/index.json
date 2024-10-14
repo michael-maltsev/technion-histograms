@@ -1,4 +1,22 @@
 {
+    "202102": {
+        "Staff": [
+            {
+                "name": "גרוסלר כריסטיאן",
+                "email": "cgrussler@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "100",
+            "average": "86.818",
+            "median": "86"
+        }
+    },
     "202001": {
         "Staff": [
             {
@@ -24,24 +42,6 @@
             "max": "98",
             "average": "83.688",
             "median": "87"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "גרוסלר כריסטיאן",
-                "email": "cgrussler@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "66",
-            "max": "100",
-            "average": "86.818",
-            "median": "86"
         }
     }
 }

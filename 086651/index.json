@@ -1,5 +1,5 @@
 {
-    "201702": {
+    "202102": {
         "Staff": [
             {
                 "name": "יודילביץ גיל",
@@ -11,46 +11,19 @@
             "students": "14",
             "passFail": "13\/1",
             "passPercent": "93",
-            "min": "27",
-            "max": "93.7",
-            "average": "74.595",
-            "median": "80.6125"
+            "min": "51.35",
+            "max": "96.075",
+            "average": "77.296",
+            "median": "78.8375"
         },
         "Finals": {
-            "students": "15",
-            "passFail": "14\/1",
+            "students": "14",
+            "passFail": "13\/1",
             "passPercent": "93",
-            "min": "13",
-            "max": "94",
-            "average": "75.667",
-            "median": "81"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "יודילביץ גיל",
-                "email": "gily@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "69.375",
-            "max": "99.85",
-            "average": "82.508",
-            "median": "82.1875"
-        },
-        "Finals": {
-            "students": "22",
-            "passFail": "22\/0",
-            "passPercent": "100",
-            "min": "59",
-            "max": "100",
-            "average": "81.364",
-            "median": "82"
+            "min": "51",
+            "max": "96",
+            "average": "77.143",
+            "median": "78.5"
         }
     },
     "202002": {
@@ -80,7 +53,34 @@
             "median": "75"
         }
     },
-    "202102": {
+    "201902": {
+        "Staff": [
+            {
+                "name": "יודילביץ גיל",
+                "email": "gily@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "69.375",
+            "max": "99.85",
+            "average": "82.508",
+            "median": "82.1875"
+        },
+        "Finals": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "100",
+            "average": "81.364",
+            "median": "82"
+        }
+    },
+    "201702": {
         "Staff": [
             {
                 "name": "יודילביץ גיל",
@@ -92,19 +92,19 @@
             "students": "14",
             "passFail": "13\/1",
             "passPercent": "93",
-            "min": "51.35",
-            "max": "96.075",
-            "average": "77.296",
-            "median": "78.8375"
+            "min": "27",
+            "max": "93.7",
+            "average": "74.595",
+            "median": "80.6125"
         },
         "Finals": {
-            "students": "14",
-            "passFail": "13\/1",
+            "students": "15",
+            "passFail": "14\/1",
             "passPercent": "93",
-            "min": "51",
-            "max": "96",
-            "average": "77.143",
-            "median": "78.5"
+            "min": "13",
+            "max": "94",
+            "average": "75.667",
+            "median": "81"
         }
     }
 }

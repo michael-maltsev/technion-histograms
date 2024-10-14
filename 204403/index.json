@@ -1,4 +1,58 @@
 {
+    "202202": {
+        "Staff": [
+            {
+                "name": "מילחם בהא",
+                "email": "milhem.baha@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "97",
+            "average": "88.833",
+            "median": "89.5"
+        },
+        "Finals": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "97",
+            "average": "88.833",
+            "median": "89.5"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "איזנברג רם",
+                "email": "rameis@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "18",
+            "passFail": "17\/1",
+            "passPercent": "94",
+            "min": "35",
+            "max": "96",
+            "average": "86.111",
+            "median": "88.5"
+        },
+        "Finals": {
+            "students": "18",
+            "passFail": "17\/1",
+            "passPercent": "94",
+            "min": "35",
+            "max": "96",
+            "average": "86.111",
+            "median": "88.5"
+        }
+    },
     "201901": {
         "Staff": [
             {
@@ -29,60 +83,6 @@
             "max": "94",
             "average": "84.5",
             "median": "85.5"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "איזנברג רם",
-                "email": "rameis@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "18",
-            "passFail": "17\/1",
-            "passPercent": "94",
-            "min": "35",
-            "max": "96",
-            "average": "86.111",
-            "median": "88.5"
-        },
-        "Finals": {
-            "students": "18",
-            "passFail": "17\/1",
-            "passPercent": "94",
-            "min": "35",
-            "max": "96",
-            "average": "86.111",
-            "median": "88.5"
-        }
-    },
-    "202202": {
-        "Staff": [
-            {
-                "name": "מילחם בהא",
-                "email": "milhem.baha@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "30",
-            "passFail": "30\/0",
-            "passPercent": "100",
-            "min": "61",
-            "max": "97",
-            "average": "88.833",
-            "median": "89.5"
-        },
-        "Finals": {
-            "students": "30",
-            "passFail": "30\/0",
-            "passPercent": "100",
-            "min": "61",
-            "max": "97",
-            "average": "88.833",
-            "median": "89.5"
         }
     }
 }

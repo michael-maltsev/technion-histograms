@@ -1,4 +1,31 @@
 {
+    "201901": {
+        "Staff": [
+            {
+                "name": "טיבי אריאל",
+                "email": "ariel@tibiarc.co.il,tibi@technion.ac.il",
+                "title": "מנחה פרויקטים  - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "64",
+            "passFail": "63\/1",
+            "passPercent": "98",
+            "min": "0",
+            "max": "98",
+            "average": "83.547",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "64",
+            "passFail": "63\/1",
+            "passPercent": "98",
+            "min": "50",
+            "max": "98",
+            "average": "84.328",
+            "median": "85"
+        }
+    },
     "201801": {
         "Staff": [
             {
@@ -48,33 +75,6 @@
             "min": "60",
             "max": "95",
             "average": "84.577",
-            "median": "85"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "טיבי אריאל",
-                "email": "ariel@tibiarc.co.il,tibi@technion.ac.il",
-                "title": "מנחה פרויקטים  - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "64",
-            "passFail": "63\/1",
-            "passPercent": "98",
-            "min": "0",
-            "max": "98",
-            "average": "83.547",
-            "median": "85"
-        },
-        "Finals": {
-            "students": "64",
-            "passFail": "63\/1",
-            "passPercent": "98",
-            "min": "50",
-            "max": "98",
-            "average": "84.328",
             "median": "85"
         }
     }

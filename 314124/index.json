@@ -1,32 +1,5 @@
 {
-    "202001": {
-        "Staff": [
-            {
-                "name": "קיסלוב יוליה",
-                "email": "yuliak@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "83",
-            "max": "100",
-            "average": "95.385",
-            "median": "98"
-        },
-        "Finals": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "83",
-            "max": "100",
-            "average": "95.385",
-            "median": "98"
-        }
-    },
-    "202101": {
+    "202301": {
         "Staff": [
             {
                 "name": "בקנשטיין יהונדב",
@@ -34,8 +7,8 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "נגל אלינה",
-                "email": "alinanagel1@gmail.com,alinagel@campus.technion.ac.il",
+                "name": "לוי שי",
+                "email": "shay-levy@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
@@ -45,22 +18,22 @@
             }
         ],
         "Final_A": {
-            "students": "15",
-            "passFail": "15\/0",
+            "students": "13",
+            "passFail": "13\/0",
             "passPercent": "100",
-            "min": "83",
+            "min": "71",
             "max": "100",
-            "average": "92.733",
-            "median": "92"
+            "average": "89",
+            "median": "91"
         },
         "Finals": {
-            "students": "14",
-            "passFail": "14\/0",
+            "students": "13",
+            "passFail": "13\/0",
             "passPercent": "100",
-            "min": "83",
+            "min": "71",
             "max": "100",
-            "average": "93.214",
-            "median": "92.5"
+            "average": "89",
+            "median": "91"
         }
     },
     "202201": {
@@ -100,7 +73,7 @@
             "median": "93"
         }
     },
-    "202301": {
+    "202101": {
         "Staff": [
             {
                 "name": "בקנשטיין יהונדב",
@@ -108,10 +81,37 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "לוי שי",
-                "email": "shay-levy@campus.technion.ac.il",
+                "name": "נגל אלינה",
+                "email": "alinanagel1@gmail.com,alinagel@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
+            {
+                "name": "קיסלוב יוליה",
+                "email": "yuliak@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "83",
+            "max": "100",
+            "average": "92.733",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "83",
+            "max": "100",
+            "average": "93.214",
+            "median": "92.5"
+        }
+    },
+    "202001": {
+        "Staff": [
             {
                 "name": "קיסלוב יוליה",
                 "email": "yuliak@technion.ac.il",
@@ -122,19 +122,19 @@
             "students": "13",
             "passFail": "13\/0",
             "passPercent": "100",
-            "min": "71",
+            "min": "83",
             "max": "100",
-            "average": "89",
-            "median": "91"
+            "average": "95.385",
+            "median": "98"
         },
         "Finals": {
             "students": "13",
             "passFail": "13\/0",
             "passPercent": "100",
-            "min": "71",
+            "min": "83",
             "max": "100",
-            "average": "89",
-            "median": "91"
+            "average": "95.385",
+            "median": "98"
         }
     }
 }

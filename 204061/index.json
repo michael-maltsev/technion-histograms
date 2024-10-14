@@ -1,4 +1,68 @@
 {
+    "202201": {
+        "Staff": [
+            {
+                "name": "וילקוף שירה",
+                "email": "shirawi@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "רוזנר סלע צופיה",
+                "email": "sofia.sella@gmail.com,arsofia@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "92",
+            "average": "84.483",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "92",
+            "average": "84.483",
+            "median": "87"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "גרינשטיין דפנה",
+                "email": "daphnagr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רוזנר סלע צופיה",
+                "email": "sofia.sella@gmail.com,arsofia@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Final_A": {
+            "students": "32",
+            "passFail": "32\/0",
+            "passPercent": "100",
+            "min": "78",
+            "max": "90",
+            "average": "86.312",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "32",
+            "passFail": "32\/0",
+            "passPercent": "100",
+            "min": "78",
+            "max": "90",
+            "average": "86.312",
+            "median": "87"
+        }
+    },
     "202001": {
         "Staff": [
             {
@@ -34,70 +98,6 @@
             "max": "94",
             "average": "83.769",
             "median": "86"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "גרינשטיין דפנה",
-                "email": "daphnagr@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "רוזנר סלע צופיה",
-                "email": "sofia.sella@gmail.com,arsofia@technion.ac.il",
-                "title": "מרצה"
-            }
-        ],
-        "Final_A": {
-            "students": "32",
-            "passFail": "32\/0",
-            "passPercent": "100",
-            "min": "78",
-            "max": "90",
-            "average": "86.312",
-            "median": "87"
-        },
-        "Finals": {
-            "students": "32",
-            "passFail": "32\/0",
-            "passPercent": "100",
-            "min": "78",
-            "max": "90",
-            "average": "86.312",
-            "median": "87"
-        }
-    },
-    "202201": {
-        "Staff": [
-            {
-                "name": "וילקוף שירה",
-                "email": "shirawi@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "רוזנר סלע צופיה",
-                "email": "sofia.sella@gmail.com,arsofia@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "29",
-            "passFail": "29\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "92",
-            "average": "84.483",
-            "median": "87"
-        },
-        "Finals": {
-            "students": "29",
-            "passFail": "29\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "92",
-            "average": "84.483",
-            "median": "87"
         }
     }
 }

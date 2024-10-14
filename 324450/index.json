@@ -1,112 +1,4 @@
 {
-    "201502": {
-        "Staff": [
-            {
-                "name": "שגיב יונתן",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "61",
-            "passFail": "60\/1",
-            "passPercent": "98",
-            "min": "47",
-            "max": "100",
-            "average": "91.541",
-            "median": "95"
-        },
-        "Finals": {
-            "students": "68",
-            "passFail": "68\/0",
-            "passPercent": "100",
-            "min": "61",
-            "max": "100",
-            "average": "94.118",
-            "median": "97"
-        }
-    },
-    "201601": {
-        "Staff": [
-            {
-                "name": "שגיב יונתן",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "41",
-            "passFail": "41\/0",
-            "passPercent": "100",
-            "min": "73",
-            "max": "100",
-            "average": "92.488",
-            "median": "93"
-        },
-        "Finals": {
-            "students": "43",
-            "passFail": "43\/0",
-            "passPercent": "100",
-            "min": "75",
-            "max": "100",
-            "average": "93.86",
-            "median": "95"
-        }
-    },
-    "201801": {
-        "Staff": [
-            {
-                "name": "שגיב יונתן",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "37",
-            "passFail": "37\/0",
-            "passPercent": "100",
-            "min": "73",
-            "max": "100",
-            "average": "93.595",
-            "median": "95"
-        },
-        "Finals": {
-            "students": "41",
-            "passFail": "41\/0",
-            "passPercent": "100",
-            "min": "65",
-            "max": "100",
-            "average": "94.78",
-            "median": "95"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "שגיב יונתן",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "41",
-            "passFail": "41\/0",
-            "passPercent": "100",
-            "min": "65",
-            "max": "100",
-            "average": "92.512",
-            "median": "95"
-        },
-        "Finals": {
-            "students": "42",
-            "passFail": "42\/0",
-            "passPercent": "100",
-            "min": "65",
-            "max": "100",
-            "average": "93.881",
-            "median": "95"
-        }
-    },
     "202001": {
         "Staff": [
             {
@@ -142,6 +34,114 @@
             "max": "100",
             "average": "95.556",
             "median": "100"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "שגיב יונתן",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "92.512",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "42",
+            "passFail": "42\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "93.881",
+            "median": "95"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "שגיב יונתן",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "37",
+            "passFail": "37\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "100",
+            "average": "93.595",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "94.78",
+            "median": "95"
+        }
+    },
+    "201601": {
+        "Staff": [
+            {
+                "name": "שגיב יונתן",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "100",
+            "average": "92.488",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "43",
+            "passFail": "43\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "100",
+            "average": "93.86",
+            "median": "95"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "שגיב יונתן",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "61",
+            "passFail": "60\/1",
+            "passPercent": "98",
+            "min": "47",
+            "max": "100",
+            "average": "91.541",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "68",
+            "passFail": "68\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "100",
+            "average": "94.118",
+            "median": "97"
         }
     }
 }

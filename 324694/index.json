@@ -1,56 +1,30 @@
 {
-    "201502": {
+    "202102": {
         "Staff": [
             {
                 "name": "בינה פולק אביטל",
                 "email": "avitalbp@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "18",
-            "passFail": "18\/0",
-            "passPercent": "100",
-            "min": "83",
-            "max": "100",
-            "average": "96.667",
-            "median": "98"
-        },
-        "Finals": {
-            "students": "18",
-            "passFail": "18\/0",
-            "passPercent": "100",
-            "min": "83",
-            "max": "100",
-            "average": "96.667",
-            "median": "98"
-        }
-    },
-    "201702": {
-        "Staff": [
+            },
             {
-                "name": "בינה פולק אביטל",
-                "email": "avitalbp@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
-        "Final_A": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "98.077",
-            "median": "100"
-        },
         "Finals": {
-            "students": "14",
-            "passFail": "14\/0",
+            "students": "10",
+            "passFail": "10\/0",
             "passPercent": "100",
-            "min": "90",
+            "min": "89",
             "max": "100",
-            "average": "98.214",
-            "median": "100"
+            "average": "97.4",
+            "median": "98.5"
         }
     },
     "202002": {
@@ -90,32 +64,58 @@
             "median": "96"
         }
     },
-    "202102": {
+    "201702": {
         "Staff": [
             {
                 "name": "בינה פולק אביטל",
                 "email": "avitalbp@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
-        "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
+        "Final_A": {
+            "students": "13",
+            "passFail": "13\/0",
             "passPercent": "100",
-            "min": "89",
+            "min": "90",
             "max": "100",
-            "average": "97.4",
-            "median": "98.5"
+            "average": "98.077",
+            "median": "100"
+        },
+        "Finals": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "98.214",
+            "median": "100"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "בינה פולק אביטל",
+                "email": "avitalbp@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "83",
+            "max": "100",
+            "average": "96.667",
+            "median": "98"
+        },
+        "Finals": {
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "83",
+            "max": "100",
+            "average": "96.667",
+            "median": "98"
         }
     }
 }

@@ -1,36 +1,4 @@
 {
-    "202201": {
-        "Staff": [
-            {
-                "name": "גרעיני יובל",
-                "email": "yuval.garini@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "ניקולא וג'די",
-                "email": "wajdi-n@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "93",
-            "max": "99",
-            "average": "96.44",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "93",
-            "max": "99",
-            "average": "96.44",
-            "median": "96"
-        }
-    },
     "202301": {
         "Staff": [
             {
@@ -61,6 +29,38 @@
             "max": "98",
             "average": "94.286",
             "median": "95"
+        }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "גרעיני יובל",
+                "email": "yuval.garini@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ניקולא וג'די",
+                "email": "wajdi-n@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "99",
+            "average": "96.44",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "99",
+            "average": "96.44",
+            "median": "96"
         }
     }
 }

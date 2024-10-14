@@ -1,45 +1,4 @@
 {
-    "202002": {
-        "Staff": [
-            {
-                "name": "טל אברהם",
-                "email": "avraham.tal@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "ויינשטיין יוסף",
-                "email": "yossiv@technion.ac.il",
-                "title": "מרצה"
-            }
-        ],
-        "Exam_A": {
-            "students": "27",
-            "passFail": "14\/13",
-            "passPercent": "52",
-            "min": "18",
-            "max": "85",
-            "average": "53.037",
-            "median": "53"
-        },
-        "Final_A": {
-            "students": "27",
-            "passFail": "22\/5",
-            "passPercent": "81",
-            "min": "29",
-            "max": "97",
-            "average": "66.333",
-            "median": "67"
-        },
-        "Finals": {
-            "students": "27",
-            "passFail": "24\/3",
-            "passPercent": "89",
-            "min": "27",
-            "max": "97",
-            "average": "68.259",
-            "median": "73"
-        }
-    },
     "202102": {
         "Staff": [
             {
@@ -79,6 +38,47 @@
             "max": "95",
             "average": "68.526",
             "median": "62"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "טל אברהם",
+                "email": "avraham.tal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ויינשטיין יוסף",
+                "email": "yossiv@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "27",
+            "passFail": "14\/13",
+            "passPercent": "52",
+            "min": "18",
+            "max": "85",
+            "average": "53.037",
+            "median": "53"
+        },
+        "Final_A": {
+            "students": "27",
+            "passFail": "22\/5",
+            "passPercent": "81",
+            "min": "29",
+            "max": "97",
+            "average": "66.333",
+            "median": "67"
+        },
+        "Finals": {
+            "students": "27",
+            "passFail": "24\/3",
+            "passPercent": "89",
+            "min": "27",
+            "max": "97",
+            "average": "68.259",
+            "median": "73"
         }
     }
 }

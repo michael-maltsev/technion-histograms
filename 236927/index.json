@@ -1,41 +1,5 @@
 {
-    "201701": {
-        "Staff": [
-            {
-                "name": "רוטשטיין הקטור",
-                "email": "hector@ee.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "79",
-            "max": "95",
-            "average": "88.667",
-            "median": "90.5"
-        }
-    },
-    "201801": {
-        "Staff": [
-            {
-                "name": "רוטשטיין הקטור",
-                "email": "hector@ee.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "71",
-            "max": "100",
-            "average": "92.625",
-            "median": "94"
-        }
-    },
-    "201901": {
+    "202301": {
         "Staff": [
             {
                 "name": "רוטשטיין הקטור",
@@ -44,31 +8,13 @@
             }
         ],
         "Finals": {
-            "students": "22",
-            "passFail": "22\/0",
+            "students": "31",
+            "passFail": "31\/0",
             "passPercent": "100",
-            "min": "82",
-            "max": "100",
-            "average": "93.682",
+            "min": "86",
+            "max": "98",
+            "average": "93.871",
             "median": "95"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "רוטשטיין הקטור",
-                "email": "hector@ee.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "23",
-            "passFail": "23\/0",
-            "passPercent": "100",
-            "min": "83",
-            "max": "100",
-            "average": "92.348",
-            "median": "92"
         }
     },
     "202201": {
@@ -89,7 +35,25 @@
             "median": "86.5"
         }
     },
-    "202301": {
+    "202001": {
+        "Staff": [
+            {
+                "name": "רוטשטיין הקטור",
+                "email": "hector@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "83",
+            "max": "100",
+            "average": "92.348",
+            "median": "92"
+        }
+    },
+    "201901": {
         "Staff": [
             {
                 "name": "רוטשטיין הקטור",
@@ -98,13 +62,49 @@
             }
         ],
         "Finals": {
-            "students": "31",
-            "passFail": "31\/0",
+            "students": "22",
+            "passFail": "22\/0",
             "passPercent": "100",
-            "min": "86",
-            "max": "98",
-            "average": "93.871",
+            "min": "82",
+            "max": "100",
+            "average": "93.682",
             "median": "95"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "רוטשטיין הקטור",
+                "email": "hector@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "100",
+            "average": "92.625",
+            "median": "94"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "רוטשטיין הקטור",
+                "email": "hector@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "95",
+            "average": "88.667",
+            "median": "90.5"
         }
     }
 }

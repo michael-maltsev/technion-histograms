@@ -1,22 +1,4 @@
 {
-    "201501": {
-        "Staff": [
-            {
-                "name": "תותרי עיסאם",
-                "email": "totryess@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "23",
-            "passFail": "23\/0",
-            "passPercent": "100",
-            "min": "78",
-            "max": "99",
-            "average": "92.609",
-            "median": "90"
-        }
-    },
     "202002": {
         "Staff": [
             {
@@ -33,6 +15,24 @@
             "max": "100",
             "average": "92.9",
             "median": "93"
+        }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "תותרי עיסאם",
+                "email": "totryess@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "78",
+            "max": "99",
+            "average": "92.609",
+            "median": "90"
         }
     }
 }

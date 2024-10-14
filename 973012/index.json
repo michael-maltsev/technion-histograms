@@ -1,60 +1,5 @@
 {
-    "202002": {
-        "Staff": [
-            {
-                "name": "אאא שירי",
-                "email": "shiri.so@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "שחל אתי",
-                "email": "ettys@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Exam_A": {
-            "students": "233",
-            "passFail": "229\/4",
-            "passPercent": "98",
-            "min": "38",
-            "max": "98",
-            "average": "84.845",
-            "median": "88"
-        },
-        "Final_B": {
-            "students": "19",
-            "passFail": "19\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "95",
-            "average": "81.842",
-            "median": "85"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "אאא שירי",
-                "email": "shiri.so@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "שחל אתי",
-                "email": "ettys@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "52",
-            "passFail": "50\/2",
-            "passPercent": "96",
-            "min": "12",
-            "max": "97",
-            "average": "84.038",
-            "median": "86"
-        }
-    },
-    "202102": {
+    "202302": {
         "Staff": [
             {
                 "name": "שחל אתי",
@@ -69,44 +14,21 @@
         ],
         "Final_A": {
             "students": "196",
-            "passFail": "186\/10",
-            "passPercent": "95",
-            "min": "5",
+            "passFail": "194\/2",
+            "passPercent": "99",
+            "min": "15",
             "max": "98",
-            "average": "83.403",
+            "average": "85.026",
             "median": "88"
         },
         "Final_B": {
-            "students": "12",
-            "passFail": "11\/1",
-            "passPercent": "92",
-            "min": "48",
-            "max": "93",
-            "average": "77.833",
-            "median": "82.5"
-        }
-    },
-    "202201": {
-        "Staff": [
-            {
-                "name": "אאא שירי",
-                "email": "shiri.so@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "שחל אתי",
-                "email": "ettys@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "32",
-            "passFail": "32\/0",
-            "passPercent": "100",
-            "min": "72",
-            "max": "96",
-            "average": "88.5",
-            "median": "89"
+            "students": "23",
+            "passFail": "21\/2",
+            "passPercent": "91",
+            "min": "39",
+            "max": "95",
+            "average": "80",
+            "median": "86"
         }
     },
     "202202": {
@@ -141,7 +63,30 @@
             "median": "84"
         }
     },
-    "202302": {
+    "202201": {
+        "Staff": [
+            {
+                "name": "אאא שירי",
+                "email": "shiri.so@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שחל אתי",
+                "email": "ettys@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "32",
+            "passFail": "32\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "96",
+            "average": "88.5",
+            "median": "89"
+        }
+    },
+    "202102": {
         "Staff": [
             {
                 "name": "שחל אתי",
@@ -156,21 +101,76 @@
         ],
         "Final_A": {
             "students": "196",
-            "passFail": "194\/2",
-            "passPercent": "99",
-            "min": "15",
+            "passFail": "186\/10",
+            "passPercent": "95",
+            "min": "5",
             "max": "98",
-            "average": "85.026",
+            "average": "83.403",
             "median": "88"
         },
         "Final_B": {
-            "students": "23",
-            "passFail": "21\/2",
-            "passPercent": "91",
-            "min": "39",
-            "max": "95",
-            "average": "80",
+            "students": "12",
+            "passFail": "11\/1",
+            "passPercent": "92",
+            "min": "48",
+            "max": "93",
+            "average": "77.833",
+            "median": "82.5"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "אאא שירי",
+                "email": "shiri.so@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שחל אתי",
+                "email": "ettys@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "52",
+            "passFail": "50\/2",
+            "passPercent": "96",
+            "min": "12",
+            "max": "97",
+            "average": "84.038",
             "median": "86"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "אאא שירי",
+                "email": "shiri.so@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שחל אתי",
+                "email": "ettys@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "233",
+            "passFail": "229\/4",
+            "passPercent": "98",
+            "min": "38",
+            "max": "98",
+            "average": "84.845",
+            "median": "88"
+        },
+        "Final_B": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "95",
+            "average": "81.842",
+            "median": "85"
         }
     }
 }

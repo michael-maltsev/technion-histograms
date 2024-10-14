@@ -1,67 +1,4 @@
 {
-    "201502": {
-        "Staff": [
-            {
-                "name": "במברגר חגי",
-                "email": "hagaybam@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "52",
-            "passFail": "52\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "100",
-            "average": "93.365",
-            "median": "94"
-        },
-        "Finals": {
-            "students": "75",
-            "passFail": "75\/0",
-            "passPercent": "100",
-            "min": "82",
-            "max": "100",
-            "average": "93.093",
-            "median": "94"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "במברגר חגי",
-                "email": "hagaybam@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "30",
-            "passFail": "30\/0",
-            "passPercent": "100",
-            "min": "82",
-            "max": "100",
-            "average": "93.6",
-            "median": "93.5"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "אזולאי חי",
-                "email": "ingral2@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "40",
-            "passFail": "40\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "98",
-            "average": "94.25",
-            "median": "94"
-        }
-    },
     "202002": {
         "Staff": [
             {
@@ -86,6 +23,69 @@
             "min": "86",
             "max": "100",
             "average": "94.205",
+            "median": "94"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "אזולאי חי",
+                "email": "ingral2@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "40",
+            "passFail": "40\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "98",
+            "average": "94.25",
+            "median": "94"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "במברגר חגי",
+                "email": "hagaybam@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "82",
+            "max": "100",
+            "average": "93.6",
+            "median": "93.5"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "במברגר חגי",
+                "email": "hagaybam@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "52",
+            "passFail": "52\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "100",
+            "average": "93.365",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "75",
+            "passFail": "75\/0",
+            "passPercent": "100",
+            "min": "82",
+            "max": "100",
+            "average": "93.093",
             "median": "94"
         }
     }

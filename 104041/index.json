@@ -1,63 +1,4 @@
 {
-    "202201": {
-        "Staff": [
-            {
-                "name": "דמיטריוק אלון",
-                "email": "alond@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "מעין הילה",
-                "email": "ahila@technion.ac.il",
-                "title": "מתרגל"
-            }
-        ],
-        "Exam_A": {
-            "students": "307",
-            "passFail": "157\/150",
-            "passPercent": "51",
-            "min": "3",
-            "max": "97",
-            "average": "54.261",
-            "median": "55"
-        },
-        "Final_A": {
-            "students": "307",
-            "passFail": "217\/90",
-            "passPercent": "71",
-            "min": "8",
-            "max": "100",
-            "average": "62.173",
-            "median": "65"
-        },
-        "Exam_B": {
-            "students": "146",
-            "passFail": "70\/76",
-            "passPercent": "48",
-            "min": "13",
-            "max": "96",
-            "average": "54.747",
-            "median": "53"
-        },
-        "Final_B": {
-            "students": "146",
-            "passFail": "87\/59",
-            "passPercent": "60",
-            "min": "13",
-            "max": "97",
-            "average": "58.568",
-            "median": "60"
-        },
-        "Finals": {
-            "students": "325",
-            "passFail": "264\/61",
-            "passPercent": "81",
-            "min": "13",
-            "max": "100",
-            "average": "65.852",
-            "median": "67"
-        }
-    },
     "202301": {
         "Staff": [
             {
@@ -115,6 +56,65 @@
             "max": "100",
             "average": "74.276",
             "median": "78"
+        }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "דמיטריוק אלון",
+                "email": "alond@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מעין הילה",
+                "email": "ahila@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "307",
+            "passFail": "157\/150",
+            "passPercent": "51",
+            "min": "3",
+            "max": "97",
+            "average": "54.261",
+            "median": "55"
+        },
+        "Final_A": {
+            "students": "307",
+            "passFail": "217\/90",
+            "passPercent": "71",
+            "min": "8",
+            "max": "100",
+            "average": "62.173",
+            "median": "65"
+        },
+        "Exam_B": {
+            "students": "146",
+            "passFail": "70\/76",
+            "passPercent": "48",
+            "min": "13",
+            "max": "96",
+            "average": "54.747",
+            "median": "53"
+        },
+        "Final_B": {
+            "students": "146",
+            "passFail": "87\/59",
+            "passPercent": "60",
+            "min": "13",
+            "max": "97",
+            "average": "58.568",
+            "median": "60"
+        },
+        "Finals": {
+            "students": "325",
+            "passFail": "264\/61",
+            "passPercent": "81",
+            "min": "13",
+            "max": "100",
+            "average": "65.852",
+            "median": "67"
         }
     }
 }

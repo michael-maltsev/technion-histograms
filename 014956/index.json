@@ -1,230 +1,4 @@
 {
-    "201502": {
-        "Staff": [
-            {
-                "name": "שביב אברהם",
-                "email": "agshaviv@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "רינות אושרי",
-                "email": "oshrinot@gmail.com",
-                "title": ""
-            }
-        ],
-        "Final_A": {
-            "students": "36",
-            "passFail": "35\/1",
-            "passPercent": "97",
-            "min": "52",
-            "max": "94",
-            "average": "80.083",
-            "median": "82.5"
-        },
-        "Finals": {
-            "students": "41",
-            "passFail": "41\/0",
-            "passPercent": "100",
-            "min": "66",
-            "max": "94",
-            "average": "81.78",
-            "median": "83"
-        }
-    },
-    "201602": {
-        "Final_A": {
-            "students": "26",
-            "passFail": "23\/3",
-            "passPercent": "88",
-            "min": "28",
-            "max": "91",
-            "average": "75.231",
-            "median": "81.5"
-        },
-        "Finals": {
-            "students": "32",
-            "passFail": "30\/2",
-            "passPercent": "94",
-            "min": "40",
-            "max": "91",
-            "average": "77.75",
-            "median": "81.5"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "איש עם - רדי עדי",
-                "email": "aradian@cv.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "28",
-            "passFail": "27\/1",
-            "passPercent": "96",
-            "min": "27",
-            "max": "95",
-            "average": "78.321",
-            "median": "79"
-        },
-        "Finals": {
-            "students": "30",
-            "passFail": "29\/1",
-            "passPercent": "97",
-            "min": "27",
-            "max": "95",
-            "average": "77.533",
-            "median": "78.5"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "איש עם - רדי עדי",
-                "email": "aradian@cv.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "16",
-            "passFail": "14\/2",
-            "passPercent": "88",
-            "min": "52",
-            "max": "99",
-            "average": "77.188",
-            "median": "77"
-        },
-        "Final_B": {
-            "students": "26",
-            "passFail": "25\/1",
-            "passPercent": "96",
-            "min": "50",
-            "max": "99",
-            "average": "77.692",
-            "median": "77"
-        },
-        "Finals": {
-            "students": "26",
-            "passFail": "25\/1",
-            "passPercent": "96",
-            "min": "50",
-            "max": "99",
-            "average": "77.692",
-            "median": "77"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "איש עם - רדי עדי",
-                "email": "aradian@cv.technion.ac.il,aradian@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "קובלר קרן",
-                "email": "kovlerk@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "מלכה אופירה",
-                "email": "ofiramalka@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "58",
-            "max": "100",
-            "average": "81.75",
-            "median": "84.5"
-        },
-        "Finals": {
-            "students": "23",
-            "passFail": "22\/1",
-            "passPercent": "96",
-            "min": "50",
-            "max": "100",
-            "average": "80.87",
-            "median": "84"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "איש עם - רדי עדי",
-                "email": "aradian@cv.technion.ac.il,aradian@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "מלכה אופירה",
-                "email": "ofiramalka@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "קובלר קרן",
-                "email": "kovlerk@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "14",
-            "passFail": "14\/0",
-            "passPercent": "100",
-            "min": "59",
-            "max": "98",
-            "average": "83.357",
-            "median": "87"
-        },
-        "Finals": {
-            "students": "15",
-            "passFail": "14\/1",
-            "passPercent": "93",
-            "min": "49",
-            "max": "98",
-            "average": "81.067",
-            "median": "87"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "איש עם - רדי עדי",
-                "email": "aradian@cv.technion.ac.il,aradian@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "מלכה אופירה",
-                "email": "ofiramalka@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "קובלר קרן",
-                "email": "kovlerk@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "95",
-            "average": "81.6",
-            "median": "82"
-        },
-        "Finals": {
-            "students": "21",
-            "passFail": "21\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "95",
-            "average": "82",
-            "median": "82"
-        }
-    },
     "202202": {
         "Staff": [
             {
@@ -265,6 +39,232 @@
             "max": "98",
             "average": "84",
             "median": "86.5"
+        }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "איש עם - רדי עדי",
+                "email": "aradian@cv.technion.ac.il,aradian@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מלכה אופירה",
+                "email": "ofiramalka@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "95",
+            "average": "81.6",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "95",
+            "average": "82",
+            "median": "82"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "איש עם - רדי עדי",
+                "email": "aradian@cv.technion.ac.il,aradian@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מלכה אופירה",
+                "email": "ofiramalka@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "98",
+            "average": "83.357",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "49",
+            "max": "98",
+            "average": "81.067",
+            "median": "87"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "איש עם - רדי עדי",
+                "email": "aradian@cv.technion.ac.il,aradian@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מלכה אופירה",
+                "email": "ofiramalka@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "100",
+            "average": "81.75",
+            "median": "84.5"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "22\/1",
+            "passPercent": "96",
+            "min": "50",
+            "max": "100",
+            "average": "80.87",
+            "median": "84"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "איש עם - רדי עדי",
+                "email": "aradian@cv.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "16",
+            "passFail": "14\/2",
+            "passPercent": "88",
+            "min": "52",
+            "max": "99",
+            "average": "77.188",
+            "median": "77"
+        },
+        "Final_B": {
+            "students": "26",
+            "passFail": "25\/1",
+            "passPercent": "96",
+            "min": "50",
+            "max": "99",
+            "average": "77.692",
+            "median": "77"
+        },
+        "Finals": {
+            "students": "26",
+            "passFail": "25\/1",
+            "passPercent": "96",
+            "min": "50",
+            "max": "99",
+            "average": "77.692",
+            "median": "77"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "איש עם - רדי עדי",
+                "email": "aradian@cv.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "28",
+            "passFail": "27\/1",
+            "passPercent": "96",
+            "min": "27",
+            "max": "95",
+            "average": "78.321",
+            "median": "79"
+        },
+        "Finals": {
+            "students": "30",
+            "passFail": "29\/1",
+            "passPercent": "97",
+            "min": "27",
+            "max": "95",
+            "average": "77.533",
+            "median": "78.5"
+        }
+    },
+    "201602": {
+        "Final_A": {
+            "students": "26",
+            "passFail": "23\/3",
+            "passPercent": "88",
+            "min": "28",
+            "max": "91",
+            "average": "75.231",
+            "median": "81.5"
+        },
+        "Finals": {
+            "students": "32",
+            "passFail": "30\/2",
+            "passPercent": "94",
+            "min": "40",
+            "max": "91",
+            "average": "77.75",
+            "median": "81.5"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "שביב אברהם",
+                "email": "agshaviv@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רינות אושרי",
+                "email": "oshrinot@gmail.com",
+                "title": ""
+            }
+        ],
+        "Final_A": {
+            "students": "36",
+            "passFail": "35\/1",
+            "passPercent": "97",
+            "min": "52",
+            "max": "94",
+            "average": "80.083",
+            "median": "82.5"
+        },
+        "Finals": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "94",
+            "average": "81.78",
+            "median": "83"
         }
     }
 }

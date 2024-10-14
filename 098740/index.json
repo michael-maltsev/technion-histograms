@@ -1,4 +1,27 @@
 {
+    "202001": {
+        "Staff": [
+            {
+                "name": "בורדו נדיה",
+                "email": "nadiap@technion.ac.il,nadiabordo@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גנאור אילנית",
+                "email": "ganorilanit@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "85",
+            "passFail": "75\/10",
+            "passPercent": "88",
+            "min": "10",
+            "max": "100",
+            "average": "72.824",
+            "median": "75"
+        }
+    },
     "201901": {
         "Staff": [
             {
@@ -24,29 +47,6 @@
             "max": "100",
             "average": "85.623",
             "median": "88"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "בורדו נדיה",
-                "email": "nadiap@technion.ac.il,nadiabordo@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "גנאור אילנית",
-                "email": "ganorilanit@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Exam_A": {
-            "students": "85",
-            "passFail": "75\/10",
-            "passPercent": "88",
-            "min": "10",
-            "max": "100",
-            "average": "72.824",
-            "median": "75"
         }
     }
 }

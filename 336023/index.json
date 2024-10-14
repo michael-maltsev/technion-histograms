@@ -1,9 +1,9 @@
 {
-    "201702": {
+    "202002": {
         "Staff": [
             {
                 "name": "ילין דביר",
-                "email": "yelin@bm.technion.ac.il",
+                "email": "yelin@bm.technion.ac.il,yelin@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -12,14 +12,32 @@
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
+        "Exam_A": {
+            "students": "13",
+            "passFail": "13\/0",
             "passPercent": "100",
-            "min": "79",
-            "max": "98",
-            "average": "88.333",
-            "median": "90.5"
+            "min": "55",
+            "max": "88",
+            "average": "74.308",
+            "median": "73"
+        },
+        "Final_A": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "63",
+            "max": "91",
+            "average": "79.615",
+            "median": "80"
+        },
+        "Finals": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "63",
+            "max": "89",
+            "average": "78.923",
+            "median": "80"
         }
     },
     "201902": {
@@ -63,11 +81,11 @@
             "median": "87.5"
         }
     },
-    "202002": {
+    "201702": {
         "Staff": [
             {
                 "name": "ילין דביר",
-                "email": "yelin@bm.technion.ac.il,yelin@technion.ac.il",
+                "email": "yelin@bm.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -76,32 +94,14 @@
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Exam_A": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "88",
-            "average": "74.308",
-            "median": "73"
-        },
-        "Final_A": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "63",
-            "max": "91",
-            "average": "79.615",
-            "median": "80"
-        },
         "Finals": {
-            "students": "13",
-            "passFail": "13\/0",
+            "students": "12",
+            "passFail": "12\/0",
             "passPercent": "100",
-            "min": "63",
-            "max": "89",
-            "average": "78.923",
-            "median": "80"
+            "min": "79",
+            "max": "98",
+            "average": "88.333",
+            "median": "90.5"
         }
     }
 }

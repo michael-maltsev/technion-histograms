@@ -1,13 +1,20 @@
 {
-    "201901": {
+    "202302": {
+        "Staff": [
+            {
+                "name": "תבור ערן",
+                "email": "tavran@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
         "Finals": {
             "students": "13",
             "passFail": "13\/0",
             "passPercent": "100",
-            "min": "82",
+            "min": "95",
             "max": "100",
-            "average": "96.833",
-            "median": "98.5"
+            "average": "97.846",
+            "median": "98"
         }
     },
     "202301": {
@@ -28,22 +35,15 @@
             "median": "98.5"
         }
     },
-    "202302": {
-        "Staff": [
-            {
-                "name": "תבור ערן",
-                "email": "tavran@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
+    "201901": {
         "Finals": {
             "students": "13",
             "passFail": "13\/0",
             "passPercent": "100",
-            "min": "95",
+            "min": "82",
             "max": "100",
-            "average": "97.846",
-            "median": "98"
+            "average": "96.833",
+            "median": "98.5"
         }
     }
 }

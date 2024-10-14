@@ -1,34 +1,83 @@
 {
-    "201702": {
+    "202102": {
+        "Staff": [
+            {
+                "name": "ביטון מיכל",
+                "email": "michal.bitton100@gmail.com,biton.michal@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "30",
+            "passFail": "29\/1",
+            "passPercent": "97",
+            "min": "50",
+            "max": "97",
+            "average": "87.367",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "97",
+            "average": "87.633",
+            "median": "90"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "ביטון מיכל",
+                "email": "michal.bitton100@gmail.com,biton.michal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "35",
+            "passFail": "35\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "95",
+            "average": "84.771",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "35",
+            "passFail": "35\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "95",
+            "average": "84.771",
+            "median": "85"
+        }
+    },
+    "201902": {
         "Staff": [
             {
                 "name": "יפה חצב",
                 "email": "hatzav.y@campus.technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "אריאב לי",
-                "email": "leeariav@hotmail.com",
-                "title": "מרצה"
+                "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Final_A": {
-            "students": "29",
-            "passFail": "29\/0",
+            "students": "30",
+            "passFail": "30\/0",
             "passPercent": "100",
-            "min": "61",
-            "max": "92",
-            "average": "82.138",
-            "median": "84"
+            "min": "76",
+            "max": "100",
+            "average": "92.033",
+            "median": "93"
         },
         "Finals": {
-            "students": "29",
-            "passFail": "29\/0",
+            "students": "30",
+            "passFail": "30\/0",
             "passPercent": "100",
-            "min": "61",
-            "max": "92",
-            "average": "82.276",
-            "median": "85"
+            "min": "76",
+            "max": "100",
+            "average": "92.033",
+            "median": "93"
         }
     },
     "201802": {
@@ -72,85 +121,36 @@
             "median": "88.5"
         }
     },
-    "201902": {
+    "201702": {
         "Staff": [
             {
                 "name": "יפה חצב",
                 "email": "hatzav.y@campus.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "30",
-            "passFail": "30\/0",
-            "passPercent": "100",
-            "min": "76",
-            "max": "100",
-            "average": "92.033",
-            "median": "93"
-        },
-        "Finals": {
-            "students": "30",
-            "passFail": "30\/0",
-            "passPercent": "100",
-            "min": "76",
-            "max": "100",
-            "average": "92.033",
-            "median": "93"
-        }
-    },
-    "202002": {
-        "Staff": [
+                "title": "מרצה"
+            },
             {
-                "name": "ביטון מיכל",
-                "email": "michal.bitton100@gmail.com,biton.michal@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "name": "אריאב לי",
+                "email": "leeariav@hotmail.com",
+                "title": "מרצה"
             }
         ],
         "Final_A": {
-            "students": "35",
-            "passFail": "35\/0",
+            "students": "29",
+            "passFail": "29\/0",
             "passPercent": "100",
-            "min": "56",
-            "max": "95",
-            "average": "84.771",
-            "median": "85"
+            "min": "61",
+            "max": "92",
+            "average": "82.138",
+            "median": "84"
         },
         "Finals": {
-            "students": "35",
-            "passFail": "35\/0",
+            "students": "29",
+            "passFail": "29\/0",
             "passPercent": "100",
-            "min": "56",
-            "max": "95",
-            "average": "84.771",
+            "min": "61",
+            "max": "92",
+            "average": "82.276",
             "median": "85"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "ביטון מיכל",
-                "email": "michal.bitton100@gmail.com,biton.michal@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "30",
-            "passFail": "29\/1",
-            "passPercent": "97",
-            "min": "50",
-            "max": "97",
-            "average": "87.367",
-            "median": "90"
-        },
-        "Finals": {
-            "students": "30",
-            "passFail": "30\/0",
-            "passPercent": "100",
-            "min": "58",
-            "max": "97",
-            "average": "87.633",
-            "median": "90"
         }
     }
 }

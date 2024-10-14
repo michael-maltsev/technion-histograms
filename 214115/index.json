@@ -1,40 +1,29 @@
 {
-    "201501": {
-        "Finals": {
-            "students": "74",
-            "passFail": "74\/0",
-            "passPercent": "100",
-            "min": "68",
-            "max": "100",
-            "average": "94.527",
-            "median": "96.5"
-        }
-    },
-    "201502": {
+    "201701": {
         "Staff": [
             {
-                "name": "ריינר מרים",
-                "email": "miriamr@technion.ac.il",
+                "name": "קפון שולמית",
+                "email": "skapon@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Final_A": {
-            "students": "73",
-            "passFail": "71\/2",
-            "passPercent": "97",
-            "min": "0",
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "65",
             "max": "100",
-            "average": "90.137",
-            "median": "93"
+            "average": "89.19",
+            "median": "88"
         },
         "Finals": {
-            "students": "71",
-            "passFail": "71\/0",
+            "students": "21",
+            "passFail": "21\/0",
             "passPercent": "100",
-            "min": "75",
+            "min": "65",
             "max": "100",
-            "average": "92.704",
-            "median": "93"
+            "average": "89.19",
+            "median": "88"
         }
     },
     "201602": {
@@ -64,31 +53,42 @@
             "median": "93"
         }
     },
-    "201701": {
+    "201502": {
         "Staff": [
             {
-                "name": "קפון שולמית",
-                "email": "skapon@technion.ac.il",
+                "name": "ריינר מרים",
+                "email": "miriamr@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Final_A": {
-            "students": "21",
-            "passFail": "21\/0",
-            "passPercent": "100",
-            "min": "65",
+            "students": "73",
+            "passFail": "71\/2",
+            "passPercent": "97",
+            "min": "0",
             "max": "100",
-            "average": "89.19",
-            "median": "88"
+            "average": "90.137",
+            "median": "93"
         },
         "Finals": {
-            "students": "21",
-            "passFail": "21\/0",
+            "students": "71",
+            "passFail": "71\/0",
             "passPercent": "100",
-            "min": "65",
+            "min": "75",
             "max": "100",
-            "average": "89.19",
-            "median": "88"
+            "average": "92.704",
+            "median": "93"
+        }
+    },
+    "201501": {
+        "Finals": {
+            "students": "74",
+            "passFail": "74\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "94.527",
+            "median": "96.5"
         }
     }
 }

@@ -1,22 +1,4 @@
 {
-    "201502": {
-        "Staff": [
-            {
-                "name": "יוסיפון גלעד",
-                "email": "yossifon@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "88",
-            "max": "97",
-            "average": "93.062",
-            "median": "93.5"
-        }
-    },
     "202002": {
         "Staff": [
             {
@@ -47,6 +29,24 @@
             "max": "98",
             "average": "93.917",
             "median": "93"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "יוסיפון גלעד",
+                "email": "yossifon@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "88",
+            "max": "97",
+            "average": "93.062",
+            "median": "93.5"
         }
     }
 }

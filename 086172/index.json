@@ -1,4 +1,67 @@
 {
+    "202202": {
+        "Staff": [
+            {
+                "name": "גרינברג ג'רולד ברי",
+                "email": "aer9801@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "99",
+            "average": "86.083",
+            "median": "89"
+        }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "גרינברג ג'רולד ברי",
+                "email": "aer9801@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_B": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "98",
+            "average": "88.029",
+            "median": "90.5"
+        },
+        "Finals": {
+            "students": "55",
+            "passFail": "54\/1",
+            "passPercent": "98",
+            "min": "50",
+            "max": "98",
+            "average": "87.364",
+            "median": "90"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "גרינברג ג'רולד ברי",
+                "email": "aer9801@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "23",
+            "max": "99",
+            "average": "83.133",
+            "median": "88"
+        }
+    },
     "201702": {
         "Staff": [
             {
@@ -29,69 +92,6 @@
             "max": "98",
             "average": "91.464",
             "median": "92"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "גרינברג ג'רולד ברי",
-                "email": "aer9801@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "15",
-            "passFail": "14\/1",
-            "passPercent": "93",
-            "min": "23",
-            "max": "99",
-            "average": "83.133",
-            "median": "88"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "גרינברג ג'רולד ברי",
-                "email": "aer9801@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_B": {
-            "students": "34",
-            "passFail": "34\/0",
-            "passPercent": "100",
-            "min": "61",
-            "max": "98",
-            "average": "88.029",
-            "median": "90.5"
-        },
-        "Finals": {
-            "students": "55",
-            "passFail": "54\/1",
-            "passPercent": "98",
-            "min": "50",
-            "max": "98",
-            "average": "87.364",
-            "median": "90"
-        }
-    },
-    "202202": {
-        "Staff": [
-            {
-                "name": "גרינברג ג'רולד ברי",
-                "email": "aer9801@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "26",
-            "passFail": "26\/0",
-            "passPercent": "100",
-            "min": "62",
-            "max": "99",
-            "average": "86.083",
-            "median": "89"
         }
     }
 }

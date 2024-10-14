@@ -1,5 +1,5 @@
 {
-    "201702": {
+    "202002": {
         "Staff": [
             {
                 "name": "ערבה יואב",
@@ -8,31 +8,13 @@
             }
         ],
         "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
+            "students": "10",
+            "passFail": "10\/0",
             "passPercent": "100",
-            "min": "80",
-            "max": "94",
-            "average": "86.765",
-            "median": "88"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "ערבה יואב",
-                "email": "arava@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "72",
-            "max": "97",
-            "average": "87.091",
-            "median": "86"
+            "min": "59",
+            "max": "96",
+            "average": "84.1",
+            "median": "85"
         }
     },
     "201902": {
@@ -62,7 +44,25 @@
             "median": "86"
         }
     },
-    "202002": {
+    "201802": {
+        "Staff": [
+            {
+                "name": "ערבה יואב",
+                "email": "arava@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "97",
+            "average": "87.091",
+            "median": "86"
+        }
+    },
+    "201702": {
         "Staff": [
             {
                 "name": "ערבה יואב",
@@ -71,13 +71,13 @@
             }
         ],
         "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
+            "students": "17",
+            "passFail": "17\/0",
             "passPercent": "100",
-            "min": "59",
-            "max": "96",
-            "average": "84.1",
-            "median": "85"
+            "min": "80",
+            "max": "94",
+            "average": "86.765",
+            "median": "88"
         }
     }
 }

@@ -1,58 +1,28 @@
 {
-    "201702": {
+    "201902": {
         "Staff": [
-            {
-                "name": "כהן אורי",
-                "email": "aruri@technion.ac.il",
-                "title": "מנחה פרויקטים  - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "מילר ליאת",
-                "email": "liat@matterarc.com",
-                "title": ""
-            },
-            {
-                "name": "שהם קרן",
-                "email": "shohamk@yahoo.com",
-                "title": ""
-            },
-            {
-                "name": "ליאונוב רות",
-                "email": "rut.leo@gmail.com",
-                "title": ""
-            },
             {
                 "name": "זהר אלון",
                 "email": "alonso@technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "בן-אברהם הדר",
-                "email": "hadar.benavraham@gmail.com,bhadar@campus.technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "שיוביץ מרדכי",
-                "email": "moti@shyovitz.com",
-                "title": ""
+                "title": "מנחה פרויקטים  - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
             "students": "71",
             "passFail": "70\/1",
             "passPercent": "99",
-            "min": "54",
+            "min": "50",
             "max": "95",
-            "average": "82.789",
+            "average": "84.423",
             "median": "85"
         },
         "Finals": {
             "students": "71",
             "passFail": "70\/1",
             "passPercent": "99",
-            "min": "54",
+            "min": "50",
             "max": "95",
-            "average": "82.789",
+            "average": "84.423",
             "median": "85"
         }
     },
@@ -108,30 +78,60 @@
             "median": "86"
         }
     },
-    "201902": {
+    "201702": {
         "Staff": [
+            {
+                "name": "כהן אורי",
+                "email": "aruri@technion.ac.il",
+                "title": "מנחה פרויקטים  - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מילר ליאת",
+                "email": "liat@matterarc.com",
+                "title": ""
+            },
+            {
+                "name": "שהם קרן",
+                "email": "shohamk@yahoo.com",
+                "title": ""
+            },
+            {
+                "name": "ליאונוב רות",
+                "email": "rut.leo@gmail.com",
+                "title": ""
+            },
             {
                 "name": "זהר אלון",
                 "email": "alonso@technion.ac.il",
-                "title": "מנחה פרויקטים  - עם הרשאות מרצה אחראי"
+                "title": ""
+            },
+            {
+                "name": "בן-אברהם הדר",
+                "email": "hadar.benavraham@gmail.com,bhadar@campus.technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "שיוביץ מרדכי",
+                "email": "moti@shyovitz.com",
+                "title": ""
             }
         ],
         "Final_A": {
             "students": "71",
             "passFail": "70\/1",
             "passPercent": "99",
-            "min": "50",
+            "min": "54",
             "max": "95",
-            "average": "84.423",
+            "average": "82.789",
             "median": "85"
         },
         "Finals": {
             "students": "71",
             "passFail": "70\/1",
             "passPercent": "99",
-            "min": "50",
+            "min": "54",
             "max": "95",
-            "average": "84.423",
+            "average": "82.789",
             "median": "85"
         }
     }

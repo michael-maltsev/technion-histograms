@@ -1,25 +1,5 @@
 {
-    "201301": {
-        "Exam_A": {
-            "students": "20",
-            "passFail": "18\/2",
-            "passPercent": "90",
-            "min": "20",
-            "max": "98",
-            "average": "76.3",
-            "median": "82.5"
-        },
-        "Final_A": {
-            "students": "45",
-            "passFail": "44\/1",
-            "passPercent": "98",
-            "min": "42",
-            "max": "97",
-            "average": "86.844",
-            "median": "91"
-        }
-    },
-    "201801": {
+    "202301": {
         "Staff": [
             {
                 "name": "ירון סימה",
@@ -28,25 +8,25 @@
             }
         ],
         "Final_A": {
-            "students": "27",
-            "passFail": "27\/0",
+            "students": "37",
+            "passFail": "37\/0",
             "passPercent": "100",
-            "min": "61",
-            "max": "100",
-            "average": "89.481",
-            "median": "93"
+            "min": "87.55",
+            "max": "99.7",
+            "average": "94.285",
+            "median": "94.45"
         },
         "Finals": {
-            "students": "27",
-            "passFail": "27\/0",
+            "students": "37",
+            "passFail": "37\/0",
             "passPercent": "100",
-            "min": "61",
+            "min": "88",
             "max": "100",
-            "average": "89.481",
-            "median": "93"
+            "average": "94.297",
+            "median": "94"
         }
     },
-    "202001": {
+    "202201": {
         "Staff": [
             {
                 "name": "ירון סימה",
@@ -55,21 +35,21 @@
             }
         ],
         "Final_A": {
-            "students": "17",
-            "passFail": "17\/0",
+            "students": "35",
+            "passFail": "35\/0",
             "passPercent": "100",
-            "min": "91",
+            "min": "86",
             "max": "100",
-            "average": "95.294",
+            "average": "94.771",
             "median": "95"
         },
         "Finals": {
-            "students": "18",
-            "passFail": "18\/0",
+            "students": "35",
+            "passFail": "35\/0",
             "passPercent": "100",
-            "min": "84",
+            "min": "86",
             "max": "100",
-            "average": "94.667",
+            "average": "94.771",
             "median": "95"
         }
     },
@@ -100,7 +80,7 @@
             "median": "97"
         }
     },
-    "202201": {
+    "202001": {
         "Staff": [
             {
                 "name": "ירון סימה",
@@ -109,25 +89,25 @@
             }
         ],
         "Final_A": {
-            "students": "35",
-            "passFail": "35\/0",
+            "students": "17",
+            "passFail": "17\/0",
             "passPercent": "100",
-            "min": "86",
+            "min": "91",
             "max": "100",
-            "average": "94.771",
+            "average": "95.294",
             "median": "95"
         },
         "Finals": {
-            "students": "35",
-            "passFail": "35\/0",
+            "students": "18",
+            "passFail": "18\/0",
             "passPercent": "100",
-            "min": "86",
+            "min": "84",
             "max": "100",
-            "average": "94.771",
+            "average": "94.667",
             "median": "95"
         }
     },
-    "202301": {
+    "201801": {
         "Staff": [
             {
                 "name": "ירון סימה",
@@ -136,22 +116,42 @@
             }
         ],
         "Final_A": {
-            "students": "37",
-            "passFail": "37\/0",
+            "students": "27",
+            "passFail": "27\/0",
             "passPercent": "100",
-            "min": "87.55",
-            "max": "99.7",
-            "average": "94.285",
-            "median": "94.45"
+            "min": "61",
+            "max": "100",
+            "average": "89.481",
+            "median": "93"
         },
         "Finals": {
-            "students": "37",
-            "passFail": "37\/0",
+            "students": "27",
+            "passFail": "27\/0",
             "passPercent": "100",
-            "min": "88",
+            "min": "61",
             "max": "100",
-            "average": "94.297",
-            "median": "94"
+            "average": "89.481",
+            "median": "93"
+        }
+    },
+    "201301": {
+        "Exam_A": {
+            "students": "20",
+            "passFail": "18\/2",
+            "passPercent": "90",
+            "min": "20",
+            "max": "98",
+            "average": "76.3",
+            "median": "82.5"
+        },
+        "Final_A": {
+            "students": "45",
+            "passFail": "44\/1",
+            "passPercent": "98",
+            "min": "42",
+            "max": "97",
+            "average": "86.844",
+            "median": "91"
         }
     }
 }

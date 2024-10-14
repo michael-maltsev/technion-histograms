@@ -1,4 +1,45 @@
 {
+    "202101": {
+        "Staff": [
+            {
+                "name": "יחיעם אלדד",
+                "email": "yeldad@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "100",
+            "average": "88.25",
+            "median": "92.5"
+        },
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "99",
+            "average": "87.688",
+            "median": "91"
+        },
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "99",
+            "average": "87.688",
+            "median": "91"
+        }
+    },
     "202001": {
         "Staff": [
             {
@@ -43,47 +84,6 @@
             "max": "99",
             "average": "90.188",
             "median": "90"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "יחיעם אלדד",
-                "email": "yeldad@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Exam_A": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "61",
-            "max": "100",
-            "average": "88.25",
-            "median": "92.5"
-        },
-        "Final_A": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "69",
-            "max": "99",
-            "average": "87.688",
-            "median": "91"
-        },
-        "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "69",
-            "max": "99",
-            "average": "87.688",
-            "median": "91"
         }
     }
 }

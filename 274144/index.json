@@ -1,60 +1,4 @@
 {
-    "201401": {
-        "Final_A": {
-            "students": "88",
-            "passFail": "87\/1",
-            "passPercent": "99",
-            "min": "42",
-            "max": "100",
-            "average": "85.318",
-            "median": "87"
-        },
-        "Finals": {
-            "students": "88",
-            "passFail": "87\/1",
-            "passPercent": "99",
-            "min": "42",
-            "max": "100",
-            "average": "85.466",
-            "median": "87"
-        }
-    },
-    "201501": {
-        "Staff": [
-            {
-                "name": "שביט איתי",
-                "email": "ishavit@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "",
-            "passFail": "",
-            "passPercent": "",
-            "min": "",
-            "max": "",
-            "average": "",
-            "median": ""
-        },
-        "Final_B": {
-            "students": "",
-            "passFail": "",
-            "passPercent": "",
-            "min": "",
-            "max": "",
-            "average": "",
-            "median": ""
-        },
-        "Finals": {
-            "students": "",
-            "passFail": "",
-            "passPercent": "",
-            "min": "",
-            "max": "",
-            "average": "",
-            "median": ""
-        }
-    },
     "201601": {
         "Staff": [
             {
@@ -97,6 +41,62 @@
             "min": "48",
             "max": "100",
             "average": "85.174",
+            "median": "87"
+        }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "שביט איתי",
+                "email": "ishavit@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
+        },
+        "Final_B": {
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
+        },
+        "Finals": {
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
+        }
+    },
+    "201401": {
+        "Final_A": {
+            "students": "88",
+            "passFail": "87\/1",
+            "passPercent": "99",
+            "min": "42",
+            "max": "100",
+            "average": "85.318",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "88",
+            "passFail": "87\/1",
+            "passPercent": "99",
+            "min": "42",
+            "max": "100",
+            "average": "85.466",
             "median": "87"
         }
     }

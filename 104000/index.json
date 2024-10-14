@@ -1,5 +1,5 @@
 {
-    "202201": {
+    "202301": {
         "Staff": [
             {
                 "name": "פרס הרי לידיה",
@@ -7,6 +7,15 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
+        "Exam_A": {
+            "students": "62",
+            "passFail": "58\/4",
+            "passPercent": "94",
+            "min": "38",
+            "max": "105",
+            "average": "80.468",
+            "median": "81"
+        },
         "Final_A": {
             "students": "",
             "passFail": "",
@@ -26,7 +35,7 @@
             "median": ""
         }
     },
-    "202301": {
+    "202201": {
         "Staff": [
             {
                 "name": "פרס הרי לידיה",
@@ -34,15 +43,6 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Exam_A": {
-            "students": "62",
-            "passFail": "58\/4",
-            "passPercent": "94",
-            "min": "38",
-            "max": "105",
-            "average": "80.468",
-            "median": "81"
-        },
         "Final_A": {
             "students": "",
             "passFail": "",

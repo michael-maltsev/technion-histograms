@@ -1,31 +1,4 @@
 {
-    "201901": {
-        "Staff": [
-            {
-                "name": "כוכבי יצחק",
-                "email": "izik.khv@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "56",
-            "passFail": "56\/0",
-            "passPercent": "100",
-            "min": "65",
-            "max": "100",
-            "average": "88.696",
-            "median": "91"
-        },
-        "Finals": {
-            "students": "56",
-            "passFail": "56\/0",
-            "passPercent": "100",
-            "min": "65",
-            "max": "100",
-            "average": "89.554",
-            "median": "92"
-        }
-    },
     "202202": {
         "Staff": [
             {
@@ -70,6 +43,33 @@
             "max": "96",
             "average": "80.48",
             "median": "81.5"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "כוכבי יצחק",
+                "email": "izik.khv@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "56",
+            "passFail": "56\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "88.696",
+            "median": "91"
+        },
+        "Finals": {
+            "students": "56",
+            "passFail": "56\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "89.554",
+            "median": "92"
         }
     }
 }

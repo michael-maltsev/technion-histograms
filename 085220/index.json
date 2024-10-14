@@ -1,34 +1,25 @@
 {
-    "201802": {
+    "202102": {
         "Staff": [
-            {
-                "name": "שפיר יהודה",
-                "email": "udifisher@gmail.com",
-                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
-            },
             {
                 "name": "הרשקו דפנה",
                 "email": "ae.ugsec@technion.ac.il",
-                "title": ""
+                "title": "מרצה"
+            },
+            {
+                "name": "שפיר יהודה",
+                "email": "yehudas@technion.ac.il",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
             }
         ],
-        "Final_A": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "82",
-            "max": "97",
-            "average": "91.333",
-            "median": "93.5"
-        },
         "Finals": {
             "students": "12",
             "passFail": "12\/0",
             "passPercent": "100",
-            "min": "82",
-            "max": "97",
-            "average": "91.333",
-            "median": "93.5"
+            "min": "85",
+            "max": "95",
+            "average": "90.583",
+            "median": "91"
         }
     },
     "201901": {
@@ -63,27 +54,36 @@
             "median": "89"
         }
     },
-    "202102": {
+    "201802": {
         "Staff": [
+            {
+                "name": "שפיר יהודה",
+                "email": "udifisher@gmail.com",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+            },
             {
                 "name": "הרשקו דפנה",
                 "email": "ae.ugsec@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "שפיר יהודה",
-                "email": "yehudas@technion.ac.il",
-                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+                "title": ""
             }
         ],
+        "Final_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "82",
+            "max": "97",
+            "average": "91.333",
+            "median": "93.5"
+        },
         "Finals": {
             "students": "12",
             "passFail": "12\/0",
             "passPercent": "100",
-            "min": "85",
-            "max": "95",
-            "average": "90.583",
-            "median": "91"
+            "min": "82",
+            "max": "97",
+            "average": "91.333",
+            "median": "93.5"
         }
     }
 }

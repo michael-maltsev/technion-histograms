@@ -1,31 +1,4 @@
 {
-    "201701": {
-        "Staff": [
-            {
-                "name": "איזנבוד דרור",
-                "email": "aizenbud@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "108",
-            "passFail": "108\/0",
-            "passPercent": "100",
-            "min": "88",
-            "max": "100",
-            "average": "96.704",
-            "median": "97"
-        },
-        "Finals": {
-            "students": "109",
-            "passFail": "109\/0",
-            "passPercent": "100",
-            "min": "88",
-            "max": "100",
-            "average": "96.734",
-            "median": "97"
-        }
-    },
     "201901": {
         "Staff": [
             {
@@ -51,6 +24,33 @@
             "max": "100",
             "average": "97.67",
             "median": "100"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "איזנבוד דרור",
+                "email": "aizenbud@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "108",
+            "passFail": "108\/0",
+            "passPercent": "100",
+            "min": "88",
+            "max": "100",
+            "average": "96.704",
+            "median": "97"
+        },
+        "Finals": {
+            "students": "109",
+            "passFail": "109\/0",
+            "passPercent": "100",
+            "min": "88",
+            "max": "100",
+            "average": "96.734",
+            "median": "97"
         }
     }
 }

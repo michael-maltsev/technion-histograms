@@ -1,31 +1,4 @@
 {
-    "201901": {
-        "Staff": [
-            {
-                "name": "איוב נביה",
-                "email": "ayoubn@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "99",
-            "average": "93.692",
-            "median": "94"
-        },
-        "Finals": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "99",
-            "average": "93.692",
-            "median": "94"
-        }
-    },
     "202101": {
         "Staff": [
             {
@@ -51,6 +24,33 @@
             "max": "99",
             "average": "93.455",
             "median": "92"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "איוב נביה",
+                "email": "ayoubn@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "99",
+            "average": "93.692",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "99",
+            "average": "93.692",
+            "median": "94"
         }
     }
 }

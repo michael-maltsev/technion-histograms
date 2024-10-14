@@ -1,4 +1,31 @@
 {
+    "201902": {
+        "Staff": [
+            {
+                "name": "מישר נעמה",
+                "email": "naama.meishar@mail.huji.ac.il,arnaama@technion.ac.il",
+                "title": "מנחה פרויקטים  - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "95",
+            "average": "86.368",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "95",
+            "average": "86.368",
+            "median": "86"
+        }
+    },
     "201802": {
         "Staff": [
             {
@@ -34,33 +61,6 @@
             "max": "95",
             "average": "85.5",
             "median": "85"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "מישר נעמה",
-                "email": "naama.meishar@mail.huji.ac.il,arnaama@technion.ac.il",
-                "title": "מנחה פרויקטים  - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "19",
-            "passFail": "19\/0",
-            "passPercent": "100",
-            "min": "76",
-            "max": "95",
-            "average": "86.368",
-            "median": "86"
-        },
-        "Finals": {
-            "students": "19",
-            "passFail": "19\/0",
-            "passPercent": "100",
-            "min": "76",
-            "max": "95",
-            "average": "86.368",
-            "median": "86"
         }
     }
 }

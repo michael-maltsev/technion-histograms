@@ -1,66 +1,4 @@
 {
-    "202002": {
-        "Staff": [
-            {
-                "name": "אדרעי-אזולאי לוסי",
-                "email": "lucy.ea.78@gmail.com",
-                "title": "מרצה"
-            },
-            {
-                "name": "שפונד זלמן",
-                "email": "shlomo.shp@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "חודוס גרגורי",
-                "email": "grisha@tevel-agtech.com",
-                "title": "מרצה"
-            },
-            {
-                "name": "נווה עודד",
-                "email": "odedn@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "זנגו עמי",
-                "email": "ami.zango@gmail.com",
-                "title": "מרצה"
-            },
-            {
-                "name": "קדושין יצחק",
-                "email": "itzchak.k@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "דיסקין דוד",
-                "email": "david.diskin149@gmail.com,david.diskin@campus.technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "איטוביץ יאן",
-                "email": "itovich@technion.ac.il",
-                "title": "מרצה"
-            }
-        ],
-        "Final_A": {
-            "students": "24",
-            "passFail": "24\/0",
-            "passPercent": "100",
-            "min": "71",
-            "max": "100",
-            "average": "93.292",
-            "median": "97"
-        },
-        "Finals": {
-            "students": "55",
-            "passFail": "55\/0",
-            "passPercent": "100",
-            "min": "71",
-            "max": "100",
-            "average": "94.145",
-            "median": "96"
-        }
-    },
     "202102": {
         "Staff": [
             {
@@ -125,6 +63,68 @@
             "max": "100",
             "average": "93.068",
             "median": "94"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "אדרעי-אזולאי לוסי",
+                "email": "lucy.ea.78@gmail.com",
+                "title": "מרצה"
+            },
+            {
+                "name": "שפונד זלמן",
+                "email": "shlomo.shp@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "חודוס גרגורי",
+                "email": "grisha@tevel-agtech.com",
+                "title": "מרצה"
+            },
+            {
+                "name": "נווה עודד",
+                "email": "odedn@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "זנגו עמי",
+                "email": "ami.zango@gmail.com",
+                "title": "מרצה"
+            },
+            {
+                "name": "קדושין יצחק",
+                "email": "itzchak.k@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "דיסקין דוד",
+                "email": "david.diskin149@gmail.com,david.diskin@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "איטוביץ יאן",
+                "email": "itovich@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Final_A": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "100",
+            "average": "93.292",
+            "median": "97"
+        },
+        "Finals": {
+            "students": "55",
+            "passFail": "55\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "100",
+            "average": "94.145",
+            "median": "96"
         }
     }
 }

@@ -1,22 +1,4 @@
 {
-    "202001": {
-        "Staff": [
-            {
-                "name": "קורן צבי",
-                "email": "zvik70@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "27",
-            "passFail": "27\/0",
-            "passPercent": "100",
-            "min": "75",
-            "max": "100",
-            "average": "90.815",
-            "median": "91"
-        }
-    },
     "202202": {
         "Staff": [
             {
@@ -42,6 +24,24 @@
             "max": "95",
             "average": "85.773",
             "median": "87.5"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "קורן צבי",
+                "email": "zvik70@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "27",
+            "passFail": "27\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "100",
+            "average": "90.815",
+            "median": "91"
         }
     }
 }

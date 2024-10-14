@@ -1,67 +1,4 @@
 {
-    "201601": {
-        "Staff": [
-            {
-                "name": "רוזנברג פנינה",
-                "email": "pninarose@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "104",
-            "passFail": "104\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "99.567",
-            "median": "100"
-        },
-        "Finals": {
-            "students": "105",
-            "passFail": "105\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "99.571",
-            "median": "100"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "רוזנברג פנינה",
-                "email": "pninarose@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "104",
-            "passFail": "104\/0",
-            "passPercent": "100",
-            "min": "64",
-            "max": "100",
-            "average": "93.308",
-            "median": "96"
-        },
-        "Final_B": {
-            "students": "23",
-            "passFail": "23\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "100",
-            "average": "93.913",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "111",
-            "passFail": "111\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "100",
-            "average": "95.171",
-            "median": "98"
-        }
-    },
     "201803": {
         "Staff": [
             {
@@ -107,6 +44,69 @@
             "max": "100",
             "average": "92.381",
             "median": "96"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "רוזנברג פנינה",
+                "email": "pninarose@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "104",
+            "passFail": "104\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "100",
+            "average": "93.308",
+            "median": "96"
+        },
+        "Final_B": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "93.913",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "111",
+            "passFail": "111\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "95.171",
+            "median": "98"
+        }
+    },
+    "201601": {
+        "Staff": [
+            {
+                "name": "רוזנברג פנינה",
+                "email": "pninarose@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "104",
+            "passFail": "104\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "99.567",
+            "median": "100"
+        },
+        "Finals": {
+            "students": "105",
+            "passFail": "105\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "99.571",
+            "median": "100"
         }
     }
 }

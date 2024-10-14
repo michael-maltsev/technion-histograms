@@ -1,23 +1,5 @@
 {
-    "201701": {
-        "Staff": [
-            {
-                "name": "הרר יל",
-                "email": "yale@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "21",
-            "passFail": "21\/0",
-            "passPercent": "100",
-            "min": "86",
-            "max": "98",
-            "average": "93.143",
-            "median": "93"
-        }
-    },
-    "201801": {
+    "202201": {
         "Staff": [
             {
                 "name": "הרר יל",
@@ -27,59 +9,54 @@
             {
                 "name": "זיו דוד מורן",
                 "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "אגסי זיוה",
-                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "45",
-            "passFail": "45\/0",
-            "passPercent": "100",
-            "min": "87",
-            "max": "98",
-            "average": "94.756",
-            "median": "95"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "הרר יל",
-                "email": "yale@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "אגסי זיוה",
-                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "32",
-            "passFail": "32\/0",
+            "students": "13",
+            "passFail": "13\/0",
             "passPercent": "100",
-            "min": "73",
-            "max": "98",
-            "average": "91.156",
+            "min": "90",
+            "max": "92",
+            "average": "91.077",
+            "median": "91"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "כהן חיים",
+                "email": "haimc@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הרר יל",
+                "email": "yale@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "96",
+            "average": "92.577",
             "median": "93"
         },
         "Finals": {
-            "students": "92",
-            "passFail": "92\/0",
+            "students": "34",
+            "passFail": "34\/0",
             "passPercent": "100",
-            "min": "73",
-            "max": "98",
-            "average": "93.272",
-            "median": "95"
+            "min": "86",
+            "max": "96",
+            "average": "92.412",
+            "median": "92.5"
         }
     },
     "202001": {
@@ -138,44 +115,44 @@
             "median": "93"
         }
     },
-    "202101": {
+    "201802": {
         "Staff": [
-            {
-                "name": "כהן חיים",
-                "email": "haimc@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
             {
                 "name": "הרר יל",
                 "email": "yale@technion.ac.il",
-                "title": "מרצה"
+                "title": "מרצה - אחראי מקצוע"
             },
             {
                 "name": "זיו דוד מורן",
                 "email": "moran.z@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אגסי זיוה",
+                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "26",
-            "passFail": "26\/0",
+            "students": "32",
+            "passFail": "32\/0",
             "passPercent": "100",
-            "min": "86",
-            "max": "96",
-            "average": "92.577",
+            "min": "73",
+            "max": "98",
+            "average": "91.156",
             "median": "93"
         },
         "Finals": {
-            "students": "34",
-            "passFail": "34\/0",
+            "students": "92",
+            "passFail": "92\/0",
             "passPercent": "100",
-            "min": "86",
-            "max": "96",
-            "average": "92.412",
-            "median": "92.5"
+            "min": "73",
+            "max": "98",
+            "average": "93.272",
+            "median": "95"
         }
     },
-    "202201": {
+    "201801": {
         "Staff": [
             {
                 "name": "הרר יל",
@@ -186,16 +163,39 @@
                 "name": "זיו דוד מורן",
                 "email": "moran.z@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אגסי זיוה",
+                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
-        "Final_A": {
-            "students": "13",
-            "passFail": "13\/0",
+        "Finals": {
+            "students": "45",
+            "passFail": "45\/0",
             "passPercent": "100",
-            "min": "90",
-            "max": "92",
-            "average": "91.077",
-            "median": "91"
+            "min": "87",
+            "max": "98",
+            "average": "94.756",
+            "median": "95"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "הרר יל",
+                "email": "yale@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "98",
+            "average": "93.143",
+            "median": "93"
         }
     }
 }

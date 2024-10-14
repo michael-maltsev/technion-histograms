@@ -1,31 +1,4 @@
 {
-    "201802": {
-        "Staff": [
-            {
-                "name": "לינדל דבי",
-                "email": "dlindell@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "15",
-            "passFail": "14\/1",
-            "passPercent": "93",
-            "min": "50",
-            "max": "95",
-            "average": "76.533",
-            "median": "76"
-        },
-        "Finals": {
-            "students": "20",
-            "passFail": "18\/2",
-            "passPercent": "90",
-            "min": "38",
-            "max": "95",
-            "average": "76.8",
-            "median": "81"
-        }
-    },
     "201902": {
         "Staff": [
             {
@@ -51,6 +24,33 @@
             "max": "92",
             "average": "76.5",
             "median": "79"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "לינדל דבי",
+                "email": "dlindell@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "50",
+            "max": "95",
+            "average": "76.533",
+            "median": "76"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "18\/2",
+            "passPercent": "90",
+            "min": "38",
+            "max": "95",
+            "average": "76.8",
+            "median": "81"
         }
     }
 }

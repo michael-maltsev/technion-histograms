@@ -1,5 +1,5 @@
 {
-    "201702": {
+    "202101": {
         "Staff": [
             {
                 "name": "זלזו דניאל",
@@ -7,14 +7,23 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
+        "Final_A": {
+            "students": "14",
+            "passFail": "14\/0",
             "passPercent": "100",
-            "min": "68",
-            "max": "100",
-            "average": "81.1",
-            "median": "78.5"
+            "min": "67",
+            "max": "96",
+            "average": "86.286",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "96",
+            "average": "86.286",
+            "median": "90"
         }
     },
     "201901": {
@@ -44,7 +53,7 @@
             "median": "86.5"
         }
     },
-    "202101": {
+    "201702": {
         "Staff": [
             {
                 "name": "זלזו דניאל",
@@ -52,23 +61,14 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Final_A": {
-            "students": "14",
-            "passFail": "14\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "96",
-            "average": "86.286",
-            "median": "90"
-        },
         "Finals": {
-            "students": "14",
-            "passFail": "14\/0",
+            "students": "10",
+            "passFail": "10\/0",
             "passPercent": "100",
-            "min": "67",
-            "max": "96",
-            "average": "86.286",
-            "median": "90"
+            "min": "68",
+            "max": "100",
+            "average": "81.1",
+            "median": "78.5"
         }
     }
 }

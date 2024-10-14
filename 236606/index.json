@@ -1,20 +1,38 @@
 {
-    "201801": {
+    "202201": {
         "Staff": [
             {
-                "name": "אל-יניב רן",
-                "email": "rani@cs.technion.ac.il",
+                "name": "אורן גל",
+                "email": "galoren@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "38",
-            "passFail": "38\/0",
-            "passPercent": "100",
-            "min": "66",
+            "students": "23",
+            "passFail": "22\/1",
+            "passPercent": "96",
+            "min": "17",
             "max": "100",
-            "average": "88.605",
-            "median": "89.5"
+            "average": "91.565",
+            "median": "93"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "טלגם-כהן ענבל",
+                "email": "italgam@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "31",
+            "passFail": "31\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "100",
+            "average": "92",
+            "median": "95"
         }
     },
     "201802": {
@@ -40,40 +58,22 @@
             "median": "96"
         }
     },
-    "202002": {
+    "201801": {
         "Staff": [
             {
-                "name": "טלגם-כהן ענבל",
-                "email": "italgam@technion.ac.il",
+                "name": "אל-יניב רן",
+                "email": "rani@cs.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "31",
-            "passFail": "31\/0",
+            "students": "38",
+            "passFail": "38\/0",
             "passPercent": "100",
-            "min": "67",
+            "min": "66",
             "max": "100",
-            "average": "92",
-            "median": "95"
-        }
-    },
-    "202201": {
-        "Staff": [
-            {
-                "name": "אורן גל",
-                "email": "galoren@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "23",
-            "passFail": "22\/1",
-            "passPercent": "96",
-            "min": "17",
-            "max": "100",
-            "average": "91.565",
-            "median": "93"
+            "average": "88.605",
+            "median": "89.5"
         }
     }
 }

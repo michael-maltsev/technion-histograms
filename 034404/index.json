@@ -1,4 +1,123 @@
 {
+    "202101": {
+        "Staff": [
+            {
+                "name": "נויפלד טל",
+                "email": "tal.neufeld@gmail.com,neufeld@technion.ac.il",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "91",
+            "max": "100",
+            "average": "96.077",
+            "median": "97"
+        },
+        "Finals": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "91",
+            "max": "100",
+            "average": "96.077",
+            "median": "97"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "לומברוזו אורן",
+                "email": "orenl@systematics.co.il",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "88",
+            "max": "94",
+            "average": "91.6",
+            "median": "93"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "לומברוזו אורן",
+                "email": "orenl@systematics.co.il",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "98",
+            "average": "94.312",
+            "median": "93"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "לומברוזו אורן",
+                "email": "orenl@systematics.co.il",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "89",
+            "max": "93",
+            "average": "90.8",
+            "median": "91"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "לומברוזו אורן",
+                "email": "orenl@systematics.co.il",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "83",
+            "max": "96",
+            "average": "92.619",
+            "median": "93"
+        }
+    },
+    "201603": {
+        "Final_A": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "96",
+            "average": "93.25",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "96",
+            "average": "93.25",
+            "median": "95"
+        }
+    },
     "201602": {
         "Staff": [
             {
@@ -29,125 +148,6 @@
             "max": "97",
             "average": "92.4",
             "median": "93"
-        }
-    },
-    "201603": {
-        "Final_A": {
-            "students": "24",
-            "passFail": "24\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "96",
-            "average": "93.25",
-            "median": "95"
-        },
-        "Finals": {
-            "students": "24",
-            "passFail": "24\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "96",
-            "average": "93.25",
-            "median": "95"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "לומברוזו אורן",
-                "email": "orenl@systematics.co.il",
-                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "21",
-            "passFail": "21\/0",
-            "passPercent": "100",
-            "min": "83",
-            "max": "96",
-            "average": "92.619",
-            "median": "93"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "לומברוזו אורן",
-                "email": "orenl@systematics.co.il",
-                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "89",
-            "max": "93",
-            "average": "90.8",
-            "median": "91"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "לומברוזו אורן",
-                "email": "orenl@systematics.co.il",
-                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "93",
-            "max": "98",
-            "average": "94.312",
-            "median": "93"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "לומברוזו אורן",
-                "email": "orenl@systematics.co.il",
-                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "88",
-            "max": "94",
-            "average": "91.6",
-            "median": "93"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "נויפלד טל",
-                "email": "tal.neufeld@gmail.com,neufeld@technion.ac.il",
-                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "91",
-            "max": "100",
-            "average": "96.077",
-            "median": "97"
-        },
-        "Finals": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "91",
-            "max": "100",
-            "average": "96.077",
-            "median": "97"
         }
     }
 }

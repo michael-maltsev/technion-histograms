@@ -1,29 +1,56 @@
 {
-    "201901": {
+    "202301": {
         "Staff": [
             {
-                "name": "רנד עמרי",
-                "email": "rand@technion.ac.il",
+                "name": "יוסילבסקי גיל",
+                "email": "igil@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Final_A": {
-            "students": "15",
-            "passFail": "13\/2",
-            "passPercent": "87",
-            "min": "10",
-            "max": "98",
-            "average": "70.267",
-            "median": "74"
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "100",
+            "average": "91.333",
+            "median": "93"
         },
         "Finals": {
-            "students": "18",
-            "passFail": "17\/1",
-            "passPercent": "94",
-            "min": "10",
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "89.682",
+            "median": "92"
+        }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "יוסילבסקי גיל",
+                "email": "igil@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "67",
             "max": "98",
-            "average": "71.944",
-            "median": "74.5"
+            "average": "89.562",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "98",
+            "average": "89.562",
+            "median": "90"
         }
     },
     "202101": {
@@ -67,58 +94,31 @@
             "median": "75"
         }
     },
-    "202201": {
+    "201901": {
         "Staff": [
             {
-                "name": "יוסילבסקי גיל",
-                "email": "igil@technion.ac.il",
+                "name": "רנד עמרי",
+                "email": "rand@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Final_A": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "67",
+            "students": "15",
+            "passFail": "13\/2",
+            "passPercent": "87",
+            "min": "10",
             "max": "98",
-            "average": "89.562",
-            "median": "90"
+            "average": "70.267",
+            "median": "74"
         },
         "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "67",
+            "students": "18",
+            "passFail": "17\/1",
+            "passPercent": "94",
+            "min": "10",
             "max": "98",
-            "average": "89.562",
-            "median": "90"
-        }
-    },
-    "202301": {
-        "Staff": [
-            {
-                "name": "יוסילבסקי גיל",
-                "email": "igil@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "21",
-            "passFail": "21\/0",
-            "passPercent": "100",
-            "min": "72",
-            "max": "100",
-            "average": "91.333",
-            "median": "93"
-        },
-        "Finals": {
-            "students": "22",
-            "passFail": "22\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "100",
-            "average": "89.682",
-            "median": "92"
+            "average": "71.944",
+            "median": "74.5"
         }
     }
 }

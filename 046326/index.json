@@ -1,164 +1,5 @@
 {
-    "201401": {
-        "Staff": [
-            {
-                "name": "כפתורי רן",
-                "email": "kaftoryr@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "איזנר שוקי )יהוש",
-                "email": "shukie@technion.ac.il",
-                "title": "מתרגל"
-            }
-        ],
-        "Final_A": {
-            "students": "35",
-            "passFail": "33\/2",
-            "passPercent": "94",
-            "min": "42",
-            "max": "99",
-            "average": "76.771",
-            "median": "78"
-        },
-        "Final_B": {
-            "students": "15",
-            "passFail": "14\/1",
-            "passPercent": "93",
-            "min": "53",
-            "max": "95",
-            "average": "76.733",
-            "median": "77"
-        },
-        "Finals": {
-            "students": "45",
-            "passFail": "44\/1",
-            "passPercent": "98",
-            "min": "53",
-            "max": "99",
-            "average": "78.467",
-            "median": "79"
-        }
-    },
-    "201501": {
-        "Staff": [
-            {
-                "name": "מאיר רון",
-                "email": "rmeir@ee.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "איזנר שוקי )יהוש",
-                "email": "shukie@technion.ac.il",
-                "title": "מתרגל"
-            }
-        ],
-        "Exam_A": {
-            "students": "36",
-            "passFail": "21\/15",
-            "passPercent": "58",
-            "min": "26",
-            "max": "87",
-            "average": "59.278",
-            "median": "58.5"
-        },
-        "Final_A": {
-            "students": "36",
-            "passFail": "33\/3",
-            "passPercent": "92",
-            "min": "42",
-            "max": "97",
-            "average": "76.417",
-            "median": "76"
-        },
-        "Exam_B": {
-            "students": "21",
-            "passFail": "15\/6",
-            "passPercent": "71",
-            "min": "37",
-            "max": "98",
-            "average": "66.81",
-            "median": "74"
-        },
-        "Final_B": {
-            "students": "21",
-            "passFail": "18\/3",
-            "passPercent": "86",
-            "min": "45",
-            "max": "100",
-            "average": "75.095",
-            "median": "81"
-        },
-        "Finals": {
-            "students": "45",
-            "passFail": "42\/3",
-            "passPercent": "93",
-            "min": "45",
-            "max": "100",
-            "average": "79.667",
-            "median": "82"
-        }
-    },
-    "201601": {
-        "Staff": [
-            {
-                "name": "מאיר רון",
-                "email": "rmeir@ee.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "הרוש עמרי",
-                "email": "omri.harosh@campus",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Exam_A": {
-            "students": "42",
-            "passFail": "29\/13",
-            "passPercent": "69",
-            "min": "20",
-            "max": "98",
-            "average": "66",
-            "median": "70"
-        },
-        "Final_A": {
-            "students": "42",
-            "passFail": "37\/5",
-            "passPercent": "88",
-            "min": "38",
-            "max": "100",
-            "average": "76.143",
-            "median": "80"
-        },
-        "Exam_B": {
-            "students": "16",
-            "passFail": "12\/4",
-            "passPercent": "75",
-            "min": "25",
-            "max": "93",
-            "average": "64.938",
-            "median": "67"
-        },
-        "Final_B": {
-            "students": "16",
-            "passFail": "15\/1",
-            "passPercent": "94",
-            "min": "42",
-            "max": "97",
-            "average": "73.062",
-            "median": "74"
-        },
-        "Finals": {
-            "students": "48",
-            "passFail": "47\/1",
-            "passPercent": "98",
-            "min": "42",
-            "max": "100",
-            "average": "79.5",
-            "median": "80.5"
-        }
-    },
-    "201701": {
+    "202301": {
         "Staff": [
             {
                 "name": "סודרי דניאל",
@@ -166,219 +7,28 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "רווה אור",
-                "email": "sravehor@campus.technion.ac.il",
+                "name": "סוקר אדם",
+                "email": "adam-soker@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
-            "students": "26",
-            "passFail": "20\/6",
-            "passPercent": "77",
-            "min": "31",
-            "max": "98",
-            "average": "67.654",
-            "median": "64.5"
-        },
-        "Final_A": {
-            "students": "26",
-            "passFail": "25\/1",
-            "passPercent": "96",
-            "min": "45",
-            "max": "100",
-            "average": "75.654",
-            "median": "74"
-        },
-        "Exam_B": {
-            "students": "11",
-            "passFail": "9\/2",
-            "passPercent": "82",
-            "min": "35",
-            "max": "97",
-            "average": "77.545",
-            "median": "80"
-        },
-        "Final_B": {
-            "students": "11",
-            "passFail": "10\/1",
-            "passPercent": "91",
-            "min": "48",
-            "max": "100",
-            "average": "83.727",
-            "median": "86"
-        },
-        "Finals": {
-            "students": "31",
-            "passFail": "30\/1",
-            "passPercent": "97",
-            "min": "48",
-            "max": "100",
-            "average": "81.871",
-            "median": "81"
-        }
-    },
-    "201801": {
-        "Staff": [
-            {
-                "name": "סודרי דניאל",
-                "email": "daniel.soudry@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "חביב דורון",
-                "email": "doron.haviv12@gmail.com,sdoronha@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Exam_A": {
-            "students": "34",
-            "passFail": "30\/4",
-            "passPercent": "88",
-            "min": "37",
-            "max": "97",
-            "average": "77.853",
-            "median": "81.5"
-        },
-        "Final_A": {
-            "students": "34",
-            "passFail": "32\/2",
-            "passPercent": "94",
-            "min": "45",
-            "max": "100",
-            "average": "84.941",
-            "median": "89"
-        },
-        "Exam_B": {
-            "students": "14",
-            "passFail": "10\/4",
-            "passPercent": "71",
-            "min": "28",
-            "max": "84",
-            "average": "59.857",
-            "median": "60"
-        },
-        "Final_B": {
             "students": "14",
             "passFail": "12\/2",
             "passPercent": "86",
-            "min": "42",
-            "max": "90",
-            "average": "69.714",
-            "median": "69.5"
-        },
-        "Finals": {
-            "students": "45",
-            "passFail": "43\/2",
-            "passPercent": "96",
-            "min": "42",
-            "max": "100",
-            "average": "81.778",
-            "median": "83"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "מאיר רון",
-                "email": "rmeir@ee.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "רווה אור",
-                "email": "sravehor@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "33",
-            "passFail": "31\/2",
-            "passPercent": "94",
-            "min": "38",
-            "max": "99",
-            "average": "79.061",
-            "median": "79"
-        },
-        "Finals": {
-            "students": "38",
-            "passFail": "37\/1",
-            "passPercent": "97",
-            "min": "31",
-            "max": "99",
-            "average": "79.73",
-            "median": "79"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "סודרי דניאל",
-                "email": "daniel.soudry@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "חמוד באסל",
-                "email": "bassel164@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "58",
-            "max": "100",
-            "average": "83.56",
-            "median": "85"
-        },
-        "Finals": {
-            "students": "31",
-            "passFail": "31\/0",
-            "passPercent": "100",
-            "min": "58",
-            "max": "100",
-            "average": "82.452",
-            "median": "80"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "סודרי דניאל",
-                "email": "daniel.soudry@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "חמוד באסל",
-                "email": "bassel164@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Exam_A": {
-            "students": "22",
-            "passFail": "20\/2",
-            "passPercent": "91",
-            "min": "44",
-            "max": "90",
-            "average": "70.5",
-            "median": "70"
+            "min": "43",
+            "max": "97",
+            "average": "81",
+            "median": "85.5"
         },
         "Final_A": {
-            "students": "22",
-            "passFail": "22\/0",
-            "passPercent": "100",
-            "min": "58",
-            "max": "95",
-            "average": "78.773",
-            "median": "79"
-        },
-        "Finals": {
-            "students": "27",
-            "passFail": "26\/1",
-            "passPercent": "96",
-            "min": "51",
-            "max": "95",
-            "average": "80.741",
-            "median": "80"
+            "students": "14",
+            "passFail": "13\/1",
+            "passPercent": "93",
+            "min": "54",
+            "max": "100",
+            "average": "86.714",
+            "median": "90.5"
         }
     },
     "202201": {
@@ -440,7 +90,7 @@
             "median": "79.5"
         }
     },
-    "202301": {
+    "202101": {
         "Staff": [
             {
                 "name": "סודרי דניאל",
@@ -448,28 +98,378 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "סוקר אדם",
-                "email": "adam-soker@campus.technion.ac.il",
+                "name": "חמוד באסל",
+                "email": "bassel164@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
+            "students": "22",
+            "passFail": "20\/2",
+            "passPercent": "91",
+            "min": "44",
+            "max": "90",
+            "average": "70.5",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "95",
+            "average": "78.773",
+            "median": "79"
+        },
+        "Finals": {
+            "students": "27",
+            "passFail": "26\/1",
+            "passPercent": "96",
+            "min": "51",
+            "max": "95",
+            "average": "80.741",
+            "median": "80"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "סודרי דניאל",
+                "email": "daniel.soudry@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חמוד באסל",
+                "email": "bassel164@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "100",
+            "average": "83.56",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "31",
+            "passFail": "31\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "100",
+            "average": "82.452",
+            "median": "80"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "מאיר רון",
+                "email": "rmeir@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רווה אור",
+                "email": "sravehor@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "33",
+            "passFail": "31\/2",
+            "passPercent": "94",
+            "min": "38",
+            "max": "99",
+            "average": "79.061",
+            "median": "79"
+        },
+        "Finals": {
+            "students": "38",
+            "passFail": "37\/1",
+            "passPercent": "97",
+            "min": "31",
+            "max": "99",
+            "average": "79.73",
+            "median": "79"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "סודרי דניאל",
+                "email": "daniel.soudry@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חביב דורון",
+                "email": "doron.haviv12@gmail.com,sdoronha@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "34",
+            "passFail": "30\/4",
+            "passPercent": "88",
+            "min": "37",
+            "max": "97",
+            "average": "77.853",
+            "median": "81.5"
+        },
+        "Final_A": {
+            "students": "34",
+            "passFail": "32\/2",
+            "passPercent": "94",
+            "min": "45",
+            "max": "100",
+            "average": "84.941",
+            "median": "89"
+        },
+        "Exam_B": {
+            "students": "14",
+            "passFail": "10\/4",
+            "passPercent": "71",
+            "min": "28",
+            "max": "84",
+            "average": "59.857",
+            "median": "60"
+        },
+        "Final_B": {
             "students": "14",
             "passFail": "12\/2",
             "passPercent": "86",
-            "min": "43",
-            "max": "97",
-            "average": "81",
-            "median": "85.5"
+            "min": "42",
+            "max": "90",
+            "average": "69.714",
+            "median": "69.5"
+        },
+        "Finals": {
+            "students": "45",
+            "passFail": "43\/2",
+            "passPercent": "96",
+            "min": "42",
+            "max": "100",
+            "average": "81.778",
+            "median": "83"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "סודרי דניאל",
+                "email": "daniel.soudry@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רווה אור",
+                "email": "sravehor@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "26",
+            "passFail": "20\/6",
+            "passPercent": "77",
+            "min": "31",
+            "max": "98",
+            "average": "67.654",
+            "median": "64.5"
         },
         "Final_A": {
-            "students": "14",
-            "passFail": "13\/1",
-            "passPercent": "93",
-            "min": "54",
+            "students": "26",
+            "passFail": "25\/1",
+            "passPercent": "96",
+            "min": "45",
             "max": "100",
-            "average": "86.714",
-            "median": "90.5"
+            "average": "75.654",
+            "median": "74"
+        },
+        "Exam_B": {
+            "students": "11",
+            "passFail": "9\/2",
+            "passPercent": "82",
+            "min": "35",
+            "max": "97",
+            "average": "77.545",
+            "median": "80"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "10\/1",
+            "passPercent": "91",
+            "min": "48",
+            "max": "100",
+            "average": "83.727",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "31",
+            "passFail": "30\/1",
+            "passPercent": "97",
+            "min": "48",
+            "max": "100",
+            "average": "81.871",
+            "median": "81"
+        }
+    },
+    "201601": {
+        "Staff": [
+            {
+                "name": "מאיר רון",
+                "email": "rmeir@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הרוש עמרי",
+                "email": "omri.harosh@campus",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "42",
+            "passFail": "29\/13",
+            "passPercent": "69",
+            "min": "20",
+            "max": "98",
+            "average": "66",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "42",
+            "passFail": "37\/5",
+            "passPercent": "88",
+            "min": "38",
+            "max": "100",
+            "average": "76.143",
+            "median": "80"
+        },
+        "Exam_B": {
+            "students": "16",
+            "passFail": "12\/4",
+            "passPercent": "75",
+            "min": "25",
+            "max": "93",
+            "average": "64.938",
+            "median": "67"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "42",
+            "max": "97",
+            "average": "73.062",
+            "median": "74"
+        },
+        "Finals": {
+            "students": "48",
+            "passFail": "47\/1",
+            "passPercent": "98",
+            "min": "42",
+            "max": "100",
+            "average": "79.5",
+            "median": "80.5"
+        }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "מאיר רון",
+                "email": "rmeir@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "איזנר שוקי )יהוש",
+                "email": "shukie@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "36",
+            "passFail": "21\/15",
+            "passPercent": "58",
+            "min": "26",
+            "max": "87",
+            "average": "59.278",
+            "median": "58.5"
+        },
+        "Final_A": {
+            "students": "36",
+            "passFail": "33\/3",
+            "passPercent": "92",
+            "min": "42",
+            "max": "97",
+            "average": "76.417",
+            "median": "76"
+        },
+        "Exam_B": {
+            "students": "21",
+            "passFail": "15\/6",
+            "passPercent": "71",
+            "min": "37",
+            "max": "98",
+            "average": "66.81",
+            "median": "74"
+        },
+        "Final_B": {
+            "students": "21",
+            "passFail": "18\/3",
+            "passPercent": "86",
+            "min": "45",
+            "max": "100",
+            "average": "75.095",
+            "median": "81"
+        },
+        "Finals": {
+            "students": "45",
+            "passFail": "42\/3",
+            "passPercent": "93",
+            "min": "45",
+            "max": "100",
+            "average": "79.667",
+            "median": "82"
+        }
+    },
+    "201401": {
+        "Staff": [
+            {
+                "name": "כפתורי רן",
+                "email": "kaftoryr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "איזנר שוקי )יהוש",
+                "email": "shukie@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "35",
+            "passFail": "33\/2",
+            "passPercent": "94",
+            "min": "42",
+            "max": "99",
+            "average": "76.771",
+            "median": "78"
+        },
+        "Final_B": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "53",
+            "max": "95",
+            "average": "76.733",
+            "median": "77"
+        },
+        "Finals": {
+            "students": "45",
+            "passFail": "44\/1",
+            "passPercent": "98",
+            "min": "53",
+            "max": "99",
+            "average": "78.467",
+            "median": "79"
         }
     }
 }

@@ -1,19 +1,97 @@
 {
-    "201802": {
+    "202302": {
         "Staff": [
             {
                 "name": "דולב אלון",
                 "email": "adolev@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רם נעה",
+                "email": "noaram@campus.technion.ac.il",
+                "title": "מרצה"
             }
         ],
-        "Finals": {
-            "students": "25",
-            "passFail": "25\/0",
+        "Final_A": {
+            "students": "14",
+            "passFail": "14\/0",
             "passPercent": "100",
-            "min": "75",
-            "max": "95",
-            "average": "88.84",
+            "min": "88",
+            "max": "100",
+            "average": "94",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "88",
+            "max": "100",
+            "average": "94",
+            "median": "95"
+        }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "דולב אלון",
+                "email": "adolev@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פקרמן פז",
+                "email": "paz0p19@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Final_A": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "97",
+            "average": "89.143",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "97",
+            "average": "89.143",
+            "median": "87"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "דולב אלון",
+                "email": "adolev@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מאור יצחק ישי",
+                "email": "itzhak-ishayma@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Final_A": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "63",
+            "max": "98",
+            "average": "88.048",
+            "median": "89"
+        },
+        "Finals": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "63",
+            "max": "98",
+            "average": "88.048",
             "median": "89"
         }
     },
@@ -49,100 +127,22 @@
             "median": "92"
         }
     },
-    "202002": {
+    "201802": {
         "Staff": [
             {
                 "name": "דולב אלון",
                 "email": "adolev@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "מאור יצחק ישי",
-                "email": "itzhak-ishayma@campus.technion.ac.il",
-                "title": "מרצה"
             }
         ],
-        "Final_A": {
-            "students": "21",
-            "passFail": "21\/0",
+        "Finals": {
+            "students": "25",
+            "passFail": "25\/0",
             "passPercent": "100",
-            "min": "63",
-            "max": "98",
-            "average": "88.048",
+            "min": "75",
+            "max": "95",
+            "average": "88.84",
             "median": "89"
-        },
-        "Finals": {
-            "students": "21",
-            "passFail": "21\/0",
-            "passPercent": "100",
-            "min": "63",
-            "max": "98",
-            "average": "88.048",
-            "median": "89"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "דולב אלון",
-                "email": "adolev@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "פקרמן פז",
-                "email": "paz0p19@campus.technion.ac.il",
-                "title": "מרצה"
-            }
-        ],
-        "Final_A": {
-            "students": "21",
-            "passFail": "21\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "97",
-            "average": "89.143",
-            "median": "87"
-        },
-        "Finals": {
-            "students": "21",
-            "passFail": "21\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "97",
-            "average": "89.143",
-            "median": "87"
-        }
-    },
-    "202302": {
-        "Staff": [
-            {
-                "name": "דולב אלון",
-                "email": "adolev@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "רם נעה",
-                "email": "noaram@campus.technion.ac.il",
-                "title": "מרצה"
-            }
-        ],
-        "Final_A": {
-            "students": "14",
-            "passFail": "14\/0",
-            "passPercent": "100",
-            "min": "88",
-            "max": "100",
-            "average": "94",
-            "median": "95"
-        },
-        "Finals": {
-            "students": "14",
-            "passFail": "14\/0",
-            "passPercent": "100",
-            "min": "88",
-            "max": "100",
-            "average": "94",
-            "median": "95"
         }
     }
 }

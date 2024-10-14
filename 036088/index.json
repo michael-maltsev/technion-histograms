@@ -1,40 +1,4 @@
 {
-    "201602": {
-        "Staff": [
-            {
-                "name": "מרדכי דן",
-                "email": "danmord@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "88",
-            "max": "100",
-            "average": "94.182",
-            "median": "93"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "מרדכי דן",
-                "email": "danmord@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "95.923",
-            "median": "98"
-        }
-    },
     "202001": {
         "Staff": [
             {
@@ -60,6 +24,42 @@
             "max": "100",
             "average": "95.929",
             "median": "95.5"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "מרדכי דן",
+                "email": "danmord@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "95.923",
+            "median": "98"
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "מרדכי דן",
+                "email": "danmord@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "88",
+            "max": "100",
+            "average": "94.182",
+            "median": "93"
         }
     }
 }

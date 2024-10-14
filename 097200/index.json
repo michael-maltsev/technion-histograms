@@ -1,47 +1,5 @@
 {
-    "201801": {
-        "Staff": [
-            {
-                "name": "חזן תמיר",
-                "email": "tamir.hazan@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "לורברבום גיא",
-                "email": "guyll59@gmail.com,guy_lorber@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "אגסי זיוה",
-                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "44",
-            "passFail": "44\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "98",
-            "average": "92.5",
-            "median": "93"
-        },
-        "Finals": {
-            "students": "89",
-            "passFail": "89\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "98",
-            "average": "93.315",
-            "median": "94"
-        }
-    },
-    "201901": {
+    "202201": {
         "Staff": [
             {
                 "name": "חזן תמיר",
@@ -52,34 +10,76 @@
                 "name": "גת איתי",
                 "email": "itaigat.mail@gmail.com,itaigat@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
             "students": "54",
+            "passFail": "52\/2",
+            "passPercent": "96",
+            "min": "51",
+            "max": "100",
+            "average": "84.37",
+            "median": "87.5"
+        },
+        "Finals": {
+            "students": "54",
             "passFail": "54\/0",
             "passPercent": "100",
-            "min": "70",
-            "max": "99",
-            "average": "89.352",
+            "min": "64",
+            "max": "100",
+            "average": "88.759",
+            "median": "92"
+        }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "חזן תמיר",
+                "email": "tamir.hazan@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דרוזדוב איגור",
+                "email": "igor.drozdov@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "110",
+            "passFail": "110\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "100",
+            "average": "87.482",
             "median": "90"
         },
         "Final_B": {
-            "students": "26",
-            "passFail": "26\/0",
+            "students": "12",
+            "passFail": "12\/0",
             "passPercent": "100",
-            "min": "89",
-            "max": "100",
-            "average": "94.038",
-            "median": "94"
+            "min": "60",
+            "max": "95",
+            "average": "85.583",
+            "median": "87.5"
         },
         "Finals": {
-            "students": "84",
-            "passFail": "84\/0",
+            "students": "122",
+            "passFail": "122\/0",
             "passPercent": "100",
-            "min": "70",
+            "min": "60",
             "max": "100",
-            "average": "91.06",
-            "median": "93"
+            "average": "87.91",
+            "median": "90"
         }
     },
     "202001": {
@@ -138,53 +138,7 @@
             "median": "89"
         }
     },
-    "202102": {
-        "Staff": [
-            {
-                "name": "חזן תמיר",
-                "email": "tamir.hazan@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "דרוזדוב איגור",
-                "email": "igor.drozdov@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "110",
-            "passFail": "110\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "100",
-            "average": "87.482",
-            "median": "90"
-        },
-        "Final_B": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "95",
-            "average": "85.583",
-            "median": "87.5"
-        },
-        "Finals": {
-            "students": "122",
-            "passFail": "122\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "100",
-            "average": "87.91",
-            "median": "90"
-        }
-    },
-    "202201": {
+    "201901": {
         "Staff": [
             {
                 "name": "חזן תמיר",
@@ -195,30 +149,76 @@
                 "name": "גת איתי",
                 "email": "itaigat.mail@gmail.com,itaigat@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "54",
+            "passFail": "54\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "99",
+            "average": "89.352",
+            "median": "90"
+        },
+        "Final_B": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "89",
+            "max": "100",
+            "average": "94.038",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "84",
+            "passFail": "84\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "91.06",
+            "median": "93"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "חזן תמיר",
+                "email": "tamir.hazan@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לורברבום גיא",
+                "email": "guyll59@gmail.com,guy_lorber@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "זיו דוד מורן",
                 "email": "moran.z@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אגסי זיוה",
+                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "54",
-            "passFail": "52\/2",
-            "passPercent": "96",
-            "min": "51",
-            "max": "100",
-            "average": "84.37",
-            "median": "87.5"
+            "students": "44",
+            "passFail": "44\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "98",
+            "average": "92.5",
+            "median": "93"
         },
         "Finals": {
-            "students": "54",
-            "passFail": "54\/0",
+            "students": "89",
+            "passFail": "89\/0",
             "passPercent": "100",
-            "min": "64",
-            "max": "100",
-            "average": "88.759",
-            "median": "92"
+            "min": "80",
+            "max": "98",
+            "average": "93.315",
+            "median": "94"
         }
     }
 }

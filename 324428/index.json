@@ -1,76 +1,39 @@
 {
-    "201502": {
+    "202102": {
         "Staff": [
             {
                 "name": "דוקוב אלעד",
                 "email": "ravtec@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "37",
-            "passFail": "37\/0",
+            "students": "27",
+            "passFail": "27\/0",
             "passPercent": "100",
             "min": "90",
             "max": "100",
-            "average": "95.405",
+            "average": "95.593",
             "median": "95"
         },
         "Finals": {
-            "students": "49",
-            "passFail": "49\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "95.163",
-            "median": "96"
-        }
-    },
-    "201702": {
-        "Final_A": {
-            "students": "30",
-            "passFail": "30\/0",
-            "passPercent": "100",
-            "min": "94",
-            "max": "99",
-            "average": "96.4",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "39",
-            "passFail": "39\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "96.41",
-            "median": "96"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "דוקוב אלעד",
-                "email": "ravtec@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "31",
-            "passFail": "31\/0",
+            "students": "27",
+            "passFail": "27\/0",
             "passPercent": "100",
             "min": "90",
             "max": "100",
-            "average": "96.516",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "42",
-            "passFail": "42\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "96.69",
-            "median": "96"
+            "average": "95.593",
+            "median": "95"
         }
     },
     "202002": {
@@ -110,41 +73,78 @@
             "median": "95.5"
         }
     },
-    "202102": {
+    "201802": {
         "Staff": [
             {
                 "name": "דוקוב אלעד",
                 "email": "ravtec@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "27",
-            "passFail": "27\/0",
+            "students": "31",
+            "passFail": "31\/0",
             "passPercent": "100",
             "min": "90",
             "max": "100",
-            "average": "95.593",
+            "average": "96.516",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "42",
+            "passFail": "42\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "96.69",
+            "median": "96"
+        }
+    },
+    "201702": {
+        "Final_A": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "94",
+            "max": "99",
+            "average": "96.4",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "96.41",
+            "median": "96"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "דוקוב אלעד",
+                "email": "ravtec@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "37",
+            "passFail": "37\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "95.405",
             "median": "95"
         },
         "Finals": {
-            "students": "27",
-            "passFail": "27\/0",
+            "students": "49",
+            "passFail": "49\/0",
             "passPercent": "100",
-            "min": "90",
+            "min": "85",
             "max": "100",
-            "average": "95.593",
-            "median": "95"
+            "average": "95.163",
+            "median": "96"
         }
     }
 }

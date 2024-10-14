@@ -1,23 +1,5 @@
 {
-    "201501": {
-        "Staff": [
-            {
-                "name": "כץ ראובן",
-                "email": "reuvenk@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "14",
-            "passFail": "14\/0",
-            "passPercent": "100",
-            "min": "74",
-            "max": "93",
-            "average": "87.143",
-            "median": "89.5"
-        }
-    },
-    "201701": {
+    "202201": {
         "Staff": [
             {
                 "name": "כץ ראובן",
@@ -25,42 +7,28 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "קופמן עומרי",
-                "email": "omri.k@campus.technion.ac.il",
+                "name": "לוי-אור אוהד",
+                "email": "ohadlor@gmail.com,ohad.le@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
+        "Final_A": {
+            "students": "25",
+            "passFail": "25\/0",
             "passPercent": "100",
-            "min": "77",
+            "min": "76",
             "max": "95",
-            "average": "87.8",
-            "median": "90"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "כץ ראובן",
-                "email": "reuvenk@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "דיסקין דוד",
-                "email": "david.diskin149@gmail.com,david.diskin@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
+            "average": "87.4",
+            "median": "89"
+        },
         "Finals": {
             "students": "25",
             "passFail": "25\/0",
             "passPercent": "100",
-            "min": "73",
-            "max": "97",
-            "average": "86.88",
-            "median": "87"
+            "min": "76",
+            "max": "95",
+            "average": "87.36",
+            "median": "89"
         }
     },
     "202002": {
@@ -95,7 +63,7 @@
             "median": "89"
         }
     },
-    "202201": {
+    "201802": {
         "Staff": [
             {
                 "name": "כץ ראובן",
@@ -103,28 +71,60 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "לוי-אור אוהד",
-                "email": "ohadlor@gmail.com,ohad.le@campus.technion.ac.il",
+                "name": "דיסקין דוד",
+                "email": "david.diskin149@gmail.com,david.diskin@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Final_A": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "76",
-            "max": "95",
-            "average": "87.4",
-            "median": "89"
-        },
         "Finals": {
             "students": "25",
             "passFail": "25\/0",
             "passPercent": "100",
-            "min": "76",
+            "min": "73",
+            "max": "97",
+            "average": "86.88",
+            "median": "87"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "כץ ראובן",
+                "email": "reuvenk@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קופמן עומרי",
+                "email": "omri.k@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "10",
+            "passFail": "10\/0",
+            "passPercent": "100",
+            "min": "77",
             "max": "95",
-            "average": "87.36",
-            "median": "89"
+            "average": "87.8",
+            "median": "90"
+        }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "כץ ראובן",
+                "email": "reuvenk@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "74",
+            "max": "93",
+            "average": "87.143",
+            "median": "89.5"
         }
     }
 }

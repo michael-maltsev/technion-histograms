@@ -1,72 +1,4 @@
 {
-    "201702": {
-        "Staff": [
-            {
-                "name": "ברויטמן דני",
-                "email": "danib@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "ישראל פביאן אורי",
-                "email": "fabi19381@gmail.com",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_B": {
-            "students": "26",
-            "passFail": "26\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "100",
-            "average": "91.808",
-            "median": "94.5"
-        },
-        "Finals": {
-            "students": "27",
-            "passFail": "27\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "100",
-            "average": "91.296",
-            "median": "94"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "ברוייטמן דני",
-                "email": "danib@technion.ac.il",
-                "title": "מרצה"
-            }
-        ],
-        "Final_A": {
-            "students": "75",
-            "passFail": "72\/3",
-            "passPercent": "96",
-            "min": "0",
-            "max": "100",
-            "average": "90.493",
-            "median": "98"
-        },
-        "Final_B": {
-            "students": "93",
-            "passFail": "90\/3",
-            "passPercent": "97",
-            "min": "38",
-            "max": "100",
-            "average": "92.43",
-            "median": "100"
-        },
-        "Finals": {
-            "students": "94",
-            "passFail": "92\/2",
-            "passPercent": "98",
-            "min": "38",
-            "max": "100",
-            "average": "93.085",
-            "median": "100"
-        }
-    },
     "202201": {
         "Staff": [
             {
@@ -106,6 +38,74 @@
             "max": "100",
             "average": "84.99",
             "median": "90"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "ברוייטמן דני",
+                "email": "danib@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Final_A": {
+            "students": "75",
+            "passFail": "72\/3",
+            "passPercent": "96",
+            "min": "0",
+            "max": "100",
+            "average": "90.493",
+            "median": "98"
+        },
+        "Final_B": {
+            "students": "93",
+            "passFail": "90\/3",
+            "passPercent": "97",
+            "min": "38",
+            "max": "100",
+            "average": "92.43",
+            "median": "100"
+        },
+        "Finals": {
+            "students": "94",
+            "passFail": "92\/2",
+            "passPercent": "98",
+            "min": "38",
+            "max": "100",
+            "average": "93.085",
+            "median": "100"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "ברויטמן דני",
+                "email": "danib@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ישראל פביאן אורי",
+                "email": "fabi19381@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_B": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "100",
+            "average": "91.808",
+            "median": "94.5"
+        },
+        "Finals": {
+            "students": "27",
+            "passFail": "27\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "100",
+            "average": "91.296",
+            "median": "94"
         }
     }
 }

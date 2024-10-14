@@ -1,37 +1,42 @@
 {
-    "201601": {
+    "202301": {
         "Staff": [
             {
-                "name": "כהן שני",
-                "email": "shani.attias1@gmail.com,shani.c@campus.technion.ac.il",
+                "name": "שאגורי אמיר",
+                "email": "samirsh@campus.technion.ac.il",
                 "title": "מתרגל"
             },
             {
                 "name": "וייס דפנה",
                 "email": "daphnew@bm.technion.ac.il,daphnew@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לוטן איילת",
+                "email": "ayeletm@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "26",
-            "passFail": "26\/0",
+            "students": "89",
+            "passFail": "89\/0",
             "passPercent": "100",
-            "min": "59",
-            "max": "94",
-            "average": "81.615",
-            "median": "85"
+            "min": "65",
+            "max": "100",
+            "average": "94.528",
+            "median": "94"
         },
         "Finals": {
-            "students": "34",
-            "passFail": "34\/0",
+            "students": "89",
+            "passFail": "89\/0",
             "passPercent": "100",
-            "min": "59",
-            "max": "94",
-            "average": "82",
-            "median": "84.5"
+            "min": "65",
+            "max": "100",
+            "average": "94.528",
+            "median": "94"
         }
     },
-    "201801": {
+    "202201": {
         "Staff": [
             {
                 "name": "וייס דפנה",
@@ -39,40 +44,58 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "כהן שני",
-                "email": "shani.attias1@gmail.com,shani.c@campus.technion.ac.il",
+                "name": "לוטן איילת",
+                "email": "ayeletm@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Final_A": {
-            "students": "17",
-            "passFail": "17\/0",
+        "Exam_A": {
+            "students": "30",
+            "passFail": "30\/0",
             "passPercent": "100",
-            "min": "69",
-            "max": "97",
-            "average": "82.882",
+            "min": "66",
+            "max": "100",
+            "average": "83.967",
             "median": "85"
+        },
+        "Final_A": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "100",
+            "average": "86.1",
+            "median": "87"
+        },
+        "Exam_B": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "99",
+            "average": "82.429",
+            "median": "81"
         },
         "Final_B": {
             "students": "14",
             "passFail": "14\/0",
             "passPercent": "100",
-            "min": "77",
-            "max": "97",
-            "average": "87",
-            "median": "87"
+            "min": "71",
+            "max": "99",
+            "average": "84.929",
+            "median": "84"
         },
         "Finals": {
-            "students": "27",
-            "passFail": "27\/0",
+            "students": "41",
+            "passFail": "41\/0",
             "passPercent": "100",
-            "min": "76",
-            "max": "97",
-            "average": "86.926",
+            "min": "71",
+            "max": "100",
+            "average": "86.659",
             "median": "87"
         }
     },
-    "201901": {
+    "202101": {
         "Staff": [
             {
                 "name": "וייס דפנה",
@@ -80,27 +103,54 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "כהן שני",
-                "email": "shani.attias1@gmail.com,shani.c@campus.technion.ac.il",
+                "name": "לוטן איילת",
+                "email": "ayeletm@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "31\/1",
+            "passPercent": "97",
+            "min": "35",
+            "max": "99",
+            "average": "84.781",
+            "median": "87.5"
+        },
         "Final_A": {
-            "students": "33",
-            "passFail": "33\/0",
+            "students": "32",
+            "passFail": "31\/1",
+            "passPercent": "97",
+            "min": "45",
+            "max": "99",
+            "average": "86.844",
+            "median": "89.5"
+        },
+        "Exam_B": {
+            "students": "12",
+            "passFail": "12\/0",
             "passPercent": "100",
-            "min": "71",
-            "max": "97",
-            "average": "85.909",
-            "median": "86"
+            "min": "57",
+            "max": "87",
+            "average": "77.083",
+            "median": "80.5"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "63",
+            "max": "89",
+            "average": "80.083",
+            "median": "83.5"
         },
         "Finals": {
-            "students": "39",
-            "passFail": "39\/0",
+            "students": "44",
+            "passFail": "44\/0",
             "passPercent": "100",
-            "min": "71",
-            "max": "97",
-            "average": "85.744",
+            "min": "63",
+            "max": "99",
+            "average": "86.023",
             "median": "86"
         }
     },
@@ -163,7 +213,7 @@
             "median": "83"
         }
     },
-    "202101": {
+    "201901": {
         "Staff": [
             {
                 "name": "וייס דפנה",
@@ -171,58 +221,31 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "לוטן איילת",
-                "email": "ayeletm@campus.technion.ac.il",
+                "name": "כהן שני",
+                "email": "shani.attias1@gmail.com,shani.c@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Exam_A": {
-            "students": "32",
-            "passFail": "31\/1",
-            "passPercent": "97",
-            "min": "35",
-            "max": "99",
-            "average": "84.781",
-            "median": "87.5"
-        },
         "Final_A": {
-            "students": "32",
-            "passFail": "31\/1",
-            "passPercent": "97",
-            "min": "45",
-            "max": "99",
-            "average": "86.844",
-            "median": "89.5"
-        },
-        "Exam_B": {
-            "students": "12",
-            "passFail": "12\/0",
+            "students": "33",
+            "passFail": "33\/0",
             "passPercent": "100",
-            "min": "57",
-            "max": "87",
-            "average": "77.083",
-            "median": "80.5"
-        },
-        "Final_B": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "63",
-            "max": "89",
-            "average": "80.083",
-            "median": "83.5"
+            "min": "71",
+            "max": "97",
+            "average": "85.909",
+            "median": "86"
         },
         "Finals": {
-            "students": "44",
-            "passFail": "44\/0",
+            "students": "39",
+            "passFail": "39\/0",
             "passPercent": "100",
-            "min": "63",
-            "max": "99",
-            "average": "86.023",
+            "min": "71",
+            "max": "97",
+            "average": "85.744",
             "median": "86"
         }
     },
-    "202201": {
+    "201801": {
         "Staff": [
             {
                 "name": "וייס דפנה",
@@ -230,92 +253,69 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "לוטן איילת",
-                "email": "ayeletm@campus.technion.ac.il",
+                "name": "כהן שני",
+                "email": "shani.attias1@gmail.com,shani.c@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Exam_A": {
-            "students": "30",
-            "passFail": "30\/0",
-            "passPercent": "100",
-            "min": "66",
-            "max": "100",
-            "average": "83.967",
-            "median": "85"
-        },
         "Final_A": {
-            "students": "30",
-            "passFail": "30\/0",
+            "students": "17",
+            "passFail": "17\/0",
             "passPercent": "100",
-            "min": "71",
-            "max": "100",
-            "average": "86.1",
-            "median": "87"
-        },
-        "Exam_B": {
-            "students": "14",
-            "passFail": "14\/0",
-            "passPercent": "100",
-            "min": "66",
-            "max": "99",
-            "average": "82.429",
-            "median": "81"
+            "min": "69",
+            "max": "97",
+            "average": "82.882",
+            "median": "85"
         },
         "Final_B": {
             "students": "14",
             "passFail": "14\/0",
             "passPercent": "100",
-            "min": "71",
-            "max": "99",
-            "average": "84.929",
-            "median": "84"
+            "min": "77",
+            "max": "97",
+            "average": "87",
+            "median": "87"
         },
         "Finals": {
-            "students": "41",
-            "passFail": "41\/0",
+            "students": "27",
+            "passFail": "27\/0",
             "passPercent": "100",
-            "min": "71",
-            "max": "100",
-            "average": "86.659",
+            "min": "76",
+            "max": "97",
+            "average": "86.926",
             "median": "87"
         }
     },
-    "202301": {
+    "201601": {
         "Staff": [
             {
-                "name": "שאגורי אמיר",
-                "email": "samirsh@campus.technion.ac.il",
+                "name": "כהן שני",
+                "email": "shani.attias1@gmail.com,shani.c@campus.technion.ac.il",
                 "title": "מתרגל"
             },
             {
                 "name": "וייס דפנה",
                 "email": "daphnew@bm.technion.ac.il,daphnew@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "לוטן איילת",
-                "email": "ayeletm@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "89",
-            "passFail": "89\/0",
+            "students": "26",
+            "passFail": "26\/0",
             "passPercent": "100",
-            "min": "65",
-            "max": "100",
-            "average": "94.528",
-            "median": "94"
+            "min": "59",
+            "max": "94",
+            "average": "81.615",
+            "median": "85"
         },
         "Finals": {
-            "students": "89",
-            "passFail": "89\/0",
+            "students": "34",
+            "passFail": "34\/0",
             "passPercent": "100",
-            "min": "65",
-            "max": "100",
-            "average": "94.528",
-            "median": "94"
+            "min": "59",
+            "max": "94",
+            "average": "82",
+            "median": "84.5"
         }
     }
 }

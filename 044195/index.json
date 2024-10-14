@@ -1,4 +1,27 @@
 {
+    "201601": {
+        "Staff": [
+            {
+                "name": "לברון יואש",
+                "email": "yoashl@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טל ניקולאי",
+                "email": "nikolayt@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "77",
+            "max": "100",
+            "average": "89.182",
+            "median": "90"
+        }
+    },
     "201502": {
         "Staff": [
             {
@@ -38,29 +61,6 @@
             "max": "97",
             "average": "83.235",
             "median": "88"
-        }
-    },
-    "201601": {
-        "Staff": [
-            {
-                "name": "לברון יואש",
-                "email": "yoashl@ee.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "טל ניקולאי",
-                "email": "nikolayt@technion.ac.il",
-                "title": "מתרגל"
-            }
-        ],
-        "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "77",
-            "max": "100",
-            "average": "89.182",
-            "median": "90"
         }
     }
 }

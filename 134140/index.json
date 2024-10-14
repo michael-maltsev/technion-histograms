@@ -1,5 +1,5 @@
 {
-    "201702": {
+    "202201": {
         "Staff": [
             {
                 "name": "גליקמן חגי-מיכאל",
@@ -8,31 +8,13 @@
             }
         ],
         "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
+            "students": "20",
+            "passFail": "20\/0",
             "passPercent": "100",
-            "min": "81",
-            "max": "98",
-            "average": "90.25",
-            "median": "90.5"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "גליקמן חגי-מיכאל",
-                "email": "glickman@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "86",
+            "min": "80",
             "max": "100",
-            "average": "93.588",
-            "median": "95"
+            "average": "92",
+            "median": "93"
         }
     },
     "202102": {
@@ -53,7 +35,7 @@
             "median": "95"
         }
     },
-    "202201": {
+    "202002": {
         "Staff": [
             {
                 "name": "גליקמן חגי-מיכאל",
@@ -62,13 +44,31 @@
             }
         ],
         "Finals": {
-            "students": "20",
-            "passFail": "20\/0",
+            "students": "17",
+            "passFail": "17\/0",
             "passPercent": "100",
-            "min": "80",
+            "min": "86",
             "max": "100",
-            "average": "92",
-            "median": "93"
+            "average": "93.588",
+            "median": "95"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "גליקמן חגי-מיכאל",
+                "email": "glickman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "98",
+            "average": "90.25",
+            "median": "90.5"
         }
     }
 }

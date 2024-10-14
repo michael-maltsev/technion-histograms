@@ -1,5 +1,5 @@
 {
-    "201402": {
+    "202202": {
         "Staff": [
             {
                 "name": "שילה דורון",
@@ -7,94 +7,40 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "82",
+            "max": "99",
+            "average": "95.6",
+            "median": "97"
+        },
         "Finals": {
-            "students": "37",
-            "passFail": "37\/0",
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "82",
+            "max": "99",
+            "average": "95.6",
+            "median": "97"
+        }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "שילה דורון",
+                "email": "shilo@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "19",
+            "passFail": "19\/0",
             "passPercent": "100",
             "min": "84",
             "max": "100",
-            "average": "94.622",
-            "median": "95"
-        }
-    },
-    "201502": {
-        "Staff": [
-            {
-                "name": "שילה דורון",
-                "email": "shilo@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "33",
-            "passFail": "33\/0",
-            "passPercent": "100",
-            "min": "83",
-            "max": "100",
-            "average": "94.697",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "35",
-            "passFail": "35\/0",
-            "passPercent": "100",
-            "min": "83",
-            "max": "100",
-            "average": "94.486",
-            "median": "95"
-        }
-    },
-    "201602": {
-        "Staff": [
-            {
-                "name": "שילה דורון",
-                "email": "shilo@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "28",
-            "passFail": "28\/0",
-            "passPercent": "100",
-            "min": "86",
-            "max": "100",
-            "average": "94.429",
-            "median": "95"
-        },
-        "Finals": {
-            "students": "38",
-            "passFail": "38\/0",
-            "passPercent": "100",
-            "min": "76",
-            "max": "100",
-            "average": "93.868",
-            "median": "95"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "שילה דורון",
-                "email": "shilo@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "34",
-            "passFail": "34\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "95",
-            "median": "95"
-        },
-        "Finals": {
-            "students": "34",
-            "passFail": "34\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "95",
+            "average": "94.316",
             "median": "95"
         }
     },
@@ -130,7 +76,7 @@
             "median": "92"
         }
     },
-    "202102": {
+    "201802": {
         "Staff": [
             {
                 "name": "שילה דורון",
@@ -139,16 +85,25 @@
             }
         ],
         "Final_A": {
-            "students": "19",
-            "passFail": "19\/0",
+            "students": "34",
+            "passFail": "34\/0",
             "passPercent": "100",
-            "min": "84",
+            "min": "85",
             "max": "100",
-            "average": "94.316",
+            "average": "95",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "34",
+            "passFail": "34\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "95",
             "median": "95"
         }
     },
-    "202202": {
+    "201602": {
         "Staff": [
             {
                 "name": "שילה דורון",
@@ -157,22 +112,67 @@
             }
         ],
         "Final_A": {
-            "students": "20",
-            "passFail": "20\/0",
+            "students": "28",
+            "passFail": "28\/0",
             "passPercent": "100",
-            "min": "82",
-            "max": "99",
-            "average": "95.6",
-            "median": "97"
+            "min": "86",
+            "max": "100",
+            "average": "94.429",
+            "median": "95"
         },
         "Finals": {
-            "students": "20",
-            "passFail": "20\/0",
+            "students": "38",
+            "passFail": "38\/0",
             "passPercent": "100",
-            "min": "82",
-            "max": "99",
-            "average": "95.6",
-            "median": "97"
+            "min": "76",
+            "max": "100",
+            "average": "93.868",
+            "median": "95"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "שילה דורון",
+                "email": "shilo@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "33",
+            "passFail": "33\/0",
+            "passPercent": "100",
+            "min": "83",
+            "max": "100",
+            "average": "94.697",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "35",
+            "passFail": "35\/0",
+            "passPercent": "100",
+            "min": "83",
+            "max": "100",
+            "average": "94.486",
+            "median": "95"
+        }
+    },
+    "201402": {
+        "Staff": [
+            {
+                "name": "שילה דורון",
+                "email": "shilo@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "37",
+            "passFail": "37\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "100",
+            "average": "94.622",
+            "median": "95"
         }
     }
 }

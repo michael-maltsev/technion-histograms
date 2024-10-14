@@ -1,148 +1,25 @@
 {
-    "201503": {
+    "202302": {
         "Staff": [
             {
-                "name": "פרידמן ירון",
-                "email": "dyitamar@yahoo.com",
-                "title": "מרצה - אחראי מקצוע"
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
-        "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
+        "Final_A": {
+            "students": "17",
+            "passFail": "17\/0",
             "passPercent": "100",
             "min": "80",
             "max": "100",
-            "average": "94.4",
+            "average": "96.647",
             "median": "100"
-        }
-    },
-    "201701": {
-        "Staff": [
-            {
-                "name": "פרידמן ירון",
-                "email": "dyitamar@yahoo.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "22",
-            "passFail": "21\/1",
-            "passPercent": "95",
-            "min": "54",
-            "max": "100",
-            "average": "93.318",
-            "median": "97.5"
-        },
-        "Finals": {
-            "students": "24",
-            "passFail": "24\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "93.667",
-            "median": "95.5"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "פרידמן ירון",
-                "email": "dyitamar@yahoo.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "35",
-            "passFail": "35\/0",
-            "passPercent": "100",
-            "min": "58",
-            "max": "100",
-            "average": "92.457",
-            "median": "95"
-        },
-        "Finals": {
-            "students": "36",
-            "passFail": "36\/0",
-            "passPercent": "100",
-            "min": "58",
-            "max": "100",
-            "average": "92.611",
-            "median": "95.5"
-        }
-    },
-    "202201": {
-        "Staff": [
-            {
-                "name": "פרידמן ירון",
-                "email": "dyitamar@yahoo.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "22",
-            "passFail": "20\/2",
-            "passPercent": "91",
-            "min": "48",
-            "max": "100",
-            "average": "87.682",
-            "median": "96.5"
-        },
-        "Finals": {
-            "students": "22",
-            "passFail": "20\/2",
-            "passPercent": "91",
-            "min": "48",
-            "max": "100",
-            "average": "87.682",
-            "median": "96.5"
-        }
-    },
-    "202202": {
-        "Staff": [
-            {
-                "name": "פרידמן ירון",
-                "email": "dyitamar@yahoo.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "68",
-            "max": "100",
-            "average": "91.062",
-            "median": "95.5"
-        },
-        "Finals": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "68",
-            "max": "100",
-            "average": "94.222",
-            "median": "97.5"
         }
     },
     "202301": {
@@ -182,8 +59,13 @@
             "median": "96"
         }
     },
-    "202302": {
+    "202202": {
         "Staff": [
+            {
+                "name": "פרידמן ירון",
+                "email": "dyitamar@yahoo.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
             {
                 "name": "בן-איש שלומית",
                 "email": "shlomitb@technion.ac.il",
@@ -196,12 +78,130 @@
             }
         ],
         "Final_A": {
-            "students": "17",
-            "passFail": "17\/0",
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "91.062",
+            "median": "95.5"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "94.222",
+            "median": "97.5"
+        }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "פרידמן ירון",
+                "email": "dyitamar@yahoo.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "22",
+            "passFail": "20\/2",
+            "passPercent": "91",
+            "min": "48",
+            "max": "100",
+            "average": "87.682",
+            "median": "96.5"
+        },
+        "Finals": {
+            "students": "22",
+            "passFail": "20\/2",
+            "passPercent": "91",
+            "min": "48",
+            "max": "100",
+            "average": "87.682",
+            "median": "96.5"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "פרידמן ירון",
+                "email": "dyitamar@yahoo.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "35",
+            "passFail": "35\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "100",
+            "average": "92.457",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "36",
+            "passFail": "36\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "100",
+            "average": "92.611",
+            "median": "95.5"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "פרידמן ירון",
+                "email": "dyitamar@yahoo.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "22",
+            "passFail": "21\/1",
+            "passPercent": "95",
+            "min": "54",
+            "max": "100",
+            "average": "93.318",
+            "median": "97.5"
+        },
+        "Finals": {
+            "students": "24",
+            "passFail": "24\/0",
             "passPercent": "100",
             "min": "80",
             "max": "100",
-            "average": "96.647",
+            "average": "93.667",
+            "median": "95.5"
+        }
+    },
+    "201503": {
+        "Staff": [
+            {
+                "name": "פרידמן ירון",
+                "email": "dyitamar@yahoo.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "10",
+            "passFail": "10\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "94.4",
             "median": "100"
         }
     }

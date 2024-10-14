@@ -1,28 +1,46 @@
 {
-    "201602": {
+    "202102": {
         "Staff": [
             {
-                "name": "אדלר גון אליזבט",
-                "email": "phr76ja@technion.ac.il",
+                "name": "טרם שלומית",
+                "email": "tarem@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Final_A": {
-            "students": "26",
-            "passFail": "26\/0",
+            "students": "16",
+            "passFail": "16\/0",
             "passPercent": "100",
-            "min": "90",
+            "min": "85",
             "max": "100",
-            "average": "96.5",
-            "median": "97"
+            "average": "92.562",
+            "median": "93.5"
         },
         "Finals": {
-            "students": "26",
-            "passFail": "26\/0",
+            "students": "16",
+            "passFail": "16\/0",
             "passPercent": "100",
-            "min": "90",
+            "min": "85",
             "max": "100",
-            "average": "96.5",
+            "average": "92.562",
+            "median": "93.5"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "טרם שלומית",
+                "email": "tarem@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "10",
+            "passFail": "10\/0",
+            "passPercent": "100",
+            "min": "87",
+            "max": "100",
+            "average": "95.7",
             "median": "97"
         }
     },
@@ -53,49 +71,31 @@
             "median": "95"
         }
     },
-    "202002": {
+    "201602": {
         "Staff": [
             {
-                "name": "טרם שלומית",
-                "email": "tarem@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
-            "passPercent": "100",
-            "min": "87",
-            "max": "100",
-            "average": "95.7",
-            "median": "97"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "טרם שלומית",
-                "email": "tarem@technion.ac.il",
+                "name": "אדלר גון אליזבט",
+                "email": "phr76ja@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Final_A": {
-            "students": "16",
-            "passFail": "16\/0",
+            "students": "26",
+            "passFail": "26\/0",
             "passPercent": "100",
-            "min": "85",
+            "min": "90",
             "max": "100",
-            "average": "92.562",
-            "median": "93.5"
+            "average": "96.5",
+            "median": "97"
         },
         "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
+            "students": "26",
+            "passFail": "26\/0",
             "passPercent": "100",
-            "min": "85",
+            "min": "90",
             "max": "100",
-            "average": "92.562",
-            "median": "93.5"
+            "average": "96.5",
+            "median": "97"
         }
     }
 }

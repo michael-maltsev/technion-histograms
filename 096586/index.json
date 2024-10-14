@@ -1,5 +1,5 @@
 {
-    "201601": {
+    "201801": {
         "Staff": [
             {
                 "name": "פרץ חובב",
@@ -7,23 +7,23 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Final_A": {
-            "students": "11",
-            "passFail": "11\/0",
+        "Final_B": {
+            "students": "14",
+            "passFail": "14\/0",
             "passPercent": "100",
             "min": "90",
-            "max": "93",
-            "average": "91.818",
-            "median": "92"
+            "max": "95",
+            "average": "91.429",
+            "median": "91"
         },
         "Finals": {
-            "students": "45",
-            "passFail": "45\/0",
+            "students": "37",
+            "passFail": "37\/0",
             "passPercent": "100",
-            "min": "88",
+            "min": "78",
             "max": "95",
-            "average": "91.311",
-            "median": "92"
+            "average": "89.811",
+            "median": "90"
         }
     },
     "201701": {
@@ -53,7 +53,7 @@
             "median": "92"
         }
     },
-    "201801": {
+    "201601": {
         "Staff": [
             {
                 "name": "פרץ חובב",
@@ -61,23 +61,23 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Final_B": {
-            "students": "14",
-            "passFail": "14\/0",
+        "Final_A": {
+            "students": "11",
+            "passFail": "11\/0",
             "passPercent": "100",
             "min": "90",
-            "max": "95",
-            "average": "91.429",
-            "median": "91"
+            "max": "93",
+            "average": "91.818",
+            "median": "92"
         },
         "Finals": {
-            "students": "37",
-            "passFail": "37\/0",
+            "students": "45",
+            "passFail": "45\/0",
             "passPercent": "100",
-            "min": "78",
+            "min": "88",
             "max": "95",
-            "average": "89.811",
-            "median": "90"
+            "average": "91.311",
+            "median": "92"
         }
     }
 }

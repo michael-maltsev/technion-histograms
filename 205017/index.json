@@ -1,4 +1,170 @@
 {
+    "202201": {
+        "Staff": [
+            {
+                "name": "פיינהולץ צפריר",
+                "email": "ftzafrir@gmail.com,fainholtz.tz@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מג'אר טליה",
+                "email": "talia@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "דרורי דפנה",
+                "email": "daphna.drori@gmail.com,daphnadr@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "69",
+            "passFail": "68\/1",
+            "passPercent": "99",
+            "min": "52",
+            "max": "98",
+            "average": "85.043",
+            "median": "84"
+        },
+        "Finals": {
+            "students": "69",
+            "passFail": "68\/1",
+            "passPercent": "99",
+            "min": "52",
+            "max": "98",
+            "average": "85.174",
+            "median": "85"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "דרורי דפנה",
+                "email": "daphna.drori@gmail.com,daphnadr@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פיינהולץ צפריר",
+                "email": "ftzafrir@gmail.com,fainholtz.tz@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "רן שכנאי עידית",
+                "email": "ranidit@gmail.com,ranidit@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "71",
+            "passFail": "70\/1",
+            "passPercent": "99",
+            "min": "45",
+            "max": "94",
+            "average": "86.352",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "72",
+            "passFail": "72\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "94",
+            "average": "87.042",
+            "median": "88"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "אפשטיין-פלוש מרינה",
+                "email": "marina.epstein@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רן שכנאי עידית",
+                "email": "ranidit@gmail.com,ranidit@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "66",
+            "passFail": "66\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "96",
+            "average": "87.091",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "69",
+            "passFail": "69\/0",
+            "passPercent": "100",
+            "min": "63",
+            "max": "96",
+            "average": "86.565",
+            "median": "88"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "אפשטיין-פלוש מרינה",
+                "email": "marina.epstein@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דרורי דפנה",
+                "email": "daphna.drori@gmail.com,daphnadr@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "רן שכנאי עידית",
+                "email": "ranidit@gmail.com,ranidit@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בלפרמן אהוד",
+                "email": "udibelfer@walla.co.il,ehudb@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "54",
+            "passFail": "45\/9",
+            "passPercent": "83",
+            "min": "0",
+            "max": "95",
+            "average": "70.519",
+            "median": "75.5"
+        },
+        "Final_A": {
+            "students": "54",
+            "passFail": "53\/1",
+            "passPercent": "98",
+            "min": "46",
+            "max": "97",
+            "average": "82.241",
+            "median": "84.5"
+        },
+        "Final_B": {
+            "students": "28",
+            "passFail": "28\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "98",
+            "average": "87.286",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "67",
+            "passFail": "67\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "98",
+            "average": "87.045",
+            "median": "87"
+        }
+    },
     "201801": {
         "Staff": [
             {
@@ -66,172 +232,6 @@
             "max": "97",
             "average": "84.699",
             "median": "86"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "אפשטיין-פלוש מרינה",
-                "email": "marina.epstein@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "דרורי דפנה",
-                "email": "daphna.drori@gmail.com,daphnadr@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "רן שכנאי עידית",
-                "email": "ranidit@gmail.com,ranidit@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בלפרמן אהוד",
-                "email": "udibelfer@walla.co.il,ehudb@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Exam_A": {
-            "students": "54",
-            "passFail": "45\/9",
-            "passPercent": "83",
-            "min": "0",
-            "max": "95",
-            "average": "70.519",
-            "median": "75.5"
-        },
-        "Final_A": {
-            "students": "54",
-            "passFail": "53\/1",
-            "passPercent": "98",
-            "min": "46",
-            "max": "97",
-            "average": "82.241",
-            "median": "84.5"
-        },
-        "Final_B": {
-            "students": "28",
-            "passFail": "28\/0",
-            "passPercent": "100",
-            "min": "75",
-            "max": "98",
-            "average": "87.286",
-            "median": "88"
-        },
-        "Finals": {
-            "students": "67",
-            "passFail": "67\/0",
-            "passPercent": "100",
-            "min": "62",
-            "max": "98",
-            "average": "87.045",
-            "median": "87"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "אפשטיין-פלוש מרינה",
-                "email": "marina.epstein@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "רן שכנאי עידית",
-                "email": "ranidit@gmail.com,ranidit@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "66",
-            "passFail": "66\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "96",
-            "average": "87.091",
-            "median": "88"
-        },
-        "Finals": {
-            "students": "69",
-            "passFail": "69\/0",
-            "passPercent": "100",
-            "min": "63",
-            "max": "96",
-            "average": "86.565",
-            "median": "88"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "דרורי דפנה",
-                "email": "daphna.drori@gmail.com,daphnadr@campus.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "פיינהולץ צפריר",
-                "email": "ftzafrir@gmail.com,fainholtz.tz@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "רן שכנאי עידית",
-                "email": "ranidit@gmail.com,ranidit@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "71",
-            "passFail": "70\/1",
-            "passPercent": "99",
-            "min": "45",
-            "max": "94",
-            "average": "86.352",
-            "median": "88"
-        },
-        "Finals": {
-            "students": "72",
-            "passFail": "72\/0",
-            "passPercent": "100",
-            "min": "58",
-            "max": "94",
-            "average": "87.042",
-            "median": "88"
-        }
-    },
-    "202201": {
-        "Staff": [
-            {
-                "name": "פיינהולץ צפריר",
-                "email": "ftzafrir@gmail.com,fainholtz.tz@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "מג'אר טליה",
-                "email": "talia@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "דרורי דפנה",
-                "email": "daphna.drori@gmail.com,daphnadr@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "69",
-            "passFail": "68\/1",
-            "passPercent": "99",
-            "min": "52",
-            "max": "98",
-            "average": "85.043",
-            "median": "84"
-        },
-        "Finals": {
-            "students": "69",
-            "passFail": "68\/1",
-            "passPercent": "99",
-            "min": "52",
-            "max": "98",
-            "average": "85.174",
-            "median": "85"
         }
     }
 }

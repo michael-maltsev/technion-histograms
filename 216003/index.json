@@ -1,5 +1,5 @@
 {
-    "201801": {
+    "202301": {
         "Staff": [
             {
                 "name": "הורוביץ-קראו ציפי",
@@ -8,76 +8,22 @@
             }
         ],
         "Final_A": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "86",
+            "students": "17",
+            "passFail": "16\/1",
+            "passPercent": "94",
+            "min": "0",
             "max": "100",
-            "average": "93.5",
-            "median": "91.5"
+            "average": "91.294",
+            "median": "97"
         },
         "Finals": {
-            "students": "18",
-            "passFail": "18\/0",
+            "students": "16",
+            "passFail": "16\/0",
             "passPercent": "100",
-            "min": "86",
+            "min": "94",
             "max": "100",
-            "average": "93.444",
-            "median": "91.5"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "הורוביץ-קראו ציפי",
-                "email": "tzipi.kraus@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "45",
-            "passFail": "45\/0",
-            "passPercent": "100",
-            "min": "79",
-            "max": "100",
-            "average": "92.378",
-            "median": "92"
-        },
-        "Finals": {
-            "students": "47",
-            "passFail": "47\/0",
-            "passPercent": "100",
-            "min": "79",
-            "max": "100",
-            "average": "92.383",
-            "median": "92"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "הורוביץ-קראו ציפי",
-                "email": "tzipi.kraus@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "46",
-            "passFail": "46\/0",
-            "passPercent": "100",
-            "min": "73",
-            "max": "100",
-            "average": "91.174",
-            "median": "92"
-        },
-        "Finals": {
-            "students": "45",
-            "passFail": "45\/0",
-            "passPercent": "100",
-            "min": "73",
-            "max": "100",
-            "average": "91.222",
-            "median": "92"
+            "average": "97",
+            "median": "97"
         }
     },
     "202102": {
@@ -107,7 +53,7 @@
             "median": "94"
         }
     },
-    "202301": {
+    "202002": {
         "Staff": [
             {
                 "name": "הורוביץ-קראו ציפי",
@@ -116,22 +62,76 @@
             }
         ],
         "Final_A": {
-            "students": "17",
-            "passFail": "16\/1",
-            "passPercent": "94",
-            "min": "0",
+            "students": "46",
+            "passFail": "46\/0",
+            "passPercent": "100",
+            "min": "73",
             "max": "100",
-            "average": "91.294",
-            "median": "97"
+            "average": "91.174",
+            "median": "92"
         },
         "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
+            "students": "45",
+            "passFail": "45\/0",
             "passPercent": "100",
-            "min": "94",
+            "min": "73",
             "max": "100",
-            "average": "97",
-            "median": "97"
+            "average": "91.222",
+            "median": "92"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "הורוביץ-קראו ציפי",
+                "email": "tzipi.kraus@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "45",
+            "passFail": "45\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "100",
+            "average": "92.378",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "47",
+            "passFail": "47\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "100",
+            "average": "92.383",
+            "median": "92"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "הורוביץ-קראו ציפי",
+                "email": "tzipi.kraus@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "100",
+            "average": "93.5",
+            "median": "91.5"
+        },
+        "Finals": {
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "86",
+            "max": "100",
+            "average": "93.444",
+            "median": "91.5"
         }
     }
 }

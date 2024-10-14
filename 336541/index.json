@@ -1,34 +1,39 @@
 {
-    "201702": {
+    "202202": {
         "Staff": [
             {
                 "name": "שניטמן ג'וזואה",
-                "email": "sznitman@bm.technion.ac.il",
+                "email": "sznitman@bm.technion.ac.il,sznitman@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "אוסטרובסקי יאן",
-                "email": "yanos@technion.ac.il",
+                "name": "לרין אלינה",
+                "email": "alinalarin@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "נעמה אסיל",
+                "email": "aseel.nama@campus.technion.ac.il",
+                "title": "מתרגל"
             }
         ],
-        "Final_B": {
-            "students": "41",
-            "passFail": "41\/0",
+        "Final_A": {
+            "students": "54",
+            "passFail": "54\/0",
             "passPercent": "100",
-            "min": "92",
-            "max": "99",
-            "average": "96.878",
-            "median": "98"
+            "min": "74",
+            "max": "100",
+            "average": "91",
+            "median": "91.5"
         },
         "Finals": {
-            "students": "41",
-            "passFail": "41\/0",
+            "students": "54",
+            "passFail": "54\/0",
             "passPercent": "100",
-            "min": "92",
-            "max": "99",
-            "average": "96.878",
-            "median": "98"
+            "min": "74",
+            "max": "100",
+            "average": "91.784",
+            "median": "92"
         }
     },
     "201902": {
@@ -68,41 +73,36 @@
             "median": "97"
         }
     },
-    "202202": {
+    "201702": {
         "Staff": [
             {
                 "name": "שניטמן ג'וזואה",
-                "email": "sznitman@bm.technion.ac.il,sznitman@technion.ac.il",
+                "email": "sznitman@bm.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "לרין אלינה",
-                "email": "alinalarin@campus.technion.ac.il",
+                "name": "אוסטרובסקי יאן",
+                "email": "yanos@technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "נעמה אסיל",
-                "email": "aseel.nama@campus.technion.ac.il",
-                "title": "מתרגל"
             }
         ],
-        "Final_A": {
-            "students": "54",
-            "passFail": "54\/0",
+        "Final_B": {
+            "students": "41",
+            "passFail": "41\/0",
             "passPercent": "100",
-            "min": "74",
-            "max": "100",
-            "average": "91",
-            "median": "91.5"
+            "min": "92",
+            "max": "99",
+            "average": "96.878",
+            "median": "98"
         },
         "Finals": {
-            "students": "54",
-            "passFail": "54\/0",
+            "students": "41",
+            "passFail": "41\/0",
             "passPercent": "100",
-            "min": "74",
-            "max": "100",
-            "average": "91.784",
-            "median": "92"
+            "min": "92",
+            "max": "99",
+            "average": "96.878",
+            "median": "98"
         }
     }
 }

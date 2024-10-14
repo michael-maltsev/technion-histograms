@@ -1,91 +1,34 @@
 {
-    "201501": {
+    "201901": {
         "Staff": [
-            {
-                "name": "ברגר תמר",
-                "email": "tberger@netvision.net.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "ארבוב ילנה",
-                "email": "lenaarb@gmail.com",
-                "title": "מרצה"
-            },
-            {
-                "name": "בארי עמית",
-                "email": "amitbeery@gmail.com",
-                "title": "מתרגל"
-            },
-            {
-                "name": "שלום אפרת",
-                "email": "efratsha@campus.technion.ac.il",
-                "title": "מתרגל"
-            }
-        ],
-        "Final_A": {
-            "students": "104",
-            "passFail": "104\/0",
-            "passPercent": "100",
-            "min": "68",
-            "max": "96",
-            "average": "87.798",
-            "median": "88"
-        },
-        "Finals": {
-            "students": "106",
-            "passFail": "106\/0",
-            "passPercent": "100",
-            "min": "68",
-            "max": "96",
-            "average": "87.868",
-            "median": "88"
-        }
-    },
-    "201701": {
-        "Staff": [
-            {
-                "name": "ברגר תמר",
-                "email": "tberger@netvision.net.il,berger.tamar@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בארי עמית",
-                "email": "amitbeery@gmail.com",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
             {
                 "name": "כרמון פופר עירית",
                 "email": "irit.carmon@gmail.com,iritca@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "ארבוב ילנה",
-                "email": "lenaarb@gmail.com",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
+                "title": "מרצה - אחראי מקצוע"
             },
             {
                 "name": "קלינגבייל שני",
                 "email": "shanee.shiloh@gmail.com,sshiloh@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
+                "title": "מרצה"
             }
         ],
         "Final_A": {
-            "students": "103",
-            "passFail": "102\/1",
-            "passPercent": "99",
-            "min": "40.2",
-            "max": "95",
-            "average": "85.177",
-            "median": "85"
+            "students": "102",
+            "passFail": "102\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "94",
+            "average": "85.422",
+            "median": "86"
         },
         "Finals": {
-            "students": "103",
-            "passFail": "102\/1",
-            "passPercent": "99",
-            "min": "40",
-            "max": "95",
-            "average": "85.175",
-            "median": "85"
+            "students": "102",
+            "passFail": "102\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "94",
+            "average": "85.49",
+            "median": "86"
         }
     },
     "201801": {
@@ -135,36 +78,93 @@
             "median": "84"
         }
     },
-    "201901": {
+    "201701": {
         "Staff": [
+            {
+                "name": "ברגר תמר",
+                "email": "tberger@netvision.net.il,berger.tamar@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בארי עמית",
+                "email": "amitbeery@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
             {
                 "name": "כרמון פופר עירית",
                 "email": "irit.carmon@gmail.com,iritca@campus.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ארבוב ילנה",
+                "email": "lenaarb@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "קלינגבייל שני",
                 "email": "shanee.shiloh@gmail.com,sshiloh@campus.technion.ac.il",
-                "title": "מרצה"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "102",
-            "passFail": "102\/0",
-            "passPercent": "100",
-            "min": "69",
-            "max": "94",
-            "average": "85.422",
-            "median": "86"
+            "students": "103",
+            "passFail": "102\/1",
+            "passPercent": "99",
+            "min": "40.2",
+            "max": "95",
+            "average": "85.177",
+            "median": "85"
         },
         "Finals": {
-            "students": "102",
-            "passFail": "102\/0",
+            "students": "103",
+            "passFail": "102\/1",
+            "passPercent": "99",
+            "min": "40",
+            "max": "95",
+            "average": "85.175",
+            "median": "85"
+        }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "ברגר תמר",
+                "email": "tberger@netvision.net.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ארבוב ילנה",
+                "email": "lenaarb@gmail.com",
+                "title": "מרצה"
+            },
+            {
+                "name": "בארי עמית",
+                "email": "amitbeery@gmail.com",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שלום אפרת",
+                "email": "efratsha@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "104",
+            "passFail": "104\/0",
             "passPercent": "100",
-            "min": "69",
-            "max": "94",
-            "average": "85.49",
-            "median": "86"
+            "min": "68",
+            "max": "96",
+            "average": "87.798",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "106",
+            "passFail": "106\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "96",
+            "average": "87.868",
+            "median": "88"
         }
     }
 }

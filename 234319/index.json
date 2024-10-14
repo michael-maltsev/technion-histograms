@@ -1,13 +1,42 @@
 {
-    "201403": {
+    "201702": {
+        "Staff": [
+            {
+                "name": "לורנץ דוד",
+                "email": "dhlorenz@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
         "Finals": {
-            "students": "18",
-            "passFail": "18\/0",
-            "passPercent": "100",
-            "min": "71",
+            "students": "142",
+            "passFail": "132\/10",
+            "passPercent": "93",
+            "min": "19",
             "max": "100",
-            "average": "84.611",
-            "median": "84.5"
+            "average": "76.648",
+            "median": "78"
+        }
+    },
+    "201701": {
+        "Finals": {
+            "students": "162",
+            "passFail": "153\/9",
+            "passPercent": "94",
+            "min": "21",
+            "max": "100",
+            "average": "76.383",
+            "median": "77"
+        }
+    },
+    "201602": {
+        "Finals": {
+            "students": "87",
+            "passFail": "76\/11",
+            "passPercent": "87",
+            "min": "33",
+            "max": "100",
+            "average": "75.69",
+            "median": "81"
         }
     },
     "201601": {
@@ -28,44 +57,15 @@
             "median": "84.5"
         }
     },
-    "201602": {
+    "201403": {
         "Finals": {
-            "students": "87",
-            "passFail": "76\/11",
-            "passPercent": "87",
-            "min": "33",
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "71",
             "max": "100",
-            "average": "75.69",
-            "median": "81"
-        }
-    },
-    "201701": {
-        "Finals": {
-            "students": "162",
-            "passFail": "153\/9",
-            "passPercent": "94",
-            "min": "21",
-            "max": "100",
-            "average": "76.383",
-            "median": "77"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "לורנץ דוד",
-                "email": "dhlorenz@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "142",
-            "passFail": "132\/10",
-            "passPercent": "93",
-            "min": "19",
-            "max": "100",
-            "average": "76.648",
-            "median": "78"
+            "average": "84.611",
+            "median": "84.5"
         }
     }
 }

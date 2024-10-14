@@ -1,20 +1,10 @@
 {
-    "201802": {
+    "202202": {
         "Staff": [
             {
                 "name": "אבן-צור גלעד",
                 "email": "eventzur@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "מסד עדו",
-                "email": "sidomas@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "וידרו יוליה",
-                "email": "yuliav@campus.technion.ac.il",
-                "title": "מתרגל"
             },
             {
                 "name": "בלסברג עליזה",
@@ -23,25 +13,25 @@
             }
         ],
         "Final_A": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "71",
-            "max": "97",
-            "average": "85.8",
-            "median": "84"
+            "students": "20",
+            "passFail": "17\/3",
+            "passPercent": "85",
+            "min": "43",
+            "max": "92",
+            "average": "75.75",
+            "median": "79.5"
         },
         "Finals": {
-            "students": "26",
-            "passFail": "26\/0",
-            "passPercent": "100",
-            "min": "71",
-            "max": "97",
-            "average": "83.462",
-            "median": "83"
+            "students": "20",
+            "passFail": "19\/1",
+            "passPercent": "95",
+            "min": "43",
+            "max": "92",
+            "average": "78.789",
+            "median": "79"
         }
     },
-    "201902": {
+    "202102": {
         "Staff": [
             {
                 "name": "אבן-צור גלעד",
@@ -55,21 +45,21 @@
             }
         ],
         "Final_A": {
-            "students": "26",
-            "passFail": "24\/2",
+            "students": "25",
+            "passFail": "23\/2",
             "passPercent": "92",
-            "min": "54",
-            "max": "95",
-            "average": "77.154",
-            "median": "77.5"
+            "min": "42",
+            "max": "97",
+            "average": "76.44",
+            "median": "77"
         },
         "Finals": {
-            "students": "27",
-            "passFail": "27\/0",
-            "passPercent": "100",
-            "min": "65",
-            "max": "95",
-            "average": "78.926",
+            "students": "25",
+            "passFail": "24\/1",
+            "passPercent": "96",
+            "min": "42",
+            "max": "99",
+            "average": "77.36",
             "median": "77"
         }
     },
@@ -114,7 +104,7 @@
             "median": "71"
         }
     },
-    "202102": {
+    "201902": {
         "Staff": [
             {
                 "name": "אבן-צור גלעד",
@@ -128,30 +118,40 @@
             }
         ],
         "Final_A": {
-            "students": "25",
-            "passFail": "23\/2",
+            "students": "26",
+            "passFail": "24\/2",
             "passPercent": "92",
-            "min": "42",
-            "max": "97",
-            "average": "76.44",
-            "median": "77"
+            "min": "54",
+            "max": "95",
+            "average": "77.154",
+            "median": "77.5"
         },
         "Finals": {
-            "students": "25",
-            "passFail": "24\/1",
-            "passPercent": "96",
-            "min": "42",
-            "max": "99",
-            "average": "77.36",
+            "students": "27",
+            "passFail": "27\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "95",
+            "average": "78.926",
             "median": "77"
         }
     },
-    "202202": {
+    "201802": {
         "Staff": [
             {
                 "name": "אבן-צור גלעד",
                 "email": "eventzur@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מסד עדו",
+                "email": "sidomas@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "וידרו יוליה",
+                "email": "yuliav@campus.technion.ac.il",
+                "title": "מתרגל"
             },
             {
                 "name": "בלסברג עליזה",
@@ -160,22 +160,22 @@
             }
         ],
         "Final_A": {
-            "students": "20",
-            "passFail": "17\/3",
-            "passPercent": "85",
-            "min": "43",
-            "max": "92",
-            "average": "75.75",
-            "median": "79.5"
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "97",
+            "average": "85.8",
+            "median": "84"
         },
         "Finals": {
-            "students": "20",
-            "passFail": "19\/1",
-            "passPercent": "95",
-            "min": "43",
-            "max": "92",
-            "average": "78.789",
-            "median": "79"
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "97",
+            "average": "83.462",
+            "median": "83"
         }
     }
 }

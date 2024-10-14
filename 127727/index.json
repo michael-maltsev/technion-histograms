@@ -1,4 +1,22 @@
 {
+    "202102": {
+        "Staff": [
+            {
+                "name": "מרק אילן",
+                "email": "chilanm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "10",
+            "passFail": "8\/2",
+            "passPercent": "80",
+            "min": "34",
+            "max": "97",
+            "average": "80.1",
+            "median": "92.5"
+        }
+    },
     "201901": {
         "Staff": [
             {
@@ -24,24 +42,6 @@
             "max": "100",
             "average": "89.929",
             "median": "92"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "מרק אילן",
-                "email": "chilanm@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "10",
-            "passFail": "8\/2",
-            "passPercent": "80",
-            "min": "34",
-            "max": "97",
-            "average": "80.1",
-            "median": "92.5"
         }
     }
 }

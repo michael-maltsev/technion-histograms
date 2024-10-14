@@ -1,20 +1,20 @@
 {
-    "201802": {
+    "202001": {
         "Staff": [
             {
-                "name": "עציון טובי",
-                "email": "etzion@cs.technion.ac.il,etzion@technion.ac.il",
+                "name": "טלגם-כהן ענבל",
+                "email": "italgam@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "11",
-            "passFail": "11\/0",
+            "students": "25",
+            "passFail": "25\/0",
             "passPercent": "100",
-            "min": "67",
+            "min": "93",
             "max": "100",
-            "average": "90.091",
-            "median": "89"
+            "average": "96.6",
+            "median": "97"
         }
     },
     "201902": {
@@ -35,22 +35,22 @@
             "median": "96"
         }
     },
-    "202001": {
+    "201802": {
         "Staff": [
             {
-                "name": "טלגם-כהן ענבל",
-                "email": "italgam@technion.ac.il",
+                "name": "עציון טובי",
+                "email": "etzion@cs.technion.ac.il,etzion@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "25",
-            "passFail": "25\/0",
+            "students": "11",
+            "passFail": "11\/0",
             "passPercent": "100",
-            "min": "93",
+            "min": "67",
             "max": "100",
-            "average": "96.6",
-            "median": "97"
+            "average": "90.091",
+            "median": "89"
         }
     }
 }

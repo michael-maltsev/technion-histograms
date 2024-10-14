@@ -1,5 +1,5 @@
 {
-    "201501": {
+    "201801": {
         "Staff": [
             {
                 "name": "לנצמן אליעזר",
@@ -8,102 +8,21 @@
             }
         ],
         "Final_A": {
-            "students": "73",
-            "passFail": "73\/0",
+            "students": "40",
+            "passFail": "40\/0",
             "passPercent": "100",
-            "min": "78",
-            "max": "94",
-            "average": "88.548",
+            "min": "82",
+            "max": "96",
+            "average": "90.4",
             "median": "90"
         },
         "Finals": {
-            "students": "75",
-            "passFail": "75\/0",
+            "students": "41",
+            "passFail": "41\/0",
             "passPercent": "100",
-            "min": "78",
-            "max": "94",
-            "average": "88.88",
-            "median": "90"
-        }
-    },
-    "201502": {
-        "Staff": [
-            {
-                "name": "לנצמן אליעזר",
-                "email": "lancman@shani.net",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "72",
-            "passFail": "72\/0",
-            "passPercent": "100",
-            "min": "72",
-            "max": "94",
-            "average": "88.306",
-            "median": "88"
-        },
-        "Finals": {
-            "students": "72",
-            "passFail": "72\/0",
-            "passPercent": "100",
-            "min": "72",
-            "max": "94",
-            "average": "88.722",
-            "median": "90"
-        }
-    },
-    "201601": {
-        "Staff": [
-            {
-                "name": "לנצמן אליעזר",
-                "email": "lancman@shani.net",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "67",
-            "passFail": "67\/0",
-            "passPercent": "100",
-            "min": "76",
+            "min": "82",
             "max": "96",
-            "average": "87.701",
-            "median": "88"
-        },
-        "Finals": {
-            "students": "66",
-            "passFail": "66\/0",
-            "passPercent": "100",
-            "min": "76",
-            "max": "96",
-            "average": "87.909",
-            "median": "88"
-        }
-    },
-    "201701": {
-        "Staff": [
-            {
-                "name": "לנצמן אליעזר",
-                "email": "lancman@shani.net",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "51",
-            "passFail": "51\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "96",
-            "average": "89.255",
-            "median": "90"
-        },
-        "Finals": {
-            "students": "59",
-            "passFail": "59\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "96",
-            "average": "89.322",
+            "average": "90.39",
             "median": "90"
         }
     },
@@ -134,7 +53,7 @@
             "median": "90"
         }
     },
-    "201801": {
+    "201701": {
         "Staff": [
             {
                 "name": "לנצמן אליעזר",
@@ -143,21 +62,102 @@
             }
         ],
         "Final_A": {
-            "students": "40",
-            "passFail": "40\/0",
+            "students": "51",
+            "passFail": "51\/0",
             "passPercent": "100",
-            "min": "82",
+            "min": "70",
             "max": "96",
-            "average": "90.4",
+            "average": "89.255",
             "median": "90"
         },
         "Finals": {
-            "students": "41",
-            "passFail": "41\/0",
+            "students": "59",
+            "passFail": "59\/0",
             "passPercent": "100",
-            "min": "82",
+            "min": "70",
             "max": "96",
-            "average": "90.39",
+            "average": "89.322",
+            "median": "90"
+        }
+    },
+    "201601": {
+        "Staff": [
+            {
+                "name": "לנצמן אליעזר",
+                "email": "lancman@shani.net",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "67",
+            "passFail": "67\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "96",
+            "average": "87.701",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "66",
+            "passFail": "66\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "96",
+            "average": "87.909",
+            "median": "88"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "לנצמן אליעזר",
+                "email": "lancman@shani.net",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "72",
+            "passFail": "72\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "94",
+            "average": "88.306",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "72",
+            "passFail": "72\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "94",
+            "average": "88.722",
+            "median": "90"
+        }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "לנצמן אליעזר",
+                "email": "lancman@shani.net",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "73",
+            "passFail": "73\/0",
+            "passPercent": "100",
+            "min": "78",
+            "max": "94",
+            "average": "88.548",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "75",
+            "passFail": "75\/0",
+            "passPercent": "100",
+            "min": "78",
+            "max": "94",
+            "average": "88.88",
             "median": "90"
         }
     }

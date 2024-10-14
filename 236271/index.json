@@ -1,5 +1,5 @@
 {
-    "202001": {
+    "202301": {
         "Staff": [
             {
                 "name": "משלי אורן",
@@ -8,85 +8,13 @@
             }
         ],
         "Finals": {
-            "students": "30",
-            "passFail": "30\/0",
-            "passPercent": "100",
-            "min": "68",
-            "max": "97",
-            "average": "88.267",
-            "median": "90"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "משלי אורן",
-                "email": "omishali@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "27",
-            "passFail": "27\/0",
-            "passPercent": "100",
-            "min": "77",
-            "max": "94",
-            "average": "86.148",
-            "median": "85"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "משלי אורן",
-                "email": "omishali@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "98",
-            "average": "86.72",
-            "median": "89"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "משלי אורן",
-                "email": "omishali@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "30",
-            "passFail": "30\/0",
-            "passPercent": "100",
-            "min": "69",
-            "max": "97",
-            "average": "84.767",
-            "median": "86"
-        }
-    },
-    "202201": {
-        "Staff": [
-            {
-                "name": "משלי אורן",
-                "email": "omishali@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "30",
-            "passFail": "30\/0",
+            "students": "32",
+            "passFail": "32\/0",
             "passPercent": "100",
             "min": "60",
-            "max": "100",
-            "average": "84.2",
-            "median": "85"
+            "max": "97",
+            "average": "86.188",
+            "median": "87"
         }
     },
     "202202": {
@@ -107,7 +35,7 @@
             "median": "87"
         }
     },
-    "202301": {
+    "202201": {
         "Staff": [
             {
                 "name": "משלי אורן",
@@ -116,13 +44,85 @@
             }
         ],
         "Finals": {
-            "students": "32",
-            "passFail": "32\/0",
+            "students": "30",
+            "passFail": "30\/0",
             "passPercent": "100",
             "min": "60",
+            "max": "100",
+            "average": "84.2",
+            "median": "85"
+        }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "משלי אורן",
+                "email": "omishali@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "69",
             "max": "97",
-            "average": "86.188",
-            "median": "87"
+            "average": "84.767",
+            "median": "86"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "משלי אורן",
+                "email": "omishali@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "98",
+            "average": "86.72",
+            "median": "89"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "משלי אורן",
+                "email": "omishali@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "27",
+            "passFail": "27\/0",
+            "passPercent": "100",
+            "min": "77",
+            "max": "94",
+            "average": "86.148",
+            "median": "85"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "משלי אורן",
+                "email": "omishali@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "97",
+            "average": "88.267",
+            "median": "90"
         }
     }
 }

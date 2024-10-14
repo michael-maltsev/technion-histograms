@@ -1,95 +1,5 @@
 {
-    "201402": {
-        "Staff": [
-            {
-                "name": "זקס שמואל",
-                "email": "zaks@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "181",
-            "passFail": "133\/48",
-            "passPercent": "73",
-            "min": "7",
-            "max": "100",
-            "average": "65.906",
-            "median": "70"
-        }
-    },
-    "201501": {
-        "Staff": [
-            {
-                "name": "זקס שמואל",
-                "email": "zaks@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "146",
-            "passFail": "111\/35",
-            "passPercent": "76",
-            "min": "5",
-            "max": "98",
-            "average": "65.295",
-            "median": "69"
-        }
-    },
-    "201502": {
-        "Staff": [
-            {
-                "name": "פילמוס יובל",
-                "email": "yuvalfi@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "204",
-            "passFail": "162\/42",
-            "passPercent": "79",
-            "min": "12",
-            "max": "100",
-            "average": "69.794",
-            "median": "72"
-        }
-    },
-    "201601": {
-        "Staff": [
-            {
-                "name": "קמינסקי מיכאל",
-                "email": "kaminski@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "125",
-            "passFail": "90\/35",
-            "passPercent": "72",
-            "min": "10",
-            "max": "100",
-            "average": "62.76",
-            "median": "68"
-        }
-    },
-    "201602": {
-        "Staff": [
-            {
-                "name": "פילמוס יובל",
-                "email": "yuvalfi@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "224",
-            "passFail": "206\/18",
-            "passPercent": "92",
-            "min": "18",
-            "max": "100",
-            "average": "74.942",
-            "median": "76.5"
-        }
-    },
-    "201701": {
+    "201802": {
         "Staff": [
             {
                 "name": "אלכסנדרוביץ גד",
@@ -98,31 +8,13 @@
             }
         ],
         "Finals": {
-            "students": "198",
-            "passFail": "185\/13",
+            "students": "260",
+            "passFail": "242\/18",
             "passPercent": "93",
             "min": "18",
-            "max": "99",
-            "average": "78",
-            "median": "80"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "פילמוס יובל",
-                "email": "yuvalfi@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "209",
-            "passFail": "191\/18",
-            "passPercent": "91",
-            "min": "9",
             "max": "100",
-            "average": "77.598",
-            "median": "80"
+            "average": "77.865",
+            "median": "82"
         }
     },
     "201801": {
@@ -143,7 +35,25 @@
             "median": "78"
         }
     },
-    "201802": {
+    "201702": {
+        "Staff": [
+            {
+                "name": "פילמוס יובל",
+                "email": "yuvalfi@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "209",
+            "passFail": "191\/18",
+            "passPercent": "91",
+            "min": "9",
+            "max": "100",
+            "average": "77.598",
+            "median": "80"
+        }
+    },
+    "201701": {
         "Staff": [
             {
                 "name": "אלכסנדרוביץ גד",
@@ -152,13 +62,103 @@
             }
         ],
         "Finals": {
-            "students": "260",
-            "passFail": "242\/18",
+            "students": "198",
+            "passFail": "185\/13",
             "passPercent": "93",
             "min": "18",
+            "max": "99",
+            "average": "78",
+            "median": "80"
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "פילמוס יובל",
+                "email": "yuvalfi@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "224",
+            "passFail": "206\/18",
+            "passPercent": "92",
+            "min": "18",
             "max": "100",
-            "average": "77.865",
-            "median": "82"
+            "average": "74.942",
+            "median": "76.5"
+        }
+    },
+    "201601": {
+        "Staff": [
+            {
+                "name": "קמינסקי מיכאל",
+                "email": "kaminski@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "125",
+            "passFail": "90\/35",
+            "passPercent": "72",
+            "min": "10",
+            "max": "100",
+            "average": "62.76",
+            "median": "68"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "פילמוס יובל",
+                "email": "yuvalfi@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "204",
+            "passFail": "162\/42",
+            "passPercent": "79",
+            "min": "12",
+            "max": "100",
+            "average": "69.794",
+            "median": "72"
+        }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "זקס שמואל",
+                "email": "zaks@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "146",
+            "passFail": "111\/35",
+            "passPercent": "76",
+            "min": "5",
+            "max": "98",
+            "average": "65.295",
+            "median": "69"
+        }
+    },
+    "201402": {
+        "Staff": [
+            {
+                "name": "זקס שמואל",
+                "email": "zaks@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "181",
+            "passFail": "133\/48",
+            "passPercent": "73",
+            "min": "7",
+            "max": "100",
+            "average": "65.906",
+            "median": "70"
         }
     }
 }

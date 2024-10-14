@@ -1,4 +1,27 @@
 {
+    "202001": {
+        "Staff": [
+            {
+                "name": "חסמן ארז",
+                "email": "mehasman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סופרין שמואל",
+                "email": "shmueksufrin@campus.technion.ac.il,shmuelsufrin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "10",
+            "passFail": "10\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "100",
+            "average": "94.8",
+            "median": "93"
+        }
+    },
     "201901": {
         "Staff": [
             {
@@ -29,29 +52,6 @@
             "max": "100",
             "average": "96.615",
             "median": "97"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "חסמן ארז",
-                "email": "mehasman@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "סופרין שמואל",
-                "email": "shmueksufrin@campus.technion.ac.il,shmuelsufrin@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
-            "passPercent": "100",
-            "min": "93",
-            "max": "100",
-            "average": "94.8",
-            "median": "93"
         }
     }
 }

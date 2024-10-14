@@ -1,19 +1,55 @@
 {
-    "201802": {
+    "202201": {
         "Staff": [
             {
-                "name": "טרם שלומית",
-                "email": "tarem@technion.ac.il",
+                "name": "דז'אק וינסנט",
+                "email": "vincent.desj@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "14",
-            "passFail": "14\/0",
+            "students": "13",
+            "passFail": "13\/0",
             "passPercent": "100",
-            "min": "92",
+            "min": "89",
             "max": "100",
-            "average": "97.643",
+            "average": "97.231",
+            "median": "98"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "כפרי יריב",
+                "email": "kafri@physics.technion.ac.il,kafri@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "91",
+            "max": "100",
+            "average": "96.583",
+            "median": "96.5"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "כפרי יריב",
+                "email": "kafri@physics.technion.ac.il,kafri@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "97.533",
             "median": "99"
         }
     },
@@ -35,58 +71,22 @@
             "median": "100"
         }
     },
-    "202001": {
+    "201802": {
         "Staff": [
             {
-                "name": "כפרי יריב",
-                "email": "kafri@physics.technion.ac.il,kafri@technion.ac.il",
+                "name": "טרם שלומית",
+                "email": "tarem@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "15",
-            "passFail": "15\/0",
+            "students": "14",
+            "passFail": "14\/0",
             "passPercent": "100",
-            "min": "90",
+            "min": "92",
             "max": "100",
-            "average": "97.533",
+            "average": "97.643",
             "median": "99"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "כפרי יריב",
-                "email": "kafri@physics.technion.ac.il,kafri@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "91",
-            "max": "100",
-            "average": "96.583",
-            "median": "96.5"
-        }
-    },
-    "202201": {
-        "Staff": [
-            {
-                "name": "דז'אק וינסנט",
-                "email": "vincent.desj@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "89",
-            "max": "100",
-            "average": "97.231",
-            "median": "98"
         }
     }
 }

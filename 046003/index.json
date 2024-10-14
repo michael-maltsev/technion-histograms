@@ -1,4 +1,45 @@
 {
+    "201902": {
+        "Staff": [
+            {
+                "name": "סודרי דניאל",
+                "email": "daniel.soudry@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "משה יאיר",
+                "email": "yair@ee.technion.ac.il,myair@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "30\/2",
+            "passPercent": "94",
+            "min": "50",
+            "max": "100",
+            "average": "87.188",
+            "median": "90"
+        },
+        "Final_A": {
+            "students": "33",
+            "passFail": "33\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "97",
+            "average": "88.576",
+            "median": "91"
+        },
+        "Finals": {
+            "students": "33",
+            "passFail": "33\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "97",
+            "average": "88.545",
+            "median": "91"
+        }
+    },
     "201802": {
         "Staff": [
             {
@@ -61,47 +102,6 @@
             "max": "100",
             "average": "85.887",
             "median": "86"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "סודרי דניאל",
-                "email": "daniel.soudry@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "משה יאיר",
-                "email": "yair@ee.technion.ac.il,myair@technion.ac.il",
-                "title": "מתרגל"
-            }
-        ],
-        "Exam_A": {
-            "students": "32",
-            "passFail": "30\/2",
-            "passPercent": "94",
-            "min": "50",
-            "max": "100",
-            "average": "87.188",
-            "median": "90"
-        },
-        "Final_A": {
-            "students": "33",
-            "passFail": "33\/0",
-            "passPercent": "100",
-            "min": "69",
-            "max": "97",
-            "average": "88.576",
-            "median": "91"
-        },
-        "Finals": {
-            "students": "33",
-            "passFail": "33\/0",
-            "passPercent": "100",
-            "min": "69",
-            "max": "97",
-            "average": "88.545",
-            "median": "91"
         }
     }
 }

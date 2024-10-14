@@ -1,5 +1,5 @@
 {
-    "201601": {
+    "202001": {
         "Staff": [
             {
                 "name": "וילנסקי אלכסנדר",
@@ -7,51 +7,92 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "ח'ורי מאריה",
-                "email": "mariakh@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "קובץ' עומר",
-                "email": "omer.k@campus.technion.ac.il",
+                "name": "בלנקוביץ' מרב",
+                "email": "meravkr@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Exam_A": {
-            "students": "32",
-            "passFail": "32\/0",
-            "passPercent": "100",
-            "min": "65",
-            "max": "100",
-            "average": "89.031",
-            "median": "90"
-        },
         "Final_A": {
-            "students": "42",
-            "passFail": "42\/0",
+            "students": "60",
+            "passFail": "60\/0",
             "passPercent": "100",
             "min": "69",
             "max": "100",
-            "average": "89.595",
-            "median": "91"
-        },
-        "Final_B": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "94.727",
+            "average": "93.333",
             "median": "96"
         },
         "Finals": {
-            "students": "48",
-            "passFail": "48\/0",
+            "students": "64",
+            "passFail": "64\/0",
             "passPercent": "100",
-            "min": "73",
+            "min": "78",
             "max": "100",
-            "average": "92.708",
-            "median": "93"
+            "average": "94.859",
+            "median": "96"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "וילנסקי אלכסנדר",
+                "email": "radio4x1mh@hotmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בלנקוביץ' מרב",
+                "email": "meravkr@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "43",
+            "passFail": "43\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "97.791",
+            "median": "100"
+        },
+        "Finals": {
+            "students": "43",
+            "passFail": "43\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "97.791",
+            "median": "100"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "וילנסקי אלכסנדר",
+                "email": "radio4x1mh@hotmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בלנקוביץ' מרב",
+                "email": "meravkr@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "43",
+            "passFail": "43\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "91.163",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "45",
+            "passFail": "45\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "91.556",
+            "median": "90"
         }
     },
     "201701": {
@@ -113,7 +154,7 @@
             "median": "95"
         }
     },
-    "201801": {
+    "201601": {
         "Staff": [
             {
                 "name": "וילנסקי אלכסנדר",
@@ -121,92 +162,51 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "בלנקוביץ' מרב",
-                "email": "meravkr@campus.technion.ac.il",
+                "name": "ח'ורי מאריה",
+                "email": "mariakh@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קובץ' עומר",
+                "email": "omer.k@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Final_A": {
-            "students": "43",
-            "passFail": "43\/0",
+        "Exam_A": {
+            "students": "32",
+            "passFail": "32\/0",
             "passPercent": "100",
-            "min": "70",
+            "min": "65",
             "max": "100",
-            "average": "91.163",
+            "average": "89.031",
             "median": "90"
         },
-        "Finals": {
-            "students": "45",
-            "passFail": "45\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "91.556",
-            "median": "90"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "וילנסקי אלכסנדר",
-                "email": "radio4x1mh@hotmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בלנקוביץ' מרב",
-                "email": "meravkr@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
         "Final_A": {
-            "students": "43",
-            "passFail": "43\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "97.791",
-            "median": "100"
-        },
-        "Finals": {
-            "students": "43",
-            "passFail": "43\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "97.791",
-            "median": "100"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "וילנסקי אלכסנדר",
-                "email": "radio4x1mh@hotmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בלנקוביץ' מרב",
-                "email": "meravkr@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "60",
-            "passFail": "60\/0",
+            "students": "42",
+            "passFail": "42\/0",
             "passPercent": "100",
             "min": "69",
             "max": "100",
-            "average": "93.333",
+            "average": "89.595",
+            "median": "91"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "94.727",
             "median": "96"
         },
         "Finals": {
-            "students": "64",
-            "passFail": "64\/0",
+            "students": "48",
+            "passFail": "48\/0",
             "passPercent": "100",
-            "min": "78",
+            "min": "73",
             "max": "100",
-            "average": "94.859",
-            "median": "96"
+            "average": "92.708",
+            "median": "93"
         }
     }
 }

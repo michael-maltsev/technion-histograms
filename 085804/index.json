@@ -1,20 +1,29 @@
 {
-    "201801": {
+    "202102": {
         "Staff": [
             {
-                "name": "שימא טל",
-                "email": "tal.shima@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "name": "שפרמן ויטלי",
+                "email": "vitalysh@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
+        "Final_A": {
+            "students": "12",
+            "passFail": "12\/0",
             "passPercent": "100",
-            "min": "83",
+            "min": "90",
             "max": "98",
-            "average": "92.6",
-            "median": "93"
+            "average": "95.083",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "98",
+            "average": "95.083",
+            "median": "96"
         }
     },
     "201901": {
@@ -44,31 +53,22 @@
             "median": "95"
         }
     },
-    "202102": {
+    "201801": {
         "Staff": [
             {
-                "name": "שפרמן ויטלי",
-                "email": "vitalysh@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
+                "name": "שימא טל",
+                "email": "tal.shima@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Final_A": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "98",
-            "average": "95.083",
-            "median": "96"
-        },
         "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
+            "students": "10",
+            "passFail": "10\/0",
             "passPercent": "100",
-            "min": "90",
+            "min": "83",
             "max": "98",
-            "average": "95.083",
-            "median": "96"
+            "average": "92.6",
+            "median": "93"
         }
     }
 }

@@ -1,31 +1,4 @@
 {
-    "201702": {
-        "Staff": [
-            {
-                "name": "זהר יניב",
-                "email": "yanivz@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Exam_A": {
-            "students": "127",
-            "passFail": "114\/13",
-            "passPercent": "90",
-            "min": "33",
-            "max": "95",
-            "average": "67.803",
-            "median": "68"
-        },
-        "Final_A": {
-            "students": "127",
-            "passFail": "117\/10",
-            "passPercent": "92",
-            "min": "34",
-            "max": "95",
-            "average": "68.087",
-            "median": "68"
-        }
-    },
     "201802": {
         "Staff": [
             {
@@ -103,6 +76,33 @@
             "max": "97",
             "average": "68.978",
             "median": "69"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "זהר יניב",
+                "email": "yanivz@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "127",
+            "passFail": "114\/13",
+            "passPercent": "90",
+            "min": "33",
+            "max": "95",
+            "average": "67.803",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "127",
+            "passFail": "117\/10",
+            "passPercent": "92",
+            "min": "34",
+            "max": "95",
+            "average": "68.087",
+            "median": "68"
         }
     }
 }

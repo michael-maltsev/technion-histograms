@@ -1,32 +1,79 @@
 {
-    "201502": {
+    "202101": {
         "Staff": [
             {
                 "name": "מעיין פנר אמה",
                 "email": "maayanimage@gmail.com",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "33",
-            "passFail": "33\/0",
+            "students": "49",
+            "passFail": "49\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "100",
+            "average": "92.408",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "49",
+            "passFail": "49\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "100",
+            "average": "92.449",
+            "median": "95"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "מעיין פנר אמה",
+                "email": "maayanimage@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "53",
+            "passFail": "53\/0",
             "passPercent": "100",
             "min": "70",
             "max": "100",
-            "average": "90.788",
-            "median": "91"
+            "average": "91.642",
+            "median": "95"
         },
         "Finals": {
-            "students": "34",
-            "passFail": "34\/0",
+            "students": "53",
+            "passFail": "53\/0",
             "passPercent": "100",
             "min": "70",
             "max": "100",
-            "average": "90.647",
-            "median": "91"
+            "average": "91.679",
+            "median": "95"
         }
     },
-    "201602": {
+    "201901": {
         "Staff": [
             {
                 "name": "מעיין פנר אמה",
@@ -35,49 +82,22 @@
             }
         ],
         "Final_A": {
-            "students": "30",
-            "passFail": "30\/0",
+            "students": "23",
+            "passFail": "23\/0",
             "passPercent": "100",
-            "min": "60",
+            "min": "73",
             "max": "100",
-            "average": "87.167",
-            "median": "90.5"
+            "average": "93.913",
+            "median": "96"
         },
         "Finals": {
-            "students": "31",
-            "passFail": "31\/0",
-            "passPercent": "100",
-            "min": "72",
+            "students": "25",
+            "passFail": "24\/1",
+            "passPercent": "96",
+            "min": "48",
             "max": "100",
-            "average": "89.226",
-            "median": "90"
-        }
-    },
-    "201701": {
-        "Staff": [
-            {
-                "name": "מעיין פנר אמה",
-                "email": "maayanimage@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "34",
-            "passFail": "34\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "98",
-            "average": "88.706",
-            "median": "90"
-        },
-        "Finals": {
-            "students": "39",
-            "passFail": "39\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "98",
-            "average": "88.821",
-            "median": "90"
+            "average": "92.24",
+            "median": "97"
         }
     },
     "201801": {
@@ -127,7 +147,7 @@
             "median": "94"
         }
     },
-    "201901": {
+    "201701": {
         "Staff": [
             {
                 "name": "מעיין פנר אמה",
@@ -136,96 +156,76 @@
             }
         ],
         "Final_A": {
-            "students": "23",
-            "passFail": "23\/0",
+            "students": "34",
+            "passFail": "34\/0",
             "passPercent": "100",
-            "min": "73",
-            "max": "100",
-            "average": "93.913",
-            "median": "96"
+            "min": "60",
+            "max": "98",
+            "average": "88.706",
+            "median": "90"
         },
         "Finals": {
-            "students": "25",
-            "passFail": "24\/1",
-            "passPercent": "96",
-            "min": "48",
-            "max": "100",
-            "average": "92.24",
-            "median": "97"
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "98",
+            "average": "88.821",
+            "median": "90"
         }
     },
-    "202002": {
+    "201602": {
         "Staff": [
             {
                 "name": "מעיין פנר אמה",
                 "email": "maayanimage@gmail.com",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "53",
-            "passFail": "53\/0",
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "87.167",
+            "median": "90.5"
+        },
+        "Finals": {
+            "students": "31",
+            "passFail": "31\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "100",
+            "average": "89.226",
+            "median": "90"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "מעיין פנר אמה",
+                "email": "maayanimage@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "33",
+            "passFail": "33\/0",
             "passPercent": "100",
             "min": "70",
             "max": "100",
-            "average": "91.642",
-            "median": "95"
+            "average": "90.788",
+            "median": "91"
         },
         "Finals": {
-            "students": "53",
-            "passFail": "53\/0",
+            "students": "34",
+            "passFail": "34\/0",
             "passPercent": "100",
             "min": "70",
             "max": "100",
-            "average": "91.679",
-            "median": "95"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "מעיין פנר אמה",
-                "email": "maayanimage@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "49",
-            "passFail": "49\/0",
-            "passPercent": "100",
-            "min": "76",
-            "max": "100",
-            "average": "92.408",
-            "median": "95"
-        },
-        "Finals": {
-            "students": "49",
-            "passFail": "49\/0",
-            "passPercent": "100",
-            "min": "76",
-            "max": "100",
-            "average": "92.449",
-            "median": "95"
+            "average": "90.647",
+            "median": "91"
         }
     }
 }

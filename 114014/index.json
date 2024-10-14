@@ -1,4 +1,184 @@
 {
+    "202102": {
+        "Staff": [
+            {
+                "name": "נוימן עדינה מיכל",
+                "email": "michalaneumann@gmail.com,armichal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "80",
+            "passFail": "72\/8",
+            "passPercent": "90",
+            "min": "32",
+            "max": "100",
+            "average": "79.175",
+            "median": "83"
+        },
+        "Final_B": {
+            "students": "33",
+            "passFail": "27\/6",
+            "passPercent": "82",
+            "min": "42",
+            "max": "100",
+            "average": "73.727",
+            "median": "75"
+        },
+        "Finals": {
+            "students": "102",
+            "passFail": "94\/8",
+            "passPercent": "92",
+            "min": "32",
+            "max": "100",
+            "average": "79.755",
+            "median": "83"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "נוימן עדינה מיכל",
+                "email": "michalaneumann@gmail.com,armichal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "97",
+            "passFail": "86\/11",
+            "passPercent": "89",
+            "min": "27",
+            "max": "100",
+            "average": "77.144",
+            "median": "80"
+        },
+        "Final_B": {
+            "students": "32",
+            "passFail": "25\/7",
+            "passPercent": "78",
+            "min": "40",
+            "max": "100",
+            "average": "74.969",
+            "median": "75.5"
+        },
+        "Finals": {
+            "students": "110",
+            "passFail": "104\/6",
+            "passPercent": "95",
+            "min": "40",
+            "max": "100",
+            "average": "80.309",
+            "median": "80"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "נוימן עדינה מיכל",
+                "email": "tamirneu@netvision.net.il,armichal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "98",
+            "passFail": "94\/4",
+            "passPercent": "96",
+            "min": "34",
+            "max": "100",
+            "average": "84.765",
+            "median": "89"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "46",
+            "max": "93",
+            "average": "77.812",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "102",
+            "passFail": "101\/1",
+            "passPercent": "99",
+            "min": "46",
+            "max": "100",
+            "average": "86.657",
+            "median": "89"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "נוימן עדינה מיכל",
+                "email": "michalaneumann@gmail.com,armichal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "76",
+            "passFail": "70\/6",
+            "passPercent": "92",
+            "min": "47",
+            "max": "100",
+            "average": "80.737",
+            "median": "83"
+        },
+        "Final_B": {
+            "students": "34",
+            "passFail": "32\/2",
+            "passPercent": "94",
+            "min": "37",
+            "max": "100",
+            "average": "83.941",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "91",
+            "passFail": "89\/2",
+            "passPercent": "98",
+            "min": "37",
+            "max": "100",
+            "average": "85.473",
+            "median": "88"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "נוימן עדינה מיכל",
+                "email": "tamirneu@netvision.net.il,armichal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "75",
+            "passFail": "64\/11",
+            "passPercent": "85",
+            "min": "27",
+            "max": "100",
+            "average": "72.813",
+            "median": "75"
+        },
+        "Final_B": {
+            "students": "49",
+            "passFail": "45\/4",
+            "passPercent": "92",
+            "min": "36",
+            "max": "100",
+            "average": "78.816",
+            "median": "81"
+        },
+        "Finals": {
+            "students": "106",
+            "passFail": "99\/7",
+            "passPercent": "93",
+            "min": "30",
+            "max": "100",
+            "average": "78.67",
+            "median": "81"
+        }
+    },
     "201502": {
         "Staff": [
             {
@@ -42,186 +222,6 @@
             "max": "100",
             "average": "79.6",
             "median": "81"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "נוימן עדינה מיכל",
-                "email": "tamirneu@netvision.net.il,armichal@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "75",
-            "passFail": "64\/11",
-            "passPercent": "85",
-            "min": "27",
-            "max": "100",
-            "average": "72.813",
-            "median": "75"
-        },
-        "Final_B": {
-            "students": "49",
-            "passFail": "45\/4",
-            "passPercent": "92",
-            "min": "36",
-            "max": "100",
-            "average": "78.816",
-            "median": "81"
-        },
-        "Finals": {
-            "students": "106",
-            "passFail": "99\/7",
-            "passPercent": "93",
-            "min": "30",
-            "max": "100",
-            "average": "78.67",
-            "median": "81"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "נוימן עדינה מיכל",
-                "email": "michalaneumann@gmail.com,armichal@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "76",
-            "passFail": "70\/6",
-            "passPercent": "92",
-            "min": "47",
-            "max": "100",
-            "average": "80.737",
-            "median": "83"
-        },
-        "Final_B": {
-            "students": "34",
-            "passFail": "32\/2",
-            "passPercent": "94",
-            "min": "37",
-            "max": "100",
-            "average": "83.941",
-            "median": "87"
-        },
-        "Finals": {
-            "students": "91",
-            "passFail": "89\/2",
-            "passPercent": "98",
-            "min": "37",
-            "max": "100",
-            "average": "85.473",
-            "median": "88"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "נוימן עדינה מיכל",
-                "email": "tamirneu@netvision.net.il,armichal@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "98",
-            "passFail": "94\/4",
-            "passPercent": "96",
-            "min": "34",
-            "max": "100",
-            "average": "84.765",
-            "median": "89"
-        },
-        "Final_B": {
-            "students": "16",
-            "passFail": "15\/1",
-            "passPercent": "94",
-            "min": "46",
-            "max": "93",
-            "average": "77.812",
-            "median": "82"
-        },
-        "Finals": {
-            "students": "102",
-            "passFail": "101\/1",
-            "passPercent": "99",
-            "min": "46",
-            "max": "100",
-            "average": "86.657",
-            "median": "89"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "נוימן עדינה מיכל",
-                "email": "michalaneumann@gmail.com,armichal@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "97",
-            "passFail": "86\/11",
-            "passPercent": "89",
-            "min": "27",
-            "max": "100",
-            "average": "77.144",
-            "median": "80"
-        },
-        "Final_B": {
-            "students": "32",
-            "passFail": "25\/7",
-            "passPercent": "78",
-            "min": "40",
-            "max": "100",
-            "average": "74.969",
-            "median": "75.5"
-        },
-        "Finals": {
-            "students": "110",
-            "passFail": "104\/6",
-            "passPercent": "95",
-            "min": "40",
-            "max": "100",
-            "average": "80.309",
-            "median": "80"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "נוימן עדינה מיכל",
-                "email": "michalaneumann@gmail.com,armichal@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "80",
-            "passFail": "72\/8",
-            "passPercent": "90",
-            "min": "32",
-            "max": "100",
-            "average": "79.175",
-            "median": "83"
-        },
-        "Final_B": {
-            "students": "33",
-            "passFail": "27\/6",
-            "passPercent": "82",
-            "min": "42",
-            "max": "100",
-            "average": "73.727",
-            "median": "75"
-        },
-        "Finals": {
-            "students": "102",
-            "passFail": "94\/8",
-            "passPercent": "92",
-            "min": "32",
-            "max": "100",
-            "average": "79.755",
-            "median": "83"
         }
     }
 }

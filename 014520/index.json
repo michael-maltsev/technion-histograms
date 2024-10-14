@@ -1,50 +1,4 @@
 {
-    "201902": {
-        "Staff": [
-            {
-                "name": "ז'וטובסקי סמיון",
-                "email": "semionzh@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "צאצאשוילי תמי",
-                "email": "tami@technion.ac.il,noreplay@norplay.com",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "שביט שרית",
-                "email": "sarits@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Exam_A": {
-            "students": "17",
-            "passFail": "13\/4",
-            "passPercent": "76",
-            "min": "0",
-            "max": "99",
-            "average": "66.647",
-            "median": "74"
-        },
-        "Final_A": {
-            "students": "17",
-            "passFail": "13\/4",
-            "passPercent": "76",
-            "min": "0",
-            "max": "100",
-            "average": "71.647",
-            "median": "80"
-        },
-        "Finals": {
-            "students": "17",
-            "passFail": "13\/4",
-            "passPercent": "76",
-            "min": "30",
-            "max": "100",
-            "average": "73.529",
-            "median": "80"
-        }
-    },
     "202002": {
         "Staff": [
             {
@@ -89,6 +43,52 @@
             "max": "92",
             "average": "80.217",
             "median": "81"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "ז'וטובסקי סמיון",
+                "email": "semionzh@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "17",
+            "passFail": "13\/4",
+            "passPercent": "76",
+            "min": "0",
+            "max": "99",
+            "average": "66.647",
+            "median": "74"
+        },
+        "Final_A": {
+            "students": "17",
+            "passFail": "13\/4",
+            "passPercent": "76",
+            "min": "0",
+            "max": "100",
+            "average": "71.647",
+            "median": "80"
+        },
+        "Finals": {
+            "students": "17",
+            "passFail": "13\/4",
+            "passPercent": "76",
+            "min": "30",
+            "max": "100",
+            "average": "73.529",
+            "median": "80"
         }
     }
 }

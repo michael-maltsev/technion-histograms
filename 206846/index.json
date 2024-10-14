@@ -1,31 +1,4 @@
 {
-    "202002": {
-        "Staff": [
-            {
-                "name": "ברט שני",
-                "email": "barathshany@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_B": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "97",
-            "average": "87.882",
-            "median": "88"
-        },
-        "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "97",
-            "average": "87.882",
-            "median": "88"
-        }
-    },
     "202102": {
         "Staff": [
             {
@@ -51,6 +24,33 @@
             "max": "95",
             "average": "90.867",
             "median": "90"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "ברט שני",
+                "email": "barathshany@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_B": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "97",
+            "average": "87.882",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "97",
+            "average": "87.882",
+            "median": "88"
         }
     }
 }

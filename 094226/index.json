@@ -1,10 +1,10 @@
 {
-    "202002": {
+    "202202": {
         "Staff": [
             {
                 "name": "לוין אסף",
                 "email": "levinas@ie.technion.ac.il,levinas@technion.ac.il",
-                "title": "מרצה"
+                "title": "מרצה - אחראי מקצוע"
             },
             {
                 "name": "זיו דוד מורן",
@@ -13,31 +13,31 @@
             }
         ],
         "Final_A": {
-            "students": "21",
-            "passFail": "10\/11",
-            "passPercent": "48",
-            "min": "5",
-            "max": "98",
-            "average": "53.19",
-            "median": "46"
+            "students": "55",
+            "passFail": "27\/28",
+            "passPercent": "49",
+            "min": "9",
+            "max": "99",
+            "average": "51.727",
+            "median": "52"
         },
         "Final_B": {
-            "students": "14",
-            "passFail": "8\/6",
-            "passPercent": "57",
-            "min": "52",
-            "max": "87",
-            "average": "60.214",
-            "median": "55"
+            "students": "23",
+            "passFail": "11\/12",
+            "passPercent": "48",
+            "min": "6",
+            "max": "100",
+            "average": "50.696",
+            "median": "46"
         },
         "Finals": {
-            "students": "23",
-            "passFail": "17\/6",
-            "passPercent": "74",
-            "min": "52",
+            "students": "50",
+            "passFail": "35\/15",
+            "passPercent": "70",
+            "min": "6",
             "max": "100",
-            "average": "68.043",
-            "median": "62"
+            "average": "55.688",
+            "median": "63"
         }
     },
     "202102": {
@@ -86,12 +86,12 @@
             "median": "71"
         }
     },
-    "202202": {
+    "202002": {
         "Staff": [
             {
                 "name": "לוין אסף",
                 "email": "levinas@ie.technion.ac.il,levinas@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "title": "מרצה"
             },
             {
                 "name": "זיו דוד מורן",
@@ -100,31 +100,31 @@
             }
         ],
         "Final_A": {
-            "students": "55",
-            "passFail": "27\/28",
-            "passPercent": "49",
-            "min": "9",
-            "max": "99",
-            "average": "51.727",
-            "median": "52"
-        },
-        "Final_B": {
-            "students": "23",
-            "passFail": "11\/12",
+            "students": "21",
+            "passFail": "10\/11",
             "passPercent": "48",
-            "min": "6",
-            "max": "100",
-            "average": "50.696",
+            "min": "5",
+            "max": "98",
+            "average": "53.19",
             "median": "46"
         },
+        "Final_B": {
+            "students": "14",
+            "passFail": "8\/6",
+            "passPercent": "57",
+            "min": "52",
+            "max": "87",
+            "average": "60.214",
+            "median": "55"
+        },
         "Finals": {
-            "students": "50",
-            "passFail": "35\/15",
-            "passPercent": "70",
-            "min": "6",
+            "students": "23",
+            "passFail": "17\/6",
+            "passPercent": "74",
+            "min": "52",
             "max": "100",
-            "average": "55.688",
-            "median": "63"
+            "average": "68.043",
+            "median": "62"
         }
     }
 }

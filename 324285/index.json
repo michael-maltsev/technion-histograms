@@ -1,56 +1,85 @@
 {
-    "201801": {
+    "202102": {
         "Staff": [
             {
                 "name": "בינה פולק אביטל",
                 "email": "avitalbp@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "64",
-            "passFail": "62\/2",
-            "passPercent": "97",
-            "min": "48",
+            "students": "56",
+            "passFail": "56\/0",
+            "passPercent": "100",
+            "min": "64",
             "max": "100",
-            "average": "90",
-            "median": "92"
+            "average": "94.286",
+            "median": "96"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "99",
+            "average": "92.615",
+            "median": "94"
         },
         "Finals": {
-            "students": "65",
-            "passFail": "65\/0",
+            "students": "56",
+            "passFail": "56\/0",
             "passPercent": "100",
-            "min": "56",
+            "min": "80",
             "max": "100",
-            "average": "90.708",
-            "median": "92"
+            "average": "96.464",
+            "median": "97.5"
         }
     },
-    "201802": {
+    "202001": {
         "Staff": [
             {
                 "name": "בינה פולק אביטל",
                 "email": "avitalbp@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הראל אילנה",
+                "email": "ilanah1@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "51",
-            "passFail": "51\/0",
-            "passPercent": "100",
-            "min": "80",
+            "students": "81",
+            "passFail": "80\/1",
+            "passPercent": "99",
+            "min": "0",
             "max": "100",
-            "average": "94.863",
-            "median": "96"
+            "average": "95.432",
+            "median": "98"
         },
         "Finals": {
-            "students": "52",
-            "passFail": "52\/0",
+            "students": "81",
+            "passFail": "81\/0",
             "passPercent": "100",
-            "min": "80",
+            "min": "82",
             "max": "100",
-            "average": "95.308",
-            "median": "96"
+            "average": "96.543",
+            "median": "98"
         }
     },
     "201902": {
@@ -99,87 +128,58 @@
             "median": "96"
         }
     },
-    "202001": {
+    "201802": {
         "Staff": [
             {
                 "name": "בינה פולק אביטל",
                 "email": "avitalbp@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "הראל אילנה",
-                "email": "ilanah1@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "81",
-            "passFail": "80\/1",
-            "passPercent": "99",
-            "min": "0",
-            "max": "100",
-            "average": "95.432",
-            "median": "98"
-        },
-        "Finals": {
-            "students": "81",
-            "passFail": "81\/0",
+            "students": "51",
+            "passFail": "51\/0",
             "passPercent": "100",
-            "min": "82",
+            "min": "80",
             "max": "100",
-            "average": "96.543",
-            "median": "98"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "בינה פולק אביטל",
-                "email": "avitalbp@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "56",
-            "passFail": "56\/0",
-            "passPercent": "100",
-            "min": "64",
-            "max": "100",
-            "average": "94.286",
+            "average": "94.863",
             "median": "96"
         },
-        "Final_B": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "99",
-            "average": "92.615",
-            "median": "94"
-        },
         "Finals": {
-            "students": "56",
-            "passFail": "56\/0",
+            "students": "52",
+            "passFail": "52\/0",
             "passPercent": "100",
             "min": "80",
             "max": "100",
-            "average": "96.464",
-            "median": "97.5"
+            "average": "95.308",
+            "median": "96"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "בינה פולק אביטל",
+                "email": "avitalbp@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "64",
+            "passFail": "62\/2",
+            "passPercent": "97",
+            "min": "48",
+            "max": "100",
+            "average": "90",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "65",
+            "passFail": "65\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "100",
+            "average": "90.708",
+            "median": "92"
         }
     }
 }

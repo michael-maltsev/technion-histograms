@@ -1,63 +1,4 @@
 {
-    "202201": {
-        "Staff": [
-            {
-                "name": "כהן יוסף",
-                "email": "coheny@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "אביטל רבקה",
-                "email": "rivka_a@technion.ac.il",
-                "title": "מתרגל"
-            }
-        ],
-        "Exam_A": {
-            "students": "372",
-            "passFail": "228\/144",
-            "passPercent": "61",
-            "min": "7",
-            "max": "100",
-            "average": "57.868",
-            "median": "60"
-        },
-        "Final_A": {
-            "students": "372",
-            "passFail": "233\/139",
-            "passPercent": "63",
-            "min": "11",
-            "max": "100",
-            "average": "61.247",
-            "median": "66"
-        },
-        "Exam_B": {
-            "students": "209",
-            "passFail": "102\/107",
-            "passPercent": "49",
-            "min": "11",
-            "max": "93",
-            "average": "53.952",
-            "median": "54"
-        },
-        "Final_B": {
-            "students": "209",
-            "passFail": "118\/91",
-            "passPercent": "56",
-            "min": "17",
-            "max": "93",
-            "average": "56.684",
-            "median": "55"
-        },
-        "Finals": {
-            "students": "412",
-            "passFail": "317\/95",
-            "passPercent": "77",
-            "min": "11",
-            "max": "100",
-            "average": "66.078",
-            "median": "71"
-        }
-    },
     "202301": {
         "Staff": [
             {
@@ -115,6 +56,65 @@
             "max": "100",
             "average": "66.222",
             "median": "69"
+        }
+    },
+    "202201": {
+        "Staff": [
+            {
+                "name": "כהן יוסף",
+                "email": "coheny@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אביטל רבקה",
+                "email": "rivka_a@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "372",
+            "passFail": "228\/144",
+            "passPercent": "61",
+            "min": "7",
+            "max": "100",
+            "average": "57.868",
+            "median": "60"
+        },
+        "Final_A": {
+            "students": "372",
+            "passFail": "233\/139",
+            "passPercent": "63",
+            "min": "11",
+            "max": "100",
+            "average": "61.247",
+            "median": "66"
+        },
+        "Exam_B": {
+            "students": "209",
+            "passFail": "102\/107",
+            "passPercent": "49",
+            "min": "11",
+            "max": "93",
+            "average": "53.952",
+            "median": "54"
+        },
+        "Final_B": {
+            "students": "209",
+            "passFail": "118\/91",
+            "passPercent": "56",
+            "min": "17",
+            "max": "93",
+            "average": "56.684",
+            "median": "55"
+        },
+        "Finals": {
+            "students": "412",
+            "passFail": "317\/95",
+            "passPercent": "77",
+            "min": "11",
+            "max": "100",
+            "average": "66.078",
+            "median": "71"
         }
     }
 }

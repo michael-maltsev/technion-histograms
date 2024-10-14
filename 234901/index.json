@@ -1,5 +1,5 @@
 {
-    "201802": {
+    "202202": {
         "Staff": [
             {
                 "name": "ברקת גיל",
@@ -8,49 +8,13 @@
             }
         ],
         "Finals": {
-            "students": "73",
-            "passFail": "73\/0",
+            "students": "43",
+            "passFail": "43\/0",
             "passPercent": "100",
-            "min": "72",
+            "min": "77",
             "max": "100",
-            "average": "87.644",
-            "median": "89"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "ברקת גיל",
-                "email": "barequet@cs.technion.ac.il,barequet@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "61",
-            "passFail": "61\/0",
-            "passPercent": "100",
-            "min": "71",
-            "max": "100",
-            "average": "91.033",
-            "median": "92"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "ברקת גיל",
-                "email": "barequet@cs.technion.ac.il,barequet@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "56",
-            "passFail": "56\/0",
-            "passPercent": "100",
-            "min": "78",
-            "max": "100",
-            "average": "89.125",
-            "median": "89.5"
+            "average": "90.795",
+            "median": "91"
         }
     },
     "202102": {
@@ -71,7 +35,7 @@
             "median": "90"
         }
     },
-    "202202": {
+    "202002": {
         "Staff": [
             {
                 "name": "ברקת גיל",
@@ -80,13 +44,49 @@
             }
         ],
         "Finals": {
-            "students": "43",
-            "passFail": "43\/0",
+            "students": "56",
+            "passFail": "56\/0",
             "passPercent": "100",
-            "min": "77",
+            "min": "78",
             "max": "100",
-            "average": "90.795",
-            "median": "91"
+            "average": "89.125",
+            "median": "89.5"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "ברקת גיל",
+                "email": "barequet@cs.technion.ac.il,barequet@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "61",
+            "passFail": "61\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "100",
+            "average": "91.033",
+            "median": "92"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "ברקת גיל",
+                "email": "barequet@cs.technion.ac.il,barequet@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "73",
+            "passFail": "73\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "100",
+            "average": "87.644",
+            "median": "89"
         }
     }
 }

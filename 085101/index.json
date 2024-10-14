@@ -1,176 +1,5 @@
 {
-    "201402": {
-        "Staff": [
-            {
-                "name": "ערד עמית",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "89.5",
-            "median": "90"
-        }
-    },
-    "201501": {
-        "Staff": [
-            {
-                "name": "גוטניק יבגני",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "21",
-            "passFail": "21\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "96.429",
-            "median": "96"
-        }
-    },
-    "201502": {
-        "Staff": [
-            {
-                "name": "גוטניק יבגני",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "98",
-            "average": "94.267",
-            "median": "93"
-        },
-        "Finals": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "98",
-            "average": "93.4",
-            "median": "93"
-        }
-    },
-    "201601": {
-        "Staff": [
-            {
-                "name": "גוטניק יבגני",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "19",
-            "passFail": "19\/0",
-            "passPercent": "100",
-            "min": "96",
-            "max": "96",
-            "average": "96",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "96",
-            "max": "100",
-            "average": "96.2",
-            "median": "96"
-        }
-    },
-    "201701": {
-        "Staff": [
-            {
-                "name": "גוטניק יבגני",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "94",
-            "max": "99",
-            "average": "96.9",
-            "median": "97"
-        },
-        "Finals": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "94",
-            "max": "100",
-            "average": "97.15",
-            "median": "97"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "גורן ארנולד",
-                "email": "arnoldgoren@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "29",
-            "passFail": "29\/0",
-            "passPercent": "100",
-            "min": "96",
-            "max": "100",
-            "average": "97.621",
-            "median": "98"
-        },
-        "Finals": {
-            "students": "29",
-            "passFail": "29\/0",
-            "passPercent": "100",
-            "min": "96",
-            "max": "100",
-            "average": "97.621",
-            "median": "98"
-        }
-    },
-    "201801": {
-        "Staff": [
-            {
-                "name": "גורן ארנולד",
-                "email": "arnoldgoren@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "33",
-            "passFail": "33\/0",
-            "passPercent": "100",
-            "min": "88",
-            "max": "100",
-            "average": "96.788",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "110",
-            "passFail": "110\/0",
-            "passPercent": "100",
-            "min": "88",
-            "max": "100",
-            "average": "96.273",
-            "median": "96"
-        }
-    },
-    "201802": {
+    "202202": {
         "Staff": [
             {
                 "name": "גורן ארנולד",
@@ -184,134 +13,21 @@
             }
         ],
         "Final_A": {
-            "students": "33",
-            "passFail": "33\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "98",
-            "average": "95.879",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "34",
-            "passFail": "34\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "98",
-            "average": "95.912",
-            "median": "96"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "גורן ארנולד",
-                "email": "arnoldgoren@technion.ac.il",
-                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "88",
-            "max": "100",
-            "average": "95.9",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "47",
-            "passFail": "47\/0",
-            "passPercent": "100",
-            "min": "88",
-            "max": "100",
-            "average": "97",
-            "median": "98"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "גורן ארנולד",
-                "email": "arnoldgoren@technion.ac.il",
-                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "12",
-            "passFail": "12\/0",
+            "students": "17",
+            "passFail": "17\/0",
             "passPercent": "100",
             "min": "90",
             "max": "100",
-            "average": "93.833",
-            "median": "92"
-        },
-        "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "93.833",
-            "median": "92"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "גורן ארנולד",
-                "email": "arnoldgoren@technion.ac.il",
-                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "הרשקו דפנה",
-                "email": "ae.ugsec@technion.ac.il",
-                "title": ""
-            }
-        ],
-        "Final_A": {
-            "students": "27",
-            "passFail": "27\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "100",
-            "average": "95.593",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "41",
-            "passFail": "41\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "100",
-            "average": "96.463",
-            "median": "97"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "גורן ארנולד",
-                "email": "arnoldgoren@technion.ac.il",
-                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "21",
-            "passFail": "21\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "98.81",
+            "average": "99",
             "median": "100"
         },
         "Finals": {
-            "students": "22",
-            "passFail": "22\/0",
+            "students": "17",
+            "passFail": "17\/0",
             "passPercent": "100",
             "min": "90",
             "max": "100",
-            "average": "98.773",
+            "average": "99",
             "median": "100"
         }
     },
@@ -347,7 +63,120 @@
             "median": "95"
         }
     },
-    "202202": {
+    "202102": {
+        "Staff": [
+            {
+                "name": "גורן ארנולד",
+                "email": "arnoldgoren@technion.ac.il",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "98.81",
+            "median": "100"
+        },
+        "Finals": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "98.773",
+            "median": "100"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "גורן ארנולד",
+                "email": "arnoldgoren@technion.ac.il",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הרשקו דפנה",
+                "email": "ae.ugsec@technion.ac.il",
+                "title": ""
+            }
+        ],
+        "Final_A": {
+            "students": "27",
+            "passFail": "27\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "100",
+            "average": "95.593",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "100",
+            "average": "96.463",
+            "median": "97"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "גורן ארנולד",
+                "email": "arnoldgoren@technion.ac.il",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "93.833",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "93.833",
+            "median": "92"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "גורן ארנולד",
+                "email": "arnoldgoren@technion.ac.il",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "88",
+            "max": "100",
+            "average": "95.9",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "47",
+            "passFail": "47\/0",
+            "passPercent": "100",
+            "min": "88",
+            "max": "100",
+            "average": "97",
+            "median": "98"
+        }
+    },
+    "201802": {
         "Staff": [
             {
                 "name": "גורן ארנולד",
@@ -361,22 +190,193 @@
             }
         ],
         "Final_A": {
-            "students": "17",
-            "passFail": "17\/0",
+            "students": "33",
+            "passFail": "33\/0",
             "passPercent": "100",
             "min": "90",
-            "max": "100",
-            "average": "99",
-            "median": "100"
+            "max": "98",
+            "average": "95.879",
+            "median": "96"
         },
         "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
+            "students": "34",
+            "passFail": "34\/0",
             "passPercent": "100",
             "min": "90",
+            "max": "98",
+            "average": "95.912",
+            "median": "96"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "גורן ארנולד",
+                "email": "arnoldgoren@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "33",
+            "passFail": "33\/0",
+            "passPercent": "100",
+            "min": "88",
             "max": "100",
-            "average": "99",
-            "median": "100"
+            "average": "96.788",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "110",
+            "passFail": "110\/0",
+            "passPercent": "100",
+            "min": "88",
+            "max": "100",
+            "average": "96.273",
+            "median": "96"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "גורן ארנולד",
+                "email": "arnoldgoren@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "96",
+            "max": "100",
+            "average": "97.621",
+            "median": "98"
+        },
+        "Finals": {
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "96",
+            "max": "100",
+            "average": "97.621",
+            "median": "98"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "גוטניק יבגני",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "94",
+            "max": "99",
+            "average": "96.9",
+            "median": "97"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "94",
+            "max": "100",
+            "average": "97.15",
+            "median": "97"
+        }
+    },
+    "201601": {
+        "Staff": [
+            {
+                "name": "גוטניק יבגני",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "96",
+            "max": "96",
+            "average": "96",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "96",
+            "max": "100",
+            "average": "96.2",
+            "median": "96"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "גוטניק יבגני",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "98",
+            "average": "94.267",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "98",
+            "average": "93.4",
+            "median": "93"
+        }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "גוטניק יבגני",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "96.429",
+            "median": "96"
+        }
+    },
+    "201402": {
+        "Staff": [
+            {
+                "name": "ערד עמית",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "89.5",
+            "median": "90"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "201402": {
+    "201701": {
         "Staff": [
             {
                 "name": "אלעזר מיכאל",
@@ -8,21 +8,30 @@
             }
         ],
         "Final_A": {
-            "students": "63",
-            "passFail": "63\/0",
-            "passPercent": "100",
-            "min": "55",
+            "students": "80",
+            "passFail": "79\/1",
+            "passPercent": "99",
+            "min": "50",
             "max": "100",
-            "average": "91.19",
+            "average": "87.562",
+            "median": "90"
+        },
+        "Final_B": {
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "90.556",
             "median": "95"
         },
         "Finals": {
-            "students": "67",
-            "passFail": "67\/0",
+            "students": "85",
+            "passFail": "85\/0",
             "passPercent": "100",
             "min": "55",
             "max": "100",
-            "average": "91.418",
+            "average": "90.647",
             "median": "95"
         }
     },
@@ -62,7 +71,7 @@
             "median": "95"
         }
     },
-    "201701": {
+    "201402": {
         "Staff": [
             {
                 "name": "אלעזר מיכאל",
@@ -71,30 +80,21 @@
             }
         ],
         "Final_A": {
-            "students": "80",
-            "passFail": "79\/1",
-            "passPercent": "99",
-            "min": "50",
-            "max": "100",
-            "average": "87.562",
-            "median": "90"
-        },
-        "Final_B": {
-            "students": "18",
-            "passFail": "18\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "100",
-            "average": "90.556",
-            "median": "95"
-        },
-        "Finals": {
-            "students": "85",
-            "passFail": "85\/0",
+            "students": "63",
+            "passFail": "63\/0",
             "passPercent": "100",
             "min": "55",
             "max": "100",
-            "average": "90.647",
+            "average": "91.19",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "67",
+            "passFail": "67\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "91.418",
             "median": "95"
         }
     }

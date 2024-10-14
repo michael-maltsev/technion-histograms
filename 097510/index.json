@@ -1,78 +1,4 @@
 {
-    "201901": {
-        "Staff": [
-            {
-                "name": "בן-ארצי אחיקם",
-                "email": "eric.ben.artzi@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "אגסי זיוה",
-                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "92",
-            "max": "100",
-            "average": "96.167",
-            "median": "95.5"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "אגסי זיוה",
-                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "14",
-            "passFail": "14\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "96.357",
-            "median": "98.5"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "בן-ארצי אחיקם",
-                "email": "eric.ben.artzi@gmail.com,eric.ba@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "29",
-            "passFail": "29\/0",
-            "passPercent": "100",
-            "min": "75",
-            "max": "100",
-            "average": "95.31",
-            "median": "97"
-        }
-    },
     "202301": {
         "Staff": [
             {
@@ -108,6 +34,80 @@
             "max": "100",
             "average": "97.049",
             "median": "100"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "בן-ארצי אחיקם",
+                "email": "eric.ben.artzi@gmail.com,eric.ba@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "100",
+            "average": "95.31",
+            "median": "97"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "אגסי זיוה",
+                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "96.357",
+            "median": "98.5"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "בן-ארצי אחיקם",
+                "email": "eric.ben.artzi@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אגסי זיוה",
+                "email": "aziva@ie.technion.ac.il,aziva@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "92",
+            "max": "100",
+            "average": "96.167",
+            "median": "95.5"
         }
     }
 }

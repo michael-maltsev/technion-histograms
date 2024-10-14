@@ -1,4 +1,99 @@
 {
+    "202102": {
+        "Staff": [
+            {
+                "name": "עיד רמי",
+                "email": "rami.eid1@gmail.com,rami.eid@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רז אופק",
+                "email": "ofek.gonen@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "59",
+            "passFail": "58\/1",
+            "passPercent": "98",
+            "min": "45",
+            "max": "100",
+            "average": "85.136",
+            "median": "88"
+        },
+        "Final_A": {
+            "students": "59",
+            "passFail": "58\/1",
+            "passPercent": "98",
+            "min": "45",
+            "max": "100",
+            "average": "89.373",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "63",
+            "passFail": "62\/1",
+            "passPercent": "98",
+            "min": "48",
+            "max": "100",
+            "average": "89.444",
+            "median": "92"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "עיד רמי",
+                "email": "rami.eid1@gmail.com,rami.eid@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "53",
+            "passFail": "50\/3",
+            "passPercent": "94",
+            "min": "33",
+            "max": "100",
+            "average": "86.038",
+            "median": "90"
+        },
+        "Final_A": {
+            "students": "53",
+            "passFail": "50\/3",
+            "passPercent": "94",
+            "min": "33",
+            "max": "99",
+            "average": "89.736",
+            "median": "94"
+        },
+        "Exam_B": {
+            "students": "11",
+            "passFail": "9\/2",
+            "passPercent": "82",
+            "min": "21",
+            "max": "100",
+            "average": "68.909",
+            "median": "63"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "9\/2",
+            "passPercent": "82",
+            "min": "21",
+            "max": "98",
+            "average": "71.727",
+            "median": "73"
+        },
+        "Finals": {
+            "students": "60",
+            "passFail": "58\/2",
+            "passPercent": "97",
+            "min": "21",
+            "max": "99",
+            "average": "88.967",
+            "median": "94"
+        }
+    },
     "201902": {
         "Staff": [
             {
@@ -56,101 +151,6 @@
             "max": "100",
             "average": "87.877",
             "median": "91"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "עיד רמי",
-                "email": "rami.eid1@gmail.com,rami.eid@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Exam_A": {
-            "students": "53",
-            "passFail": "50\/3",
-            "passPercent": "94",
-            "min": "33",
-            "max": "100",
-            "average": "86.038",
-            "median": "90"
-        },
-        "Final_A": {
-            "students": "53",
-            "passFail": "50\/3",
-            "passPercent": "94",
-            "min": "33",
-            "max": "99",
-            "average": "89.736",
-            "median": "94"
-        },
-        "Exam_B": {
-            "students": "11",
-            "passFail": "9\/2",
-            "passPercent": "82",
-            "min": "21",
-            "max": "100",
-            "average": "68.909",
-            "median": "63"
-        },
-        "Final_B": {
-            "students": "11",
-            "passFail": "9\/2",
-            "passPercent": "82",
-            "min": "21",
-            "max": "98",
-            "average": "71.727",
-            "median": "73"
-        },
-        "Finals": {
-            "students": "60",
-            "passFail": "58\/2",
-            "passPercent": "97",
-            "min": "21",
-            "max": "99",
-            "average": "88.967",
-            "median": "94"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "עיד רמי",
-                "email": "rami.eid1@gmail.com,rami.eid@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "רז אופק",
-                "email": "ofek.gonen@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Exam_A": {
-            "students": "59",
-            "passFail": "58\/1",
-            "passPercent": "98",
-            "min": "45",
-            "max": "100",
-            "average": "85.136",
-            "median": "88"
-        },
-        "Final_A": {
-            "students": "59",
-            "passFail": "58\/1",
-            "passPercent": "98",
-            "min": "45",
-            "max": "100",
-            "average": "89.373",
-            "median": "92"
-        },
-        "Finals": {
-            "students": "63",
-            "passFail": "62\/1",
-            "passPercent": "98",
-            "min": "48",
-            "max": "100",
-            "average": "89.444",
-            "median": "92"
         }
     }
 }

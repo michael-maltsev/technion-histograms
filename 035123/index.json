@@ -1,5 +1,5 @@
 {
-    "201902": {
+    "202202": {
         "Staff": [
             {
                 "name": "כץ ראובן",
@@ -7,37 +7,28 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "שמסונוב מארק",
-                "email": "mark.shamsonov@gmail.com",
+                "name": "שמסונוב מרק",
+                "email": "mark.shamsonov@gmail.com,mark.sh@technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "39",
-            "passFail": "39\/0",
+            "students": "27",
+            "passFail": "27\/0",
             "passPercent": "100",
             "min": "73",
-            "max": "96",
-            "average": "86.718",
-            "median": "86"
-        },
-        "Final_B": {
-            "students": "39",
-            "passFail": "39\/0",
-            "passPercent": "100",
-            "min": "73",
-            "max": "96",
-            "average": "86.718",
-            "median": "86"
+            "max": "98",
+            "average": "87.222",
+            "median": "88"
         },
         "Finals": {
-            "students": "39",
-            "passFail": "39\/0",
+            "students": "27",
+            "passFail": "27\/0",
             "passPercent": "100",
-            "min": "73",
-            "max": "96",
-            "average": "86.718",
-            "median": "86"
+            "min": "78",
+            "max": "98",
+            "average": "87.769",
+            "median": "88"
         }
     },
     "202101": {
@@ -81,7 +72,7 @@
             "median": "88"
         }
     },
-    "202202": {
+    "201902": {
         "Staff": [
             {
                 "name": "כץ ראובן",
@@ -89,28 +80,37 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "שמסונוב מרק",
-                "email": "mark.shamsonov@gmail.com,mark.sh@technion.ac.il",
+                "name": "שמסונוב מארק",
+                "email": "mark.shamsonov@gmail.com",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "27",
-            "passFail": "27\/0",
+            "students": "39",
+            "passFail": "39\/0",
             "passPercent": "100",
             "min": "73",
-            "max": "98",
-            "average": "87.222",
-            "median": "88"
+            "max": "96",
+            "average": "86.718",
+            "median": "86"
+        },
+        "Final_B": {
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "96",
+            "average": "86.718",
+            "median": "86"
         },
         "Finals": {
-            "students": "27",
-            "passFail": "27\/0",
+            "students": "39",
+            "passFail": "39\/0",
             "passPercent": "100",
-            "min": "78",
-            "max": "98",
-            "average": "87.769",
-            "median": "88"
+            "min": "73",
+            "max": "96",
+            "average": "86.718",
+            "median": "86"
         }
     }
 }

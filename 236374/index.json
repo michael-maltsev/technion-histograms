@@ -1,5 +1,5 @@
 {
-    "201602": {
+    "202101": {
         "Staff": [
             {
                 "name": "פישר אלדר",
@@ -8,31 +8,13 @@
             }
         ],
         "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "79",
+            "students": "19",
+            "passFail": "18\/1",
+            "passPercent": "95",
+            "min": "32",
             "max": "100",
-            "average": "94.882",
-            "median": "99"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "פישר אלדר",
-                "email": "eldar@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "33",
-            "passFail": "33\/0",
-            "passPercent": "100",
-            "min": "74",
-            "max": "100",
-            "average": "93.121",
-            "median": "95"
+            "average": "90.316",
+            "median": "97"
         }
     },
     "202001": {
@@ -53,7 +35,7 @@
             "median": "93"
         }
     },
-    "202101": {
+    "201901": {
         "Staff": [
             {
                 "name": "פישר אלדר",
@@ -62,13 +44,31 @@
             }
         ],
         "Finals": {
-            "students": "19",
-            "passFail": "18\/1",
-            "passPercent": "95",
-            "min": "32",
+            "students": "33",
+            "passFail": "33\/0",
+            "passPercent": "100",
+            "min": "74",
             "max": "100",
-            "average": "90.316",
-            "median": "97"
+            "average": "93.121",
+            "median": "95"
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "פישר אלדר",
+                "email": "eldar@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "100",
+            "average": "94.882",
+            "median": "99"
         }
     }
 }

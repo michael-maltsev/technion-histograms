@@ -1,5 +1,5 @@
 {
-    "201901": {
+    "202201": {
         "Staff": [
             {
                 "name": "מאירי חן",
@@ -7,13 +7,22 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
+        "Final_A": {
+            "students": "11",
+            "passFail": "11\/0",
             "passPercent": "100",
-            "min": "90",
+            "min": "100",
             "max": "100",
-            "average": "99",
+            "average": "100",
+            "median": "100"
+        },
+        "Finals": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "100",
+            "max": "100",
+            "average": "100",
             "median": "100"
         }
     },
@@ -44,7 +53,7 @@
             "median": "100"
         }
     },
-    "202201": {
+    "201901": {
         "Staff": [
             {
                 "name": "מאירי חן",
@@ -52,22 +61,13 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Final_A": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "100",
-            "max": "100",
-            "average": "100",
-            "median": "100"
-        },
         "Finals": {
-            "students": "11",
-            "passFail": "11\/0",
+            "students": "10",
+            "passFail": "10\/0",
             "passPercent": "100",
-            "min": "100",
+            "min": "90",
             "max": "100",
-            "average": "100",
+            "average": "99",
             "median": "100"
         }
     }

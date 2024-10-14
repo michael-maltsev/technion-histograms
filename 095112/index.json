@@ -1,22 +1,4 @@
 {
-    "201701": {
-        "Staff": [
-            {
-                "name": "בלילה איציק",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "52",
-            "passFail": "52\/0",
-            "passPercent": "100",
-            "min": "76",
-            "max": "99",
-            "average": "90.846",
-            "median": "93"
-        }
-    },
     "201801": {
         "Staff": [
             {
@@ -52,6 +34,24 @@
             "max": "97",
             "average": "85.878",
             "median": "89"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "בלילה איציק",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "52",
+            "passFail": "52\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "99",
+            "average": "90.846",
+            "median": "93"
         }
     }
 }

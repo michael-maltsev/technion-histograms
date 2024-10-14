@@ -1,20 +1,20 @@
 {
-    "201801": {
+    "202202": {
         "Staff": [
             {
                 "name": "ישי יובל",
-                "email": "yuvali@cs.technion.ac.il,noreplay@norplay.com",
+                "email": "yuvali@cs.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "24",
-            "passFail": "24\/0",
+            "students": "30",
+            "passFail": "30\/0",
             "passPercent": "100",
-            "min": "78",
+            "min": "68",
             "max": "100",
-            "average": "92.458",
-            "median": "93.5"
+            "average": "93.88",
+            "median": "95"
         }
     },
     "202002": {
@@ -35,22 +35,22 @@
             "median": "95"
         }
     },
-    "202202": {
+    "201801": {
         "Staff": [
             {
                 "name": "ישי יובל",
-                "email": "yuvali@cs.technion.ac.il",
+                "email": "yuvali@cs.technion.ac.il,noreplay@norplay.com",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "30",
-            "passFail": "30\/0",
+            "students": "24",
+            "passFail": "24\/0",
             "passPercent": "100",
-            "min": "68",
+            "min": "78",
             "max": "100",
-            "average": "93.88",
-            "median": "95"
+            "average": "92.458",
+            "median": "93.5"
         }
     }
 }

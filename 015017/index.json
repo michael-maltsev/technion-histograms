@@ -1,56 +1,5 @@
 {
-    "201901": {
-        "Staff": [
-            {
-                "name": "בורוביץ צבי",
-                "email": "zborowitsh@gmail.com,noreplay@norplay.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "צאצאשוילי תמי",
-                "email": "tami@technion.ac.il,noreplay@norplay.com",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן-סימון ציפורה",
-                "email": "transeng@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "שביט שרית",
-                "email": "sarits@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "32",
-            "passFail": "31\/1",
-            "passPercent": "97",
-            "min": "37",
-            "max": "100",
-            "average": "90.094",
-            "median": "94.5"
-        },
-        "Final_B": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "63",
-            "max": "99",
-            "average": "83.75",
-            "median": "84.5"
-        },
-        "Finals": {
-            "students": "46",
-            "passFail": "46\/0",
-            "passPercent": "100",
-            "min": "63",
-            "max": "100",
-            "average": "89.435",
-            "median": "91"
-        }
-    },
-    "202001": {
+    "202202": {
         "Staff": [
             {
                 "name": "בורוביץ צבי",
@@ -58,74 +7,27 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "שביט שרית",
-                "email": "sarits@technion.ac.il",
+                "name": "קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
                 "title": "מרצה"
-            },
-            {
-                "name": "בן-סימון ציפורה",
-                "email": "transeng@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "22",
-            "passFail": "21\/1",
-            "passPercent": "95",
-            "min": "41",
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "79",
             "max": "100",
-            "average": "86.273",
-            "median": "91"
+            "average": "91.938",
+            "median": "92.5"
         },
         "Finals": {
-            "students": "31",
-            "passFail": "31\/0",
+            "students": "16",
+            "passFail": "16\/0",
             "passPercent": "100",
-            "min": "59",
+            "min": "79",
             "max": "100",
-            "average": "88.484",
-            "median": "90"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "בורוביץ צבי",
-                "email": "zborowitsh@gmail.com,noreplay@norplay.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "שביט שרית",
-                "email": "sarits@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן-סימון ציפורה",
-                "email": "transeng@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "צאצאשוילי תמי",
-                "email": "tami@technion.ac.il,noreplay@norplay.com",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "49",
-            "passFail": "49\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "96",
-            "average": "89.939",
-            "median": "93"
-        },
-        "Finals": {
-            "students": "49",
-            "passFail": "49\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "96",
-            "average": "89.939",
+            "average": "92.188",
             "median": "93"
         }
     },
@@ -185,7 +87,49 @@
             "median": "90"
         }
     },
-    "202202": {
+    "202101": {
+        "Staff": [
+            {
+                "name": "בורוביץ צבי",
+                "email": "zborowitsh@gmail.com,noreplay@norplay.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "49",
+            "passFail": "49\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "96",
+            "average": "89.939",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "49",
+            "passFail": "49\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "96",
+            "average": "89.939",
+            "median": "93"
+        }
+    },
+    "202001": {
         "Staff": [
             {
                 "name": "בורוביץ צבי",
@@ -193,28 +137,84 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "קובלר קרן",
-                "email": "kovlerk@technion.ac.il",
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
                 "title": "מרצה"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "79",
+            "students": "22",
+            "passFail": "21\/1",
+            "passPercent": "95",
+            "min": "41",
             "max": "100",
-            "average": "91.938",
-            "median": "92.5"
+            "average": "86.273",
+            "median": "91"
         },
         "Finals": {
+            "students": "31",
+            "passFail": "31\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "100",
+            "average": "88.484",
+            "median": "90"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "בורוביץ צבי",
+                "email": "zborowitsh@gmail.com,noreplay@norplay.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "32",
+            "passFail": "31\/1",
+            "passPercent": "97",
+            "min": "37",
+            "max": "100",
+            "average": "90.094",
+            "median": "94.5"
+        },
+        "Final_B": {
             "students": "16",
             "passFail": "16\/0",
             "passPercent": "100",
-            "min": "79",
+            "min": "63",
+            "max": "99",
+            "average": "83.75",
+            "median": "84.5"
+        },
+        "Finals": {
+            "students": "46",
+            "passFail": "46\/0",
+            "passPercent": "100",
+            "min": "63",
             "max": "100",
-            "average": "92.188",
-            "median": "93"
+            "average": "89.435",
+            "median": "91"
         }
     }
 }

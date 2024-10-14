@@ -1,4 +1,40 @@
 {
+    "201802": {
+        "Staff": [
+            {
+                "name": "פרנק דייל",
+                "email": "dale@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "107",
+            "passFail": "103\/4",
+            "passPercent": "96",
+            "min": "37",
+            "max": "94",
+            "average": "76.43",
+            "median": "77"
+        },
+        "Final_A": {
+            "students": "107",
+            "passFail": "104\/3",
+            "passPercent": "97",
+            "min": "37",
+            "max": "95",
+            "average": "80.589",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "111",
+            "passFail": "111\/0",
+            "passPercent": "100",
+            "min": "63",
+            "max": "96",
+            "average": "81.667",
+            "median": "82"
+        }
+    },
     "201602": {
         "Staff": [
             {
@@ -51,42 +87,6 @@
             "max": "100",
             "average": "79.277",
             "median": "80"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "פרנק דייל",
-                "email": "dale@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Exam_A": {
-            "students": "107",
-            "passFail": "103\/4",
-            "passPercent": "96",
-            "min": "37",
-            "max": "94",
-            "average": "76.43",
-            "median": "77"
-        },
-        "Final_A": {
-            "students": "107",
-            "passFail": "104\/3",
-            "passPercent": "97",
-            "min": "37",
-            "max": "95",
-            "average": "80.589",
-            "median": "82"
-        },
-        "Finals": {
-            "students": "111",
-            "passFail": "111\/0",
-            "passPercent": "100",
-            "min": "63",
-            "max": "96",
-            "average": "81.667",
-            "median": "82"
         }
     }
 }

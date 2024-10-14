@@ -1,23 +1,5 @@
 {
-    "201701": {
-        "Staff": [
-            {
-                "name": "פטרנק ארז",
-                "email": "erez@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "19",
-            "passFail": "19\/0",
-            "passPercent": "100",
-            "min": "91",
-            "max": "100",
-            "average": "96.737",
-            "median": "96"
-        }
-    },
-    "201901": {
+    "202302": {
         "Staff": [
             {
                 "name": "פטרנק ארז",
@@ -29,46 +11,10 @@
             "students": "17",
             "passFail": "17\/0",
             "passPercent": "100",
-            "min": "85",
+            "min": "94",
             "max": "100",
-            "average": "95.941",
-            "median": "97"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "פטרנק ארז",
-                "email": "erez@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "19",
-            "passFail": "19\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "99",
-            "average": "94.737",
-            "median": "95"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "פטרנק ארז",
-                "email": "erez@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "19",
-            "passFail": "19\/0",
-            "passPercent": "100",
-            "min": "92",
-            "max": "100",
-            "average": "96.211",
-            "median": "96"
+            "average": "97.588",
+            "median": "98"
         }
     },
     "202202": {
@@ -89,7 +35,43 @@
             "median": "96.5"
         }
     },
-    "202302": {
+    "202102": {
+        "Staff": [
+            {
+                "name": "פטרנק ארז",
+                "email": "erez@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "92",
+            "max": "100",
+            "average": "96.211",
+            "median": "96"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "פטרנק ארז",
+                "email": "erez@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "99",
+            "average": "94.737",
+            "median": "95"
+        }
+    },
+    "201901": {
         "Staff": [
             {
                 "name": "פטרנק ארז",
@@ -101,10 +83,28 @@
             "students": "17",
             "passFail": "17\/0",
             "passPercent": "100",
-            "min": "94",
+            "min": "85",
             "max": "100",
-            "average": "97.588",
-            "median": "98"
+            "average": "95.941",
+            "median": "97"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "פטרנק ארז",
+                "email": "erez@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "91",
+            "max": "100",
+            "average": "96.737",
+            "median": "96"
         }
     }
 }

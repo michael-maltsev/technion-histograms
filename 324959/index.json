@@ -1,94 +1,4 @@
 {
-    "201602": {
-        "Staff": [
-            {
-                "name": "עשת תחיה",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "45",
-            "passFail": "45\/0",
-            "passPercent": "100",
-            "min": "58",
-            "max": "100",
-            "average": "86.911",
-            "median": "90"
-        },
-        "Finals": {
-            "students": "48",
-            "passFail": "48\/0",
-            "passPercent": "100",
-            "min": "58",
-            "max": "100",
-            "average": "87.854",
-            "median": "90"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "עשת תחיה",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "42",
-            "passFail": "41\/1",
-            "passPercent": "98",
-            "min": "48",
-            "max": "100",
-            "average": "86.095",
-            "median": "89"
-        },
-        "Final_B": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "56",
-            "max": "100",
-            "average": "88",
-            "median": "91"
-        },
-        "Finals": {
-            "students": "47",
-            "passFail": "47\/0",
-            "passPercent": "100",
-            "min": "56",
-            "max": "100",
-            "average": "88.723",
-            "median": "91"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "עשת תחיה",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "87.5",
-            "median": "90"
-        },
-        "Finals": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "87.5",
-            "median": "90"
-        }
-    },
     "201902": {
         "Staff": [
             {
@@ -133,6 +43,96 @@
             "max": "100",
             "average": "90.048",
             "median": "92"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "עשת תחיה",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "87.5",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "87.5",
+            "median": "90"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "עשת תחיה",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "42",
+            "passFail": "41\/1",
+            "passPercent": "98",
+            "min": "48",
+            "max": "100",
+            "average": "86.095",
+            "median": "89"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "100",
+            "average": "88",
+            "median": "91"
+        },
+        "Finals": {
+            "students": "47",
+            "passFail": "47\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "100",
+            "average": "88.723",
+            "median": "91"
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "עשת תחיה",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "45",
+            "passFail": "45\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "100",
+            "average": "86.911",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "48",
+            "passFail": "48\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "100",
+            "average": "87.854",
+            "median": "90"
         }
     }
 }

@@ -1,4 +1,31 @@
 {
+    "201902": {
+        "Staff": [
+            {
+                "name": "קורן צבי",
+                "email": "zvik70@technion.ac.il",
+                "title": "מנחה פרויקטים  - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "62",
+            "passFail": "62\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "95",
+            "average": "85.935",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "62",
+            "passFail": "62\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "95",
+            "average": "85.935",
+            "median": "85"
+        }
+    },
     "201802": {
         "Staff": [
             {
@@ -53,33 +80,6 @@
             "min": "65",
             "max": "95",
             "average": "82.845",
-            "median": "85"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "קורן צבי",
-                "email": "zvik70@technion.ac.il",
-                "title": "מנחה פרויקטים  - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "62",
-            "passFail": "62\/0",
-            "passPercent": "100",
-            "min": "76",
-            "max": "95",
-            "average": "85.935",
-            "median": "85"
-        },
-        "Finals": {
-            "students": "62",
-            "passFail": "62\/0",
-            "passPercent": "100",
-            "min": "76",
-            "max": "95",
-            "average": "85.935",
             "median": "85"
         }
     }

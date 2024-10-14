@@ -1,5 +1,5 @@
 {
-    "201702": {
+    "202202": {
         "Staff": [
             {
                 "name": "מרקוביץ שאול",
@@ -8,12 +8,66 @@
             }
         ],
         "Finals": {
-            "students": "60",
-            "passFail": "60\/0",
+            "students": "43",
+            "passFail": "43\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "97.116",
+            "median": "97"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "מרקוביץ שאול",
+                "email": "shaulm@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "43",
+            "passFail": "43\/0",
             "passPercent": "100",
             "min": "65",
             "max": "100",
-            "average": "95.75",
+            "average": "95.209",
+            "median": "98"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "מרקוביץ שאול",
+                "email": "shaulm@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "32",
+            "passFail": "32\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "94.938",
+            "median": "96"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "מרקוביץ שאול",
+                "email": "shaulm@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "57",
+            "passFail": "57\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "95.782",
             "median": "97"
         }
     },
@@ -35,7 +89,7 @@
             "median": "98"
         }
     },
-    "201902": {
+    "201702": {
         "Staff": [
             {
                 "name": "מרקוביץ שאול",
@@ -44,66 +98,12 @@
             }
         ],
         "Finals": {
-            "students": "57",
-            "passFail": "57\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "95.782",
-            "median": "97"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "מרקוביץ שאול",
-                "email": "shaulm@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "32",
-            "passFail": "32\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "94.938",
-            "median": "96"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "מרקוביץ שאול",
-                "email": "shaulm@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "43",
-            "passFail": "43\/0",
+            "students": "60",
+            "passFail": "60\/0",
             "passPercent": "100",
             "min": "65",
             "max": "100",
-            "average": "95.209",
-            "median": "98"
-        }
-    },
-    "202202": {
-        "Staff": [
-            {
-                "name": "מרקוביץ שאול",
-                "email": "shaulm@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "43",
-            "passFail": "43\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "97.116",
+            "average": "95.75",
             "median": "97"
         }
     }

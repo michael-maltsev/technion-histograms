@@ -1,22 +1,4 @@
 {
-    "201002": {
-        "Staff": [
-            {
-                "name": "כפרי יריב",
-                "email": "kafri@physics.technion.ac.il,kafri@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_B": {
-            "students": "73",
-            "passFail": "46\/27",
-            "passPercent": "63",
-            "min": "18",
-            "max": "100",
-            "average": "59.425",
-            "median": "56"
-        }
-    },
     "201102": {
         "Staff": [
             {
@@ -38,6 +20,24 @@
             "max": "100",
             "average": "72.571",
             "median": "74"
+        }
+    },
+    "201002": {
+        "Staff": [
+            {
+                "name": "כפרי יריב",
+                "email": "kafri@physics.technion.ac.il,kafri@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_B": {
+            "students": "73",
+            "passFail": "46\/27",
+            "passPercent": "63",
+            "min": "18",
+            "max": "100",
+            "average": "59.425",
+            "median": "56"
         }
     }
 }

@@ -1,31 +1,4 @@
 {
-    "202002": {
-        "Staff": [
-            {
-                "name": "לזובסקי יונתן",
-                "email": "ionathan@paragroup-israel.com,ionathan.laz@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "23",
-            "passFail": "22\/1",
-            "passPercent": "96",
-            "min": "0",
-            "max": "97",
-            "average": "87.174",
-            "median": "90"
-        },
-        "Finals": {
-            "students": "22",
-            "passFail": "22\/0",
-            "passPercent": "100",
-            "min": "87",
-            "max": "97",
-            "average": "91.136",
-            "median": "91"
-        }
-    },
     "202102": {
         "Staff": [
             {
@@ -51,6 +24,33 @@
             "max": "94",
             "average": "86.483",
             "median": "88"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "לזובסקי יונתן",
+                "email": "ionathan@paragroup-israel.com,ionathan.laz@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "23",
+            "passFail": "22\/1",
+            "passPercent": "96",
+            "min": "0",
+            "max": "97",
+            "average": "87.174",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "87",
+            "max": "97",
+            "average": "91.136",
+            "median": "91"
         }
     }
 }

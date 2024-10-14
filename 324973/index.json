@@ -1,41 +1,79 @@
 {
-    "201601": {
+    "202101": {
         "Staff": [
             {
                 "name": "אופנהיים רועי",
                 "email": "openroy@gmail.com",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "33",
-            "passFail": "32\/1",
-            "passPercent": "97",
-            "min": "42",
-            "max": "100",
-            "average": "83.727",
-            "median": "87"
-        },
-        "Final_B": {
-            "students": "17",
-            "passFail": "17\/0",
+            "students": "51",
+            "passFail": "51\/0",
             "passPercent": "100",
-            "min": "81",
+            "min": "56",
             "max": "100",
-            "average": "94.176",
+            "average": "90.412",
             "median": "94"
         },
         "Finals": {
-            "students": "41",
-            "passFail": "41\/0",
-            "passPercent": "100",
-            "min": "73",
+            "students": "55",
+            "passFail": "54\/1",
+            "passPercent": "98",
+            "min": "41",
             "max": "100",
-            "average": "90.756",
-            "median": "91"
+            "average": "91.473",
+            "median": "96"
         }
     },
-    "201701": {
+    "202002": {
+        "Staff": [
+            {
+                "name": "אופנהיים רועי",
+                "email": "openroy@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "43",
+            "passFail": "42\/1",
+            "passPercent": "98",
+            "min": "41",
+            "max": "100",
+            "average": "91.442",
+            "median": "97"
+        },
+        "Finals": {
+            "students": "47",
+            "passFail": "47\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "92.404",
+            "median": "98"
+        }
+    },
+    "201901": {
         "Staff": [
             {
                 "name": "אופנהיים רועי",
@@ -44,31 +82,22 @@
             }
         ],
         "Final_A": {
-            "students": "47",
-            "passFail": "45\/2",
-            "passPercent": "96",
-            "min": "40",
+            "students": "50",
+            "passFail": "50\/0",
+            "passPercent": "100",
+            "min": "60",
             "max": "100",
-            "average": "86.596",
-            "median": "90"
-        },
-        "Final_B": {
-            "students": "13",
-            "passFail": "12\/1",
-            "passPercent": "92",
-            "min": "52",
-            "max": "100",
-            "average": "88",
-            "median": "96"
+            "average": "86.38",
+            "median": "88"
         },
         "Finals": {
-            "students": "50",
-            "passFail": "49\/1",
+            "students": "52",
+            "passFail": "51\/1",
             "passPercent": "98",
-            "min": "52",
+            "min": "51",
             "max": "100",
-            "average": "90",
-            "median": "94"
+            "average": "86.558",
+            "median": "89"
         }
     },
     "201801": {
@@ -118,7 +147,7 @@
             "median": "94"
         }
     },
-    "201901": {
+    "201701": {
         "Staff": [
             {
                 "name": "אופנהיים רועי",
@@ -127,96 +156,67 @@
             }
         ],
         "Final_A": {
-            "students": "50",
-            "passFail": "50\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "100",
-            "average": "86.38",
-            "median": "88"
-        },
-        "Finals": {
-            "students": "52",
-            "passFail": "51\/1",
-            "passPercent": "98",
-            "min": "51",
-            "max": "100",
-            "average": "86.558",
-            "median": "89"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "אופנהיים רועי",
-                "email": "openroy@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "43",
-            "passFail": "42\/1",
-            "passPercent": "98",
-            "min": "41",
-            "max": "100",
-            "average": "91.442",
-            "median": "97"
-        },
-        "Finals": {
             "students": "47",
-            "passFail": "47\/0",
-            "passPercent": "100",
-            "min": "55",
+            "passFail": "45\/2",
+            "passPercent": "96",
+            "min": "40",
             "max": "100",
-            "average": "92.404",
-            "median": "98"
+            "average": "86.596",
+            "median": "90"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "12\/1",
+            "passPercent": "92",
+            "min": "52",
+            "max": "100",
+            "average": "88",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "50",
+            "passFail": "49\/1",
+            "passPercent": "98",
+            "min": "52",
+            "max": "100",
+            "average": "90",
+            "median": "94"
         }
     },
-    "202101": {
+    "201601": {
         "Staff": [
             {
                 "name": "אופנהיים רועי",
                 "email": "openroy@gmail.com",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "51",
-            "passFail": "51\/0",
-            "passPercent": "100",
-            "min": "56",
+            "students": "33",
+            "passFail": "32\/1",
+            "passPercent": "97",
+            "min": "42",
             "max": "100",
-            "average": "90.412",
+            "average": "83.727",
+            "median": "87"
+        },
+        "Final_B": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "100",
+            "average": "94.176",
             "median": "94"
         },
         "Finals": {
-            "students": "55",
-            "passFail": "54\/1",
-            "passPercent": "98",
-            "min": "41",
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "73",
             "max": "100",
-            "average": "91.473",
-            "median": "96"
+            "average": "90.756",
+            "median": "91"
         }
     }
 }

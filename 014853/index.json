@@ -1,5 +1,5 @@
 {
-    "201802": {
+    "202202": {
         "Staff": [
             {
                 "name": "אבו-עקל ניזאר",
@@ -13,86 +13,22 @@
             }
         ],
         "Final_A": {
-            "students": "16",
-            "passFail": "16\/0",
+            "students": "18",
+            "passFail": "18\/0",
             "passPercent": "100",
-            "min": "64",
+            "min": "82",
+            "max": "99",
+            "average": "89.722",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "82",
             "max": "100",
-            "average": "77.812",
-            "median": "80.5"
-        },
-        "Finals": {
-            "students": "19",
-            "passFail": "19\/0",
-            "passPercent": "100",
-            "min": "64",
-            "max": "100",
-            "average": "79.947",
-            "median": "80"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "אבו-עקל ניזאר",
-                "email": "anizar@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בלסברג עליזה",
-                "email": "aliza@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "22",
-            "passFail": "22\/0",
-            "passPercent": "100",
-            "min": "68",
-            "max": "97",
-            "average": "79.818",
-            "median": "80.5"
-        },
-        "Finals": {
-            "students": "24",
-            "passFail": "23\/1",
-            "passPercent": "96",
-            "min": "50",
-            "max": "97",
-            "average": "79",
-            "median": "80.5"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "אבו-עקל ניזאר",
-                "email": "anizar@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בלסברג עליזה",
-                "email": "aliza@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "24",
-            "passFail": "22\/2",
-            "passPercent": "92",
-            "min": "43",
-            "max": "98",
-            "average": "79.5",
-            "median": "84.5"
-        },
-        "Finals": {
-            "students": "29",
-            "passFail": "29\/0",
-            "passPercent": "100",
-            "min": "63",
-            "max": "98",
-            "average": "82.483",
-            "median": "85"
+            "average": "90.056",
+            "median": "90"
         }
     },
     "202102": {
@@ -127,7 +63,7 @@
             "median": "92"
         }
     },
-    "202202": {
+    "202002": {
         "Staff": [
             {
                 "name": "אבו-עקל ניזאר",
@@ -141,22 +77,86 @@
             }
         ],
         "Final_A": {
-            "students": "18",
-            "passFail": "18\/0",
-            "passPercent": "100",
-            "min": "82",
-            "max": "99",
-            "average": "89.722",
-            "median": "90"
+            "students": "24",
+            "passFail": "22\/2",
+            "passPercent": "92",
+            "min": "43",
+            "max": "98",
+            "average": "79.5",
+            "median": "84.5"
         },
         "Finals": {
-            "students": "18",
-            "passFail": "18\/0",
+            "students": "29",
+            "passFail": "29\/0",
             "passPercent": "100",
-            "min": "82",
+            "min": "63",
+            "max": "98",
+            "average": "82.483",
+            "median": "85"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "אבו-עקל ניזאר",
+                "email": "anizar@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "97",
+            "average": "79.818",
+            "median": "80.5"
+        },
+        "Finals": {
+            "students": "24",
+            "passFail": "23\/1",
+            "passPercent": "96",
+            "min": "50",
+            "max": "97",
+            "average": "79",
+            "median": "80.5"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "אבו-עקל ניזאר",
+                "email": "anizar@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "64",
             "max": "100",
-            "average": "90.056",
-            "median": "90"
+            "average": "77.812",
+            "median": "80.5"
+        },
+        "Finals": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "100",
+            "average": "79.947",
+            "median": "80"
         }
     }
 }

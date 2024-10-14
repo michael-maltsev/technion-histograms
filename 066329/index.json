@@ -1,36 +1,4 @@
 {
-    "201902": {
-        "Staff": [
-            {
-                "name": "לזמס אורי",
-                "email": "lesmesu@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "אשקר ערין",
-                "email": "areen92@campus.technion.ac.il",
-                "title": ""
-            }
-        ],
-        "Final_A": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "75",
-            "max": "95",
-            "average": "87.941",
-            "median": "88"
-        },
-        "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "75",
-            "max": "95",
-            "average": "87.941",
-            "median": "88"
-        }
-    },
     "202002": {
         "Staff": [
             {
@@ -61,6 +29,38 @@
             "max": "95",
             "average": "91.423",
             "median": "91"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "לזמס אורי",
+                "email": "lesmesu@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אשקר ערין",
+                "email": "areen92@campus.technion.ac.il",
+                "title": ""
+            }
+        ],
+        "Final_A": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "95",
+            "average": "87.941",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "95",
+            "average": "87.941",
+            "median": "88"
         }
     }
 }

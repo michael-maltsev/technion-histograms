@@ -1,31 +1,4 @@
 {
-    "201602": {
-        "Staff": [
-            {
-                "name": "רביב אדריאנה",
-                "email": "adriana_raviv@hotmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "83",
-            "max": "98",
-            "average": "91.941",
-            "median": "91"
-        },
-        "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "83",
-            "max": "100",
-            "average": "92.941",
-            "median": "93"
-        }
-    },
     "202302": {
         "Staff": [
             {
@@ -52,6 +25,33 @@
             "max": "100",
             "average": "96.571",
             "median": "97"
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "רביב אדריאנה",
+                "email": "adriana_raviv@hotmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "83",
+            "max": "98",
+            "average": "91.941",
+            "median": "91"
+        },
+        "Finals": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "83",
+            "max": "100",
+            "average": "92.941",
+            "median": "93"
         }
     }
 }

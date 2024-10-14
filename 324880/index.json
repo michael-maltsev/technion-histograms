@@ -1,4 +1,22 @@
 {
+    "201802": {
+        "Staff": [
+            {
+                "name": "נאמן ישראל",
+                "email": "syneeman@bezeqint.net,yisraeln@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "97",
+            "average": "84.167",
+            "median": "85"
+        }
+    },
     "201702": {
         "Staff": [
             {
@@ -24,24 +42,6 @@
             "max": "97",
             "average": "82.389",
             "median": "87.5"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "נאמן ישראל",
-                "email": "syneeman@bezeqint.net,yisraeln@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "57",
-            "max": "97",
-            "average": "84.167",
-            "median": "85"
         }
     }
 }

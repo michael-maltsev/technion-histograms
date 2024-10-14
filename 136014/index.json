@@ -1,5 +1,5 @@
 {
-    "201702": {
+    "202202": {
         "Staff": [
             {
                 "name": "רייטר יורם",
@@ -7,26 +7,26 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Final_A": {
+        "Final_B": {
             "students": "29",
             "passFail": "29\/0",
             "passPercent": "100",
-            "min": "80",
+            "min": "75",
             "max": "95",
-            "average": "88.793",
+            "average": "87.759",
             "median": "90"
         },
         "Finals": {
-            "students": "40",
-            "passFail": "40\/0",
+            "students": "32",
+            "passFail": "32\/0",
             "passPercent": "100",
-            "min": "80",
+            "min": "75",
             "max": "95",
-            "average": "88.75",
+            "average": "88.226",
             "median": "90"
         }
     },
-    "201802": {
+    "202102": {
         "Staff": [
             {
                 "name": "רייטר יורם",
@@ -35,13 +35,31 @@
             }
         ],
         "Finals": {
-            "students": "33",
-            "passFail": "33\/0",
+            "students": "25",
+            "passFail": "25\/0",
             "passPercent": "100",
             "min": "80",
-            "max": "100",
-            "average": "91.212",
+            "max": "95",
+            "average": "89.6",
             "median": "90"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "רייטר יורם",
+                "email": "reiter@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "46",
+            "passFail": "46\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "95",
+            "average": "87.065",
+            "median": "85"
         }
     },
     "201902": {
@@ -71,7 +89,7 @@
             "median": "90"
         }
     },
-    "202002": {
+    "201802": {
         "Staff": [
             {
                 "name": "רייטר יורם",
@@ -80,34 +98,16 @@
             }
         ],
         "Finals": {
-            "students": "46",
-            "passFail": "46\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "95",
-            "average": "87.065",
-            "median": "85"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "רייטר יורם",
-                "email": "reiter@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "25",
-            "passFail": "25\/0",
+            "students": "33",
+            "passFail": "33\/0",
             "passPercent": "100",
             "min": "80",
-            "max": "95",
-            "average": "89.6",
+            "max": "100",
+            "average": "91.212",
             "median": "90"
         }
     },
-    "202202": {
+    "201702": {
         "Staff": [
             {
                 "name": "רייטר יורם",
@@ -115,22 +115,22 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Final_B": {
+        "Final_A": {
             "students": "29",
             "passFail": "29\/0",
             "passPercent": "100",
-            "min": "75",
+            "min": "80",
             "max": "95",
-            "average": "87.759",
+            "average": "88.793",
             "median": "90"
         },
         "Finals": {
-            "students": "32",
-            "passFail": "32\/0",
+            "students": "40",
+            "passFail": "40\/0",
             "passPercent": "100",
-            "min": "75",
+            "min": "80",
             "max": "95",
-            "average": "88.226",
+            "average": "88.75",
             "median": "90"
         }
     }

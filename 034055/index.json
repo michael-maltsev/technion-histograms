@@ -1,5 +1,5 @@
 {
-    "202201": {
+    "202302": {
         "Staff": [
             {
                 "name": "גת אמיר",
@@ -7,28 +7,74 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "פרץ אופק",
-                "email": "ofekperetz@campus.technion.ac.il",
-                "title": "מרצה"
+                "name": "גבאי ישראל",
+                "email": "srolik21@gmail.com,israelgabay1@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "וידקר דניאל",
+                "email": "capojam@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "רייזמן אביטל",
+                "email": "reizmana@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "90",
+            "passFail": "58\/32",
+            "passPercent": "64",
+            "min": "0",
+            "max": "100",
+            "average": "65.633",
+            "median": "64.5"
+        },
+        "Final_A": {
+            "students": "90",
+            "passFail": "58\/32",
+            "passPercent": "64",
+            "min": "0",
+            "max": "100",
+            "average": "71.222",
+            "median": "77.5"
+        },
+        "Finals": {
+            "students": "88",
+            "passFail": "58\/30",
+            "passPercent": "66",
+            "min": "12",
+            "max": "100",
+            "average": "72.784",
+            "median": "79"
+        }
+    },
+    "202301": {
+        "Staff": [
+            {
+                "name": "גת אמיר",
+                "email": "amirgat@technion.ac.il,netanel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Final_A": {
-            "students": "17",
-            "passFail": "16\/1",
-            "passPercent": "94",
-            "min": "46",
-            "max": "98",
-            "average": "71.765",
-            "median": "75"
+            "students": "11",
+            "passFail": "10\/1",
+            "passPercent": "91",
+            "min": "40",
+            "max": "93",
+            "average": "77",
+            "median": "78"
         },
         "Finals": {
-            "students": "20",
-            "passFail": "20\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "100",
-            "average": "77.3",
-            "median": "76"
+            "students": "12",
+            "passFail": "11\/1",
+            "passPercent": "92",
+            "min": "40",
+            "max": "93",
+            "average": "77.75",
+            "median": "79.5"
         }
     },
     "202202": {
@@ -96,34 +142,7 @@
             "median": "83"
         }
     },
-    "202301": {
-        "Staff": [
-            {
-                "name": "גת אמיר",
-                "email": "amirgat@technion.ac.il,netanel@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "11",
-            "passFail": "10\/1",
-            "passPercent": "91",
-            "min": "40",
-            "max": "93",
-            "average": "77",
-            "median": "78"
-        },
-        "Finals": {
-            "students": "12",
-            "passFail": "11\/1",
-            "passPercent": "92",
-            "min": "40",
-            "max": "93",
-            "average": "77.75",
-            "median": "79.5"
-        }
-    },
-    "202302": {
+    "202201": {
         "Staff": [
             {
                 "name": "גת אמיר",
@@ -131,47 +150,28 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "גבאי ישראל",
-                "email": "srolik21@gmail.com,israelgabay1@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "וידקר דניאל",
-                "email": "capojam@gmail.com",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "רייזמן אביטל",
-                "email": "reizmana@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
+                "name": "פרץ אופק",
+                "email": "ofekperetz@campus.technion.ac.il",
+                "title": "מרצה"
             }
         ],
-        "Exam_A": {
-            "students": "90",
-            "passFail": "58\/32",
-            "passPercent": "64",
-            "min": "0",
-            "max": "100",
-            "average": "65.633",
-            "median": "64.5"
-        },
         "Final_A": {
-            "students": "90",
-            "passFail": "58\/32",
-            "passPercent": "64",
-            "min": "0",
-            "max": "100",
-            "average": "71.222",
-            "median": "77.5"
+            "students": "17",
+            "passFail": "16\/1",
+            "passPercent": "94",
+            "min": "46",
+            "max": "98",
+            "average": "71.765",
+            "median": "75"
         },
         "Finals": {
-            "students": "88",
-            "passFail": "58\/30",
-            "passPercent": "66",
-            "min": "12",
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "55",
             "max": "100",
-            "average": "72.784",
-            "median": "79"
+            "average": "77.3",
+            "median": "76"
         }
     }
 }

@@ -1,4 +1,90 @@
 {
+    "201802": {
+        "Staff": [
+            {
+                "name": "צוקורל בני",
+                "email": "bcukurel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פלמן מיכאל",
+                "email": "p.michael@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "29",
+            "passFail": "28\/1",
+            "passPercent": "97",
+            "min": "50.5",
+            "max": "100",
+            "average": "85.442",
+            "median": "88.89"
+        },
+        "Finals": {
+            "students": "36",
+            "passFail": "34\/2",
+            "passPercent": "94",
+            "min": "27",
+            "max": "100",
+            "average": "85.306",
+            "median": "94"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "צוקורל בני",
+                "email": "bcukurel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "98",
+            "average": "85.545",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "98",
+            "average": "84.75",
+            "median": "86.5"
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "צוקורל בני",
+                "email": "bcukurel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "84",
+            "median": "80"
+        },
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "85",
+            "median": "84.5"
+        }
+    },
     "201601": {
         "Staff": [
             {
@@ -38,92 +124,6 @@
             "max": "93",
             "average": "73",
             "median": "78"
-        }
-    },
-    "201602": {
-        "Staff": [
-            {
-                "name": "צוקורל בני",
-                "email": "bcukurel@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "100",
-            "average": "84",
-            "median": "80"
-        },
-        "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "100",
-            "average": "85",
-            "median": "84.5"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "צוקורל בני",
-                "email": "bcukurel@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "69",
-            "max": "98",
-            "average": "85.545",
-            "median": "85"
-        },
-        "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "98",
-            "average": "84.75",
-            "median": "86.5"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "צוקורל בני",
-                "email": "bcukurel@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "פלמן מיכאל",
-                "email": "p.michael@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "29",
-            "passFail": "28\/1",
-            "passPercent": "97",
-            "min": "50.5",
-            "max": "100",
-            "average": "85.442",
-            "median": "88.89"
-        },
-        "Finals": {
-            "students": "36",
-            "passFail": "34\/2",
-            "passPercent": "94",
-            "min": "27",
-            "max": "100",
-            "average": "85.306",
-            "median": "94"
         }
     }
 }

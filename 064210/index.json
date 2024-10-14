@@ -1,5 +1,5 @@
 {
-    "201901": {
+    "202101": {
         "Staff": [
             {
                 "name": "ליבני יואב",
@@ -8,31 +8,31 @@
             }
         ],
         "Exam_A": {
-            "students": "39",
-            "passFail": "39\/0",
+            "students": "15",
+            "passFail": "15\/0",
             "passPercent": "100",
-            "min": "60.017",
-            "max": "93.36",
-            "average": "78.826",
-            "median": "80.023"
+            "min": "80",
+            "max": "96.667",
+            "average": "90.222",
+            "median": "90"
         },
         "Final_A": {
-            "students": "39",
-            "passFail": "39\/0",
+            "students": "15",
+            "passFail": "15\/0",
             "passPercent": "100",
-            "min": "68",
-            "max": "98",
-            "average": "85.308",
-            "median": "85"
+            "min": "83",
+            "max": "97",
+            "average": "91.2",
+            "median": "89"
         },
         "Finals": {
-            "students": "41",
-            "passFail": "41\/0",
+            "students": "15",
+            "passFail": "15\/0",
             "passPercent": "100",
-            "min": "68",
-            "max": "98",
-            "average": "85.073",
-            "median": "85"
+            "min": "83",
+            "max": "97",
+            "average": "91.2",
+            "median": "89"
         }
     },
     "202001": {
@@ -71,7 +71,7 @@
             "median": "88"
         }
     },
-    "202101": {
+    "201901": {
         "Staff": [
             {
                 "name": "ליבני יואב",
@@ -80,31 +80,31 @@
             }
         ],
         "Exam_A": {
-            "students": "15",
-            "passFail": "15\/0",
+            "students": "39",
+            "passFail": "39\/0",
             "passPercent": "100",
-            "min": "80",
-            "max": "96.667",
-            "average": "90.222",
-            "median": "90"
+            "min": "60.017",
+            "max": "93.36",
+            "average": "78.826",
+            "median": "80.023"
         },
         "Final_A": {
-            "students": "15",
-            "passFail": "15\/0",
+            "students": "39",
+            "passFail": "39\/0",
             "passPercent": "100",
-            "min": "83",
-            "max": "97",
-            "average": "91.2",
-            "median": "89"
+            "min": "68",
+            "max": "98",
+            "average": "85.308",
+            "median": "85"
         },
         "Finals": {
-            "students": "15",
-            "passFail": "15\/0",
+            "students": "41",
+            "passFail": "41\/0",
             "passPercent": "100",
-            "min": "83",
-            "max": "97",
-            "average": "91.2",
-            "median": "89"
+            "min": "68",
+            "max": "98",
+            "average": "85.073",
+            "median": "85"
         }
     }
 }

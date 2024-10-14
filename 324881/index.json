@@ -1,38 +1,74 @@
 {
-    "201602": {
+    "202201": {
         "Staff": [
             {
                 "name": "נאמן ישראל",
-                "email": "syneeman@bezeqint.net",
+                "email": "syneeman@bezeqint.net,yisraeln@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "35",
-            "passFail": "35\/0",
+            "students": "15",
+            "passFail": "15\/0",
             "passPercent": "100",
-            "min": "56",
+            "min": "76",
             "max": "100",
-            "average": "83.657",
-            "median": "85"
+            "average": "92.267",
+            "median": "92"
         }
     },
-    "201701": {
+    "202102": {
         "Staff": [
             {
                 "name": "נאמן ישראל",
-                "email": "syneeman@bezeqint.net",
+                "email": "syneeman@bezeqint.net,yisraeln@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
+        "Final_A": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "100",
+            "average": "94.2",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "100",
+            "average": "94.312",
+            "median": "96"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "אלמוגי בת-אל",
+                "email": "academic@int.technion.ac.il,batella@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "89.059",
+            "median": "96"
+        },
         "Finals": {
             "students": "17",
-            "passFail": "16\/1",
-            "passPercent": "94",
-            "min": "48",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "64",
             "max": "100",
-            "average": "81.176",
-            "median": "78"
+            "average": "92.118",
+            "median": "96"
         }
     },
     "201901": {
@@ -67,76 +103,40 @@
             "median": "87.5"
         }
     },
-    "202002": {
-        "Staff": [
-            {
-                "name": "אלמוגי בת-אל",
-                "email": "academic@int.technion.ac.il,batella@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "100",
-            "average": "89.059",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "64",
-            "max": "100",
-            "average": "92.118",
-            "median": "96"
-        }
-    },
-    "202102": {
+    "201701": {
         "Staff": [
             {
                 "name": "נאמן ישראל",
-                "email": "syneeman@bezeqint.net,yisraeln@technion.ac.il",
+                "email": "syneeman@bezeqint.net",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Final_A": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "61",
-            "max": "100",
-            "average": "94.2",
-            "median": "96"
-        },
         "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "61",
+            "students": "17",
+            "passFail": "16\/1",
+            "passPercent": "94",
+            "min": "48",
             "max": "100",
-            "average": "94.312",
-            "median": "96"
+            "average": "81.176",
+            "median": "78"
         }
     },
-    "202201": {
+    "201602": {
         "Staff": [
             {
                 "name": "נאמן ישראל",
-                "email": "syneeman@bezeqint.net,yisraeln@technion.ac.il",
+                "email": "syneeman@bezeqint.net",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Finals": {
-            "students": "15",
-            "passFail": "15\/0",
+            "students": "35",
+            "passFail": "35\/0",
             "passPercent": "100",
-            "min": "76",
+            "min": "56",
             "max": "100",
-            "average": "92.267",
-            "median": "92"
+            "average": "83.657",
+            "median": "85"
         }
     }
 }

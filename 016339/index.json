@@ -1,30 +1,39 @@
 {
-    "202001": {
+    "202201": {
         "Staff": [
             {
                 "name": "איש עם - רדי עדי",
-                "email": "aradian@cv.technion.ac.il",
+                "email": "aradian@cv.technion.ac.il,aradian@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "מלכה אופירה",
-                "email": "ofiramalka@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "קובלר קרן",
                 "email": "kovlerk@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מלכה אופירה",
+                "email": "ofiramalka@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
+        "Final_A": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "99",
+            "average": "84.636",
+            "median": "87"
+        },
         "Finals": {
-            "students": "10",
-            "passFail": "8\/2",
-            "passPercent": "80",
-            "min": "25",
-            "max": "92",
-            "average": "74.8",
-            "median": "85"
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "99",
+            "average": "84.636",
+            "median": "87"
         }
     },
     "202101": {
@@ -64,41 +73,32 @@
             "median": "89"
         }
     },
-    "202201": {
+    "202001": {
         "Staff": [
             {
                 "name": "איש עם - רדי עדי",
-                "email": "aradian@cv.technion.ac.il,aradian@technion.ac.il",
+                "email": "aradian@cv.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "קובלר קרן",
-                "email": "kovlerk@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "מלכה אופירה",
                 "email": "ofiramalka@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
-        "Final_A": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "99",
-            "average": "84.636",
-            "median": "87"
-        },
         "Finals": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "99",
-            "average": "84.636",
-            "median": "87"
+            "students": "10",
+            "passFail": "8\/2",
+            "passPercent": "80",
+            "min": "25",
+            "max": "92",
+            "average": "74.8",
+            "median": "85"
         }
     }
 }

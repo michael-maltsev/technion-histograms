@@ -1,114 +1,5 @@
 {
-    "201402": {
-        "Staff": [
-            {
-                "name": "ביבר מיכל",
-                "email": "micbib64@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "22",
-            "passFail": "22\/0",
-            "passPercent": "100",
-            "min": "95",
-            "max": "100",
-            "average": "98.273",
-            "median": "100"
-        }
-    },
-    "201602": {
-        "Staff": [
-            {
-                "name": "ביבר מיכל",
-                "email": "micbib64@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "23",
-            "passFail": "23\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "96.957",
-            "median": "98"
-        },
-        "Finals": {
-            "students": "22",
-            "passFail": "22\/0",
-            "passPercent": "100",
-            "min": "90",
-            "max": "100",
-            "average": "96.818",
-            "median": "99"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "ביבר מיכל",
-                "email": "micbib64@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "93.92",
-            "median": "93"
-        },
-        "Finals": {
-            "students": "24",
-            "passFail": "24\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "100",
-            "average": "93.833",
-            "median": "93"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "ביבר מיכל",
-                "email": "micbib64@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "הראל אילנה",
-                "email": "ilanah1@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "93",
-            "max": "99",
-            "average": "96.706",
-            "median": "97"
-        },
-        "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "93",
-            "max": "99",
-            "average": "96.706",
-            "median": "97"
-        }
-    },
-    "202101": {
+    "202301": {
         "Staff": [
             {
                 "name": "ביבר מיכל",
@@ -127,22 +18,22 @@
             }
         ],
         "Final_A": {
-            "students": "21",
-            "passFail": "21\/0",
+            "students": "19",
+            "passFail": "19\/0",
             "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "94.429",
-            "median": "95"
+            "min": "92",
+            "max": "99",
+            "average": "96.053",
+            "median": "96"
         },
         "Finals": {
-            "students": "21",
-            "passFail": "21\/0",
+            "students": "19",
+            "passFail": "19\/0",
             "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "94.524",
-            "median": "95"
+            "min": "92",
+            "max": "99",
+            "average": "96.053",
+            "median": "96"
         }
     },
     "202201": {
@@ -182,7 +73,7 @@
             "median": "96"
         }
     },
-    "202301": {
+    "202101": {
         "Staff": [
             {
                 "name": "ביבר מיכל",
@@ -201,22 +92,131 @@
             }
         ],
         "Final_A": {
-            "students": "19",
-            "passFail": "19\/0",
+            "students": "21",
+            "passFail": "21\/0",
             "passPercent": "100",
-            "min": "92",
-            "max": "99",
-            "average": "96.053",
-            "median": "96"
+            "min": "80",
+            "max": "100",
+            "average": "94.429",
+            "median": "95"
         },
         "Finals": {
-            "students": "19",
-            "passFail": "19\/0",
+            "students": "21",
+            "passFail": "21\/0",
             "passPercent": "100",
-            "min": "92",
+            "min": "80",
+            "max": "100",
+            "average": "94.524",
+            "median": "95"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "ביבר מיכל",
+                "email": "micbib64@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הראל אילנה",
+                "email": "ilanah1@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "93",
             "max": "99",
-            "average": "96.053",
-            "median": "96"
+            "average": "96.706",
+            "median": "97"
+        },
+        "Finals": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "99",
+            "average": "96.706",
+            "median": "97"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "ביבר מיכל",
+                "email": "micbib64@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "93.92",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "93.833",
+            "median": "93"
+        }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "ביבר מיכל",
+                "email": "micbib64@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "96.957",
+            "median": "98"
+        },
+        "Finals": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "96.818",
+            "median": "99"
+        }
+    },
+    "201402": {
+        "Staff": [
+            {
+                "name": "ביבר מיכל",
+                "email": "micbib64@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "95",
+            "max": "100",
+            "average": "98.273",
+            "median": "100"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "201901": {
+    "202002": {
         "Staff": [
             {
                 "name": "קוניוחוב יוג'ין",
@@ -7,19 +7,19 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "שמלה אורי",
-                "email": "shemlas@campus.technion.ac.il",
+                "name": "וטורי ניסים",
+                "email": "nisim.vatury@gmail.com,nisim.vatury@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Finals": {
-            "students": "18",
-            "passFail": "18\/0",
+            "students": "10",
+            "passFail": "10\/0",
             "passPercent": "100",
-            "min": "60",
-            "max": "96",
-            "average": "91.611",
-            "median": "94"
+            "min": "90",
+            "max": "94",
+            "average": "92.1",
+            "median": "92.5"
         }
     },
     "201902": {
@@ -45,7 +45,7 @@
             "median": "95"
         }
     },
-    "202002": {
+    "201901": {
         "Staff": [
             {
                 "name": "קוניוחוב יוג'ין",
@@ -53,19 +53,19 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "וטורי ניסים",
-                "email": "nisim.vatury@gmail.com,nisim.vatury@campus.technion.ac.il",
+                "name": "שמלה אורי",
+                "email": "shemlas@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
+            "students": "18",
+            "passFail": "18\/0",
             "passPercent": "100",
-            "min": "90",
-            "max": "94",
-            "average": "92.1",
-            "median": "92.5"
+            "min": "60",
+            "max": "96",
+            "average": "91.611",
+            "median": "94"
         }
     }
 }

@@ -1,32 +1,4 @@
 {
-    "202202": {
-        "Staff": [
-            {
-                "name": "זילברשטיין מרק",
-                "email": "silbmark@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "ארידור יריב",
-                "email": "yariv.aridor@gmail.com,yariv.aridor@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "ליפשיץ פבל",
-                "email": "pavell@ef.technion.ac.il,eesoft@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
-            "passPercent": "100",
-            "min": "77",
-            "max": "100",
-            "average": "89.2",
-            "median": "90"
-        }
-    },
     "202302": {
         "Staff": [
             {
@@ -66,6 +38,34 @@
             "max": "100",
             "average": "84.941",
             "median": "86"
+        }
+    },
+    "202202": {
+        "Staff": [
+            {
+                "name": "זילברשטיין מרק",
+                "email": "silbmark@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ארידור יריב",
+                "email": "yariv.aridor@gmail.com,yariv.aridor@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "ליפשיץ פבל",
+                "email": "pavell@ef.technion.ac.il,eesoft@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "10",
+            "passFail": "10\/0",
+            "passPercent": "100",
+            "min": "77",
+            "max": "100",
+            "average": "89.2",
+            "median": "90"
         }
     }
 }

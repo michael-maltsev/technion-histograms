@@ -1,5 +1,5 @@
 {
-    "201902": {
+    "202301": {
         "Staff": [
             {
                 "name": "בוקס איל",
@@ -7,19 +7,37 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "חזנוב סרגיי",
-                "email": "sergeyhaz@campus.technion.ac.il",
+                "name": "שטיינברג רועי",
+                "email": "roysteinberg@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
+        "Exam_A": {
+            "students": "12",
+            "passFail": "12\/0",
             "passPercent": "100",
-            "min": "72",
-            "max": "99",
-            "average": "86.3",
-            "median": "84.5"
+            "min": "76",
+            "max": "100",
+            "average": "90.25",
+            "median": "91"
+        },
+        "Final_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "80.68",
+            "max": "100",
+            "average": "92.007",
+            "median": "92.58"
+        },
+        "Finals": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "91.632",
+            "median": "92"
         }
     },
     "202201": {
@@ -63,7 +81,7 @@
             "median": "93"
         }
     },
-    "202301": {
+    "201902": {
         "Staff": [
             {
                 "name": "בוקס איל",
@@ -71,37 +89,19 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "שטיינברג רועי",
-                "email": "roysteinberg@campus.technion.ac.il",
+                "name": "חזנוב סרגיי",
+                "email": "sergeyhaz@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Exam_A": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "76",
-            "max": "100",
-            "average": "90.25",
-            "median": "91"
-        },
-        "Final_A": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "80.68",
-            "max": "100",
-            "average": "92.007",
-            "median": "92.58"
-        },
         "Finals": {
-            "students": "19",
-            "passFail": "19\/0",
+            "students": "10",
+            "passFail": "10\/0",
             "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "91.632",
-            "median": "92"
+            "min": "72",
+            "max": "99",
+            "average": "86.3",
+            "median": "84.5"
         }
     }
 }

@@ -1,36 +1,4 @@
 {
-    "201802": {
-        "Staff": [
-            {
-                "name": "איזנברג דוד",
-                "email": "eisenberg@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "פרבר אליהו מרדכ",
-                "email": "eliyahufarber@gmail.com,seliyahu@campus.technion.ac.il",
-                "title": "מתרגל"
-            }
-        ],
-        "Final_A": {
-            "students": "22",
-            "passFail": "22\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "96",
-            "average": "87",
-            "median": "89"
-        },
-        "Finals": {
-            "students": "23",
-            "passFail": "23\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "98",
-            "average": "88",
-            "median": "89"
-        }
-    },
     "201902": {
         "Staff": [
             {
@@ -61,6 +29,38 @@
             "max": "100",
             "average": "83.5",
             "median": "83"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "איזנברג דוד",
+                "email": "eisenberg@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרבר אליהו מרדכ",
+                "email": "eliyahufarber@gmail.com,seliyahu@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "96",
+            "average": "87",
+            "median": "89"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "98",
+            "average": "88",
+            "median": "89"
         }
     }
 }

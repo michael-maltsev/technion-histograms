@@ -1,4 +1,27 @@
 {
+    "202102": {
+        "Staff": [
+            {
+                "name": "זלזו דניאל",
+                "email": "dzelazo@technion.ac.il",
+                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שניידרמן דמיטרי",
+                "email": "mechdmit@technion.ac.il",
+                "title": ""
+            }
+        ],
+        "Finals": {
+            "students": "10",
+            "passFail": "10\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "93.1",
+            "median": "97.5"
+        }
+    },
     "202002": {
         "Staff": [
             {
@@ -29,29 +52,6 @@
             "max": "99",
             "average": "92.45",
             "median": "93.5"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "זלזו דניאל",
-                "email": "dzelazo@technion.ac.il",
-                "title": "מדריך מעבדה - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "שניידרמן דמיטרי",
-                "email": "mechdmit@technion.ac.il",
-                "title": ""
-            }
-        ],
-        "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "93.1",
-            "median": "97.5"
         }
     }
 }

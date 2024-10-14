@@ -1,5 +1,5 @@
 {
-    "201802": {
+    "202202": {
         "Staff": [
             {
                 "name": "יהב ערן",
@@ -8,41 +8,12 @@
             }
         ],
         "Finals": {
-            "students": "37",
-            "passFail": "37\/0",
+            "students": "52",
+            "passFail": "52\/0",
             "passPercent": "100",
-            "min": "89",
-            "max": "96",
-            "average": "91.243",
-            "median": "91"
-        }
-    },
-    "201902": {
-        "Finals": {
-            "students": "63",
-            "passFail": "63\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "100",
-            "average": "92.73",
-            "median": "93"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "יהב ערן",
-                "email": "yahave@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "40",
-            "passFail": "40\/0",
-            "passPercent": "100",
-            "min": "85",
-            "max": "95",
-            "average": "90.075",
+            "min": "83",
+            "max": "98",
+            "average": "90.49",
             "median": "90"
         }
     },
@@ -64,7 +35,7 @@
             "median": "93"
         }
     },
-    "202202": {
+    "202002": {
         "Staff": [
             {
                 "name": "יהב ערן",
@@ -73,13 +44,42 @@
             }
         ],
         "Finals": {
-            "students": "52",
-            "passFail": "52\/0",
+            "students": "40",
+            "passFail": "40\/0",
             "passPercent": "100",
-            "min": "83",
-            "max": "98",
-            "average": "90.49",
+            "min": "85",
+            "max": "95",
+            "average": "90.075",
             "median": "90"
+        }
+    },
+    "201902": {
+        "Finals": {
+            "students": "63",
+            "passFail": "63\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "100",
+            "average": "92.73",
+            "median": "93"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "יהב ערן",
+                "email": "yahave@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "37",
+            "passFail": "37\/0",
+            "passPercent": "100",
+            "min": "89",
+            "max": "96",
+            "average": "91.243",
+            "median": "91"
         }
     }
 }

@@ -1,96 +1,5 @@
 {
-    "201801": {
-        "Staff": [
-            {
-                "name": "כץ-דמיאנץ אלכסנדר",
-                "email": "kalexand@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "קטן מרדכי",
-                "email": "morka880@gmail.com,morka880@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "14",
-            "passFail": "14\/0",
-            "passPercent": "100",
-            "min": "77",
-            "max": "92",
-            "average": "87.071",
-            "median": "90"
-        },
-        "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "73",
-            "max": "92",
-            "average": "85.75",
-            "median": "89"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "ברגר שלמה",
-                "email": "berger@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "94",
-            "average": "87.091",
-            "median": "88"
-        },
-        "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "75",
-            "max": "94",
-            "average": "87.917",
-            "median": "88.5"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "אזולאי עמרם",
-                "email": "ami1@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "קיסלוב יוליה",
-                "email": "yuliak@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "71",
-            "max": "98",
-            "average": "90.625",
-            "median": "93.5"
-        },
-        "Finals": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "71",
-            "max": "98",
-            "average": "90.625",
-            "median": "93.5"
-        }
-    },
-    "202101": {
+    "202301": {
         "Staff": [
             {
                 "name": "ברגר שלמה",
@@ -109,31 +18,31 @@
             }
         ],
         "Exam_A": {
-            "students": "23",
-            "passFail": "20\/3",
-            "passPercent": "87",
-            "min": "35",
-            "max": "90",
-            "average": "73.304",
-            "median": "78"
-        },
-        "Final_A": {
-            "students": "23",
-            "passFail": "20\/3",
-            "passPercent": "87",
-            "min": "42",
-            "max": "91",
-            "average": "75.87",
-            "median": "80"
-        },
-        "Finals": {
-            "students": "28",
-            "passFail": "28\/0",
+            "students": "30",
+            "passFail": "30\/0",
             "passPercent": "100",
             "min": "60",
-            "max": "93",
-            "average": "82.929",
+            "max": "97",
+            "average": "82.833",
             "median": "83"
+        },
+        "Final_A": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "63",
+            "max": "98",
+            "average": "84.767",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "32",
+            "passFail": "32\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "98",
+            "average": "85.594",
+            "median": "85"
         }
     },
     "202201": {
@@ -182,7 +91,7 @@
             "median": "86"
         }
     },
-    "202301": {
+    "202101": {
         "Staff": [
             {
                 "name": "ברגר שלמה",
@@ -201,31 +110,122 @@
             }
         ],
         "Exam_A": {
-            "students": "30",
-            "passFail": "30\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "97",
-            "average": "82.833",
-            "median": "83"
+            "students": "23",
+            "passFail": "20\/3",
+            "passPercent": "87",
+            "min": "35",
+            "max": "90",
+            "average": "73.304",
+            "median": "78"
         },
         "Final_A": {
-            "students": "30",
-            "passFail": "30\/0",
-            "passPercent": "100",
-            "min": "63",
-            "max": "98",
-            "average": "84.767",
-            "median": "85"
+            "students": "23",
+            "passFail": "20\/3",
+            "passPercent": "87",
+            "min": "42",
+            "max": "91",
+            "average": "75.87",
+            "median": "80"
         },
         "Finals": {
-            "students": "32",
-            "passFail": "32\/0",
+            "students": "28",
+            "passFail": "28\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "93",
+            "average": "82.929",
+            "median": "83"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "אזולאי עמרם",
+                "email": "ami1@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "קיסלוב יוליה",
+                "email": "yuliak@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "98",
+            "average": "90.625",
+            "median": "93.5"
+        },
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "98",
+            "average": "90.625",
+            "median": "93.5"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "ברגר שלמה",
+                "email": "berger@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "94",
+            "average": "87.091",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "94",
+            "average": "87.917",
+            "median": "88.5"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "כץ-דמיאנץ אלכסנדר",
+                "email": "kalexand@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קטן מרדכי",
+                "email": "morka880@gmail.com,morka880@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "77",
+            "max": "92",
+            "average": "87.071",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "16",
+            "passFail": "16\/0",
             "passPercent": "100",
             "min": "73",
-            "max": "98",
-            "average": "85.594",
-            "median": "85"
+            "max": "92",
+            "average": "85.75",
+            "median": "89"
         }
     }
 }

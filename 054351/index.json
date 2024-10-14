@@ -1,4 +1,76 @@
 {
+    "202201": {
+        "Staff": [
+            {
+                "name": "פרגר ויאצסלב",
+                "email": "vfreger@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Final_A": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "94",
+            "average": "87.545",
+            "median": "89"
+        },
+        "Finals": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "94",
+            "average": "86.615",
+            "median": "89"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "פרגר ויאצסלב",
+                "email": "vfreger@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "99",
+            "average": "84.316",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "99",
+            "average": "80.96",
+            "median": "83"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "פרגר ויאצסלב",
+                "email": "vfreger@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "97",
+            "average": "85.273",
+            "median": "86"
+        }
+    },
     "201801": {
         "Staff": [
             {
@@ -33,78 +105,6 @@
             "max": "99",
             "average": "83.533",
             "median": "83.5"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "פרגר ויאצסלב",
-                "email": "vfreger@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "69",
-            "max": "97",
-            "average": "85.273",
-            "median": "86"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "פרגר ויאצסלב",
-                "email": "vfreger@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "19",
-            "passFail": "19\/0",
-            "passPercent": "100",
-            "min": "61",
-            "max": "99",
-            "average": "84.316",
-            "median": "86"
-        },
-        "Finals": {
-            "students": "25",
-            "passFail": "25\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "99",
-            "average": "80.96",
-            "median": "83"
-        }
-    },
-    "202201": {
-        "Staff": [
-            {
-                "name": "פרגר ויאצסלב",
-                "email": "vfreger@technion.ac.il",
-                "title": "מרצה"
-            }
-        ],
-        "Final_A": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "94",
-            "average": "87.545",
-            "median": "89"
-        },
-        "Finals": {
-            "students": "13",
-            "passFail": "13\/0",
-            "passPercent": "100",
-            "min": "67",
-            "max": "94",
-            "average": "86.615",
-            "median": "89"
         }
     }
 }

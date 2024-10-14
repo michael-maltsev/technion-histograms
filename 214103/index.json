@@ -1,96 +1,47 @@
 {
-    "201701": {
+    "202102": {
         "Staff": [
             {
-                "name": "תנחום-זודיק איריס",
-                "email": "ziris@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "מגיד פודולסק סטלה",
-                "email": "stella.magid@gmail.com",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "ויזר רוית",
-                "email": "ravitit@bezeqint.net",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "28",
-            "passFail": "28\/0",
-            "passPercent": "100",
-            "min": "77",
-            "max": "98",
-            "average": "91.821",
-            "median": "93"
-        },
-        "Finals": {
-            "students": "31",
-            "passFail": "31\/0",
-            "passPercent": "100",
-            "min": "77",
-            "max": "98",
-            "average": "91.742",
-            "median": "93"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "תנחום-זודיק איריס",
+                "name": "זודיק תנחום איריס",
                 "email": "ziris@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "מגיד פודולסק סטלה",
-                "email": "stella.magid@gmail.com",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "ויזר רוית",
-                "email": "ravitit@bezeqint.net",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
             "students": "20",
             "passFail": "20\/0",
             "passPercent": "100",
-            "min": "55",
-            "max": "99",
-            "average": "90.55",
-            "median": "93.5"
+            "min": "73",
+            "max": "96",
+            "average": "88.4",
+            "median": "90.5"
         },
         "Finals": {
-            "students": "21",
-            "passFail": "21\/0",
+            "students": "22",
+            "passFail": "22\/0",
             "passPercent": "100",
-            "min": "55",
-            "max": "99",
-            "average": "89.429",
-            "median": "93"
+            "min": "73",
+            "max": "96",
+            "average": "87.5",
+            "median": "90"
         }
     },
-    "201801": {
+    "202101": {
+        "Staff": [
+            {
+                "name": "תנחום-זודיק איריס",
+                "email": "ziris@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
         "Final_A": {
-            "students": "28",
-            "passFail": "28\/0",
+            "students": "16",
+            "passFail": "16\/0",
             "passPercent": "100",
-            "min": "66",
-            "max": "98",
-            "average": "89.464",
-            "median": "90.5"
-        },
-        "Finals": {
-            "students": "28",
-            "passFail": "28\/0",
-            "passPercent": "100",
-            "min": "66",
-            "max": "98",
-            "average": "89.464",
-            "median": "90.5"
+            "min": "74",
+            "max": "97",
+            "average": "88.125",
+            "median": "91"
         }
     },
     "201901": {
@@ -135,49 +86,98 @@
             "median": "92"
         }
     },
-    "202101": {
+    "201801": {
+        "Final_A": {
+            "students": "28",
+            "passFail": "28\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "98",
+            "average": "89.464",
+            "median": "90.5"
+        },
+        "Finals": {
+            "students": "28",
+            "passFail": "28\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "98",
+            "average": "89.464",
+            "median": "90.5"
+        }
+    },
+    "201702": {
         "Staff": [
             {
                 "name": "תנחום-זודיק איריס",
                 "email": "ziris@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "74",
-            "max": "97",
-            "average": "88.125",
-            "median": "91"
-        }
-    },
-    "202102": {
-        "Staff": [
+            },
             {
-                "name": "זודיק תנחום איריס",
-                "email": "ziris@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "name": "מגיד פודולסק סטלה",
+                "email": "stella.magid@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ויזר רוית",
+                "email": "ravitit@bezeqint.net",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
             "students": "20",
             "passFail": "20\/0",
             "passPercent": "100",
-            "min": "73",
-            "max": "96",
-            "average": "88.4",
-            "median": "90.5"
+            "min": "55",
+            "max": "99",
+            "average": "90.55",
+            "median": "93.5"
         },
         "Finals": {
-            "students": "22",
-            "passFail": "22\/0",
+            "students": "21",
+            "passFail": "21\/0",
             "passPercent": "100",
-            "min": "73",
-            "max": "96",
-            "average": "87.5",
-            "median": "90"
+            "min": "55",
+            "max": "99",
+            "average": "89.429",
+            "median": "93"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "תנחום-זודיק איריס",
+                "email": "ziris@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "מגיד פודולסק סטלה",
+                "email": "stella.magid@gmail.com",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ויזר רוית",
+                "email": "ravitit@bezeqint.net",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "28",
+            "passFail": "28\/0",
+            "passPercent": "100",
+            "min": "77",
+            "max": "98",
+            "average": "91.821",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "31",
+            "passFail": "31\/0",
+            "passPercent": "100",
+            "min": "77",
+            "max": "98",
+            "average": "91.742",
+            "median": "93"
         }
     }
 }

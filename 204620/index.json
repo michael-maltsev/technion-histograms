@@ -1,37 +1,5 @@
 {
-    "201502": {
-        "Staff": [
-            {
-                "name": "רוזנר צופיה",
-                "email": "sofia.sella@gmail.com,arsofia@technion.ac.il",
-                "title": "מנחה פרויקטים  - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "שרון דלית",
-                "email": "dalitsharon@yahoo.com,dalitsh@technion.ac.il",
-                "title": ""
-            }
-        ],
-        "Final_A": {
-            "students": "26",
-            "passFail": "25\/1",
-            "passPercent": "96",
-            "min": "50",
-            "max": "94",
-            "average": "82.346",
-            "median": "84.5"
-        },
-        "Finals": {
-            "students": "26",
-            "passFail": "25\/1",
-            "passPercent": "96",
-            "min": "50",
-            "max": "94",
-            "average": "82.346",
-            "median": "84.5"
-        }
-    },
-    "201702": {
+    "201902": {
         "Staff": [
             {
                 "name": "סופר יעל",
@@ -39,28 +7,33 @@
                 "title": "מנחה פרויקטים  - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "וקסמן לב",
-                "email": "vaksmanlev@gmail.com",
+                "name": "מג'אר טליה",
+                "email": "talia@technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "חגי אביטל",
+                "email": "avitalut@gmail.com,hagai.avital@technion.ac.il",
                 "title": ""
             }
         ],
         "Final_A": {
-            "students": "28",
-            "passFail": "28\/0",
-            "passPercent": "100",
-            "min": "77",
-            "max": "93",
-            "average": "85.786",
-            "median": "86"
+            "students": "30",
+            "passFail": "29\/1",
+            "passPercent": "97",
+            "min": "49",
+            "max": "96",
+            "average": "83.567",
+            "median": "84.5"
         },
         "Finals": {
-            "students": "28",
-            "passFail": "28\/0",
-            "passPercent": "100",
-            "min": "77",
-            "max": "93",
-            "average": "85.786",
-            "median": "86"
+            "students": "30",
+            "passFail": "29\/1",
+            "passPercent": "97",
+            "min": "49",
+            "max": "96",
+            "average": "83.567",
+            "median": "84.5"
         }
     },
     "201802": {
@@ -104,7 +77,7 @@
             "median": "88"
         }
     },
-    "201902": {
+    "201702": {
         "Staff": [
             {
                 "name": "סופר יעל",
@@ -112,32 +85,59 @@
                 "title": "מנחה פרויקטים  - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "מג'אר טליה",
-                "email": "talia@technion.ac.il",
-                "title": ""
-            },
-            {
-                "name": "חגי אביטל",
-                "email": "avitalut@gmail.com,hagai.avital@technion.ac.il",
+                "name": "וקסמן לב",
+                "email": "vaksmanlev@gmail.com",
                 "title": ""
             }
         ],
         "Final_A": {
-            "students": "30",
-            "passFail": "29\/1",
-            "passPercent": "97",
-            "min": "49",
-            "max": "96",
-            "average": "83.567",
+            "students": "28",
+            "passFail": "28\/0",
+            "passPercent": "100",
+            "min": "77",
+            "max": "93",
+            "average": "85.786",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "28",
+            "passFail": "28\/0",
+            "passPercent": "100",
+            "min": "77",
+            "max": "93",
+            "average": "85.786",
+            "median": "86"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "רוזנר צופיה",
+                "email": "sofia.sella@gmail.com,arsofia@technion.ac.il",
+                "title": "מנחה פרויקטים  - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שרון דלית",
+                "email": "dalitsharon@yahoo.com,dalitsh@technion.ac.il",
+                "title": ""
+            }
+        ],
+        "Final_A": {
+            "students": "26",
+            "passFail": "25\/1",
+            "passPercent": "96",
+            "min": "50",
+            "max": "94",
+            "average": "82.346",
             "median": "84.5"
         },
         "Finals": {
-            "students": "30",
-            "passFail": "29\/1",
-            "passPercent": "97",
-            "min": "49",
-            "max": "96",
-            "average": "83.567",
+            "students": "26",
+            "passFail": "25\/1",
+            "passPercent": "96",
+            "min": "50",
+            "max": "94",
+            "average": "82.346",
             "median": "84.5"
         }
     }

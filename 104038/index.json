@@ -1,5 +1,37 @@
 {
-    "202201": {
+    "202302": {
+        "Staff": [
+            {
+                "name": "וולף עדי",
+                "email": "adiw@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שפריר איתי",
+                "email": "shafrir@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "271",
+            "passFail": "206\/65",
+            "passPercent": "76",
+            "min": "6",
+            "max": "100",
+            "average": "68.266",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "271",
+            "passFail": "224\/47",
+            "passPercent": "83",
+            "min": "6",
+            "max": "100",
+            "average": "73.24",
+            "median": "79"
+        }
+    },
+    "202301": {
         "Staff": [
             {
                 "name": "וולף עדי",
@@ -8,31 +40,49 @@
             }
         ],
         "Exam_A": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "72",
-            "max": "96",
-            "average": "85.917",
-            "median": "88"
+            "students": "77",
+            "passFail": "59\/18",
+            "passPercent": "77",
+            "min": "29",
+            "max": "100",
+            "average": "70.065",
+            "median": "72"
         },
         "Final_A": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "98",
-            "average": "89.917",
-            "median": "92"
+            "students": "77",
+            "passFail": "65\/12",
+            "passPercent": "84",
+            "min": "29",
+            "max": "100",
+            "average": "72.662",
+            "median": "75"
+        },
+        "Exam_B": {
+            "students": "52",
+            "passFail": "38\/14",
+            "passPercent": "73",
+            "min": "28",
+            "max": "95",
+            "average": "66.635",
+            "median": "69"
+        },
+        "Final_B": {
+            "students": "52",
+            "passFail": "40\/12",
+            "passPercent": "77",
+            "min": "28",
+            "max": "96",
+            "average": "69",
+            "median": "72"
         },
         "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "98",
-            "average": "89.917",
-            "median": "92"
+            "students": "104",
+            "passFail": "92\/12",
+            "passPercent": "88",
+            "min": "28",
+            "max": "100",
+            "average": "75.567",
+            "median": "81"
         }
     },
     "202202": {
@@ -104,7 +154,7 @@
             "median": "83"
         }
     },
-    "202301": {
+    "202201": {
         "Staff": [
             {
                 "name": "וולף עדי",
@@ -113,81 +163,31 @@
             }
         ],
         "Exam_A": {
-            "students": "77",
-            "passFail": "59\/18",
-            "passPercent": "77",
-            "min": "29",
-            "max": "100",
-            "average": "70.065",
-            "median": "72"
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "96",
+            "average": "85.917",
+            "median": "88"
         },
         "Final_A": {
-            "students": "77",
-            "passFail": "65\/12",
-            "passPercent": "84",
-            "min": "29",
-            "max": "100",
-            "average": "72.662",
-            "median": "75"
-        },
-        "Exam_B": {
-            "students": "52",
-            "passFail": "38\/14",
-            "passPercent": "73",
-            "min": "28",
-            "max": "95",
-            "average": "66.635",
-            "median": "69"
-        },
-        "Final_B": {
-            "students": "52",
-            "passFail": "40\/12",
-            "passPercent": "77",
-            "min": "28",
-            "max": "96",
-            "average": "69",
-            "median": "72"
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "98",
+            "average": "89.917",
+            "median": "92"
         },
         "Finals": {
-            "students": "104",
-            "passFail": "92\/12",
-            "passPercent": "88",
-            "min": "28",
-            "max": "100",
-            "average": "75.567",
-            "median": "81"
-        }
-    },
-    "202302": {
-        "Staff": [
-            {
-                "name": "וולף עדי",
-                "email": "adiw@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "שפריר איתי",
-                "email": "shafrir@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Exam_A": {
-            "students": "271",
-            "passFail": "206\/65",
-            "passPercent": "76",
-            "min": "6",
-            "max": "100",
-            "average": "68.266",
-            "median": "72"
-        },
-        "Final_A": {
-            "students": "271",
-            "passFail": "224\/47",
-            "passPercent": "83",
-            "min": "6",
-            "max": "100",
-            "average": "73.24",
-            "median": "79"
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "98",
+            "average": "89.917",
+            "median": "92"
         }
     }
 }

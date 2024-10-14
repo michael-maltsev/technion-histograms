@@ -1,40 +1,4 @@
 {
-    "201502": {
-        "Staff": [
-            {
-                "name": "גודוביץ רם",
-                "email": "rmg272@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "45",
-            "passFail": "45\/0",
-            "passPercent": "100",
-            "min": "65",
-            "max": "100",
-            "average": "87.644",
-            "median": "88"
-        },
-        "Final_B": {
-            "students": "14",
-            "passFail": "14\/0",
-            "passPercent": "100",
-            "min": "65",
-            "max": "100",
-            "average": "92.143",
-            "median": "95"
-        },
-        "Finals": {
-            "students": "56",
-            "passFail": "56\/0",
-            "passPercent": "100",
-            "min": "65",
-            "max": "100",
-            "average": "90.339",
-            "median": "95"
-        }
-    },
     "201802": {
         "Staff": [
             {
@@ -69,6 +33,42 @@
             "max": "100",
             "average": "91.14",
             "median": "96"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "גודוביץ רם",
+                "email": "rmg272@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "45",
+            "passFail": "45\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "87.644",
+            "median": "88"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "92.143",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "56",
+            "passFail": "56\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "90.339",
+            "median": "95"
         }
     }
 }

@@ -1,74 +1,5 @@
 {
-    "201901": {
-        "Staff": [
-            {
-                "name": "בלפרמן אהוד",
-                "email": "udibelfer@walla.co.il,ehudb@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "מג'אר טליה",
-                "email": "talia@technion.ac.il",
-                "title": "מרצה"
-            }
-        ],
-        "Final_A": {
-            "students": "66",
-            "passFail": "65\/1",
-            "passPercent": "98",
-            "min": "45",
-            "max": "98",
-            "average": "86",
-            "median": "86"
-        },
-        "Finals": {
-            "students": "66",
-            "passFail": "65\/1",
-            "passPercent": "98",
-            "min": "45",
-            "max": "98",
-            "average": "86",
-            "median": "86"
-        }
-    },
-    "202001": {
-        "Staff": [
-            {
-                "name": "חורי לירן",
-                "email": "liranhu@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "סילברסטין-דו דנה",
-                "email": "dsilverstein@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "אלואיל יעל",
-                "email": "aryael@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "67",
-            "passFail": "65\/2",
-            "passPercent": "97",
-            "min": "43",
-            "max": "95",
-            "average": "87.224",
-            "median": "89"
-        },
-        "Finals": {
-            "students": "65",
-            "passFail": "65\/0",
-            "passPercent": "100",
-            "min": "78",
-            "max": "95",
-            "average": "88.6",
-            "median": "89"
-        }
-    },
-    "202101": {
+    "202301": {
         "Staff": [
             {
                 "name": "אלואיל יעל",
@@ -79,25 +10,30 @@
                 "name": "בלפרמן אהוד",
                 "email": "udibelfer@walla.co.il,ehudb@technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "סילברסטין-דו דנה",
+                "email": "dsilverstein@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "62",
-            "passFail": "61\/1",
-            "passPercent": "98",
-            "min": "45",
-            "max": "94",
-            "average": "86.161",
-            "median": "86.5"
+            "students": "70",
+            "passFail": "69\/1",
+            "passPercent": "99",
+            "min": "0",
+            "max": "97",
+            "average": "87.743",
+            "median": "89"
         },
         "Finals": {
-            "students": "62",
-            "passFail": "61\/1",
-            "passPercent": "98",
-            "min": "45",
-            "max": "94",
-            "average": "86.29",
-            "median": "87"
+            "students": "69",
+            "passFail": "69\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "97",
+            "average": "89.014",
+            "median": "89"
         }
     },
     "202201": {
@@ -142,7 +78,7 @@
             "median": "90"
         }
     },
-    "202301": {
+    "202101": {
         "Staff": [
             {
                 "name": "אלואיל יעל",
@@ -153,30 +89,94 @@
                 "name": "בלפרמן אהוד",
                 "email": "udibelfer@walla.co.il,ehudb@technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "62",
+            "passFail": "61\/1",
+            "passPercent": "98",
+            "min": "45",
+            "max": "94",
+            "average": "86.161",
+            "median": "86.5"
+        },
+        "Finals": {
+            "students": "62",
+            "passFail": "61\/1",
+            "passPercent": "98",
+            "min": "45",
+            "max": "94",
+            "average": "86.29",
+            "median": "87"
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "חורי לירן",
+                "email": "liranhu@campus.technion.ac.il",
+                "title": "מתרגל"
             },
             {
                 "name": "סילברסטין-דו דנה",
                 "email": "dsilverstein@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
+                "title": "מתרגל"
+            },
+            {
+                "name": "אלואיל יעל",
+                "email": "aryael@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
             }
         ],
         "Final_A": {
-            "students": "70",
-            "passFail": "69\/1",
-            "passPercent": "99",
-            "min": "0",
-            "max": "97",
-            "average": "87.743",
+            "students": "67",
+            "passFail": "65\/2",
+            "passPercent": "97",
+            "min": "43",
+            "max": "95",
+            "average": "87.224",
             "median": "89"
         },
         "Finals": {
-            "students": "69",
-            "passFail": "69\/0",
+            "students": "65",
+            "passFail": "65\/0",
             "passPercent": "100",
-            "min": "79",
-            "max": "97",
-            "average": "89.014",
+            "min": "78",
+            "max": "95",
+            "average": "88.6",
             "median": "89"
+        }
+    },
+    "201901": {
+        "Staff": [
+            {
+                "name": "בלפרמן אהוד",
+                "email": "udibelfer@walla.co.il,ehudb@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מג'אר טליה",
+                "email": "talia@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Final_A": {
+            "students": "66",
+            "passFail": "65\/1",
+            "passPercent": "98",
+            "min": "45",
+            "max": "98",
+            "average": "86",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "66",
+            "passFail": "65\/1",
+            "passPercent": "98",
+            "min": "45",
+            "max": "98",
+            "average": "86",
+            "median": "86"
         }
     }
 }

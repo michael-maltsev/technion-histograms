@@ -1,4 +1,73 @@
 {
+    "202201": {
+        "Staff": [
+            {
+                "name": "נוה איתן",
+                "email": "naveh@ie.technion.ac.il,naveh@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גורפינקל אירינה",
+                "email": "cirina@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "44",
+            "passFail": "44\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "93",
+            "average": "83.659",
+            "median": "86.5"
+        },
+        "Finals": {
+            "students": "44",
+            "passFail": "44\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "93",
+            "average": "83.659",
+            "median": "86.5"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "נוה איתן",
+                "email": "naveh@ie.technion.ac.il,naveh@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "18",
+            "passFail": "17\/1",
+            "passPercent": "94",
+            "min": "33",
+            "max": "90",
+            "average": "78.444",
+            "median": "83"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "22\/1",
+            "passPercent": "96",
+            "min": "28",
+            "max": "90",
+            "average": "80.217",
+            "median": "81"
+        }
+    },
     "202001": {
         "Staff": [
             {
@@ -39,75 +108,6 @@
             "max": "96",
             "average": "83.368",
             "median": "81"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "נוה איתן",
-                "email": "naveh@ie.technion.ac.il,naveh@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "18",
-            "passFail": "17\/1",
-            "passPercent": "94",
-            "min": "33",
-            "max": "90",
-            "average": "78.444",
-            "median": "83"
-        },
-        "Finals": {
-            "students": "23",
-            "passFail": "22\/1",
-            "passPercent": "96",
-            "min": "28",
-            "max": "90",
-            "average": "80.217",
-            "median": "81"
-        }
-    },
-    "202201": {
-        "Staff": [
-            {
-                "name": "נוה איתן",
-                "email": "naveh@ie.technion.ac.il,naveh@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "גורפינקל אירינה",
-                "email": "cirina@technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "44",
-            "passFail": "44\/0",
-            "passPercent": "100",
-            "min": "62",
-            "max": "93",
-            "average": "83.659",
-            "median": "86.5"
-        },
-        "Finals": {
-            "students": "44",
-            "passFail": "44\/0",
-            "passPercent": "100",
-            "min": "62",
-            "max": "93",
-            "average": "83.659",
-            "median": "86.5"
         }
     }
 }

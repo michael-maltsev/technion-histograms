@@ -1,102 +1,21 @@
 {
-    "201401": {
+    "202101": {
         "Staff": [
             {
-                "name": "קופרמן אלכסנדר",
-                "email": "kupalex@technion.ac.il",
+                "name": "פרס הרי לידיה",
+                "email": "lydia@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Finals": {
-            "students": "29",
-            "passFail": "27\/2",
-            "passPercent": "93",
-            "min": "12",
-            "max": "100",
-            "average": "79.655",
-            "median": "86"
-        }
-    },
-    "201501": {
-        "Staff": [
-            {
-                "name": "קופרמן אלכסנדר",
-                "email": "kupalex@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "",
-            "passFail": "",
-            "passPercent": "",
-            "min": "",
-            "max": "",
-            "average": "",
-            "median": ""
-        }
-    },
-    "201601": {
-        "Staff": [
-            {
-                "name": "קופרמן אלכסנדר",
-                "email": "kupalex@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "",
-            "passFail": "",
-            "passPercent": "",
-            "min": "",
-            "max": "",
-            "average": "",
-            "median": ""
-        }
-    },
-    "201701": {
-        "Staff": [
-            {
-                "name": "קופרמן אלכסנדר",
-                "email": "kupalex@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "",
-            "passFail": "",
-            "passPercent": "",
-            "min": "",
-            "max": "",
-            "average": "",
-            "median": ""
-        }
-    },
-    "201801": {
-        "Staff": [
-            {
-                "name": "קופרמן אלכסנדר",
-                "email": "kupalex@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "",
-            "passFail": "",
-            "passPercent": "",
-            "min": "",
-            "max": "",
-            "average": "",
-            "median": ""
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "קופרמן אלכסנדר",
-                "email": "kupalex@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
+        "Exam_A": {
+            "students": "28",
+            "passFail": "27\/1",
+            "passPercent": "96",
+            "min": "41",
+            "max": "99",
+            "average": "83.036",
+            "median": "84.5"
+        },
         "Final_A": {
             "students": "",
             "passFail": "",
@@ -143,23 +62,14 @@
             "median": ""
         }
     },
-    "202101": {
+    "201901": {
         "Staff": [
             {
-                "name": "פרס הרי לידיה",
-                "email": "lydia@technion.ac.il",
+                "name": "קופרמן אלכסנדר",
+                "email": "kupalex@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Exam_A": {
-            "students": "28",
-            "passFail": "27\/1",
-            "passPercent": "96",
-            "min": "41",
-            "max": "99",
-            "average": "83.036",
-            "median": "84.5"
-        },
         "Final_A": {
             "students": "",
             "passFail": "",
@@ -177,6 +87,96 @@
             "max": "",
             "average": "",
             "median": ""
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "קופרמן אלכסנדר",
+                "email": "kupalex@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "קופרמן אלכסנדר",
+                "email": "kupalex@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
+        }
+    },
+    "201601": {
+        "Staff": [
+            {
+                "name": "קופרמן אלכסנדר",
+                "email": "kupalex@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
+        }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "קופרמן אלכסנדר",
+                "email": "kupalex@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
+        }
+    },
+    "201401": {
+        "Staff": [
+            {
+                "name": "קופרמן אלכסנדר",
+                "email": "kupalex@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "29",
+            "passFail": "27\/2",
+            "passPercent": "93",
+            "min": "12",
+            "max": "100",
+            "average": "79.655",
+            "median": "86"
         }
     }
 }

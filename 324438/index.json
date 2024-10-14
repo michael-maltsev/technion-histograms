@@ -1,23 +1,5 @@
 {
-    "201402": {
-        "Staff": [
-            {
-                "name": "ישי גד",
-                "email": "gisay@research.haifa.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "52",
-            "passFail": "52\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "100",
-            "average": "92.038",
-            "median": "94"
-        }
-    },
-    "201501": {
+    "201702": {
         "Staff": [
             {
                 "name": "ישי גד",
@@ -26,22 +8,22 @@
             }
         ],
         "Final_A": {
-            "students": "69",
-            "passFail": "68\/1",
-            "passPercent": "99",
-            "min": "50",
+            "students": "47",
+            "passFail": "47\/0",
+            "passPercent": "100",
+            "min": "82",
             "max": "100",
-            "average": "85.029",
-            "median": "86"
+            "average": "91.915",
+            "median": "93"
         },
         "Finals": {
-            "students": "72",
-            "passFail": "71\/1",
-            "passPercent": "99",
-            "min": "50",
+            "students": "55",
+            "passFail": "55\/0",
+            "passPercent": "100",
+            "min": "78",
             "max": "100",
-            "average": "87.069",
-            "median": "88"
+            "average": "92.455",
+            "median": "93"
         }
     },
     "201502": {
@@ -73,7 +55,7 @@
             "median": "86"
         }
     },
-    "201702": {
+    "201501": {
         "Staff": [
             {
                 "name": "ישי גד",
@@ -82,22 +64,40 @@
             }
         ],
         "Final_A": {
-            "students": "47",
-            "passFail": "47\/0",
-            "passPercent": "100",
-            "min": "82",
+            "students": "69",
+            "passFail": "68\/1",
+            "passPercent": "99",
+            "min": "50",
             "max": "100",
-            "average": "91.915",
-            "median": "93"
+            "average": "85.029",
+            "median": "86"
         },
         "Finals": {
-            "students": "55",
-            "passFail": "55\/0",
-            "passPercent": "100",
-            "min": "78",
+            "students": "72",
+            "passFail": "71\/1",
+            "passPercent": "99",
+            "min": "50",
             "max": "100",
-            "average": "92.455",
-            "median": "93"
+            "average": "87.069",
+            "median": "88"
+        }
+    },
+    "201402": {
+        "Staff": [
+            {
+                "name": "ישי גד",
+                "email": "gisay@research.haifa.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "52",
+            "passFail": "52\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "92.038",
+            "median": "94"
         }
     }
 }

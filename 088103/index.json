@@ -1,22 +1,4 @@
 {
-    "201601": {
-        "Staff": [
-            {
-                "name": "פרנקל יצחק",
-                "email": "itzikf@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
-            "passPercent": "100",
-            "min": "65",
-            "max": "100",
-            "average": "87.7",
-            "median": "91.5"
-        }
-    },
     "202301": {
         "Staff": [
             {
@@ -56,6 +38,24 @@
             "max": "99",
             "average": "85",
             "median": "84"
+        }
+    },
+    "201601": {
+        "Staff": [
+            {
+                "name": "פרנקל יצחק",
+                "email": "itzikf@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "10",
+            "passFail": "10\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "87.7",
+            "median": "91.5"
         }
     }
 }

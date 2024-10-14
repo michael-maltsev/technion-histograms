@@ -1,5 +1,5 @@
 {
-    "201602": {
+    "201902": {
         "Staff": [
             {
                 "name": "משלי אורן",
@@ -8,42 +8,13 @@
             }
         ],
         "Finals": {
-            "students": "20",
-            "passFail": "20\/0",
+            "students": "27",
+            "passFail": "27\/0",
             "passPercent": "100",
-            "min": "83",
-            "max": "98",
-            "average": "92.4",
-            "median": "92"
-        }
-    },
-    "201801": {
-        "Finals": {
-            "students": "53",
-            "passFail": "53\/0",
-            "passPercent": "100",
-            "min": "58",
-            "max": "100",
-            "average": "90.151",
-            "median": "92"
-        }
-    },
-    "201802": {
-        "Staff": [
-            {
-                "name": "יהב ערן",
-                "email": "yahave@cs.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "35",
-            "passFail": "35\/0",
-            "passPercent": "100",
-            "min": "76",
-            "max": "100",
-            "average": "87.743",
-            "median": "87"
+            "min": "82",
+            "max": "97",
+            "average": "89.889",
+            "median": "90"
         }
     },
     "201901": {
@@ -64,7 +35,36 @@
             "median": "88"
         }
     },
-    "201902": {
+    "201802": {
+        "Staff": [
+            {
+                "name": "יהב ערן",
+                "email": "yahave@cs.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "35",
+            "passFail": "35\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "100",
+            "average": "87.743",
+            "median": "87"
+        }
+    },
+    "201801": {
+        "Finals": {
+            "students": "53",
+            "passFail": "53\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "100",
+            "average": "90.151",
+            "median": "92"
+        }
+    },
+    "201602": {
         "Staff": [
             {
                 "name": "משלי אורן",
@@ -73,13 +73,13 @@
             }
         ],
         "Finals": {
-            "students": "27",
-            "passFail": "27\/0",
+            "students": "20",
+            "passFail": "20\/0",
             "passPercent": "100",
-            "min": "82",
-            "max": "97",
-            "average": "89.889",
-            "median": "90"
+            "min": "83",
+            "max": "98",
+            "average": "92.4",
+            "median": "92"
         }
     }
 }

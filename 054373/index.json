@@ -1,4 +1,40 @@
 {
+    "202202": {
+        "Staff": [
+            {
+                "name": "צור יועד",
+                "email": "tsur@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "78",
+            "max": "96",
+            "average": "89",
+            "median": "90"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "צור יועד",
+                "email": "tsur@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "72.933",
+            "median": "69"
+        }
+    },
     "201601": {
         "Staff": [
             {
@@ -24,42 +60,6 @@
             "max": "100",
             "average": "82.957",
             "median": "82"
-        }
-    },
-    "201801": {
-        "Staff": [
-            {
-                "name": "צור יועד",
-                "email": "tsur@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "100",
-            "average": "72.933",
-            "median": "69"
-        }
-    },
-    "202202": {
-        "Staff": [
-            {
-                "name": "צור יועד",
-                "email": "tsur@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "78",
-            "max": "96",
-            "average": "89",
-            "median": "90"
         }
     }
 }

@@ -1,101 +1,61 @@
 {
-    "201702": {
+    "202102": {
         "Staff": [
             {
                 "name": "פוקס אהרון-רון",
                 "email": "ronhaifauni@gmail.com,arfuchs@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "62",
-            "passFail": "51\/11",
-            "passPercent": "82",
-            "min": "22",
-            "max": "100",
-            "average": "73.274",
-            "median": "74"
-        },
-        "Final_B": {
-            "students": "44",
-            "passFail": "33\/11",
-            "passPercent": "75",
-            "min": "11",
-            "max": "97",
-            "average": "70.068",
-            "median": "75"
-        },
-        "Finals": {
-            "students": "75",
-            "passFail": "64\/11",
-            "passPercent": "85",
-            "min": "11",
-            "max": "100",
-            "average": "77.76",
-            "median": "83"
-        }
-    },
-    "201802": {
-        "Staff": [
+            },
             {
-                "name": "פוקס אהרון-רון",
-                "email": "ronhaifauni@gmail.com,arfuchs@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "name": "אוריון יואב",
+                "email": "yoav.orion@campus.technion.ac.il",
+                "title": "מרצה"
             }
         ],
-        "Final_A": {
-            "students": "73",
-            "passFail": "56\/17",
-            "passPercent": "77",
-            "min": "22.857",
-            "max": "100",
-            "average": "70.444",
-            "median": "73.333"
-        },
-        "Final_B": {
-            "students": "37",
-            "passFail": "33\/4",
-            "passPercent": "89",
-            "min": "21",
-            "max": "96",
-            "average": "72.784",
-            "median": "76"
-        },
-        "Finals": {
-            "students": "82",
-            "passFail": "78\/4",
-            "passPercent": "95",
-            "min": "21",
-            "max": "100",
-            "average": "78.72",
-            "median": "82"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "פוקס אהרון-רון",
-                "email": "ronhaifauni@gmail.com,arfuchs@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "76",
-            "passFail": "75\/1",
-            "passPercent": "99",
-            "min": "38",
-            "max": "100",
-            "average": "89.289",
-            "median": "93"
-        },
-        "Finals": {
-            "students": "79",
-            "passFail": "79\/0",
+        "Exam_A": {
+            "students": "64",
+            "passFail": "64\/0",
             "passPercent": "100",
-            "min": "58",
+            "min": "60",
             "max": "100",
-            "average": "89.722",
-            "median": "92"
+            "average": "87.258",
+            "median": "90"
+        },
+        "Final_A": {
+            "students": "66",
+            "passFail": "64\/2",
+            "passPercent": "97",
+            "min": "0",
+            "max": "100",
+            "average": "85.394",
+            "median": "90.5"
+        },
+        "Exam_B": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "50.526",
+            "max": "95.263",
+            "average": "83.403",
+            "median": "86.316"
+        },
+        "Final_B": {
+            "students": "17",
+            "passFail": "16\/1",
+            "passPercent": "94",
+            "min": "52",
+            "max": "96",
+            "average": "83.647",
+            "median": "91"
+        },
+        "Finals": {
+            "students": "72",
+            "passFail": "71\/1",
+            "passPercent": "99",
+            "min": "52",
+            "max": "100",
+            "average": "88.653",
+            "median": "91"
         }
     },
     "202002": {
@@ -157,63 +117,103 @@
             "median": "87.5"
         }
     },
-    "202102": {
+    "201902": {
         "Staff": [
             {
                 "name": "פוקס אהרון-רון",
                 "email": "ronhaifauni@gmail.com,arfuchs@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "אוריון יואב",
-                "email": "yoav.orion@campus.technion.ac.il",
-                "title": "מרצה"
             }
         ],
-        "Exam_A": {
-            "students": "64",
-            "passFail": "64\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "100",
-            "average": "87.258",
-            "median": "90"
-        },
         "Final_A": {
-            "students": "66",
-            "passFail": "64\/2",
-            "passPercent": "97",
-            "min": "0",
+            "students": "76",
+            "passFail": "75\/1",
+            "passPercent": "99",
+            "min": "38",
             "max": "100",
-            "average": "85.394",
-            "median": "90.5"
-        },
-        "Exam_B": {
-            "students": "15",
-            "passFail": "14\/1",
-            "passPercent": "93",
-            "min": "50.526",
-            "max": "95.263",
-            "average": "83.403",
-            "median": "86.316"
-        },
-        "Final_B": {
-            "students": "17",
-            "passFail": "16\/1",
-            "passPercent": "94",
-            "min": "52",
-            "max": "96",
-            "average": "83.647",
-            "median": "91"
+            "average": "89.289",
+            "median": "93"
         },
         "Finals": {
-            "students": "72",
-            "passFail": "71\/1",
-            "passPercent": "99",
-            "min": "52",
+            "students": "79",
+            "passFail": "79\/0",
+            "passPercent": "100",
+            "min": "58",
             "max": "100",
-            "average": "88.653",
-            "median": "91"
+            "average": "89.722",
+            "median": "92"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "פוקס אהרון-רון",
+                "email": "ronhaifauni@gmail.com,arfuchs@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "73",
+            "passFail": "56\/17",
+            "passPercent": "77",
+            "min": "22.857",
+            "max": "100",
+            "average": "70.444",
+            "median": "73.333"
+        },
+        "Final_B": {
+            "students": "37",
+            "passFail": "33\/4",
+            "passPercent": "89",
+            "min": "21",
+            "max": "96",
+            "average": "72.784",
+            "median": "76"
+        },
+        "Finals": {
+            "students": "82",
+            "passFail": "78\/4",
+            "passPercent": "95",
+            "min": "21",
+            "max": "100",
+            "average": "78.72",
+            "median": "82"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "פוקס אהרון-רון",
+                "email": "ronhaifauni@gmail.com,arfuchs@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "62",
+            "passFail": "51\/11",
+            "passPercent": "82",
+            "min": "22",
+            "max": "100",
+            "average": "73.274",
+            "median": "74"
+        },
+        "Final_B": {
+            "students": "44",
+            "passFail": "33\/11",
+            "passPercent": "75",
+            "min": "11",
+            "max": "97",
+            "average": "70.068",
+            "median": "75"
+        },
+        "Finals": {
+            "students": "75",
+            "passFail": "64\/11",
+            "passPercent": "85",
+            "min": "11",
+            "max": "100",
+            "average": "77.76",
+            "median": "83"
         }
     }
 }

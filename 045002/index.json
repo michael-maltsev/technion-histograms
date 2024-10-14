@@ -1,66 +1,34 @@
 {
-    "202001": {
+    "202301": {
         "Staff": [
-            {
-                "name": "משה יאיר",
-                "email": "yair@ee.technion.ac.il,myair@technion.ac.il",
-                "title": "מתרגל"
-            },
             {
                 "name": "קולודני אבינועם",
                 "email": "kolodny@ee.technion.ac.il,kolodny@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "",
-            "passFail": "",
-            "passPercent": "",
-            "min": "",
-            "max": "",
-            "average": "",
-            "median": ""
-        },
-        "Finals": {
-            "students": "",
-            "passFail": "",
-            "passPercent": "",
-            "min": "",
-            "max": "",
-            "average": "",
-            "median": ""
-        }
-    },
-    "202101": {
-        "Staff": [
+            },
             {
                 "name": "משה יאיר",
                 "email": "yair@ee.technion.ac.il,myair@technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "קולודני אבינועם",
-                "email": "kolodny@ee.technion.ac.il,kolodny@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "title": "מרצה"
             }
         ],
         "Final_A": {
-            "students": "",
-            "passFail": "",
-            "passPercent": "",
-            "min": "",
-            "max": "",
-            "average": "",
-            "median": ""
+            "students": "154",
+            "passFail": "153\/1",
+            "passPercent": "99",
+            "min": "42",
+            "max": "100",
+            "average": "94.701",
+            "median": "98"
         },
         "Finals": {
-            "students": "",
-            "passFail": "",
-            "passPercent": "",
-            "min": "",
-            "max": "",
-            "average": "",
-            "median": ""
+            "students": "154",
+            "passFail": "153\/1",
+            "passPercent": "99",
+            "min": "42",
+            "max": "100",
+            "average": "94.701",
+            "median": "98"
         }
     },
     "202201": {
@@ -95,36 +63,68 @@
             "median": "96"
         }
     },
-    "202301": {
+    "202101": {
         "Staff": [
+            {
+                "name": "משה יאיר",
+                "email": "yair@ee.technion.ac.il,myair@technion.ac.il",
+                "title": "מתרגל"
+            },
             {
                 "name": "קולודני אבינועם",
                 "email": "kolodny@ee.technion.ac.il,kolodny@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "משה יאיר",
-                "email": "yair@ee.technion.ac.il,myair@technion.ac.il",
-                "title": "מרצה"
             }
         ],
         "Final_A": {
-            "students": "154",
-            "passFail": "153\/1",
-            "passPercent": "99",
-            "min": "42",
-            "max": "100",
-            "average": "94.701",
-            "median": "98"
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
         },
         "Finals": {
-            "students": "154",
-            "passFail": "153\/1",
-            "passPercent": "99",
-            "min": "42",
-            "max": "100",
-            "average": "94.701",
-            "median": "98"
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
+        }
+    },
+    "202001": {
+        "Staff": [
+            {
+                "name": "משה יאיר",
+                "email": "yair@ee.technion.ac.il,myair@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קולודני אבינועם",
+                "email": "kolodny@ee.technion.ac.il,kolodny@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
+        },
+        "Finals": {
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
         }
     }
 }

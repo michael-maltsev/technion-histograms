@@ -1,5 +1,5 @@
 {
-    "201601": {
+    "202101": {
         "Staff": [
             {
                 "name": "ברנדון שמעון",
@@ -8,130 +8,31 @@
             }
         ],
         "Final_A": {
-            "students": "89",
-            "passFail": "84\/5",
-            "passPercent": "94",
-            "min": "54",
-            "max": "97",
-            "average": "78.135",
-            "median": "79"
-        },
-        "Finals": {
-            "students": "95",
-            "passFail": "90\/5",
-            "passPercent": "95",
-            "min": "50",
-            "max": "97",
-            "average": "78.832",
-            "median": "79"
-        }
-    },
-    "201701": {
-        "Staff": [
-            {
-                "name": "ברנדון שמעון",
-                "email": "cersbsb@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "61",
-            "passFail": "58\/3",
-            "passPercent": "95",
-            "min": "45.647",
-            "max": "97.549",
-            "average": "78.55",
-            "median": "80.503"
-        },
-        "Final_B": {
-            "students": "17",
-            "passFail": "17\/0",
+            "students": "51",
+            "passFail": "51\/0",
             "passPercent": "100",
-            "min": "65",
-            "max": "91.758",
-            "average": "75.637",
-            "median": "75.804"
+            "min": "61.983",
+            "max": "95.112",
+            "average": "82.824",
+            "median": "84"
         },
-        "Finals": {
-            "students": "65",
-            "passFail": "65\/0",
+        "Final_B": {
+            "students": "11",
+            "passFail": "11\/0",
             "passPercent": "100",
-            "min": "65",
-            "max": "98",
-            "average": "79.954",
-            "median": "81"
-        }
-    },
-    "201801": {
-        "Staff": [
-            {
-                "name": "ברנדון שמעון",
-                "email": "cersbsb@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "42",
-            "passFail": "41\/1",
-            "passPercent": "98",
-            "min": "42.572",
-            "max": "88.585",
-            "average": "77.01",
-            "median": "78.6725"
-        },
-        "Final_B": {
-            "students": "18",
-            "passFail": "17\/1",
-            "passPercent": "94",
-            "min": "48.564",
-            "max": "88.356",
-            "average": "75.875",
-            "median": "76.4875"
+            "min": "68.593",
+            "max": "93.98",
+            "average": "78.034",
+            "median": "75.65"
         },
         "Finals": {
-            "students": "54",
-            "passFail": "53\/1",
-            "passPercent": "98",
-            "min": "49",
-            "max": "89",
-            "average": "77.5",
-            "median": "79"
-        }
-    },
-    "201901": {
-        "Staff": [
-            {
-                "name": "ברנדון שמעון",
-                "email": "cersbsb@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "43",
-            "passFail": "36\/7",
-            "passPercent": "84",
-            "min": "51",
-            "max": "96.953",
-            "average": "74.22",
-            "median": "75.473"
-        },
-        "Final_B": {
-            "students": "13",
-            "passFail": "12\/1",
-            "passPercent": "92",
-            "min": "54",
-            "max": "95.523",
-            "average": "72.658",
-            "median": "70.833"
-        },
-        "Finals": {
-            "students": "48",
-            "passFail": "48\/0",
+            "students": "60",
+            "passFail": "60\/0",
             "passPercent": "100",
             "min": "61",
-            "max": "98",
-            "average": "77.646",
-            "median": "78"
+            "max": "95",
+            "average": "81.733",
+            "median": "83.5"
         }
     },
     "202001": {
@@ -175,7 +76,7 @@
             "median": "82"
         }
     },
-    "202101": {
+    "201901": {
         "Staff": [
             {
                 "name": "ברנדון שמעון",
@@ -184,31 +85,130 @@
             }
         ],
         "Final_A": {
-            "students": "51",
-            "passFail": "51\/0",
-            "passPercent": "100",
-            "min": "61.983",
-            "max": "95.112",
-            "average": "82.824",
-            "median": "84"
+            "students": "43",
+            "passFail": "36\/7",
+            "passPercent": "84",
+            "min": "51",
+            "max": "96.953",
+            "average": "74.22",
+            "median": "75.473"
         },
         "Final_B": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "68.593",
-            "max": "93.98",
-            "average": "78.034",
-            "median": "75.65"
+            "students": "13",
+            "passFail": "12\/1",
+            "passPercent": "92",
+            "min": "54",
+            "max": "95.523",
+            "average": "72.658",
+            "median": "70.833"
         },
         "Finals": {
-            "students": "60",
-            "passFail": "60\/0",
+            "students": "48",
+            "passFail": "48\/0",
             "passPercent": "100",
             "min": "61",
-            "max": "95",
-            "average": "81.733",
-            "median": "83.5"
+            "max": "98",
+            "average": "77.646",
+            "median": "78"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "ברנדון שמעון",
+                "email": "cersbsb@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "42",
+            "passFail": "41\/1",
+            "passPercent": "98",
+            "min": "42.572",
+            "max": "88.585",
+            "average": "77.01",
+            "median": "78.6725"
+        },
+        "Final_B": {
+            "students": "18",
+            "passFail": "17\/1",
+            "passPercent": "94",
+            "min": "48.564",
+            "max": "88.356",
+            "average": "75.875",
+            "median": "76.4875"
+        },
+        "Finals": {
+            "students": "54",
+            "passFail": "53\/1",
+            "passPercent": "98",
+            "min": "49",
+            "max": "89",
+            "average": "77.5",
+            "median": "79"
+        }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "ברנדון שמעון",
+                "email": "cersbsb@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "61",
+            "passFail": "58\/3",
+            "passPercent": "95",
+            "min": "45.647",
+            "max": "97.549",
+            "average": "78.55",
+            "median": "80.503"
+        },
+        "Final_B": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "91.758",
+            "average": "75.637",
+            "median": "75.804"
+        },
+        "Finals": {
+            "students": "65",
+            "passFail": "65\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "98",
+            "average": "79.954",
+            "median": "81"
+        }
+    },
+    "201601": {
+        "Staff": [
+            {
+                "name": "ברנדון שמעון",
+                "email": "cersbsb@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "89",
+            "passFail": "84\/5",
+            "passPercent": "94",
+            "min": "54",
+            "max": "97",
+            "average": "78.135",
+            "median": "79"
+        },
+        "Finals": {
+            "students": "95",
+            "passFail": "90\/5",
+            "passPercent": "95",
+            "min": "50",
+            "max": "97",
+            "average": "78.832",
+            "median": "79"
         }
     }
 }

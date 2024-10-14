@@ -1,5 +1,41 @@
 {
-    "201702": {
+    "202102": {
+        "Staff": [
+            {
+                "name": "ביאנקו-פלד חבצלת",
+                "email": "bianco@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "41",
+            "passFail": "40\/1",
+            "passPercent": "98",
+            "min": "45",
+            "max": "97",
+            "average": "79.195",
+            "median": "79"
+        },
+        "Final_A": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "100",
+            "average": "87.098",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "46",
+            "passFail": "46\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "100",
+            "average": "86.804",
+            "median": "86.5"
+        }
+    },
+    "202002": {
         "Staff": [
             {
                 "name": "ביאנקו-פלד חבצלת",
@@ -7,37 +43,73 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "אליהו שקד",
-                "email": "jayd33.shaked@gmail.com,shaked@campus.technion.ac.il",
+                "name": "דלמר קרן",
+                "email": "delkeren@technion.ac.il,delkeren@campus.technion.ac.il",
                 "title": "מרצה"
             }
         ],
         "Exam_A": {
-            "students": "45",
-            "passFail": "44\/1",
-            "passPercent": "98",
-            "min": "33",
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "66",
             "max": "100",
-            "average": "82.111",
-            "median": "84"
+            "average": "87.111",
+            "median": "88"
         },
         "Final_A": {
-            "students": "45",
-            "passFail": "44\/1",
-            "passPercent": "98",
-            "min": "45.956",
-            "max": "100.4",
-            "average": "86.755",
-            "median": "88.8"
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "89.778",
+            "median": "91"
         },
         "Finals": {
-            "students": "52",
-            "passFail": "52\/0",
+            "students": "24",
+            "passFail": "24\/0",
             "passPercent": "100",
-            "min": "65",
+            "min": "74",
             "max": "100",
-            "average": "87.385",
-            "median": "89"
+            "average": "89.583",
+            "median": "89.5"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "ביאנקו-פלד חבצלת",
+                "email": "bianco@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "30",
+            "passFail": "24\/6",
+            "passPercent": "80",
+            "min": "9",
+            "max": "94",
+            "average": "71.833",
+            "median": "77"
+        },
+        "Final_A": {
+            "students": "30",
+            "passFail": "28\/2",
+            "passPercent": "93",
+            "min": "27.675",
+            "max": "100",
+            "average": "80.985",
+            "median": "85.153"
+        },
+        "Finals": {
+            "students": "33",
+            "passFail": "32\/1",
+            "passPercent": "97",
+            "min": "41",
+            "max": "100",
+            "average": "85.758",
+            "median": "87"
         }
     },
     "201802": {
@@ -86,43 +158,7 @@
             "median": "90"
         }
     },
-    "201902": {
-        "Staff": [
-            {
-                "name": "ביאנקו-פלד חבצלת",
-                "email": "bianco@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Exam_A": {
-            "students": "30",
-            "passFail": "24\/6",
-            "passPercent": "80",
-            "min": "9",
-            "max": "94",
-            "average": "71.833",
-            "median": "77"
-        },
-        "Final_A": {
-            "students": "30",
-            "passFail": "28\/2",
-            "passPercent": "93",
-            "min": "27.675",
-            "max": "100",
-            "average": "80.985",
-            "median": "85.153"
-        },
-        "Finals": {
-            "students": "33",
-            "passFail": "32\/1",
-            "passPercent": "97",
-            "min": "41",
-            "max": "100",
-            "average": "85.758",
-            "median": "87"
-        }
-    },
-    "202002": {
+    "201702": {
         "Staff": [
             {
                 "name": "ביאנקו-פלד חבצלת",
@@ -130,73 +166,37 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "דלמר קרן",
-                "email": "delkeren@technion.ac.il,delkeren@campus.technion.ac.il",
+                "name": "אליהו שקד",
+                "email": "jayd33.shaked@gmail.com,shaked@campus.technion.ac.il",
                 "title": "מרצה"
             }
         ],
         "Exam_A": {
-            "students": "18",
-            "passFail": "18\/0",
-            "passPercent": "100",
-            "min": "66",
-            "max": "100",
-            "average": "87.111",
-            "median": "88"
-        },
-        "Final_A": {
-            "students": "18",
-            "passFail": "18\/0",
-            "passPercent": "100",
-            "min": "68",
-            "max": "100",
-            "average": "89.778",
-            "median": "91"
-        },
-        "Finals": {
-            "students": "24",
-            "passFail": "24\/0",
-            "passPercent": "100",
-            "min": "74",
-            "max": "100",
-            "average": "89.583",
-            "median": "89.5"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "ביאנקו-פלד חבצלת",
-                "email": "bianco@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Exam_A": {
-            "students": "41",
-            "passFail": "40\/1",
+            "students": "45",
+            "passFail": "44\/1",
             "passPercent": "98",
-            "min": "45",
-            "max": "97",
-            "average": "79.195",
-            "median": "79"
+            "min": "33",
+            "max": "100",
+            "average": "82.111",
+            "median": "84"
         },
         "Final_A": {
-            "students": "41",
-            "passFail": "41\/0",
-            "passPercent": "100",
-            "min": "59",
-            "max": "100",
-            "average": "87.098",
-            "median": "87"
+            "students": "45",
+            "passFail": "44\/1",
+            "passPercent": "98",
+            "min": "45.956",
+            "max": "100.4",
+            "average": "86.755",
+            "median": "88.8"
         },
         "Finals": {
-            "students": "46",
-            "passFail": "46\/0",
+            "students": "52",
+            "passFail": "52\/0",
             "passPercent": "100",
-            "min": "58",
+            "min": "65",
             "max": "100",
-            "average": "86.804",
-            "median": "86.5"
+            "average": "87.385",
+            "median": "89"
         }
     }
 }

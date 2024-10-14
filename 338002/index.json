@@ -1,5 +1,5 @@
 {
-    "202001": {
+    "202201": {
         "Staff": [
             {
                 "name": "בהר ג'ואקים",
@@ -7,28 +7,28 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "סגל סופיה",
-                "email": "sofi890@campus.technion.ac.il",
+                "name": "פישר אליענה",
+                "email": "selianaf@campus.technion.ac.il",
                 "title": "מרצה"
             }
         ],
         "Final_A": {
-            "students": "24",
-            "passFail": "24\/0",
-            "passPercent": "100",
-            "min": "86",
-            "max": "99",
-            "average": "94.208",
-            "median": "93.5"
-        },
-        "Finals": {
-            "students": "24",
-            "passFail": "24\/0",
+            "students": "29",
+            "passFail": "29\/0",
             "passPercent": "100",
             "min": "90",
-            "max": "99",
-            "average": "95.375",
-            "median": "95"
+            "max": "97",
+            "average": "93.655",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "97",
+            "average": "93.655",
+            "median": "94"
         }
     },
     "202101": {
@@ -63,7 +63,7 @@
             "median": "96"
         }
     },
-    "202201": {
+    "202001": {
         "Staff": [
             {
                 "name": "בהר ג'ואקים",
@@ -71,28 +71,28 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "פישר אליענה",
-                "email": "selianaf@campus.technion.ac.il",
+                "name": "סגל סופיה",
+                "email": "sofi890@campus.technion.ac.il",
                 "title": "מרצה"
             }
         ],
         "Final_A": {
-            "students": "29",
-            "passFail": "29\/0",
+            "students": "24",
+            "passFail": "24\/0",
             "passPercent": "100",
-            "min": "90",
-            "max": "97",
-            "average": "93.655",
-            "median": "94"
+            "min": "86",
+            "max": "99",
+            "average": "94.208",
+            "median": "93.5"
         },
         "Finals": {
-            "students": "29",
-            "passFail": "29\/0",
+            "students": "24",
+            "passFail": "24\/0",
             "passPercent": "100",
             "min": "90",
-            "max": "97",
-            "average": "93.655",
-            "median": "94"
+            "max": "99",
+            "average": "95.375",
+            "median": "95"
         }
     }
 }

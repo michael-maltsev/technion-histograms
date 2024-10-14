@@ -1,74 +1,5 @@
 {
-    "201702": {
-        "Staff": [
-            {
-                "name": "סגל אסתר",
-                "email": "esegal@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "שגן אלונה",
-                "email": "salonas@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "שרבל זהראן",
-                "email": "sharbel.z@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "פרינץ סתר עופר",
-                "email": "ofer.afr@gmail.com,oferp@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Exam_A": {
-            "students": "64",
-            "passFail": "55\/9",
-            "passPercent": "86",
-            "min": "31",
-            "max": "105",
-            "average": "73.688",
-            "median": "73.75"
-        },
-        "Final_A": {
-            "students": "64",
-            "passFail": "56\/8",
-            "passPercent": "88",
-            "min": "31",
-            "max": "100",
-            "average": "75.984",
-            "median": "76.5"
-        },
-        "Exam_B": {
-            "students": "19",
-            "passFail": "15\/4",
-            "passPercent": "79",
-            "min": "34",
-            "max": "95",
-            "average": "68.868",
-            "median": "68"
-        },
-        "Final_B": {
-            "students": "19",
-            "passFail": "16\/3",
-            "passPercent": "84",
-            "min": "34",
-            "max": "95",
-            "average": "70.474",
-            "median": "72"
-        },
-        "Finals": {
-            "students": "75",
-            "passFail": "72\/3",
-            "passPercent": "96",
-            "min": "34",
-            "max": "100",
-            "average": "78",
-            "median": "77"
-        }
-    },
-    "201802": {
+    "202302": {
         "Staff": [
             {
                 "name": "סגל אסתר",
@@ -81,218 +12,47 @@
                 "title": "מרצה"
             },
             {
-                "name": "פרינץ סתר עופר",
-                "email": "ofer.afr@gmail.com,oferp@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "שגן אלונה",
-                "email": "salonas@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "לוי רחל",
-                "email": "rachel447@campus.technion.ac.il",
-                "title": "מתרגל"
-            }
-        ],
-        "Exam_A": {
-            "students": "54",
-            "passFail": "54\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "97",
-            "average": "80.296",
-            "median": "83"
-        },
-        "Final_A": {
-            "students": "54",
-            "passFail": "54\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "97",
-            "average": "82.963",
-            "median": "85"
-        },
-        "Finals": {
-            "students": "63",
-            "passFail": "63\/0",
-            "passPercent": "100",
-            "min": "55",
-            "max": "97",
-            "average": "81.762",
-            "median": "85"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "סגל אסתר",
-                "email": "esegal@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "דוידוביץ-פנח מאיה",
-                "email": "dmaya@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "שגן אלונה",
-                "email": "salonas@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "פרינץ סתר עופר",
-                "email": "ofer.afr@gmail.com,oferp@campus.technion.ac.il",
-                "title": "מתרגל"
-            }
-        ],
-        "Exam_A": {
-            "students": "41",
-            "passFail": "40\/1",
-            "passPercent": "98",
-            "min": "49",
-            "max": "97",
-            "average": "76.122",
-            "median": "77"
-        },
-        "Final_A": {
-            "students": "41",
-            "passFail": "41\/0",
-            "passPercent": "100",
-            "min": "56",
-            "max": "97",
-            "average": "79.293",
-            "median": "80"
-        },
-        "Exam_B": {
-            "students": "17",
-            "passFail": "15\/2",
-            "passPercent": "88",
-            "min": "36",
-            "max": "96",
-            "average": "72.353",
-            "median": "74"
-        },
-        "Final_B": {
-            "students": "17",
-            "passFail": "15\/2",
-            "passPercent": "88",
-            "min": "36",
-            "max": "96",
-            "average": "74.941",
-            "median": "77"
-        },
-        "Finals": {
-            "students": "53",
-            "passFail": "51\/2",
-            "passPercent": "96",
-            "min": "36",
-            "max": "97",
-            "average": "78.868",
-            "median": "80"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "סגל אסתר",
-                "email": "esegal@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "דוידוביץ-פנח מאיה",
-                "email": "dmaya@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "פרינץ סתר עופר",
-                "email": "ofer.afr@gmail.com,oferp@campus.technion.ac.il",
-                "title": "מתרגל"
+                "name": "משיח ליחן",
+                "email": "leehen@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "שמעוני נטע",
                 "email": "netashimony@campus.technion.ac.il",
-                "title": "מתרגל"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שלם עדי",
+                "email": "adi-shalem@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
-            "students": "28",
-            "passFail": "27\/1",
-            "passPercent": "96",
-            "min": "50",
-            "max": "94",
-            "average": "80.321",
-            "median": "82"
+            "students": "55",
+            "passFail": "48\/7",
+            "passPercent": "87",
+            "min": "27",
+            "max": "96",
+            "average": "74.182",
+            "median": "75"
         },
         "Final_A": {
-            "students": "28",
-            "passFail": "27\/1",
-            "passPercent": "96",
-            "min": "50",
-            "max": "95",
-            "average": "82.679",
-            "median": "84"
+            "students": "55",
+            "passFail": "49\/6",
+            "passPercent": "89",
+            "min": "27",
+            "max": "96",
+            "average": "76.727",
+            "median": "78"
         },
         "Finals": {
-            "students": "35",
-            "passFail": "33\/2",
-            "passPercent": "94",
-            "min": "31",
-            "max": "95",
-            "average": "78.2",
-            "median": "82"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "סגל אסתר",
-                "email": "esegal@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "דוידוביץ-פנח מאיה",
-                "email": "dmaya@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "שמעוני נטע",
-                "email": "netashimony@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "פרינץ סתר עופר",
-                "email": "ofer.afr@gmail.com,oferp@campus.technion.ac.il",
-                "title": "מתרגל"
-            }
-        ],
-        "Exam_A": {
-            "students": "40",
-            "passFail": "38\/2",
-            "passPercent": "95",
-            "min": "33",
-            "max": "100",
-            "average": "80.775",
-            "median": "85"
-        },
-        "Final_A": {
-            "students": "40",
-            "passFail": "38\/2",
-            "passPercent": "95",
-            "min": "39",
-            "max": "100",
-            "average": "83.725",
-            "median": "87.5"
-        },
-        "Finals": {
-            "students": "43",
-            "passFail": "42\/1",
-            "passPercent": "98",
-            "min": "39",
-            "max": "100",
-            "average": "83",
-            "median": "85"
+            "students": "55",
+            "passFail": "49\/6",
+            "passPercent": "89",
+            "min": "27",
+            "max": "96",
+            "average": "76.727",
+            "median": "78"
         }
     },
     "202202": {
@@ -364,7 +124,7 @@
             "median": "84.5"
         }
     },
-    "202302": {
+    "202102": {
         "Staff": [
             {
                 "name": "סגל אסתר",
@@ -377,47 +137,287 @@
                 "title": "מרצה"
             },
             {
-                "name": "משיח ליחן",
-                "email": "leehen@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
+                "name": "שמעוני נטע",
+                "email": "netashimony@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פרינץ סתר עופר",
+                "email": "ofer.afr@gmail.com,oferp@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "40",
+            "passFail": "38\/2",
+            "passPercent": "95",
+            "min": "33",
+            "max": "100",
+            "average": "80.775",
+            "median": "85"
+        },
+        "Final_A": {
+            "students": "40",
+            "passFail": "38\/2",
+            "passPercent": "95",
+            "min": "39",
+            "max": "100",
+            "average": "83.725",
+            "median": "87.5"
+        },
+        "Finals": {
+            "students": "43",
+            "passFail": "42\/1",
+            "passPercent": "98",
+            "min": "39",
+            "max": "100",
+            "average": "83",
+            "median": "85"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "סגל אסתר",
+                "email": "esegal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דוידוביץ-פנח מאיה",
+                "email": "dmaya@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "פרינץ סתר עופר",
+                "email": "ofer.afr@gmail.com,oferp@campus.technion.ac.il",
+                "title": "מתרגל"
             },
             {
                 "name": "שמעוני נטע",
                 "email": "netashimony@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "28",
+            "passFail": "27\/1",
+            "passPercent": "96",
+            "min": "50",
+            "max": "94",
+            "average": "80.321",
+            "median": "82"
+        },
+        "Final_A": {
+            "students": "28",
+            "passFail": "27\/1",
+            "passPercent": "96",
+            "min": "50",
+            "max": "95",
+            "average": "82.679",
+            "median": "84"
+        },
+        "Finals": {
+            "students": "35",
+            "passFail": "33\/2",
+            "passPercent": "94",
+            "min": "31",
+            "max": "95",
+            "average": "78.2",
+            "median": "82"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "סגל אסתר",
+                "email": "esegal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דוידוביץ-פנח מאיה",
+                "email": "dmaya@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "שגן אלונה",
+                "email": "salonas@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פרינץ סתר עופר",
+                "email": "ofer.afr@gmail.com,oferp@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "41",
+            "passFail": "40\/1",
+            "passPercent": "98",
+            "min": "49",
+            "max": "97",
+            "average": "76.122",
+            "median": "77"
+        },
+        "Final_A": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "97",
+            "average": "79.293",
+            "median": "80"
+        },
+        "Exam_B": {
+            "students": "17",
+            "passFail": "15\/2",
+            "passPercent": "88",
+            "min": "36",
+            "max": "96",
+            "average": "72.353",
+            "median": "74"
+        },
+        "Final_B": {
+            "students": "17",
+            "passFail": "15\/2",
+            "passPercent": "88",
+            "min": "36",
+            "max": "96",
+            "average": "74.941",
+            "median": "77"
+        },
+        "Finals": {
+            "students": "53",
+            "passFail": "51\/2",
+            "passPercent": "96",
+            "min": "36",
+            "max": "97",
+            "average": "78.868",
+            "median": "80"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "סגל אסתר",
+                "email": "esegal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דוידוביץ-פנח מאיה",
+                "email": "dmaya@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "פרינץ סתר עופר",
+                "email": "ofer.afr@gmail.com,oferp@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שגן אלונה",
+                "email": "salonas@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "לוי רחל",
+                "email": "rachel447@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "54",
+            "passFail": "54\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "97",
+            "average": "80.296",
+            "median": "83"
+        },
+        "Final_A": {
+            "students": "54",
+            "passFail": "54\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "97",
+            "average": "82.963",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "63",
+            "passFail": "63\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "97",
+            "average": "81.762",
+            "median": "85"
+        }
+    },
+    "201702": {
+        "Staff": [
+            {
+                "name": "סגל אסתר",
+                "email": "esegal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שגן אלונה",
+                "email": "salonas@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "שלם עדי",
-                "email": "adi-shalem@campus.technion.ac.il",
+                "name": "שרבל זהראן",
+                "email": "sharbel.z@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "פרינץ סתר עופר",
+                "email": "ofer.afr@gmail.com,oferp@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
-            "students": "55",
-            "passFail": "48\/7",
-            "passPercent": "87",
-            "min": "27",
-            "max": "96",
-            "average": "74.182",
-            "median": "75"
+            "students": "64",
+            "passFail": "55\/9",
+            "passPercent": "86",
+            "min": "31",
+            "max": "105",
+            "average": "73.688",
+            "median": "73.75"
         },
         "Final_A": {
-            "students": "55",
-            "passFail": "49\/6",
-            "passPercent": "89",
-            "min": "27",
-            "max": "96",
-            "average": "76.727",
-            "median": "78"
+            "students": "64",
+            "passFail": "56\/8",
+            "passPercent": "88",
+            "min": "31",
+            "max": "100",
+            "average": "75.984",
+            "median": "76.5"
+        },
+        "Exam_B": {
+            "students": "19",
+            "passFail": "15\/4",
+            "passPercent": "79",
+            "min": "34",
+            "max": "95",
+            "average": "68.868",
+            "median": "68"
+        },
+        "Final_B": {
+            "students": "19",
+            "passFail": "16\/3",
+            "passPercent": "84",
+            "min": "34",
+            "max": "95",
+            "average": "70.474",
+            "median": "72"
         },
         "Finals": {
-            "students": "55",
-            "passFail": "49\/6",
-            "passPercent": "89",
-            "min": "27",
-            "max": "96",
-            "average": "76.727",
-            "median": "78"
+            "students": "75",
+            "passFail": "72\/3",
+            "passPercent": "96",
+            "min": "34",
+            "max": "100",
+            "average": "78",
+            "median": "77"
         }
     }
 }

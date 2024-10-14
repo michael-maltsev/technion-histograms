@@ -1,4 +1,31 @@
 {
+    "202301": {
+        "Staff": [
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "82",
+            "max": "95",
+            "average": "90.833",
+            "median": "92.5"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "82",
+            "max": "98",
+            "average": "92.826",
+            "median": "95"
+        }
+    },
     "202102": {
         "Staff": [
             {
@@ -24,33 +51,6 @@
             "min": "80",
             "max": "97",
             "average": "92.769",
-            "median": "95"
-        }
-    },
-    "202301": {
-        "Staff": [
-            {
-                "name": "בן-סימון ציפורה",
-                "email": "transeng@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "82",
-            "max": "95",
-            "average": "90.833",
-            "median": "92.5"
-        },
-        "Finals": {
-            "students": "23",
-            "passFail": "23\/0",
-            "passPercent": "100",
-            "min": "82",
-            "max": "98",
-            "average": "92.826",
             "median": "95"
         }
     }

@@ -1,32 +1,5 @@
 {
-    "201402": {
-        "Staff": [
-            {
-                "name": "אור יזהר",
-                "email": "izi@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "93",
-            "max": "99",
-            "average": "96.059",
-            "median": "96"
-        },
-        "Finals": {
-            "students": "17",
-            "passFail": "17\/0",
-            "passPercent": "100",
-            "min": "93",
-            "max": "99",
-            "average": "96.235",
-            "median": "96"
-        }
-    },
-    "201802": {
+    "202102": {
         "Staff": [
             {
                 "name": "אור יזהר",
@@ -35,13 +8,13 @@
             }
         ],
         "Finals": {
-            "students": "10",
-            "passFail": "10\/0",
-            "passPercent": "100",
-            "min": "94",
+            "students": "11",
+            "passFail": "8\/3",
+            "passPercent": "73",
+            "min": "14",
             "max": "100",
-            "average": "96.8",
-            "median": "97"
+            "average": "73.545",
+            "median": "87"
         }
     },
     "201902": {
@@ -71,7 +44,7 @@
             "median": "94"
         }
     },
-    "202102": {
+    "201802": {
         "Staff": [
             {
                 "name": "אור יזהר",
@@ -80,13 +53,40 @@
             }
         ],
         "Finals": {
-            "students": "11",
-            "passFail": "8\/3",
-            "passPercent": "73",
-            "min": "14",
+            "students": "10",
+            "passFail": "10\/0",
+            "passPercent": "100",
+            "min": "94",
             "max": "100",
-            "average": "73.545",
-            "median": "87"
+            "average": "96.8",
+            "median": "97"
+        }
+    },
+    "201402": {
+        "Staff": [
+            {
+                "name": "אור יזהר",
+                "email": "izi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "99",
+            "average": "96.059",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "93",
+            "max": "99",
+            "average": "96.235",
+            "median": "96"
         }
     }
 }

@@ -1,4 +1,58 @@
 {
+    "201702": {
+        "Staff": [
+            {
+                "name": "גוטפרוינד יורם",
+                "email": "yoramg@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "156",
+            "passFail": "145\/11",
+            "passPercent": "93",
+            "min": "30",
+            "max": "97",
+            "average": "75.321",
+            "median": "76.5"
+        },
+        "Final_A": {
+            "students": "156",
+            "passFail": "145\/11",
+            "passPercent": "93",
+            "min": "30",
+            "max": "97",
+            "average": "77.224",
+            "median": "78.5"
+        },
+        "Exam_B": {
+            "students": "40",
+            "passFail": "36\/4",
+            "passPercent": "90",
+            "min": "45",
+            "max": "97",
+            "average": "74.7",
+            "median": "78"
+        },
+        "Final_B": {
+            "students": "40",
+            "passFail": "36\/4",
+            "passPercent": "90",
+            "min": "45",
+            "max": "97",
+            "average": "75.775",
+            "median": "78.5"
+        },
+        "Finals": {
+            "students": "176",
+            "passFail": "171\/5",
+            "passPercent": "97",
+            "min": "45",
+            "max": "97",
+            "average": "79.307",
+            "median": "80"
+        }
+    },
     "201602": {
         "Staff": [
             {
@@ -56,60 +110,6 @@
             "max": "100",
             "average": "79.163",
             "median": "81"
-        }
-    },
-    "201702": {
-        "Staff": [
-            {
-                "name": "גוטפרוינד יורם",
-                "email": "yoramg@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Exam_A": {
-            "students": "156",
-            "passFail": "145\/11",
-            "passPercent": "93",
-            "min": "30",
-            "max": "97",
-            "average": "75.321",
-            "median": "76.5"
-        },
-        "Final_A": {
-            "students": "156",
-            "passFail": "145\/11",
-            "passPercent": "93",
-            "min": "30",
-            "max": "97",
-            "average": "77.224",
-            "median": "78.5"
-        },
-        "Exam_B": {
-            "students": "40",
-            "passFail": "36\/4",
-            "passPercent": "90",
-            "min": "45",
-            "max": "97",
-            "average": "74.7",
-            "median": "78"
-        },
-        "Final_B": {
-            "students": "40",
-            "passFail": "36\/4",
-            "passPercent": "90",
-            "min": "45",
-            "max": "97",
-            "average": "75.775",
-            "median": "78.5"
-        },
-        "Finals": {
-            "students": "176",
-            "passFail": "171\/5",
-            "passPercent": "97",
-            "min": "45",
-            "max": "97",
-            "average": "79.307",
-            "median": "80"
         }
     }
 }

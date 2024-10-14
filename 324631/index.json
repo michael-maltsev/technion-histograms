@@ -1,32 +1,4 @@
 {
-    "202102": {
-        "Staff": [
-            {
-                "name": "גבריאל מונסיס",
-                "email": "",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן ענת רוחמה",
-                "email": "ruchamab@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "100",
-            "average": "94.091",
-            "median": "93"
-        }
-    },
     "202201": {
         "Staff": [
             {
@@ -53,6 +25,34 @@
             "max": "100",
             "average": "88.727",
             "median": "84"
+        }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "גבריאל מונסיס",
+                "email": "",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "100",
+            "average": "94.091",
+            "median": "93"
         }
     }
 }

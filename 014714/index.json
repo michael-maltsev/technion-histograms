@@ -1,115 +1,4 @@
 {
-    "201802": {
-        "Staff": [
-            {
-                "name": "אליאס ופא",
-                "email": "wafael@sce.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "פיוטרקובסקי ליאור",
-                "email": "piotre.lior@gmail.com,sliorpio@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן-סימון ציפורה",
-                "email": "transeng@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "39",
-            "passFail": "39\/0",
-            "passPercent": "100",
-            "min": "63",
-            "max": "99",
-            "average": "89.205",
-            "median": "90"
-        },
-        "Finals": {
-            "students": "41",
-            "passFail": "41\/0",
-            "passPercent": "100",
-            "min": "65",
-            "max": "99",
-            "average": "88.854",
-            "median": "90"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "אליאס ופא",
-                "email": "wafael@sce.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "סרחאן מיי",
-                "email": "simai@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן-סימון ציפורה",
-                "email": "transeng@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "58",
-            "passFail": "58\/0",
-            "passPercent": "100",
-            "min": "79",
-            "max": "100",
-            "average": "91.552",
-            "median": "94"
-        },
-        "Finals": {
-            "students": "58",
-            "passFail": "58\/0",
-            "passPercent": "100",
-            "min": "79",
-            "max": "100",
-            "average": "91.621",
-            "median": "94"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "אליאס ופא",
-                "email": "wafael@sce.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "מרואת יאמן",
-                "email": "yamin.mr@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "בן-סימון ציפורה",
-                "email": "transeng@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "34",
-            "passFail": "33\/1",
-            "passPercent": "97",
-            "min": "48",
-            "max": "95",
-            "average": "86.353",
-            "median": "89"
-        },
-        "Finals": {
-            "students": "42",
-            "passFail": "42\/0",
-            "passPercent": "100",
-            "min": "72",
-            "max": "97",
-            "average": "88.119",
-            "median": "90"
-        }
-    },
     "202102": {
         "Staff": [
             {
@@ -155,6 +44,117 @@
             "max": "100",
             "average": "90.812",
             "median": "92"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "אליאס ופא",
+                "email": "wafael@sce.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מרואת יאמן",
+                "email": "yamin.mr@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "34",
+            "passFail": "33\/1",
+            "passPercent": "97",
+            "min": "48",
+            "max": "95",
+            "average": "86.353",
+            "median": "89"
+        },
+        "Finals": {
+            "students": "42",
+            "passFail": "42\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "97",
+            "average": "88.119",
+            "median": "90"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "אליאס ופא",
+                "email": "wafael@sce.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סרחאן מיי",
+                "email": "simai@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "58",
+            "passFail": "58\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "100",
+            "average": "91.552",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "58",
+            "passFail": "58\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "100",
+            "average": "91.621",
+            "median": "94"
+        }
+    },
+    "201802": {
+        "Staff": [
+            {
+                "name": "אליאס ופא",
+                "email": "wafael@sce.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פיוטרקובסקי ליאור",
+                "email": "piotre.lior@gmail.com,sliorpio@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "63",
+            "max": "99",
+            "average": "89.205",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "99",
+            "average": "88.854",
+            "median": "90"
         }
     }
 }

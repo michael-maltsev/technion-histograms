@@ -1,5 +1,5 @@
 {
-    "201701": {
+    "202301": {
         "Staff": [
             {
                 "name": "כהן שנהב",
@@ -7,32 +7,23 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
-        "Exam_A": {
-            "students": "20",
-            "passFail": "17\/3",
-            "passPercent": "85",
-            "min": "35",
-            "max": "85",
-            "average": "65.5",
-            "median": "65"
-        },
         "Final_A": {
-            "students": "20",
-            "passFail": "17\/3",
-            "passPercent": "85",
-            "min": "35",
-            "max": "85",
-            "average": "65.5",
-            "median": "65"
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "93.333",
+            "median": "95"
         },
         "Finals": {
-            "students": "22",
-            "passFail": "21\/1",
-            "passPercent": "95",
-            "min": "50",
-            "max": "85",
-            "average": "69.318",
-            "median": "70"
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "93.333",
+            "median": "95"
         }
     },
     "201901": {
@@ -71,7 +62,7 @@
             "median": "85"
         }
     },
-    "202301": {
+    "201701": {
         "Staff": [
             {
                 "name": "כהן שנהב",
@@ -79,23 +70,32 @@
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
+        "Exam_A": {
+            "students": "20",
+            "passFail": "17\/3",
+            "passPercent": "85",
+            "min": "35",
+            "max": "85",
+            "average": "65.5",
+            "median": "65"
+        },
         "Final_A": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "93.333",
-            "median": "95"
+            "students": "20",
+            "passFail": "17\/3",
+            "passPercent": "85",
+            "min": "35",
+            "max": "85",
+            "average": "65.5",
+            "median": "65"
         },
         "Finals": {
-            "students": "15",
-            "passFail": "15\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "100",
-            "average": "93.333",
-            "median": "95"
+            "students": "22",
+            "passFail": "21\/1",
+            "passPercent": "95",
+            "min": "50",
+            "max": "85",
+            "average": "69.318",
+            "median": "70"
         }
     }
 }

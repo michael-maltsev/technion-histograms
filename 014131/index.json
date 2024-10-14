@@ -1,38 +1,9 @@
 {
-    "201702": {
-        "Final_A": {
-            "students": "72",
-            "passFail": "72\/0",
-            "passPercent": "100",
-            "min": "75",
-            "max": "100",
-            "average": "87.736",
-            "median": "88"
-        },
-        "Final_B": {
-            "students": "16",
-            "passFail": "16\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "92",
-            "average": "81.188",
-            "median": "81"
-        },
-        "Finals": {
-            "students": "91",
-            "passFail": "91\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "100",
-            "average": "86.429",
-            "median": "86"
-        }
-    },
-    "201802": {
+    "202202": {
         "Staff": [
             {
                 "name": "צאצאשוילי תמי",
-                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "email": "tami@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
@@ -42,68 +13,22 @@
             }
         ],
         "Final_A": {
-            "students": "74",
-            "passFail": "74\/0",
-            "passPercent": "100",
-            "min": "60",
-            "max": "98",
-            "average": "86.743",
-            "median": "88"
-        },
-        "Final_B": {
-            "students": "23",
-            "passFail": "23\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "93",
-            "average": "80.783",
-            "median": "80"
-        },
-        "Finals": {
-            "students": "99",
-            "passFail": "98\/1",
-            "passPercent": "99",
+            "students": "39",
+            "passFail": "38\/1",
+            "passPercent": "97",
             "min": "40",
-            "max": "98",
-            "average": "84.677",
-            "median": "85"
-        }
-    },
-    "201902": {
-        "Staff": [
-            {
-                "name": "שולץ יוסף",
-                "email": "schulz-y@zahav.net.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "שביט שרית",
-                "email": "sarits@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "צאצאשוילי תמי",
-                "email": "tami@technion.ac.il,noreplay@norplay.com",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "67",
-            "passFail": "67\/0",
-            "passPercent": "100",
-            "min": "65",
-            "max": "100",
-            "average": "87.582",
+            "max": "97",
+            "average": "87.333",
             "median": "88"
         },
         "Finals": {
-            "students": "75",
-            "passFail": "75\/0",
+            "students": "50",
+            "passFail": "50\/0",
             "passPercent": "100",
-            "min": "65",
-            "max": "100",
-            "average": "87.587",
-            "median": "88"
+            "min": "73",
+            "max": "97",
+            "average": "87.42",
+            "median": "87.5"
         }
     },
     "202102": {
@@ -147,11 +72,48 @@
             "median": "87"
         }
     },
-    "202202": {
+    "201902": {
+        "Staff": [
+            {
+                "name": "שולץ יוסף",
+                "email": "schulz-y@zahav.net.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "67",
+            "passFail": "67\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "87.582",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "75",
+            "passFail": "75\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "87.587",
+            "median": "88"
+        }
+    },
+    "201802": {
         "Staff": [
             {
                 "name": "צאצאשוילי תמי",
-                "email": "tami@technion.ac.il",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
@@ -161,22 +123,60 @@
             }
         ],
         "Final_A": {
-            "students": "39",
-            "passFail": "38\/1",
-            "passPercent": "97",
-            "min": "40",
-            "max": "97",
-            "average": "87.333",
+            "students": "74",
+            "passFail": "74\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "98",
+            "average": "86.743",
             "median": "88"
         },
-        "Finals": {
-            "students": "50",
-            "passFail": "50\/0",
+        "Final_B": {
+            "students": "23",
+            "passFail": "23\/0",
             "passPercent": "100",
-            "min": "73",
-            "max": "97",
-            "average": "87.42",
-            "median": "87.5"
+            "min": "70",
+            "max": "93",
+            "average": "80.783",
+            "median": "80"
+        },
+        "Finals": {
+            "students": "99",
+            "passFail": "98\/1",
+            "passPercent": "99",
+            "min": "40",
+            "max": "98",
+            "average": "84.677",
+            "median": "85"
+        }
+    },
+    "201702": {
+        "Final_A": {
+            "students": "72",
+            "passFail": "72\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "100",
+            "average": "87.736",
+            "median": "88"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "92",
+            "average": "81.188",
+            "median": "81"
+        },
+        "Finals": {
+            "students": "91",
+            "passFail": "91\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "86.429",
+            "median": "86"
         }
     }
 }

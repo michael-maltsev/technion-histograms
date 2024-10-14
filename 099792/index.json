@@ -1,4 +1,32 @@
 {
+    "202201": {
+        "Staff": [
+            {
+                "name": "ארז מרים",
+                "email": "merez@ie.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מרגולין אפרת",
+                "email": "efmargolin@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "גנאור אילנית",
+                "email": "ganorilanit@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "27",
+            "passFail": "27\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "97",
+            "average": "89.37",
+            "median": "88"
+        }
+    },
     "201903": {
         "Staff": [
             {
@@ -29,34 +57,6 @@
             "max": "94",
             "average": "90.182",
             "median": "91"
-        }
-    },
-    "202201": {
-        "Staff": [
-            {
-                "name": "ארז מרים",
-                "email": "merez@ie.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "מרגולין אפרת",
-                "email": "efmargolin@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "גנאור אילנית",
-                "email": "ganorilanit@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "27",
-            "passFail": "27\/0",
-            "passPercent": "100",
-            "min": "80",
-            "max": "97",
-            "average": "89.37",
-            "median": "88"
         }
     }
 }

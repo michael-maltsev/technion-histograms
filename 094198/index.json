@@ -1,4 +1,82 @@
 {
+    "202102": {
+        "Staff": [
+            {
+                "name": "נסראלדין חוסיין",
+                "email": "nhussein@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "12",
+            "passFail": "11\/1",
+            "passPercent": "92",
+            "min": "0",
+            "max": "92",
+            "average": "78.5",
+            "median": "88.5"
+        },
+        "Finals": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "92",
+            "average": "85.636",
+            "median": "88"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "נסראלדין חוסיין",
+                "email": "nhussein@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "84",
+            "max": "91",
+            "average": "87.75",
+            "median": "87"
+        }
+    },
+    "202002": {
+        "Staff": [
+            {
+                "name": "נסראלדין חוסיין",
+                "email": "nhussein@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Finals": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "91",
+            "average": "83.545",
+            "median": "84"
+        }
+    },
     "202001": {
         "Staff": [
             {
@@ -34,84 +112,6 @@
             "max": "98",
             "average": "88.5",
             "median": "92.5"
-        }
-    },
-    "202002": {
-        "Staff": [
-            {
-                "name": "נסראלדין חוסיין",
-                "email": "nhussein@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "62",
-            "max": "91",
-            "average": "83.545",
-            "median": "84"
-        }
-    },
-    "202101": {
-        "Staff": [
-            {
-                "name": "נסראלדין חוסיין",
-                "email": "nhussein@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Finals": {
-            "students": "12",
-            "passFail": "12\/0",
-            "passPercent": "100",
-            "min": "84",
-            "max": "91",
-            "average": "87.75",
-            "median": "87"
-        }
-    },
-    "202102": {
-        "Staff": [
-            {
-                "name": "נסראלדין חוסיין",
-                "email": "nhussein@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            }
-        ],
-        "Final_A": {
-            "students": "12",
-            "passFail": "11\/1",
-            "passPercent": "92",
-            "min": "0",
-            "max": "92",
-            "average": "78.5",
-            "median": "88.5"
-        },
-        "Finals": {
-            "students": "11",
-            "passFail": "11\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "92",
-            "average": "85.636",
-            "median": "88"
         }
     }
 }

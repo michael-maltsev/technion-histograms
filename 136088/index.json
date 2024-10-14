@@ -1,5 +1,5 @@
 {
-    "201801": {
+    "202301": {
         "Staff": [
             {
                 "name": "זליג שרה",
@@ -8,34 +8,16 @@
             }
         ],
         "Final_A": {
-            "students": "32",
-            "passFail": "31\/1",
-            "passPercent": "97",
-            "min": "50",
-            "max": "100",
-            "average": "83.938",
-            "median": "87"
-        },
-        "Final_B": {
-            "students": "15",
-            "passFail": "14\/1",
-            "passPercent": "93",
-            "min": "50",
-            "max": "100",
-            "average": "80",
-            "median": "78"
-        },
-        "Finals": {
-            "students": "45",
-            "passFail": "44\/1",
-            "passPercent": "98",
-            "min": "50",
-            "max": "100",
-            "average": "83.422",
-            "median": "86"
+            "students": "40",
+            "passFail": "40\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "94",
+            "average": "83.75",
+            "median": "84.5"
         }
     },
-    "201901": {
+    "202201": {
         "Staff": [
             {
                 "name": "זליג שרה",
@@ -44,31 +26,49 @@
             }
         ],
         "Final_A": {
-            "students": "42",
-            "passFail": "41\/1",
-            "passPercent": "98",
-            "min": "53",
-            "max": "98",
-            "average": "80.405",
-            "median": "83"
-        },
-        "Final_B": {
-            "students": "22",
-            "passFail": "22\/0",
+            "students": "19",
+            "passFail": "19\/0",
             "passPercent": "100",
-            "min": "55",
-            "max": "95",
-            "average": "78",
-            "median": "78"
+            "min": "63",
+            "max": "98",
+            "average": "84.737",
+            "median": "85"
         },
         "Finals": {
-            "students": "51",
-            "passFail": "51\/0",
+            "students": "19",
+            "passFail": "19\/0",
             "passPercent": "100",
-            "min": "55",
+            "min": "63",
             "max": "98",
-            "average": "81.863",
-            "median": "83"
+            "average": "84.737",
+            "median": "85"
+        }
+    },
+    "202101": {
+        "Staff": [
+            {
+                "name": "זליג שרה",
+                "email": "seligs@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "31",
+            "passFail": "31\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "97",
+            "average": "84.839",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "97",
+            "average": "85.5",
+            "median": "87"
         }
     },
     "202001": {
@@ -107,7 +107,7 @@
             "median": "85"
         }
     },
-    "202101": {
+    "201901": {
         "Staff": [
             {
                 "name": "זליג שרה",
@@ -116,67 +116,67 @@
             }
         ],
         "Final_A": {
-            "students": "31",
-            "passFail": "31\/0",
+            "students": "42",
+            "passFail": "41\/1",
+            "passPercent": "98",
+            "min": "53",
+            "max": "98",
+            "average": "80.405",
+            "median": "83"
+        },
+        "Final_B": {
+            "students": "22",
+            "passFail": "22\/0",
             "passPercent": "100",
-            "min": "61",
-            "max": "97",
-            "average": "84.839",
-            "median": "86"
+            "min": "55",
+            "max": "95",
+            "average": "78",
+            "median": "78"
         },
         "Finals": {
-            "students": "30",
-            "passFail": "30\/0",
+            "students": "51",
+            "passFail": "51\/0",
             "passPercent": "100",
-            "min": "61",
-            "max": "97",
-            "average": "85.5",
+            "min": "55",
+            "max": "98",
+            "average": "81.863",
+            "median": "83"
+        }
+    },
+    "201801": {
+        "Staff": [
+            {
+                "name": "זליג שרה",
+                "email": "seligs@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "32",
+            "passFail": "31\/1",
+            "passPercent": "97",
+            "min": "50",
+            "max": "100",
+            "average": "83.938",
             "median": "87"
-        }
-    },
-    "202201": {
-        "Staff": [
-            {
-                "name": "זליג שרה",
-                "email": "seligs@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "19",
-            "passFail": "19\/0",
-            "passPercent": "100",
-            "min": "63",
-            "max": "98",
-            "average": "84.737",
-            "median": "85"
+        },
+        "Final_B": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "50",
+            "max": "100",
+            "average": "80",
+            "median": "78"
         },
         "Finals": {
-            "students": "19",
-            "passFail": "19\/0",
-            "passPercent": "100",
-            "min": "63",
-            "max": "98",
-            "average": "84.737",
-            "median": "85"
-        }
-    },
-    "202301": {
-        "Staff": [
-            {
-                "name": "זליג שרה",
-                "email": "seligs@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "40",
-            "passFail": "40\/0",
-            "passPercent": "100",
-            "min": "56",
-            "max": "94",
-            "average": "83.75",
-            "median": "84.5"
+            "students": "45",
+            "passFail": "44\/1",
+            "passPercent": "98",
+            "min": "50",
+            "max": "100",
+            "average": "83.422",
+            "median": "86"
         }
     }
 }

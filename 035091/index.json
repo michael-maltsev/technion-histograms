@@ -1,34 +1,34 @@
 {
-    "201902": {
+    "202202": {
         "Staff": [
             {
-                "name": "סאס מתי",
-                "email": "mesuss@technion.ac.il",
+                "name": "צליל שלי",
+                "email": "shellytz@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "גאיס אריק",
-                "email": "eguyes@campus.technion.ac.il",
+                "name": "שוקרון עמית",
+                "email": "amitsho1@gmail.com,amitsho1@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "31",
-            "passFail": "28\/3",
-            "passPercent": "90",
-            "min": "40",
-            "max": "96",
-            "average": "75.548",
-            "median": "77"
+            "students": "24",
+            "passFail": "19\/5",
+            "passPercent": "79",
+            "min": "0",
+            "max": "100",
+            "average": "68.083",
+            "median": "70.5"
         },
         "Finals": {
-            "students": "33",
-            "passFail": "32\/1",
-            "passPercent": "97",
-            "min": "40",
-            "max": "96",
-            "average": "77.848",
-            "median": "79"
+            "students": "26",
+            "passFail": "24\/2",
+            "passPercent": "92",
+            "min": "35",
+            "max": "100",
+            "average": "79.75",
+            "median": "83"
         }
     },
     "202102": {
@@ -72,36 +72,36 @@
             "median": "82"
         }
     },
-    "202202": {
+    "201902": {
         "Staff": [
             {
-                "name": "צליל שלי",
-                "email": "shellytz@technion.ac.il",
+                "name": "סאס מתי",
+                "email": "mesuss@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "שוקרון עמית",
-                "email": "amitsho1@gmail.com,amitsho1@campus.technion.ac.il",
+                "name": "גאיס אריק",
+                "email": "eguyes@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "24",
-            "passFail": "19\/5",
-            "passPercent": "79",
-            "min": "0",
-            "max": "100",
-            "average": "68.083",
-            "median": "70.5"
+            "students": "31",
+            "passFail": "28\/3",
+            "passPercent": "90",
+            "min": "40",
+            "max": "96",
+            "average": "75.548",
+            "median": "77"
         },
         "Finals": {
-            "students": "26",
-            "passFail": "24\/2",
-            "passPercent": "92",
-            "min": "35",
-            "max": "100",
-            "average": "79.75",
-            "median": "83"
+            "students": "33",
+            "passFail": "32\/1",
+            "passPercent": "97",
+            "min": "40",
+            "max": "96",
+            "average": "77.848",
+            "median": "79"
         }
     }
 }

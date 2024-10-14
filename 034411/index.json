@@ -1,32 +1,5 @@
 {
-    "201502": {
-        "Staff": [
-            {
-                "name": "בן-ארי עדי",
-                "email": "baadi@me.technion.ac.il,baadi@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "29",
-            "passFail": "29\/0",
-            "passPercent": "100",
-            "min": "88",
-            "max": "100",
-            "average": "97.69",
-            "median": "100"
-        },
-        "Finals": {
-            "students": "29",
-            "passFail": "29\/0",
-            "passPercent": "100",
-            "min": "88",
-            "max": "100",
-            "average": "97.69",
-            "median": "100"
-        }
-    },
-    "201802": {
+    "202202": {
         "Staff": [
             {
                 "name": "בן-ארי עדי",
@@ -35,22 +8,22 @@
             }
         ],
         "Final_A": {
-            "students": "29",
-            "passFail": "29\/0",
+            "students": "36",
+            "passFail": "36\/0",
             "passPercent": "100",
-            "min": "90",
+            "min": "86",
             "max": "100",
-            "average": "98.276",
-            "median": "99"
+            "average": "97.056",
+            "median": "97"
         },
         "Finals": {
-            "students": "29",
-            "passFail": "29\/0",
+            "students": "36",
+            "passFail": "36\/0",
             "passPercent": "100",
-            "min": "90",
+            "min": "86",
             "max": "100",
-            "average": "98.276",
-            "median": "99"
+            "average": "97.056",
+            "median": "97"
         }
     },
     "202102": {
@@ -80,7 +53,7 @@
             "median": "98"
         }
     },
-    "202202": {
+    "201802": {
         "Staff": [
             {
                 "name": "בן-ארי עדי",
@@ -89,22 +62,49 @@
             }
         ],
         "Final_A": {
-            "students": "36",
-            "passFail": "36\/0",
+            "students": "29",
+            "passFail": "29\/0",
             "passPercent": "100",
-            "min": "86",
+            "min": "90",
             "max": "100",
-            "average": "97.056",
-            "median": "97"
+            "average": "98.276",
+            "median": "99"
         },
         "Finals": {
-            "students": "36",
-            "passFail": "36\/0",
+            "students": "29",
+            "passFail": "29\/0",
             "passPercent": "100",
-            "min": "86",
+            "min": "90",
             "max": "100",
-            "average": "97.056",
-            "median": "97"
+            "average": "98.276",
+            "median": "99"
+        }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "בן-ארי עדי",
+                "email": "baadi@me.technion.ac.il,baadi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "88",
+            "max": "100",
+            "average": "97.69",
+            "median": "100"
+        },
+        "Finals": {
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "88",
+            "max": "100",
+            "average": "97.69",
+            "median": "100"
         }
     }
 }

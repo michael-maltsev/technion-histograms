@@ -1,22 +1,4 @@
 {
-    "201501": {
-        "Staff": [
-            {
-                "name": "שומכר יבגני",
-                "email": "eshumakh@gmail.com",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Finals": {
-            "students": "23",
-            "passFail": "18\/5",
-            "passPercent": "78",
-            "min": "38",
-            "max": "99",
-            "average": "76.087",
-            "median": "76"
-        }
-    },
     "201502": {
         "Staff": [
             {
@@ -74,6 +56,24 @@
             "max": "100",
             "average": "72.615",
             "median": "77"
+        }
+    },
+    "201501": {
+        "Staff": [
+            {
+                "name": "שומכר יבגני",
+                "email": "eshumakh@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "23",
+            "passFail": "18\/5",
+            "passPercent": "78",
+            "min": "38",
+            "max": "99",
+            "average": "76.087",
+            "median": "76"
         }
     }
 }

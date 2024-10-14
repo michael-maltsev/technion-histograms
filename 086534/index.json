@@ -1,27 +1,4 @@
 {
-    "201902": {
-        "Staff": [
-            {
-                "name": "קרפ ברוך",
-                "email": "baruch@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            },
-            {
-                "name": "הרשקו דפנה",
-                "email": "ae.ugsec@technion.ac.il",
-                "title": "מרצה"
-            }
-        ],
-        "Finals": {
-            "students": "21",
-            "passFail": "21\/0",
-            "passPercent": "100",
-            "min": "72",
-            "max": "99",
-            "average": "86.571",
-            "median": "90"
-        }
-    },
     "202002": {
         "Staff": [
             {
@@ -47,6 +24,29 @@
             "max": "98",
             "average": "91.19",
             "median": "93"
+        }
+    },
+    "201902": {
+        "Staff": [
+            {
+                "name": "קרפ ברוך",
+                "email": "baruch@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הרשקו דפנה",
+                "email": "ae.ugsec@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Finals": {
+            "students": "21",
+            "passFail": "21\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "99",
+            "average": "86.571",
+            "median": "90"
         }
     }
 }

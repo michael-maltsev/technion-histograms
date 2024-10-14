@@ -1,31 +1,4 @@
 {
-    "202102": {
-        "Staff": [
-            {
-                "name": "בן-ארי אורן",
-                "email": "oabenari@gmail.com,orenben@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
-            }
-        ],
-        "Final_A": {
-            "students": "59",
-            "passFail": "59\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "96",
-            "average": "88.61",
-            "median": "91"
-        },
-        "Finals": {
-            "students": "59",
-            "passFail": "59\/0",
-            "passPercent": "100",
-            "min": "70",
-            "max": "96",
-            "average": "88.61",
-            "median": "91"
-        }
-    },
     "202202": {
         "Staff": [
             {
@@ -51,6 +24,33 @@
             "max": "95",
             "average": "85.6",
             "median": "86"
+        }
+    },
+    "202102": {
+        "Staff": [
+            {
+                "name": "בן-ארי אורן",
+                "email": "oabenari@gmail.com,orenben@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "59",
+            "passFail": "59\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "96",
+            "average": "88.61",
+            "median": "91"
+        },
+        "Finals": {
+            "students": "59",
+            "passFail": "59\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "96",
+            "average": "88.61",
+            "median": "91"
         }
     }
 }
