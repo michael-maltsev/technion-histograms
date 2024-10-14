@@ -62,7 +62,7 @@ function process_course($course, &$stats) {
         $semesters[] = $fileinfo->getFilename();
     }
 
-    natsort($semesters);
+    rsort($semesters, SORT_NATURAL);
     foreach ($semesters as $semester) {
         $stats['semesters']++;
         $semester_object = [];
