@@ -1,4 +1,32 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "לוינסקי יעל",
+                "email": "yaelly@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "85",
+            "passFail": "53\/32",
+            "passPercent": "62",
+            "min": "8",
+            "max": "100",
+            "average": "60.376",
+            "median": "65"
+        }
+    },
     "202202": {
         "Staff": [
             {
