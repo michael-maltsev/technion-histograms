@@ -1,4 +1,41 @@
 {
+    "202301": {
+        "Staff": [
+            {
+                "name": "הרר יל",
+                "email": "yale@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קאופמן אביטל",
+                "email": "avital.ka@technion.ac.il",
+                "title": ""
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "37",
+            "passFail": "37\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "98",
+            "average": "91.378",
+            "median": "92"
+        },
+        "Final_B": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "88",
+            "max": "98",
+            "average": "91.913",
+            "median": "92"
+        }
+    },
     "202201": {
         "Staff": [
             {
