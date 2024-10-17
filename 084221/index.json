@@ -1,4 +1,36 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "יוסילבסקי גיל",
+                "email": "igil@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קלינמן שקד",
+                "email": "kleinman@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "70",
+            "passFail": "30\/40",
+            "passPercent": "43",
+            "min": "23",
+            "max": "99",
+            "average": "55.1",
+            "median": "52"
+        },
+        "Final_A": {
+            "students": "70",
+            "passFail": "45\/25",
+            "passPercent": "64",
+            "min": "23",
+            "max": "99.2",
+            "average": "61.73",
+            "median": "61"
+        }
+    },
     "202202": {
         "Staff": [
             {
