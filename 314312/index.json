@@ -1,4 +1,46 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "סילברסטין מיכאל",
+                "email": "michaels@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סייד אחמד סמאח",
+                "email": "samah.saiedahmad@gmail.com,samahsai@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שלמה אביטן בר",
+                "email": "barshlomo404@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קיסלוב יוליה",
+                "email": "yuliak@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "33",
+            "passFail": "29\/4",
+            "passPercent": "88",
+            "min": "38",
+            "max": "100",
+            "average": "76.667",
+            "median": "77"
+        },
+        "Final_A": {
+            "students": "33",
+            "passFail": "31\/2",
+            "passPercent": "94",
+            "min": "47",
+            "max": "100",
+            "average": "80",
+            "median": "80"
+        }
+    },
     "202202": {
         "Staff": [
             {
