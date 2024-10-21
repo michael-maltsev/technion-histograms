@@ -1,4 +1,36 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "יחיא יורם",
+                "email": "yoramy@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "דמיטריוק אלון",
+                "email": "alond@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "87",
+            "passFail": "81\/6",
+            "passPercent": "93",
+            "min": "33",
+            "max": "105",
+            "average": "84.494",
+            "median": "88"
+        },
+        "Final_A": {
+            "students": "87",
+            "passFail": "86\/1",
+            "passPercent": "99",
+            "min": "33",
+            "max": "100",
+            "average": "86.08",
+            "median": "90"
+        }
+    },
     "202301": {
         "Staff": [
             {
