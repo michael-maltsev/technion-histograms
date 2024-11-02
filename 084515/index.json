@@ -1,4 +1,41 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "גליץ' פבל",
+                "email": "galich.pi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קליין גריגורי",
+                "email": "gregy.kl@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צור אלעד",
+                "email": "eladzur@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "48",
+            "passFail": "45\/3",
+            "passPercent": "94",
+            "min": "24",
+            "max": "100",
+            "average": "79.458",
+            "median": "84"
+        },
+        "Final_A": {
+            "students": "45",
+            "passFail": "45\/0",
+            "passPercent": "100",
+            "min": "66.775",
+            "max": "99.925",
+            "average": "84.518",
+            "median": "86.275"
+        }
+    },
     "202202": {
         "Staff": [
             {
