@@ -1,4 +1,41 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "פלמור זלמן",
+                "email": "palmor@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כרמלי שניר",
+                "email": "snircarmeli@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ברקאי גל",
+                "email": "galbarkai@gmail.com,galbarkai@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "44",
+            "passFail": "30\/14",
+            "passPercent": "68",
+            "min": "10",
+            "max": "100",
+            "average": "62.455",
+            "median": "67.5"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "14\/2",
+            "passPercent": "88",
+            "min": "12",
+            "max": "86",
+            "average": "67.75",
+            "median": "74"
+        }
+    },
     "202202": {
         "Staff": [
             {
