@@ -2,6 +2,11 @@
     "202302": {
         "Staff": [
             {
+                "name": "מקלר תירוש",
+                "email": "tiroshmekler@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "קורין נתנאל",
                 "email": "korin@bm.technion.ac.il,korin@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
@@ -23,7 +28,7 @@
             "passPercent": "66",
             "min": "22",
             "max": "100",
-            "average": "65",
+            "average": "65.054",
             "median": "62"
         },
         "Final_A": {
@@ -32,8 +37,26 @@
             "passPercent": "66",
             "min": "22",
             "max": "100",
-            "average": "65",
+            "average": "65.054",
             "median": "62"
+        },
+        "Exam_B": {
+            "students": "32",
+            "passFail": "20\/12",
+            "passPercent": "62",
+            "min": "25",
+            "max": "94",
+            "average": "56.703",
+            "median": "58.5"
+        },
+        "Final_B": {
+            "students": "32",
+            "passFail": "26\/6",
+            "passPercent": "81",
+            "min": "47.14",
+            "max": "95.8",
+            "average": "69.198",
+            "median": "69.2"
         }
     },
     "202202": {
