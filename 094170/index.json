@@ -1,4 +1,41 @@
 {
+    "202301": {
+        "Staff": [
+            {
+                "name": "לויפר שלומי",
+                "email": "laufer@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "וותד למא",
+                "email": "lamawattad@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זיו דוד מורן",
+                "email": "moran.z@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "29",
+            "passFail": "27\/2",
+            "passPercent": "93",
+            "min": "34",
+            "max": "100",
+            "average": "81.69",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "30",
+            "passFail": "29\/1",
+            "passPercent": "97",
+            "min": "24",
+            "max": "100",
+            "average": "84.267",
+            "median": "86"
+        }
+    },
     "202201": {
         "Staff": [
             {
