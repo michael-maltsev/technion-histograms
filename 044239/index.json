@@ -9,14 +9,23 @@
             {
                 "name": "ניר הארווד רבקה גליה",
                 "email": "rivka-galya@campus.technion.ac.il",
-                "title": ""
+                "title": "מדריך מעבדה"
             },
             {
                 "name": "לויט אור",
                 "email": "lovitor90@gmail.com,orlevit@campus.technion.ac.il",
-                "title": ""
+                "title": "מדריך מעבדה"
             }
         ],
+        "Exam_A": {
+            "students": "11",
+            "passFail": "10\/1",
+            "passPercent": "91",
+            "min": "43",
+            "max": "96",
+            "average": "80.545",
+            "median": "84"
+        },
         "Final_A": {
             "students": "11",
             "passFail": "10\/1",
@@ -24,6 +33,15 @@
             "min": "43",
             "max": "95",
             "average": "84.909",
+            "median": "89"
+        },
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "95",
+            "average": "88.333",
             "median": "89"
         }
     },
