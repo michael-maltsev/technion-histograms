@@ -1,4 +1,36 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "אור יזהר",
+                "email": "izi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צ'פניק צבי",
+                "email": "zvichapnik@gmail.com,zvic@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "14\/2",
+            "passPercent": "88",
+            "min": "50",
+            "max": "105",
+            "average": "85.5",
+            "median": "90"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "56.875",
+            "max": "99.125",
+            "average": "86.958",
+            "median": "92.75"
+        }
+    },
     "202202": {
         "Staff": [
             {
