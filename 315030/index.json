@@ -15,11 +15,6 @@
                 "name": "בן שיטרית אביחי",
                 "email": "avihay.ben@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "קיסלוב יוליה",
-                "email": "yuliak@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -30,6 +25,33 @@
             "max": "100",
             "average": "82.03",
             "median": "83.5"
+        },
+        "Final_A": {
+            "students": "40",
+            "passFail": "38\/2",
+            "passPercent": "95",
+            "min": "51.7",
+            "max": "100",
+            "average": "85.135",
+            "median": "87.65"
+        },
+        "Exam_B": {
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "49",
+            "max": "97.5",
+            "average": "80.594",
+            "median": "84.5"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "57.1",
+            "max": "97.9",
+            "average": "83.556",
+            "median": "86.5"
         }
     },
     "202202": {
