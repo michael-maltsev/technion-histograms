@@ -1,0 +1,34 @@
+{
+    "202301": {
+        "Staff": [
+            {
+                "name": "ז'יכלינסקי נועה",
+                "email": "noazy@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קרייצר טל",
+                "email": "talkraicer@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "24\/8",
+            "passPercent": "75",
+            "min": "19",
+            "max": "92",
+            "average": "66.656",
+            "median": "68.5"
+        },
+        "Final_A": {
+            "students": "32",
+            "passFail": "32\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "96",
+            "average": "80.125",
+            "median": "79.5"
+        }
+    }
+}
