@@ -126,5 +126,37 @@
             "average": "95.655",
             "median": "96"
         }
+    },
+    "201502": {
+        "Staff": [
+            {
+                "name": "רימון אילון",
+                "email": "rimon@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בוניס הלל",
+                "email": "hallelb@technion.ac.il,hallelb@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Final_A": {
+            "students": "55",
+            "passFail": "54\/1",
+            "passPercent": "98",
+            "min": "46",
+            "max": "99",
+            "average": "92.6",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "55",
+            "passFail": "54\/1",
+            "passPercent": "98",
+            "min": "46",
+            "max": "99",
+            "average": "93.982",
+            "median": "96"
+        }
     }
 }

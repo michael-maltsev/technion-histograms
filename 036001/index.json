@@ -470,5 +470,69 @@
             "average": "74.242",
             "median": "78"
         }
+    },
+    "201701": {
+        "Staff": [
+            {
+                "name": "גנדלמן אולג",
+                "email": "ovgend@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברייטמן פטר",
+                "email": "petya@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ברייטמן נינה ליאור",
+                "email": "nina.liora.rayzan@gmail.com,nrayzan@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "43",
+            "passFail": "37\/6",
+            "passPercent": "86",
+            "min": "18",
+            "max": "120",
+            "average": "81.233",
+            "median": "84"
+        },
+        "Final_A": {
+            "students": "43",
+            "passFail": "38\/5",
+            "passPercent": "88",
+            "min": "18",
+            "max": "100",
+            "average": "81.163",
+            "median": "86"
+        },
+        "Exam_B": {
+            "students": "13",
+            "passFail": "6\/7",
+            "passPercent": "46",
+            "min": "18",
+            "max": "78",
+            "average": "51.846",
+            "median": "52"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "8\/5",
+            "passPercent": "62",
+            "min": "18",
+            "max": "81",
+            "average": "55.385",
+            "median": "65"
+        },
+        "Finals": {
+            "students": "45",
+            "passFail": "40\/5",
+            "passPercent": "89",
+            "min": "18",
+            "max": "100",
+            "average": "80.911",
+            "median": "86"
+        }
     }
 }

@@ -84,5 +84,46 @@
             "average": "83.917",
             "median": "89.5"
         }
+    },
+    "201602": {
+        "Staff": [
+            {
+                "name": "רובין מילס",
+                "email": "mbrubin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ספדי מחמוד",
+                "email": "safadi@campus.technion.ac.il,safadi@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "17",
+            "passFail": "14\/3",
+            "passPercent": "82",
+            "min": "27",
+            "max": "99",
+            "average": "69.294",
+            "median": "74"
+        },
+        "Final_A": {
+            "students": "17",
+            "passFail": "14\/3",
+            "passPercent": "82",
+            "min": "31",
+            "max": "99",
+            "average": "74.118",
+            "median": "78"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "17\/3",
+            "passPercent": "85",
+            "min": "24",
+            "max": "99",
+            "average": "74.8",
+            "median": "78.5"
+        }
     }
 }
