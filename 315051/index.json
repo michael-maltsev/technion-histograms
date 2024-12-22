@@ -13,7 +13,7 @@
             },
             {
                 "name": "צימרמן יהונתן",
-                "email": "yoni3246@gmail.com,jonathan-zim@campus.technion.ac.il",
+                "email": "jonathan-zim@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
@@ -34,6 +34,24 @@
             "max": "100",
             "average": "70.717",
             "median": "68"
+        },
+        "Exam_B": {
+            "students": "15",
+            "passFail": "8\/7",
+            "passPercent": "53",
+            "min": "33",
+            "max": "90",
+            "average": "57.933",
+            "median": "53"
+        },
+        "Final_B": {
+            "students": "15",
+            "passFail": "12\/3",
+            "passPercent": "80",
+            "min": "44",
+            "max": "92",
+            "average": "66.067",
+            "median": "63"
         },
         "Finals": {
             "students": "53",
