@@ -1,4 +1,45 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "קורלנד אורן",
+                "email": "kurland@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "נחימובסקי חיה",
+                "email": "haya.nac@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "65",
+            "passFail": "44\/21",
+            "passPercent": "68",
+            "min": "22",
+            "max": "90",
+            "average": "61.046",
+            "median": "66"
+        },
+        "Final_A": {
+            "students": "66",
+            "passFail": "55\/11",
+            "passPercent": "83",
+            "min": "29",
+            "max": "100",
+            "average": "79.636",
+            "median": "86"
+        },
+        "Exam_B": {
+            "students": "18",
+            "passFail": "13\/5",
+            "passPercent": "72",
+            "min": "48",
+            "max": "83",
+            "average": "64.611",
+            "median": "65"
+        }
+    },
     "202202": {
         "Staff": [
             {
