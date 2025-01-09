@@ -1,4 +1,40 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "טרזיס אלכסנדרוס",
+                "email": "aterzis@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "24",
+            "passFail": "21\/3",
+            "passPercent": "88",
+            "min": "37",
+            "max": "100",
+            "average": "79.708",
+            "median": "86"
+        },
+        "Final_A": {
+            "students": "24",
+            "passFail": "23\/1",
+            "passPercent": "96",
+            "min": "35",
+            "max": "100",
+            "average": "85.383",
+            "median": "92"
+        },
+        "Finals": {
+            "students": "32",
+            "passFail": "32\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "100",
+            "average": "91.774",
+            "median": "93"
+        }
+    },
     "202201": {
         "Staff": [
             {
