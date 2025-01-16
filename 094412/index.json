@@ -8,13 +8,8 @@
             },
             {
                 "name": "בילואוס גילי",
-                "email": "gili.bielous@gmail.com,gili.bielous@campus.technion.ac.il",
+                "email": "gili.bielous@campus.technion.ac.il",
                 "title": "מרצה"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -41,16 +36,25 @@
             "passPercent": "84",
             "min": "34",
             "max": "98.75",
-            "average": "67.992",
+            "average": "68.374",
             "median": "70"
         },
         "Final_B": {
             "students": "89",
-            "passFail": "82\/7",
-            "passPercent": "92",
+            "passFail": "83\/6",
+            "passPercent": "93",
             "min": "45",
             "max": "100",
-            "average": "75.236",
+            "average": "75.573",
+            "median": "76"
+        },
+        "Finals": {
+            "students": "147",
+            "passFail": "123\/24",
+            "passPercent": "84",
+            "min": "14",
+            "max": "100",
+            "average": "72.301",
             "median": "76"
         }
     },
