@@ -1,4 +1,45 @@
 {
+    "202301": {
+        "Staff": [
+            {
+                "name": "יחיעם אלדד",
+                "email": "yeldad@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בורדו נדיה",
+                "email": "nadiabordo@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "74",
+            "max": "99",
+            "average": "91.125",
+            "median": "91.5"
+        },
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "98",
+            "average": "93.25",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "98",
+            "average": "92.529",
+            "median": "93"
+        }
+    },
     "202101": {
         "Staff": [
             {

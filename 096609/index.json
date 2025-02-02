@@ -1,4 +1,40 @@
 {
+    "202301": {
+        "Staff": [
+            {
+                "name": "תיאודורסקו אנדרי רדו",
+                "email": "teodora@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "92.231",
+            "median": "94"
+        },
+        "Final_A": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "92.554",
+            "median": "94.9"
+        },
+        "Finals": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "94",
+            "median": "96"
+        }
+    },
     "202102": {
         "Staff": [
             {
