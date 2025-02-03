@@ -1,4 +1,36 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "נלקין עמית",
+                "email": "amitn@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ירון סימה",
+                "email": "simay@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "63",
+            "passFail": "61\/2",
+            "passPercent": "97",
+            "min": "47.9",
+            "max": "100",
+            "average": "78.735",
+            "median": "78.8"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "69.95",
+            "max": "100",
+            "average": "89.541",
+            "median": "89.5"
+        }
+    },
     "202202": {
         "Staff": [
             {
