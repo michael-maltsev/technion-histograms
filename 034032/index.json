@@ -18,7 +18,7 @@
             },
             {
                 "name": "דיסקין דוד",
-                "email": "david.diskin149@gmail.com,david.diskin@campus.technion.ac.il",
+                "email": "david.diskin@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
@@ -47,21 +47,30 @@
         },
         "Exam_B": {
             "students": "47",
-            "passFail": "29\/18",
-            "passPercent": "62",
+            "passFail": "30\/17",
+            "passPercent": "64",
             "min": "7",
             "max": "100",
-            "average": "58.755",
+            "average": "59.34",
             "median": "59.5"
         },
         "Final_B": {
             "students": "47",
-            "passFail": "31\/16",
-            "passPercent": "66",
+            "passFail": "34\/13",
+            "passPercent": "72",
             "min": "7",
             "max": "100",
-            "average": "61.128",
-            "median": "62"
+            "average": "61.894",
+            "median": "64"
+        },
+        "Finals": {
+            "students": "91",
+            "passFail": "78\/13",
+            "passPercent": "86",
+            "min": "7",
+            "max": "100",
+            "average": "67.956",
+            "median": "67"
         }
     },
     "202301": {
