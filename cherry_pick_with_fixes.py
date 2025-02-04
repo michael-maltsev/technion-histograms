@@ -165,41 +165,9 @@ COURSE_ALTERNATIVE_NAMES = {
     'כימיה כללית - בינלאומי': 'General Chemistry',
 }
 
-GIT_MSGS_TO_CHERRY_PICK = (
-    'Add cherry_pick_with_fixes.py',
-    'Add GitHub Actions workflow for checks and fixes',
-    'Add more english course names',
-    'Add organize_mismatched.py',
-    'checks.py: Add handled mismatches',
-    'checks.py: Add more details to output',
-    'checks.py: Check for missing data',
-    'checks.py: Simplify check for mismatches',
-    'Cherry pick since last fix',
-    'deploy.php: Skip mismatches',
-    'Fix commit_author in the check-and-fix workflow',
-    'Fix handling properties with a colon',
-    'Fixes to fixes.py (2)',
-    'Fixes to fixes.py',
-    'organize_mismatched.py: add rmdir',
-    'Remove old comment from deploy.php',
-    'Run cherry_pick_with_fixes.py in CI',
-    'Update check-and-fix.yml with fixes from master',
-    'Update checks.py git functions',
-    'Update cherry_pick_with_fixes.py',
-    'Update GitHub Actions dependencies',
-    'Update GitHub Actions',
-    'Update last_handled_mismatch',
-)
-
 
 GIT_MSGS_TO_SKIP = (
     'Automatic fixes by cherry_pick_with_fixes.py',
-    'Automatic fixes by fixes.py',
-    'Fix mismatched submission',
-    'Manual fixes',
-    'Manually fix mismatched entries',
-    'Remove mismatch commits (files already submitted)',
-    'Remove mismatched histogram (already submitted)',
 )
 
 
@@ -227,7 +195,7 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         commit,
     ])
 
-    if msg in GIT_MSGS_TO_CHERRY_PICK or msg.startswith('#'):
+    if msg.startswith('#'):
         print(f'Cherry-picking as is: [{commit}] {msg}')
         git_run(['add', '.'])
         git_run(['commit', '--quiet', '-m', 'temp'])
@@ -306,6 +274,11 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
     ):
         override_course = '046278'
         override_semester = '202302'
+    elif commit in (
+        '7cc569c737472df161d5762c1b0bff61cdf3a971',
+        'c1f88adfbb6048553e3a675a3cd2b88bb56e2a28',
+    ):
+        override_course = '034010'
 
     if override_course:
         # 9730xy -> 97030xy
