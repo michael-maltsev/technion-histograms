@@ -1,4 +1,68 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "לוין ענת",
+                "email": "anat.levin@weizmann.ac.il,anat.levin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קורמן סיימון",
+                "email": "skorman@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "אדלשטיין יפתח",
+                "email": "yiftach.ede@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "42",
+            "passFail": "37\/5",
+            "passPercent": "88",
+            "min": "43.5",
+            "max": "92.75",
+            "average": "71.149",
+            "median": "73"
+        },
+        "Final_A": {
+            "students": "42",
+            "passFail": "37\/5",
+            "passPercent": "88",
+            "min": "43.5",
+            "max": "95.23",
+            "average": "80.613",
+            "median": "84.59"
+        },
+        "Exam_B": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "62.5",
+            "max": "93",
+            "average": "79.857",
+            "median": "82"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "77.8",
+            "max": "96.15",
+            "average": "88.271",
+            "median": "89.03"
+        },
+        "Finals": {
+            "students": "49",
+            "passFail": "49\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "96",
+            "average": "86.208",
+            "median": "87"
+        }
+    },
     "202301": {
         "Staff": [
             {
