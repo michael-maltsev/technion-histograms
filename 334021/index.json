@@ -31,7 +31,7 @@
             },
             {
                 "name": "אברשמי מיטל",
-                "email": "maytalavr93@gmail.com,maytalavr@campus.technion.ac.il",
+                "email": "maytalavr@campus.technion.ac.il",
                 "title": "מרצה"
             }
         ],
@@ -53,14 +53,32 @@
             "average": "90.9",
             "median": "92.5"
         },
+        "Exam_B": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "85",
+            "median": "85"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "100",
+            "average": "91",
+            "median": "91"
+        },
         "Finals": {
-            "students": "110",
-            "passFail": "110\/0",
+            "students": "115",
+            "passFail": "115\/0",
             "passPercent": "100",
             "min": "71",
             "max": "100",
-            "average": "90.9",
-            "median": "92.5"
+            "average": "91.452",
+            "median": "94"
         }
     },
     "202201": {

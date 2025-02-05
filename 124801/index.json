@@ -1,4 +1,78 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "מעין גליה",
+                "email": "gm92@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שפסר דינה",
+                "email": "dinash@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "רוטשילד ענת",
+                "email": "anat.ro@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "סעאידה תאמר",
+                "email": "tamersaiaede@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מנור ערמון עמית",
+                "email": "amit.ma@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "80",
+            "passFail": "65\/15",
+            "passPercent": "81",
+            "min": "11",
+            "max": "100",
+            "average": "70.725",
+            "median": "75.5"
+        },
+        "Final_A": {
+            "students": "83",
+            "passFail": "73\/10",
+            "passPercent": "88",
+            "min": "9",
+            "max": "100",
+            "average": "77.988",
+            "median": "82"
+        },
+        "Exam_B": {
+            "students": "79",
+            "passFail": "47\/32",
+            "passPercent": "59",
+            "min": "4",
+            "max": "98",
+            "average": "58.139",
+            "median": "62"
+        },
+        "Final_B": {
+            "students": "79",
+            "passFail": "65\/14",
+            "passPercent": "82",
+            "min": "34",
+            "max": "98",
+            "average": "71.544",
+            "median": "73"
+        },
+        "Finals": {
+            "students": "147",
+            "passFail": "130\/17",
+            "passPercent": "88",
+            "min": "9",
+            "max": "100",
+            "average": "76.027",
+            "median": "79"
+        }
+    },
     "202202": {
         "Staff": [
             {
