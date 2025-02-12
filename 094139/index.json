@@ -1,4 +1,36 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "יום-טוב גלית",
+                "email": "gality@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ליקוורניק נועה- פאני",
+                "email": "noalikvornik@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "29",
+            "passFail": "26\/3",
+            "passPercent": "90",
+            "min": "32",
+            "max": "98",
+            "average": "72.31",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "29",
+            "passFail": "26\/3",
+            "passPercent": "90",
+            "min": "32",
+            "max": "100",
+            "average": "78.862",
+            "median": "80"
+        }
+    },
     "202202": {
         "Staff": [
             {
