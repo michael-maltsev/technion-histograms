@@ -1,4 +1,27 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "כהן נועם אשר",
+                "email": "cnoam@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טוקר גילת",
+                "email": "gilatt@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "49",
+            "passFail": "30\/19",
+            "passPercent": "61",
+            "min": "15",
+            "max": "100",
+            "average": "60.714",
+            "median": "66"
+        }
+    },
     "202301": {
         "Staff": [
             {
@@ -10,11 +33,6 @@
                 "name": "טוקר גילת",
                 "email": "gilatt@campus.technion.ac.il",
                 "title": "מדריך מעבדה"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
