@@ -1,0 +1,34 @@
+{
+    "202401": {
+        "Staff": [
+            {
+                "name": "קלכהיים יואב",
+                "email": "ykalcheim@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לייפר אריאל",
+                "email": "ariellifer@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "49",
+            "passFail": "38\/11",
+            "passPercent": "78",
+            "min": "16",
+            "max": "100",
+            "average": "68.612",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "49",
+            "passFail": "38\/11",
+            "passPercent": "78",
+            "min": "16",
+            "max": "100",
+            "average": "72.49",
+            "median": "80"
+        }
+    }
+}
