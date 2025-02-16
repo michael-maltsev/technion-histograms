@@ -1,4 +1,40 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "נפטין דני",
+                "email": "dneftin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "20",
+            "passFail": "14\/6",
+            "passPercent": "70",
+            "min": "43",
+            "max": "96",
+            "average": "67.2",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "97",
+            "average": "74.5",
+            "median": "73.5"
+        },
+        "Finals": {
+            "students": "30",
+            "passFail": "30\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "97",
+            "average": "76.8",
+            "median": "77.5"
+        }
+    },
     "202301": {
         "Staff": [
             {
