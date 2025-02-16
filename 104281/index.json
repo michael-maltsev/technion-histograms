@@ -3,7 +3,7 @@
         "Staff": [
             {
                 "name": "פייגין-קצוב יוליה",
-                "email": "julia.feigin@gmail.com,juliaf@technion.ac.il",
+                "email": "juliaf@technion.ac.il",
                 "title": "מתרגל"
             },
             {
@@ -34,6 +34,24 @@
             "max": "100",
             "average": "68.694",
             "median": "70"
+        },
+        "Exam_B": {
+            "students": "22",
+            "passFail": "17\/5",
+            "passPercent": "77",
+            "min": "27",
+            "max": "94",
+            "average": "68.318",
+            "median": "70"
+        },
+        "Final_B": {
+            "students": "22",
+            "passFail": "19\/3",
+            "passPercent": "86",
+            "min": "27",
+            "max": "95",
+            "average": "71.318",
+            "median": "72.5"
         },
         "Finals": {
             "students": "49",
