@@ -1,4 +1,36 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "ארושס שוקי",
+                "email": "aroshas@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קליס אולג",
+                "email": "okelis@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "30",
+            "passFail": "21\/9",
+            "passPercent": "70",
+            "min": "13",
+            "max": "98",
+            "average": "65.733",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "30",
+            "passFail": "21\/9",
+            "passPercent": "70",
+            "min": "13",
+            "max": "98",
+            "average": "67.267",
+            "median": "72.5"
+        }
+    },
     "202301": {
         "Staff": [
             {
