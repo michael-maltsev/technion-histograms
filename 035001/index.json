@@ -1,4 +1,27 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "רימון אילון",
+                "email": "rimon@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לוין אהרן",
+                "email": "aharon.levin@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "99",
+            "average": "87.667",
+            "median": "88"
+        }
+    },
     "202302": {
         "Staff": [
             {
