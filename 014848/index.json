@@ -1,4 +1,37 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "אבן-צור גלעד",
+                "email": "eventzur@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "וידרו יוליה",
+                "email": "yuliav@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "בלסברג עליזה",
+                "email": "aliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "פרידמן יפעת",
+                "email": "yifatf@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "25",
+            "passFail": "5\/20",
+            "passPercent": "20",
+            "min": "9",
+            "max": "85",
+            "average": "41.08",
+            "median": "31"
+        }
+    },
     "202301": {
         "Staff": [
             {
