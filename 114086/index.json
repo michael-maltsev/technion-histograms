@@ -1,4 +1,56 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "פרישמן אנה",
+                "email": "frishman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סגל גיא",
+                "email": "gsegall@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אוריון נדב",
+                "email": "nadavorion@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קם עמית",
+                "email": "amitkam@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אבן צור מתן",
+                "email": "matanev@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ורנר-רייז נבו",
+                "email": "nevo@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "86",
+            "passFail": "57\/29",
+            "passPercent": "66",
+            "min": "7",
+            "max": "100",
+            "average": "62.977",
+            "median": "62"
+        },
+        "Final_A": {
+            "students": "86",
+            "passFail": "66\/20",
+            "passPercent": "77",
+            "min": "21",
+            "max": "100",
+            "average": "67.884",
+            "median": "66"
+        }
+    },
     "202301": {
         "Staff": [
             {
