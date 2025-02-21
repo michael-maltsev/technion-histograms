@@ -1,4 +1,32 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "לינקר רפאל",
+                "email": "linkerr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לוינסקי יעל",
+                "email": "yaelly@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הלר שירי",
+                "email": "hshiri@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "65",
+            "passFail": "42\/23",
+            "passPercent": "65",
+            "min": "7",
+            "max": "92",
+            "average": "57.862",
+            "median": "62"
+        }
+    },
     "202301": {
         "Staff": [
             {
