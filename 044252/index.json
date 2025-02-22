@@ -1,4 +1,71 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "הדר אלעד",
+                "email": "ehadar@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קציר ניר",
+                "email": "katzir@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "נאמן טל",
+                "email": "tal.neeman@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קרטס-הרדוף דפנה",
+                "email": "kdafna@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אלפסי ניר",
+                "email": "nirelfasi@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "צוקרמן זאב אברהם",
+                "email": "ze.zukerman@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אבו אחמד ואו גלאל",
+                "email": "galal@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "הורודי עדן דינה",
+                "email": "eden-dina@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "בר אילאיל",
+                "email": "ealeal44@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "310",
+            "passFail": "222\/88",
+            "passPercent": "72",
+            "min": "25",
+            "max": "100",
+            "average": "65.094",
+            "median": "64.5"
+        },
+        "Final_A": {
+            "students": "310",
+            "passFail": "275\/35",
+            "passPercent": "89",
+            "min": "25",
+            "max": "100",
+            "average": "74.258",
+            "median": "76"
+        }
+    },
     "202302": {
         "Staff": [
             {
