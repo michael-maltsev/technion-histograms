@@ -1,4 +1,27 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "תמר אביב",
+                "email": "avivt@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יעקבי עידו",
+                "email": "ido.jacobi@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "19",
+            "passFail": "16\/3",
+            "passPercent": "84",
+            "min": "40",
+            "max": "98",
+            "average": "74.842",
+            "median": "77.5"
+        }
+    },
     "202301": {
         "Staff": [
             {
