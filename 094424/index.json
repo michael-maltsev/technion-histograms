@@ -1,4 +1,41 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "עזריאל דוד",
+                "email": "davidazr@ie.technion.ac.il,davidazr@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "בורדו נדיה",
+                "email": "nadiabordo@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "גרינס עדו",
+                "email": "ido.griness@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "135",
+            "passFail": "113\/22",
+            "passPercent": "84",
+            "min": "27.778",
+            "max": "100",
+            "average": "70.65",
+            "median": "72.222"
+        },
+        "Final_A": {
+            "students": "135",
+            "passFail": "120\/15",
+            "passPercent": "89",
+            "min": "35",
+            "max": "100",
+            "average": "73.533",
+            "median": "75"
+        }
+    },
     "202302": {
         "Staff": [
             {
