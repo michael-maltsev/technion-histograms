@@ -1,4 +1,37 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "בכר אהוד",
+                "email": "ebehar@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גראואר מתן",
+                "email": "matan.grauer@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "סאלח נאטור ג'וליה",
+                "email": "julia.s@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אלון גדעון",
+                "email": "gideon.alon@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "183",
+            "passFail": "137\/46",
+            "passPercent": "75",
+            "min": "24",
+            "max": "100",
+            "average": "70.268",
+            "median": "74"
+        }
+    },
     "202301": {
         "Staff": [
             {
