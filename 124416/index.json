@@ -1,4 +1,45 @@
 {
+    "202301": {
+        "Staff": [
+            {
+                "name": "צ'ונטונוב לב",
+                "email": "chunt@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סופרין שמואל",
+                "email": "shmuelsufrin@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "12",
+            "passFail": "4\/8",
+            "passPercent": "33",
+            "min": "16",
+            "max": "64",
+            "average": "46.833",
+            "median": "47"
+        },
+        "Final_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "81",
+            "average": "72.25",
+            "median": "73.5"
+        },
+        "Finals": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "81",
+            "average": "72.25",
+            "median": "73.5"
+        }
+    },
     "202201": {
         "Staff": [
             {

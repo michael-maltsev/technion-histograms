@@ -1,4 +1,50 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "מארדר רחל",
+                "email": "rachelma@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שייק סער",
+                "email": "saar-shaek@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שקד הדר",
+                "email": "hadar.shaked@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "38",
+            "passFail": "35\/3",
+            "passPercent": "92",
+            "min": "16",
+            "max": "98",
+            "average": "75.132",
+            "median": "77"
+        },
+        "Final_A": {
+            "students": "38",
+            "passFail": "36\/2",
+            "passPercent": "95",
+            "min": "30",
+            "max": "98",
+            "average": "79.737",
+            "median": "81.5"
+        },
+        "Finals": {
+            "students": "45",
+            "passFail": "44\/1",
+            "passPercent": "98",
+            "min": "30",
+            "max": "100",
+            "average": "83.156",
+            "median": "84"
+        }
+    },
     "202202": {
         "Staff": [
             {
