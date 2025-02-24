@@ -1,4 +1,36 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "בן-דוד ניר",
+                "email": "benda@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ליטבינוב גלינה",
+                "email": "litvinov@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "95",
+            "passFail": "55\/40",
+            "passPercent": "58",
+            "min": "2",
+            "max": "100",
+            "average": "55.874",
+            "median": "56"
+        },
+        "Final_A": {
+            "students": "95",
+            "passFail": "60\/35",
+            "passPercent": "63",
+            "min": "2",
+            "max": "100",
+            "average": "58.379",
+            "median": "62"
+        }
+    },
     "202301": {
         "Staff": [
             {
