@@ -1,4 +1,54 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "אמויאל ירון",
+                "email": "amouyal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סולם אלמוג עטרה",
+                "email": "almogsul@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "50",
+            "passFail": "35\/15",
+            "passPercent": "70",
+            "min": "16",
+            "max": "90",
+            "average": "60.72",
+            "median": "61"
+        },
+        "Final_A": {
+            "students": "50",
+            "passFail": "44\/6",
+            "passPercent": "88",
+            "min": "28",
+            "max": "92",
+            "average": "66.4",
+            "median": "67"
+        },
+        "Exam_B": {
+            "students": "17",
+            "passFail": "12\/5",
+            "passPercent": "71",
+            "min": "23",
+            "max": "96",
+            "average": "66.412",
+            "median": "74"
+        },
+        "Final_B": {
+            "students": "17",
+            "passFail": "13\/4",
+            "passPercent": "76",
+            "min": "35",
+            "max": "97",
+            "average": "71.118",
+            "median": "75"
+        }
+    },
     "202202": {
         "Staff": [
             {
