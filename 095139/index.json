@@ -1,0 +1,39 @@
+{
+    "202401": {
+        "Staff": [
+            {
+                "name": "ירון נחמיה",
+                "email": "nyaron@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "ז'יכלינסקי נועה",
+                "email": "noazy@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "ליקוורניק נועה- פאני",
+                "email": "noalikvornik@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "76",
+            "passFail": "63\/13",
+            "passPercent": "83",
+            "min": "27.5",
+            "max": "111",
+            "average": "68.344",
+            "median": "66"
+        },
+        "Final_A": {
+            "students": "76",
+            "passFail": "68\/8",
+            "passPercent": "89",
+            "min": "28",
+            "max": "100",
+            "average": "73.316",
+            "median": "73.5"
+        }
+    }
+}
