@@ -1,4 +1,32 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "עמק יובל",
+                "email": "yemek@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברינקר ליאם",
+                "email": "liam.brinker@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קוחלי יונתן",
+                "email": "kjonathan@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "173",
+            "passFail": "133\/40",
+            "passPercent": "77",
+            "min": "4",
+            "max": "100",
+            "average": "71.133",
+            "median": "75"
+        }
+    },
     "202301": {
         "Staff": [
             {
