@@ -10,11 +10,6 @@
                 "name": "הרציגר עטר",
                 "email": "atarherziger@technion.ac.il",
                 "title": "מרצה"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -32,8 +27,26 @@
             "passPercent": "100",
             "min": "69.6",
             "max": "98.2",
-            "average": "85.729",
+            "average": "85.756",
             "median": "85.7"
+        },
+        "Exam_B": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "88",
+            "average": "73.857",
+            "median": "74"
+        },
+        "Final_B": {
+            "students": "84",
+            "passFail": "84\/0",
+            "passPercent": "100",
+            "min": "69.6",
+            "max": "98.2",
+            "average": "85.157",
+            "median": "84.615"
         }
     },
     "202202": {
