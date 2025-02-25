@@ -1,4 +1,37 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "קול-רון נועם",
+                "email": "noamron1@gmail.com,noamron@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כהן שרית",
+                "email": "saritc@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דייטשמן רויטל",
+                "email": "revital.d@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "132",
+            "passFail": "132\/0",
+            "passPercent": "100",
+            "min": "80",
+            "max": "100",
+            "average": "93.485",
+            "median": "94"
+        }
+    },
     "202201": {
         "Staff": [
             {
