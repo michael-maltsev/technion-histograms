@@ -1,4 +1,46 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "טל עדו",
+                "email": "idotal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טל אילת",
+                "email": "ayell@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "רשף רועי",
+                "email": "sror@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "דוד אור",
+                "email": "orda@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "131",
+            "passFail": "105\/26",
+            "passPercent": "80",
+            "min": "34",
+            "max": "99",
+            "average": "70.511",
+            "median": "70"
+        },
+        "Final_A": {
+            "students": "131",
+            "passFail": "123\/8",
+            "passPercent": "94",
+            "min": "44",
+            "max": "100",
+            "average": "75.313",
+            "median": "75"
+        }
+    },
     "202302": {
         "Staff": [
             {
