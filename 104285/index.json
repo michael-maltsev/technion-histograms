@@ -1,4 +1,36 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "פינסקי טלי",
+                "email": "talipi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דראושה עבד אלחמיד",
+                "email": "abedrawshi@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "43",
+            "passFail": "32\/11",
+            "passPercent": "74",
+            "min": "26",
+            "max": "98",
+            "average": "68.151",
+            "median": "66.5"
+        },
+        "Final_A": {
+            "students": "43",
+            "passFail": "38\/5",
+            "passPercent": "88",
+            "min": "26",
+            "max": "98",
+            "average": "72.698",
+            "median": "71"
+        }
+    },
     "202302": {
         "Staff": [
             {
