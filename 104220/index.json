@@ -1,4 +1,31 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "גובר שלומי",
+                "email": "shlomigo@technion.ac.il,shlomigo@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "290",
+            "passFail": "236\/54",
+            "passPercent": "81",
+            "min": "0",
+            "max": "100",
+            "average": "71.424",
+            "median": "75"
+        },
+        "Final_A": {
+            "students": "290",
+            "passFail": "247\/43",
+            "passPercent": "85",
+            "min": "1",
+            "max": "100",
+            "average": "75.479",
+            "median": "80"
+        }
+    },
     "202302": {
         "Staff": [
             {
