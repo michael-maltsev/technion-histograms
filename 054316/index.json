@@ -1,4 +1,36 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "מנדלס דן",
+                "email": "danmendels@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ויזנבליט עופרי",
+                "email": "ofri.viz@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            }
+        ],
+        "Exam_A": {
+            "students": "53",
+            "passFail": "45\/8",
+            "passPercent": "85",
+            "min": "40",
+            "max": "95",
+            "average": "71.774",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "53",
+            "passFail": "47\/6",
+            "passPercent": "89",
+            "min": "40",
+            "max": "95",
+            "average": "76.572",
+            "median": "78.3"
+        }
+    },
     "202201": {
         "Staff": [
             {
