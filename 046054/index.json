@@ -1,0 +1,34 @@
+{
+    "202302": {
+        "Staff": [
+            {
+                "name": "ריינהרדט אורי",
+                "email": "ori@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אבן חיים שירן",
+                "email": "shiranev@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "48",
+            "max": "100",
+            "average": "83.867",
+            "median": "86"
+        },
+        "Final_A": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "48",
+            "max": "100",
+            "average": "87.4",
+            "median": "90"
+        }
+    }
+}
