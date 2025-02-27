@@ -1,4 +1,36 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "סליקטר דרור",
+                "email": "dror@bm.technion.ac.il,bmdror@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "עזריאל ליאורה",
+                "email": "liaura.i@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "69",
+            "passFail": "69\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "96.232",
+            "median": "97"
+        },
+        "Final_A": {
+            "students": "69",
+            "passFail": "69\/0",
+            "passPercent": "100",
+            "min": "87",
+            "max": "100",
+            "average": "96.391",
+            "median": "97"
+        }
+    },
     "202202": {
         "Staff": [
             {
