@@ -1,4 +1,36 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "חייט אלכסנדר",
+                "email": "alex.hayat@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גדבאן באסל",
+                "email": "ghadbanbasel@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "52",
+            "passFail": "48\/4",
+            "passPercent": "92",
+            "min": "22",
+            "max": "92",
+            "average": "75.904",
+            "median": "79"
+        },
+        "Final_A": {
+            "students": "52",
+            "passFail": "51\/1",
+            "passPercent": "98",
+            "min": "37",
+            "max": "93",
+            "average": "79.904",
+            "median": "82"
+        }
+    },
     "202302": {
         "Staff": [
             {
