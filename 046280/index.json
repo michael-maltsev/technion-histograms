@@ -1,4 +1,36 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "אייל איתי",
+                "email": "ittay@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בר צור רועי",
+                "email": "roi.bar-zur@cs.technion.ac.il,roi.bar-zur@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "46",
+            "passFail": "41\/5",
+            "passPercent": "89",
+            "min": "44",
+            "max": "100",
+            "average": "71.717",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "46",
+            "passFail": "41\/5",
+            "passPercent": "89",
+            "min": "30",
+            "max": "100",
+            "average": "76.065",
+            "median": "77"
+        }
+    },
     "202301": {
         "Staff": [
             {
