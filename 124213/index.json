@@ -1,4 +1,45 @@
 {
+    "202302": {
+        "Staff": [
+            {
+                "name": "שכטר ישראל",
+                "email": "israel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שרון אוריה",
+                "email": "uriahsharon@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "23",
+            "passFail": "22\/1",
+            "passPercent": "96",
+            "min": "40",
+            "max": "100",
+            "average": "88.304",
+            "median": "95"
+        },
+        "Final_B": {
+            "students": "20",
+            "passFail": "18\/2",
+            "passPercent": "90",
+            "min": "46",
+            "max": "100",
+            "average": "82.45",
+            "median": "88.5"
+        },
+        "Finals": {
+            "students": "44",
+            "passFail": "42\/2",
+            "passPercent": "95",
+            "min": "46",
+            "max": "100",
+            "average": "87.568",
+            "median": "93.5"
+        }
+    },
     "202202": {
         "Staff": [
             {
