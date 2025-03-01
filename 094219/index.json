@@ -1,4 +1,27 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "גבארה אחמד",
+                "email": "ahmadj@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "צור גל",
+                "email": "gal.zur@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "31",
+            "passFail": "21\/10",
+            "passPercent": "68",
+            "min": "23",
+            "max": "90",
+            "average": "61.871",
+            "median": "60"
+        }
+    },
     "202302": {
         "Staff": [
             {
@@ -113,7 +136,7 @@
             "passPercent": "82",
             "min": "23",
             "max": "97",
-            "average": "66.511",
+            "average": "66.466",
             "median": "68"
         }
     },
