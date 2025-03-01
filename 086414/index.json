@@ -1,4 +1,36 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "נתן בנבניסטה",
+                "email": "aerben@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גולדין רוני",
+                "email": "ronigoldin@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "70",
+            "passFail": "70\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "96",
+            "average": "88.186",
+            "median": "89"
+        },
+        "Final_A": {
+            "students": "69",
+            "passFail": "69\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "96",
+            "average": "89.014",
+            "median": "90"
+        }
+    },
     "202301": {
         "Staff": [
             {
