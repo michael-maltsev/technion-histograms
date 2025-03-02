@@ -1,4 +1,36 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "לברון יואש",
+                "email": "yoashl@ee.technion.ac.il,yoashl@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בורנשטיין שי",
+                "email": "shaybor@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "112",
+            "passFail": "99\/13",
+            "passPercent": "88",
+            "min": "0",
+            "max": "100",
+            "average": "74.527",
+            "median": "75.5"
+        },
+        "Final_A": {
+            "students": "112",
+            "passFail": "99\/13",
+            "passPercent": "88",
+            "min": "0",
+            "max": "100",
+            "average": "77.438",
+            "median": "79"
+        }
+    },
     "202301": {
         "Staff": [
             {
