@@ -1,4 +1,36 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "לם אילת",
+                "email": "ayeletla@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בשארה לילא",
+                "email": "lailab@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "72",
+            "passFail": "68\/4",
+            "passPercent": "94",
+            "min": "7",
+            "max": "100",
+            "average": "81.986",
+            "median": "87"
+        },
+        "Final_A": {
+            "students": "72",
+            "passFail": "68\/4",
+            "passPercent": "94",
+            "min": "7",
+            "max": "100",
+            "average": "82.903",
+            "median": "88"
+        }
+    },
     "202302": {
         "Staff": [
             {
