@@ -1,4 +1,36 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "מאיר רון",
+                "email": "rmeir@ee.technion.ac.il,rmeir@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרידמן ליאור",
+                "email": "liorf@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "38",
+            "passFail": "24\/14",
+            "passPercent": "63",
+            "min": "13",
+            "max": "93.75",
+            "average": "61.274",
+            "median": "59.5"
+        },
+        "Final_A": {
+            "students": "38",
+            "passFail": "35\/3",
+            "passPercent": "92",
+            "min": "39",
+            "max": "100",
+            "average": "75.395",
+            "median": "74"
+        }
+    },
     "202301": {
         "Staff": [
             {
