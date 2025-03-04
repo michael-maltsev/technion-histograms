@@ -163,6 +163,7 @@ COURSE_ALTERNATIVE_NAMES = {
     'מבוא למחשב  שפת סי אנגלית - בינלאומי': 'Introduction to Computer-C (En)',
     'פיסיקה 1 - בינלאומי': 'Physics 1',
     'כימיה כללית - בינלאומי': 'General Chemistry',
+    'קומבינטוריקה': 'Combinatorics',
 }
 
 
