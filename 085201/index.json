@@ -1,4 +1,36 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "לוי יובל",
+                "email": "yuvallevy@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טואטי נעם",
+                "email": "noamtouati@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "60",
+            "passFail": "53\/7",
+            "passPercent": "88",
+            "min": "25",
+            "max": "100",
+            "average": "79.55",
+            "median": "85"
+        },
+        "Final_A": {
+            "students": "60",
+            "passFail": "56\/4",
+            "passPercent": "93",
+            "min": "39",
+            "max": "100",
+            "average": "83.283",
+            "median": "88"
+        }
+    },
     "202101": {
         "Finals": {
             "students": "17",
