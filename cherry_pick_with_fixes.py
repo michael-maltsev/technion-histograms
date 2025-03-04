@@ -164,6 +164,9 @@ COURSE_ALTERNATIVE_NAMES = {
     'פיסיקה 1 - בינלאומי': 'Physics 1',
     'כימיה כללית - בינלאומי': 'General Chemistry',
     'קומבינטוריקה': 'Combinatorics',
+    'כימיה אורגנית מורחב 1': 'Organic Chemistry 1/ Extended',
+    'יסודות היזמות': 'Innovation Masterclass',
+    'מושגי יסוד במתמטיקה': 'Basic Concepts in Mathematics',
 }
 
 
