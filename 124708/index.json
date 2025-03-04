@@ -1,4 +1,27 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "אישן יואב",
+                "email": "chryoav@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זרטל יובל",
+                "email": "z.yuval@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "33",
+            "passFail": "18\/15",
+            "passPercent": "55",
+            "min": "14",
+            "max": "100",
+            "average": "63.909",
+            "median": "56"
+        }
+    },
     "202301": {
         "Staff": [
             {

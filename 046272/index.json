@@ -1,4 +1,36 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "בן דוד נעמה",
+                "email": "bendavidn@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זאק יעל",
+                "email": "yael.z@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "26",
+            "passFail": "21\/5",
+            "passPercent": "81",
+            "min": "35",
+            "max": "98",
+            "average": "64.538",
+            "median": "64.5"
+        },
+        "Final_A": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "100",
+            "average": "80.423",
+            "median": "80.5"
+        }
+    },
     "202301": {
         "Staff": [
             {
