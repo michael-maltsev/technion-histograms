@@ -407,10 +407,19 @@ def cherry_pick_with_fixes(after_commit, last_commit):
         f'{after_commit}..{last_commit}',
     ])
 
+    errors = 0
+
     with tempfile.TemporaryDirectory() as tmpdirname:
         for commit in reversed(commits):
             print('Applying a fixed version of commit ' + commit)
-            cherry_pick_commit_with_fixes(commit, tmpdirname)
+            try:
+                cherry_pick_commit_with_fixes(commit, tmpdirname)
+            except Exception as e:
+                print(f'Error: {e}')
+                errors += 1
+
+    if errors:
+        raise Exception(f'Failed to apply {errors} commits')
 
 
 def main():
