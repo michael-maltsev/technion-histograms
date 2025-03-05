@@ -283,6 +283,12 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         'c1f88adfbb6048553e3a675a3cd2b88bb56e2a28',
     ):
         override_course = '034010'
+    elif commit in (
+        'ef6ec3aece2b45cadadf5750873340a87d0cb714',
+        'c69615615c58d0a064873dbac093006a0b890ae7',
+    ):
+        override_course = '044167'
+        override_semester = '202302'
 
     if override_course:
         # 9730xy -> 97030xy
