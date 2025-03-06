@@ -1,4 +1,52 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "בז'ה עודד",
+                "email": "beja@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "מאירי דדי",
+                "email": "dmeiri@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "קפלן אריאל",
+                "email": "akaplanz@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "עטאר אורנה",
+                "email": "",
+                "title": "מרצה"
+            },
+            {
+                "name": "בר אילאיל",
+                "email": "ealeal44@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "נאמן טל",
+                "email": "tal.neeman@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קרטס-הרדוף דפנה",
+                "email": "kdafna@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "433",
+            "passFail": "397\/36",
+            "passPercent": "92",
+            "min": "24",
+            "max": "100",
+            "average": "80.642",
+            "median": "84"
+        }
+    },
     "202302": {
         "Staff": [
             {
