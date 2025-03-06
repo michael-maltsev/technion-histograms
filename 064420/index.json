@@ -1,4 +1,66 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "קשי יחזקאל",
+                "email": "kashi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גנון אור",
+                "email": "or.ganon@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "גנץ מיכאלה",
+                "email": "micaelaganz@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מחזומי מוחמד",
+                "email": "muhammadm@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אביטבול שנהב",
+                "email": "shenhav.abi@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קצלניק שקד",
+                "email": "katzelnick@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שמש פז",
+                "email": "paz-shemesh@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אבו חמד חנאן",
+                "email": "hanan.ab@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "47",
+            "passFail": "47\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "99",
+            "average": "85.447",
+            "median": "87"
+        },
+        "Final_A": {
+            "students": "47",
+            "passFail": "47\/0",
+            "passPercent": "100",
+            "min": "74",
+            "max": "99",
+            "average": "89.745",
+            "median": "91"
+        }
+    },
     "202301": {
         "Staff": [
             {
