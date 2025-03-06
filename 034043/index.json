@@ -1,4 +1,27 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "גרבר ארטור",
+                "email": "arthur.g@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דמצ'נקו איגור",
+                "email": "sigord@technion.ac.il,sigord@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "94",
+            "passFail": "89\/5",
+            "passPercent": "95",
+            "min": "34",
+            "max": "99",
+            "average": "84.83",
+            "median": "87.5"
+        }
+    },
     "202301": {
         "Staff": [
             {
