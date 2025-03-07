@@ -1,4 +1,41 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "סתיו ינון",
+                "email": "yinnon@ee.technion.ac.il,yinnon@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שמרון אפרת",
+                "email": "efrat.s@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "רמדאן פיראס",
+                "email": "firasramadan@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "314",
+            "passFail": "231\/83",
+            "passPercent": "74",
+            "min": "10",
+            "max": "105",
+            "average": "66.185",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "314",
+            "passFail": "240\/74",
+            "passPercent": "76",
+            "min": "13",
+            "max": "100",
+            "average": "73.121",
+            "median": "79"
+        }
+    },
     "202302": {
         "Staff": [
             {
