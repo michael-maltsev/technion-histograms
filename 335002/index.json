@@ -1,4 +1,36 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "מרחר יוליה",
+                "email": "merkher@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קרבצ'יק ולריה",
+                "email": "kra.valeriia@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            }
+        ],
+        "Exam_A": {
+            "students": "48",
+            "passFail": "48\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "96.688",
+            "median": "99.5"
+        },
+        "Final_A": {
+            "students": "51",
+            "passFail": "51\/0",
+            "passPercent": "100",
+            "min": "89",
+            "max": "99",
+            "average": "95.02",
+            "median": "95"
+        }
+    },
     "202302": {
         "Staff": [
             {
