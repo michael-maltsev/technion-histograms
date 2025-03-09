@@ -1,4 +1,46 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "פודולסקי דניאל",
+                "email": "podolsky@physics.technion.ac.il,podolsky@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גולדברג ירד",
+                "email": "jmg116@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "נדל שי",
+                "email": "shay.nadel@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "גרמפל ויליאם",
+                "email": "swillg@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "105",
+            "passFail": "78\/27",
+            "passPercent": "74",
+            "min": "11.66",
+            "max": "98.58",
+            "average": "66.798",
+            "median": "68.9"
+        },
+        "Final_A": {
+            "students": "99",
+            "passFail": "88\/11",
+            "passPercent": "89",
+            "min": "33",
+            "max": "98",
+            "average": "74.798",
+            "median": "76"
+        }
+    },
     "202301": {
         "Staff": [
             {
