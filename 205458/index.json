@@ -1,4 +1,46 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "רז אופק",
+                "email": "ofek.gonen@campus.technion.ac.il,ofek.gonen@alumni.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שבו אביב",
+                "email": "aviv.shabo@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ממן עדן",
+                "email": "eden.maman@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פינגר שי",
+                "email": "shay.finger@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "53",
+            "passFail": "44\/9",
+            "passPercent": "83",
+            "min": "22",
+            "max": "100",
+            "average": "78.057",
+            "median": "85"
+        },
+        "Final_A": {
+            "students": "53",
+            "passFail": "44\/9",
+            "passPercent": "83",
+            "min": "22",
+            "max": "100",
+            "average": "80.906",
+            "median": "89"
+        }
+    },
     "202201": {
         "Staff": [
             {
