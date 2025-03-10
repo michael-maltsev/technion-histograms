@@ -1,4 +1,32 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "לפקוביץ יוסף",
+                "email": "joseph.lef@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דיסקין דוד",
+                "email": "david.diskin@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "לויתן איתמר",
+                "email": "itamar-lev@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "77",
+            "passFail": "61\/16",
+            "passPercent": "79",
+            "min": "20",
+            "max": "97",
+            "average": "67.779",
+            "median": "68"
+        }
+    },
     "202301": {
         "Staff": [
             {
