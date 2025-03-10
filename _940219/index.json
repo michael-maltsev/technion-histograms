@@ -1,0 +1,43 @@
+{
+    "202202": {
+        "Staff": [
+            {
+                "name": "טויטו דביר",
+                "email": "dvir.twito@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "גבארה אחמד",
+                "email": "ahmadj@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "159",
+            "passFail": "106\/53",
+            "passPercent": "67",
+            "min": "23",
+            "max": "100",
+            "average": "59",
+            "median": "59"
+        },
+        "Final_B": {
+            "students": "104",
+            "passFail": "63\/41",
+            "passPercent": "61",
+            "min": "18",
+            "max": "93",
+            "average": "56.827",
+            "median": "60"
+        },
+        "Finals": {
+            "students": "195",
+            "passFail": "152\/43",
+            "passPercent": "78",
+            "min": "27",
+            "max": "100",
+            "average": "61.586",
+            "median": "64"
+        }
+    }
+}
