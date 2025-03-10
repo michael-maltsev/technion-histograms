@@ -1,4 +1,46 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "משולם רועי",
+                "email": "meshulam@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "וינטראוב עמית",
+                "email": "amitw@technion.ac.il,amitw@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מויאל עומר",
+                "email": "omer.moyal@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אבנרי ערן",
+                "email": "eran.avneri@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "42",
+            "passFail": "31\/11",
+            "passPercent": "74",
+            "min": "0",
+            "max": "100",
+            "average": "69.024",
+            "median": "71"
+        },
+        "Final_A": {
+            "students": "42",
+            "passFail": "35\/7",
+            "passPercent": "83",
+            "min": "3.222",
+            "max": "100",
+            "average": "71.485",
+            "median": "73.9"
+        }
+    },
     "202302": {
         "Staff": [
             {
@@ -31,7 +73,7 @@
             "passPercent": "83",
             "min": "10",
             "max": "100",
-            "average": "72.375",
+            "average": "72.522",
             "median": "83"
         }
     },
