@@ -1,0 +1,43 @@
+{
+    "202302": {
+        "Staff": [
+            {
+                "name": "בן פורת עומר",
+                "email": "omerbp@technion.ac.il,omerbp@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קינן גור",
+                "email": "gur.keinan@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "143",
+            "passFail": "125\/18",
+            "passPercent": "87",
+            "min": "13",
+            "max": "100",
+            "average": "72.014",
+            "median": "71"
+        },
+        "Final_B": {
+            "students": "53",
+            "passFail": "46\/7",
+            "passPercent": "87",
+            "min": "23",
+            "max": "93",
+            "average": "66.113",
+            "median": "68"
+        },
+        "Finals": {
+            "students": "165",
+            "passFail": "154\/11",
+            "passPercent": "93",
+            "min": "21",
+            "max": "100",
+            "average": "73.692",
+            "median": "71"
+        }
+    }
+}
