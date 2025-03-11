@@ -3,18 +3,18 @@
         "Staff": [
             {
                 "name": "טל עדו",
-                "email": "idotal@technion.ac.il",
+                "email": "idotal@ee.technion.ac.il,idotal@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
                 "name": "טל אילת",
-                "email": "ayell@technion.ac.il",
+                "email": "ayellet@ee.technion.ac.il,ayell@technion.ac.il",
                 "title": "מרצה"
             },
             {
                 "name": "רשף רועי",
                 "email": "sror@campus.technion.ac.il",
-                "title": "מתרגל"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "דוד אור",
@@ -28,7 +28,7 @@
             "passPercent": "80",
             "min": "34",
             "max": "99",
-            "average": "70.511",
+            "average": "70.656",
             "median": "70"
         },
         "Final_A": {
@@ -37,7 +37,7 @@
             "passPercent": "94",
             "min": "44",
             "max": "100",
-            "average": "75.313",
+            "average": "75.45",
             "median": "75"
         }
     },
