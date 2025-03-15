@@ -379,6 +379,8 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
             print(f'Overriding path in commit {commit}: {path_without_mismatch} -> {path_fixed}')
         elif path_without_mismatch == re.sub(r'^9730\d\d/', r'097030/', path_fixed):
             pass
+        elif path_without_mismatch == '_' + course_number + re.sub(r'^\d+/', '/', path_fixed):
+            pass
         else:
             raise Exception(f'Unexpected path in commit {commit}: {path_without_mismatch} != {path_fixed}')
 
