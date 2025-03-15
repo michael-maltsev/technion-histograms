@@ -167,6 +167,13 @@ COURSE_ALTERNATIVE_NAMES = {
     'כימיה אורגנית מורחב 1': 'Organic Chemistry 1/ Extended',
     'יסודות היזמות': 'Innovation Masterclass',
     'מושגי יסוד במתמטיקה': 'Basic Concepts in Mathematics',
+    'משוואות דיפ\' רגילות ואינפי 2ח\'': 'עקרונות פיזיקליים של התקני מל"מ',
+    'מערכות ליניאריות מ\' – בינלאומי': 'Linear Systems M – International',
+    'חשבון דיפרנציאלי ואינטגרלי 1מ\' - בינלאומי': 'Differential and Integral Calculus 1M - International',
+    'פיסיקה 1 - בינלאומי': 'Physics 1 - International',
+    'עברית לביה"ס הבינלאומי 44 - בינלאומי': 'Hebrew for the International School 44 - International',
+    'כימיה כללית - בינלאומי': 'General Chemistry - International',
+    'עברית לביה"ס הבינלאומי 33 - בינלאומי': 'Hebrew for the International School 33 - International',
 }
 
 
