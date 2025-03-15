@@ -358,7 +358,7 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
     # Pad with 6 zeros.
     course_number_fixed = course_number_fixed.zfill(6)
 
-    match = re.fullmatch(r'(?:_mismatch_)?[0-9]{6}/([0-9]{6})/(\w+)\.(png|json)', path)
+    match = re.fullmatch(r'(?:_mismatch_)?_?[0-9]{6}/([0-9]{6})/(\w+)\.(png|json)', path)
     if not match:
         raise Exception(f'Unexpected path in commit {commit}: {path}')
 
