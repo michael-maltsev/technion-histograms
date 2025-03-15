@@ -27,7 +27,7 @@ foreach ($dir as $fileinfo) {
     }
 
     $course = $fileinfo->getFilename();
-    if (str_starts_with($course, '_mismatch_')) {
+    if (str_starts_with($course, '_mismatch_') || strlen($course) == 6) {
         continue;
     }
 
