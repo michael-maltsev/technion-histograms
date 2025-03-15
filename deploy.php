@@ -3,6 +3,11 @@
 require_once 'deploy_course_names.php';
 require_once 'Parsedown.php';
 
+// For the IDE, defined in deploy_course_names.php.
+if (!defined('COURSE_NAMES')) {
+    define('COURSE_NAMES', []);
+}
+
 $courses = [];
 $stats = [
     'courses' => 0,
