@@ -378,7 +378,9 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         elif path_without_mismatch == re.sub(r'^9730\d\d/', r'097030/', path_fixed):
             pass
         else:
-            raise Exception(f'Unexpected path in commit {commit}: {path_without_mismatch} != {path_fixed}')
+            path_from_escaped = path_fixed.replace('\'', '\\\'')
+            path_to_escaped = path_without_mismatch.replace('\'', '\\\'')
+            raise Exception(f'Unexpected path in commit {commit}, rule => \'{path_from_escaped}\': \'{path_to_escaped}\',')
 
     if category_from_path != 'Staff':
         is_international = properties['histogramCourseName'].endswith('- בינלאומי')
