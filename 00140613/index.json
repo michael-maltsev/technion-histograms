@@ -1,0 +1,39 @@
+{
+    "201901": {
+        "Staff": [
+            {
+                "name": "זאל דורה",
+                "email": "doraczgo@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צאצאשוילי תמי",
+                "email": "tami@technion.ac.il,noreplay@norplay.com",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "94",
+            "average": "77.125",
+            "median": "77.5"
+        },
+        "Finals": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "94",
+            "average": "77.474",
+            "median": "77"
+        }
+    }
+}

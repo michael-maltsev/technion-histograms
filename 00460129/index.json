@@ -1,0 +1,43 @@
+{
+    "201701": {
+        "Staff": [
+            {
+                "name": "חייט אלכסנדר",
+                "email": "alex.hayat@ee.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אלפסי ניר",
+                "email": "nir.alfa@technion.ac.il,nir.alfa@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "100",
+            "average": "87.583",
+            "median": "91"
+        },
+        "Final_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "100",
+            "average": "87.833",
+            "median": "91"
+        },
+        "Finals": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "100",
+            "average": "91.067",
+            "median": "91"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "201902": {
+        "Staff": [
+            {
+                "name": "רבינוביץ ארקדי",
+                "email": "arkadir@rail.co.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-סימון ציפורה",
+                "email": "transeng@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "27",
+            "passFail": "18\/9",
+            "passPercent": "67",
+            "min": "31",
+            "max": "88",
+            "average": "63.778",
+            "median": "68"
+        },
+        "Final_B": {
+            "students": "15",
+            "passFail": "12\/3",
+            "passPercent": "80",
+            "min": "51",
+            "max": "77",
+            "average": "67.533",
+            "median": "69"
+        },
+        "Finals": {
+            "students": "33",
+            "passFail": "31\/2",
+            "passPercent": "94",
+            "min": "51",
+            "max": "88",
+            "average": "70.667",
+            "median": "70"
+        }
+    }
+}

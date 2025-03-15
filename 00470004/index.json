@@ -1,0 +1,43 @@
+{
+    "201801": {
+        "Staff": [
+            {
+                "name": "קוטינסקי שחר",
+                "email": "skva@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קפלן רומן",
+                "email": "romankap@gmail.com,sromanka@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "39",
+            "passFail": "38\/1",
+            "passPercent": "97",
+            "min": "52.25",
+            "max": "100",
+            "average": "76.795",
+            "median": "74.25"
+        },
+        "Final_A": {
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "100",
+            "average": "83.487",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "100",
+            "average": "86.512",
+            "median": "86"
+        }
+    }
+}

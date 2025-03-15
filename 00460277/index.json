@@ -1,0 +1,34 @@
+{
+    "202302": {
+        "Staff": [
+            {
+                "name": "דרקסלר כהן דנה",
+                "email": "ddana@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יובילר תם",
+                "email": "tom.yuviler@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "25",
+            "passFail": "24\/1",
+            "passPercent": "96",
+            "min": "46",
+            "max": "97",
+            "average": "78.64",
+            "median": "80"
+        },
+        "Final_A": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "100",
+            "average": "85.8",
+            "median": "87"
+        }
+    }
+}

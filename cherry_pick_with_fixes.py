@@ -226,86 +226,13 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
     override_category = None
 
     if commit in (
-        '60a6e7bf0581b8cb71663d7957fabc0bf9863729',
-        'be7884122e9fbb028ea7f65171818f6c826addef',
-    ):
-        override_course = '236350'
-        override_semester = '202202'
-    elif commit in (
-        '52616fdf3603cd494df41975694e7d7af446a177',
-        '8c8303a720b52efa18adcfc10c1848f91a9f5888',
-    ):
-        override_course = '044102'
-        override_semester = '202101'
-    elif commit in (
-        '5c3bf1dfeee74ad5bc4e8e84354d6e7471f7c152',
-        '52d6dcd0843a6a5a10cdd5721bad488d905fa0a0',
-    ):
-        override_course = '014143'
-        override_semester = '202301'
-    elif commit in (
-        '17d2bfea4b1efc215bf694ac632cdca0dd1524db',
-        '055cb9ec08bd58927481aab8309d6417feea2d6b',
-    ):
-        override_category = 'Exam_B'
-        override_semester = '201401'
-    elif commit in (
-        '3b20e2e0a20f79cf3a8b33f08504e52399cb916c',
-        'bc30638abd6a1dd79fb7ba8357becec1b2801ba0',
-    ):
-        override_course = '234218'
-        override_semester = '202301'
-    elif commit in (
-        '1e207ab8761b97ecd6d1faa49c8b30ef6a190624',
-        'c4220082689de967bc56587dd8d59b3b05ca0035',
-    ):
-        override_course = '234292'
-        override_semester = '202301'
-    elif commit in (
-        '3cee07f9b8cd47ebb196a63196508105a105a05a',
-        '3d5389aa088c89855066bedfa13f87f0e1b01b4f',
-    ):
-        override_course = '114037'
-        override_semester = '202301'
-    elif commit in (
-        'd5163e5ceaa68a2858fa69028cc13a01df0642a2',
-        '7d004a95d2c6419452123cdeae7217c569220050',
-    ):
-        override_course = '134082'
-        override_semester = '202301'
-    elif commit in (
-        '4ee4b6316675f781042b3bb02a965a4a21d73ff8',
-        '94dfe383b439a3b0adcd1c56e94571450cf17d38',
-    ):
-        override_course = '207450'
-    elif commit in (
-        '1610e81865e4b9c4b1f043df58e5005df3be7a7d',
-        'e7f22338b9120f09ad5ee7a1f705ee1ad251aa33',
-    ):
-        override_course = '046278'
-        override_semester = '202302'
-    elif commit in (
-        '7cc569c737472df161d5762c1b0bff61cdf3a971',
-        'c1f88adfbb6048553e3a675a3cd2b88bb56e2a28',
-    ):
-        override_course = '034010'
-    elif commit in (
-        'ef6ec3aece2b45cadadf5750873340a87d0cb714',
-        'c69615615c58d0a064873dbac093006a0b890ae7',
-    ):
-        override_course = '044167'
-        override_semester = '202302'
-    elif commit in (
         '3ffdb2f9316a85df96e41b44997922595172447d',
         '51005d4c21963773d50d923c98645b5e55fb7228',
     ):
-        override_course = '104035'
+        override_course = '01040035'
         override_semester = '202101'
 
     if override_course:
-        # 9730xy -> 97030xy
-        override_course = re.sub(r'^9730(\d\d)$', r'97030\1', override_course)
-        override_course = override_course[:-3] + '0' + override_course[-3:]
         properties['course'] = override_course
         properties['courseName'] = properties['histogramCourseName']
         properties['histogramCourseNameMismatch'] = 'false'
@@ -356,35 +283,40 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
     if not re.fullmatch(pattern, course_number) or course_number[-4] != '0':
         raise Exception(f'Unexpected course number in commit {commit}: {course_number}')
 
-    course_number_fixed = course_number[:-4] + course_number[-3:]
+    # Pad with zeros.
+    course_number_fixed = course_number.zfill(8)
+
+    course_number_fixed_legacy = course_number[:-4] + course_number[-3:]
 
     # Handle special cases:
     # 97030xy -> 9730xy
-    course_number_fixed = re.sub(r'^97030(\d\d)$', r'9730\1', course_number_fixed)
+    course_number_fixed_legacy = re.sub(r'^97030(\d\d)$', r'9730\1', course_number_fixed_legacy)
 
     # Pad with 6 zeros.
-    course_number_fixed = course_number_fixed.zfill(6)
+    course_number_fixed_legacy = course_number_fixed_legacy.zfill(6)
 
-    match = re.fullmatch(r'(?:_mismatch_)?(?:[0-9]{6}|_[0-9]{5,8})/([0-9]{6})/(\w+)\.(png|json)', path)
+    match = re.fullmatch(r'(?:_mismatch_)?_?[0-9]{5,8}/([0-9]{6})/(\w+)\.(png|json)', path)
     if not match:
         raise Exception(f'Unexpected path in commit {commit}: {path}')
 
     semester_from_path = match.group(1)
     category_from_path = match.group(2)
     file_extension_from_path = match.group(3)
-    path_fixed = (
-        course_number_fixed + '/' +
+    path_fixed_suffix = (
+        '/' +
         (override_semester or semester_from_path) + '/' +
         (override_category or category_from_path) + '.' +
         file_extension_from_path)
+    path_fixed = course_number_fixed + path_fixed_suffix
+    path_fixed_legacy = course_number_fixed_legacy + path_fixed_suffix
 
     path_without_mismatch = path.removeprefix('_mismatch_')
-    if path_fixed != path_without_mismatch:
+    if path_without_mismatch not in (path_fixed, path_fixed_legacy):
         if override_course or override_semester or override_category:
             print(f'Overriding path in commit {commit}: {path_without_mismatch} -> {path_fixed}')
-        elif path_without_mismatch == re.sub(r'^9730\d\d/', r'097030/', path_fixed):
+        elif path_without_mismatch == re.sub(r'^9730\d\d/', r'097030/', path_fixed_legacy):
             pass
-        elif path_without_mismatch == '_' + course_number + re.sub(r'^\d+/', '/', path_fixed):
+        elif path_without_mismatch == '_' + course_number + path_fixed_suffix:
             pass
         else:
             raise Exception(f'Unexpected path in commit {commit}: {path_without_mismatch} != {path_fixed}')
