@@ -1,4 +1,41 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "ונדורנה קתרין",
+                "email": "k.vandoorne@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פישר אליענה",
+                "email": "selianaf@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "לן ויקטוריה",
+                "email": "lan.victoria@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "69",
+            "passFail": "68\/1",
+            "passPercent": "99",
+            "min": "47.5",
+            "max": "100",
+            "average": "88.13",
+            "median": "92.5"
+        },
+        "Final_A": {
+            "students": "69",
+            "passFail": "69\/0",
+            "passPercent": "100",
+            "min": "63.25",
+            "max": "100",
+            "average": "91.663",
+            "median": "94.75"
+        }
+    },
     "202301": {
         "Staff": [
             {
