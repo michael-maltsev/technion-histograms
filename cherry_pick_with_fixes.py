@@ -167,6 +167,13 @@ COURSE_ALTERNATIVE_NAMES = {
     'כימיה אורגנית מורחב 1': 'Organic Chemistry 1/ Extended',
     'יסודות היזמות': 'Innovation Masterclass',
     'מושגי יסוד במתמטיקה': 'Basic Concepts in Mathematics',
+    'משוואות דיפ\' רגילות ואינפי 2ח\'': 'עקרונות פיזיקליים של התקני מל"מ',
+    'מערכות ליניאריות מ\' – בינלאומי': 'Linear Systems M – International',
+    'חשבון דיפרנציאלי ואינטגרלי 1מ\' - בינלאומי': 'Differential and Integral Calculus 1M - International',
+    'פיסיקה 1 - בינלאומי': 'Physics 1 - International',
+    'עברית לביה"ס הבינלאומי 44 - בינלאומי': 'Hebrew for the International School 44 - International',
+    'כימיה כללית - בינלאומי': 'General Chemistry - International',
+    'עברית לביה"ס הבינלאומי 33 - בינלאומי': 'Hebrew for the International School 33 - International',
 }
 
 
@@ -351,7 +358,7 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
     # Pad with 6 zeros.
     course_number_fixed = course_number_fixed.zfill(6)
 
-    match = re.fullmatch(r'(?:_mismatch_)?[0-9]{6}/([0-9]{6})/(\w+)\.(png|json)', path)
+    match = re.fullmatch(r'(?:_mismatch_)?_?[0-9]{6}/([0-9]{6})/(\w+)\.(png|json)', path)
     if not match:
         raise Exception(f'Unexpected path in commit {commit}: {path}')
 
@@ -371,7 +378,9 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         elif path_without_mismatch == re.sub(r'^9730\d\d/', r'097030/', path_fixed):
             pass
         else:
-            raise Exception(f'Unexpected path in commit {commit}: {path_without_mismatch} != {path_fixed}')
+            path_from_escaped = path_fixed.replace('\'', '\\\'')
+            path_to_escaped = path_without_mismatch.replace('\'', '\\\'')
+            raise Exception(f'Unexpected path in commit {commit}, rule => \'{path_from_escaped}\': \'{path_to_escaped}\',')
 
     if category_from_path != 'Staff':
         is_international = properties['histogramCourseName'].endswith('- בינלאומי')
