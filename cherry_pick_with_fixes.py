@@ -324,7 +324,9 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         course_name = properties['courseName']
         histogram_course_name = properties['histogramCourseName']
         if COURSE_ALTERNATIVE_NAMES.get(histogram_course_name) != course_name:
-            raise Exception(f'histogramCourseNameMismatch: {commit} ({course_name} != {histogram_course_name})')
+            from_escaped = histogram_course_name.replace('\'', '\\\'')
+            to_escaped = course_name.replace('\'', '\\\'')
+            raise Exception(f'histogramCourseNameMismatch in commit {commit}, rule => \'{from_escaped}\': \'{to_escaped}\',')
 
     if histogram_category_mismatch:
         category = properties['category']
