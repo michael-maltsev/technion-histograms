@@ -7,6 +7,11 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "רדואן ניזאר",
+                "email": "rnizar@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "יחיא יורם",
                 "email": "yoramy@technion.ac.il",
                 "title": "מתרגל"
@@ -19,20 +24,20 @@
         ],
         "Exam_A": {
             "students": "340",
-            "passFail": "213\/127",
+            "passFail": "215\/125",
             "passPercent": "63",
             "min": "0",
             "max": "100",
-            "average": "60.122",
+            "average": "60.356",
             "median": "61"
         },
         "Final_A": {
             "students": "340",
-            "passFail": "250\/90",
+            "passFail": "252\/88",
             "passPercent": "74",
             "min": "0",
             "max": "100",
-            "average": "63.45",
+            "average": "63.7",
             "median": "67"
         }
     },
