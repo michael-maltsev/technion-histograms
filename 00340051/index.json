@@ -1,4 +1,32 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "סטרוסבצקי יולי",
+                "email": "staryuli@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זיידנברג ליאור",
+                "email": "lzaidenberg@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "סנדרוביץ' שגיא",
+                "email": "sagi.s@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "72",
+            "passFail": "46\/26",
+            "passPercent": "64",
+            "min": "14",
+            "max": "100",
+            "average": "56.778",
+            "median": "56.5"
+        }
+    },
     "202302": {
         "Staff": [
             {
