@@ -285,13 +285,13 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
 
     course_number = properties['course']
 
+    # Pad with zeros.
+    course_number_fixed = course_number.zfill(8)
+
     # Remove middle zero.
     pattern = r'(0{0,2}[1-9][0-9]|0{0,1}[1-9][0-9]{2})0[0-9]{3}|970300\d\d'
     if not re.fullmatch(pattern, course_number) or course_number[-4] != '0':
         raise Exception(f'Unexpected course number in commit {commit}: {course_number}')
-
-    # Pad with zeros.
-    course_number_fixed = course_number.zfill(8)
 
     course_number_fixed_legacy = course_number[:-4] + course_number[-3:]
 
