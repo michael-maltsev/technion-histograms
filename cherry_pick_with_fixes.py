@@ -173,6 +173,13 @@ COURSE_ALTERNATIVE_NAMES = {
     'עברית לביה"ס הבינלאומי 44 - בינלאומי': 'Hebrew for the International School 44 - International',
     'כימיה כללית - בינלאומי': 'General Chemistry - International',
     'עברית לביה"ס הבינלאומי 33 - בינלאומי': 'Hebrew for the International School 33 - International',
+    'אותות ומערכות': 'Signals and Systems',
+    'גרמנית 1': 'German 1',
+    'יסודות התקני מוליכים למחצה': 'Basics of Semiconductor Devices',
+    'מבוא לכלכלה': 'Introductory Economics',
+    'מעבדה בהנדסת חשמל 1א': 'Electrical Engineering Lab 1a',
+    'תורת המעגלים החשמליים': 'Theory of Electronic Circuits',
+    'תורת הקוואנטים: מבט פילוסופי': 'Quantum Theory: Philosophical Perspectiv',
 }
 
 
