@@ -9,7 +9,7 @@
             {
                 "name": "מונדרר טל",
                 "email": "talimon@campus.technion.ac.il",
-                "title": "מתרגל"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -22,6 +22,15 @@
             "median": "70.5"
         },
         "Final_A": {
+            "students": "32",
+            "passFail": "25\/7",
+            "passPercent": "78",
+            "min": "7",
+            "max": "100",
+            "average": "68.312",
+            "median": "73"
+        },
+        "Finals": {
             "students": "32",
             "passFail": "25\/7",
             "passPercent": "78",
