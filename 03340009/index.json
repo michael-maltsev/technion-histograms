@@ -1,4 +1,37 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "שניטמן ג'וזואה",
+                "email": "sznitman@bm.technion.ac.il,sznitman@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "בסלר רון",
+                "email": "sronbess@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "מקלר תירוש",
+                "email": "tiroshmekler@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ניקולא וג'די",
+                "email": "wajdi-n@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "77",
+            "passFail": "59\/18",
+            "passPercent": "77",
+            "min": "10",
+            "max": "100",
+            "average": "68.364",
+            "median": "72"
+        }
+    },
     "202301": {
         "Staff": [
             {
