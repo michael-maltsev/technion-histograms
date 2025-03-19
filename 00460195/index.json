@@ -1,4 +1,32 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "לוי יהודה )כפי",
+                "email": "kfirylevy@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רומנו יניב",
+                "email": "yromano@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "קליינר מתן",
+                "email": "matankleiner@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "84",
+            "passFail": "67\/17",
+            "passPercent": "80",
+            "min": "29",
+            "max": "95",
+            "average": "65.762",
+            "median": "67"
+        }
+    },
     "202302": {
         "Staff": [
             {
