@@ -1,4 +1,49 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "ירושלמי יורם",
+                "email": "yerushal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "11\/5",
+            "passPercent": "69",
+            "min": "31",
+            "max": "85",
+            "average": "64.031",
+            "median": "68.75"
+        },
+        "Final_A": {
+            "students": "16",
+            "passFail": "12\/4",
+            "passPercent": "75",
+            "min": "36",
+            "max": "89",
+            "average": "67.438",
+            "median": "72.5"
+        },
+        "Exam_B": {
+            "students": "16",
+            "passFail": "11\/5",
+            "passPercent": "69",
+            "min": "31.5",
+            "max": "93.5",
+            "average": "68.531",
+            "median": "80.25"
+        },
+        "Finals": {
+            "students": "16",
+            "passFail": "12\/4",
+            "passPercent": "75",
+            "min": "36",
+            "max": "89",
+            "average": "67.438",
+            "median": "72.5"
+        }
+    },
     "202301": {
         "Staff": [
             {
