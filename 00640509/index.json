@@ -15,11 +15,6 @@
                 "name": "מוגליאנסקי שי",
                 "email": "shay.i@campus.technion.ac.il",
                 "title": "מתרגל"
-            },
-            {
-                "name": "גולודניצקי דניאל",
-                "email": "dani1994@campus.technion.ac.il",
-                "title": "מתרגל"
             }
         ],
         "Exam_A": {
@@ -28,7 +23,7 @@
             "passPercent": "94",
             "min": "29",
             "max": "99",
-            "average": "79.438",
+            "average": "79.583",
             "median": "83"
         },
         "Final_A": {
@@ -37,7 +32,16 @@
             "passPercent": "94",
             "min": "35",
             "max": "99",
-            "average": "80.594",
+            "average": "80.688",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "48",
+            "passFail": "45\/3",
+            "passPercent": "94",
+            "min": "35",
+            "max": "99",
+            "average": "80.729",
             "median": "85"
         }
     },
