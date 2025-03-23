@@ -1,4 +1,27 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "אמיר עודד",
+                "email": "odedamir@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "34",
+            "passFail": "27\/7",
+            "passPercent": "79",
+            "min": "37",
+            "max": "93",
+            "average": "64.941",
+            "median": "64"
+        }
+    },
     "202301": {
         "Staff": [
             {
