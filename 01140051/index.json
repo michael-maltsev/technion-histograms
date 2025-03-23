@@ -90,19 +90,24 @@
     "202301": {
         "Staff": [
             {
+                "name": "טרם שלומית",
+                "email": "tarem@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
                 "name": "מיקוליצקי זיו",
                 "email": "zivm@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "title": "מרצה"
             }
         ],
         "Final_A": {
-            "students": "16",
-            "passFail": "11\/5",
-            "passPercent": "69",
-            "min": "36",
-            "max": "95",
-            "average": "58.375",
-            "median": "58"
+            "students": "380",
+            "passFail": "316\/64",
+            "passPercent": "83",
+            "min": "7",
+            "max": "100",
+            "average": "77.411",
+            "median": "80"
         },
         "Final_B": {
             "students": "123",
@@ -114,13 +119,13 @@
             "median": "65"
         },
         "Finals": {
-            "students": "17",
-            "passFail": "14\/3",
-            "passPercent": "82",
-            "min": "36",
+            "students": "423",
+            "passFail": "388\/35",
+            "passPercent": "92",
+            "min": "17",
             "max": "100",
-            "average": "64.125",
-            "median": "59.5"
+            "average": "80.434",
+            "median": "84"
         }
     },
     "202203": {

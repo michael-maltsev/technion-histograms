@@ -1,4 +1,45 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "ירום עמוס",
+                "email": "ayarom@physics.technion.ac.il,ayarom@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "נזאל בלאל",
+                "email": "sban@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "95",
+            "average": "86.667",
+            "median": "89"
+        },
+        "Final_A": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "81",
+            "max": "96",
+            "average": "90.333",
+            "median": "92.5"
+        },
+        "Finals": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "96",
+            "average": "88.786",
+            "median": "91.5"
+        }
+    },
     "202302": {
         "Staff": [
             {
