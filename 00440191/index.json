@@ -9,7 +9,7 @@
             {
                 "name": "אייזן עפרי",
                 "email": "ofri.eisen@campus.technion.ac.il",
-                "title": "מתרגל"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -22,6 +22,33 @@
             "median": "66"
         },
         "Final_A": {
+            "students": "67",
+            "passFail": "63\/4",
+            "passPercent": "94",
+            "min": "23",
+            "max": "100",
+            "average": "78.373",
+            "median": "79"
+        },
+        "Exam_B": {
+            "students": "39",
+            "passFail": "31\/8",
+            "passPercent": "79",
+            "min": "17",
+            "max": "96",
+            "average": "71.897",
+            "median": "78"
+        },
+        "Final_B": {
+            "students": "36",
+            "passFail": "32\/4",
+            "passPercent": "89",
+            "min": "34",
+            "max": "100",
+            "average": "78.972",
+            "median": "83.5"
+        },
+        "Finals": {
             "students": "67",
             "passFail": "63\/4",
             "passPercent": "94",
