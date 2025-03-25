@@ -1,4 +1,40 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "וולף עדי",
+                "email": "adiw@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "51",
+            "passFail": "43\/8",
+            "passPercent": "84",
+            "min": "42",
+            "max": "100",
+            "average": "73.196",
+            "median": "75"
+        },
+        "Final_A": {
+            "students": "51",
+            "passFail": "48\/3",
+            "passPercent": "94",
+            "min": "42",
+            "max": "100",
+            "average": "77",
+            "median": "79"
+        },
+        "Finals": {
+            "students": "51",
+            "passFail": "48\/3",
+            "passPercent": "94",
+            "min": "42",
+            "max": "100",
+            "average": "77",
+            "median": "79"
+        }
+    },
     "202302": {
         "Staff": [
             {
@@ -44,13 +80,13 @@
             "median": "80.5"
         },
         "Finals": {
-            "students": "96",
-            "passFail": "85\/11",
+            "students": "99",
+            "passFail": "88\/11",
             "passPercent": "89",
             "min": "2",
             "max": "100",
-            "average": "76.133",
-            "median": "84"
+            "average": "77.75",
+            "median": "85"
         }
     },
     "202301": {
