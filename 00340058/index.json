@@ -9,7 +9,7 @@
             {
                 "name": "גרינס עדו",
                 "email": "ido.griness@campus.technion.ac.il",
-                "title": "מתרגל"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "רוטבוים אביעד",
@@ -23,7 +23,7 @@
             "passPercent": "80",
             "min": "14",
             "max": "100",
-            "average": "67.378",
+            "average": "67.464",
             "median": "70"
         },
         "Final_A": {
@@ -32,8 +32,26 @@
             "passPercent": "94",
             "min": "28",
             "max": "100",
-            "average": "75.774",
+            "average": "75.849",
             "median": "78"
+        },
+        "Exam_B": {
+            "students": "34",
+            "passFail": "27\/7",
+            "passPercent": "79",
+            "min": "18",
+            "max": "100",
+            "average": "69.176",
+            "median": "68.5"
+        },
+        "Final_B": {
+            "students": "34",
+            "passFail": "32\/2",
+            "passPercent": "94",
+            "min": "32",
+            "max": "100",
+            "average": "77.147",
+            "median": "77"
         }
     },
     "202302": {
