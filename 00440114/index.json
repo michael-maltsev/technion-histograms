@@ -1,4 +1,36 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "שינולד שרי",
+                "email": "surke@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יעקבי עידו",
+                "email": "ido.jacobi@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "19",
+            "passFail": "15\/4",
+            "passPercent": "79",
+            "min": "31",
+            "max": "100",
+            "average": "73.053",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "19",
+            "passFail": "17\/2",
+            "passPercent": "89",
+            "min": "31",
+            "max": "100",
+            "average": "76.526",
+            "median": "76"
+        }
+    },
     "202302": {
         "Staff": [
             {
