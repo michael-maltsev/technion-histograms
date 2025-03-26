@@ -7,8 +7,18 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "שקד-מונדרר נעמי",
+                "email": "nomi@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "פייגין-קצוב יוליה",
                 "email": "juliaf@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "קליינשטרן מיכל",
+                "email": "mklinst@technion.ac.il",
                 "title": "מתרגל"
             }
         ],
@@ -32,11 +42,11 @@
         },
         "Exam_B": {
             "students": "249",
-            "passFail": "126\/123",
+            "passFail": "127\/122",
             "passPercent": "51",
             "min": "0.01",
             "max": "105",
-            "average": "54.707",
+            "average": "54.847",
             "median": "55"
         },
         "Final_B": {
@@ -45,17 +55,17 @@
             "passPercent": "58",
             "min": "0",
             "max": "100",
-            "average": "58.237",
+            "average": "58.361",
             "median": "63"
         },
         "Finals": {
-            "students": "443",
-            "passFail": "283\/160",
-            "passPercent": "64",
+            "students": "470",
+            "passFail": "310\/160",
+            "passPercent": "66",
             "min": "14",
             "max": "100",
-            "average": "60.578",
-            "median": "60"
+            "average": "62.349",
+            "median": "63"
         }
     },
     "202302": {
