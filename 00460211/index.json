@@ -1,4 +1,45 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "סודרי דניאל",
+                "email": "daniel.soudry@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פרידמן ליאור",
+                "email": "liorf@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "20",
+            "passFail": "11\/9",
+            "passPercent": "55",
+            "min": "18",
+            "max": "90",
+            "average": "59.054",
+            "median": "62"
+        },
+        "Final_A": {
+            "students": "19",
+            "passFail": "14\/5",
+            "passPercent": "74",
+            "min": "20",
+            "max": "97",
+            "average": "71.579",
+            "median": "80"
+        },
+        "Finals": {
+            "students": "19",
+            "passFail": "14\/5",
+            "passPercent": "74",
+            "min": "20",
+            "max": "97",
+            "average": "71.579",
+            "median": "80"
+        }
+    },
     "202302": {
         "Staff": [
             {
