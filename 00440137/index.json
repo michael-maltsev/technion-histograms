@@ -23,8 +23,8 @@
             "passPercent": "89",
             "min": "15",
             "max": "100",
-            "average": "75.601",
-            "median": "79"
+            "average": "75.738",
+            "median": "79.5"
         },
         "Final_A": {
             "students": "168",
@@ -32,8 +32,8 @@
             "passPercent": "94",
             "min": "34",
             "max": "100",
-            "average": "81.036",
-            "median": "83.5"
+            "average": "81.149",
+            "median": "84"
         }
     },
     "202302": {
@@ -98,18 +98,18 @@
     "202301": {
         "Staff": [
             {
+                "name": "צברי ליאור",
+                "email": "liorl@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
                 "name": "דיסקין אלכסיי",
                 "email": "aleksd@campus.technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "title": "מרצה"
             },
             {
                 "name": "כהן עמנואל",
                 "email": "emcohen@ee.technion.ac.il,emcohen@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
-                "name": "צברי ליאור",
-                "email": "liorl@technion.ac.il",
                 "title": "מרצה"
             },
             {
@@ -119,21 +119,21 @@
             }
         ],
         "Exam_A": {
-            "students": "210",
-            "passFail": "207\/3",
+            "students": "211",
+            "passFail": "208\/3",
             "passPercent": "99",
             "min": "30",
             "max": "100",
-            "average": "85.861",
+            "average": "85.739",
             "median": "88"
         },
         "Final_A": {
-            "students": "210",
-            "passFail": "208\/2",
+            "students": "211",
+            "passFail": "209\/2",
             "passPercent": "99",
             "min": "47",
             "max": "100",
-            "average": "89.005",
+            "average": "88.915",
             "median": "91"
         },
         "Exam_B": {
@@ -155,12 +155,12 @@
             "median": "80"
         },
         "Finals": {
-            "students": "256",
-            "passFail": "253\/3",
+            "students": "257",
+            "passFail": "254\/3",
             "passPercent": "99",
             "min": "39",
             "max": "100",
-            "average": "87.378",
+            "average": "87.31",
             "median": "90"
         }
     },

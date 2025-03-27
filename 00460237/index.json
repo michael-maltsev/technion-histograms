@@ -14,7 +14,7 @@
             {
                 "name": "גבאי אורי",
                 "email": "ori.g@campus.technion.ac.il",
-                "title": "מתרגל"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "דובלקייב תום",
@@ -39,6 +39,24 @@
             "max": "100",
             "average": "80.507",
             "median": "82"
+        },
+        "Exam_B": {
+            "students": "33",
+            "passFail": "11\/22",
+            "passPercent": "33",
+            "min": "29",
+            "max": "95",
+            "average": "49.273",
+            "median": "48"
+        },
+        "Final_B": {
+            "students": "33",
+            "passFail": "33\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "100",
+            "average": "75.667",
+            "median": "74"
         }
     },
     "202302": {
@@ -96,12 +114,12 @@
             "median": "82"
         },
         "Finals": {
-            "students": "94",
-            "passFail": "94\/0",
+            "students": "96",
+            "passFail": "96\/0",
             "passPercent": "100",
-            "min": "68",
+            "min": "56",
             "max": "96",
-            "average": "81.12",
+            "average": "80.87",
             "median": "82"
         }
     },
