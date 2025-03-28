@@ -1,1 +1,43 @@
-[]
+{
+    "202302": {
+        "Staff": [
+            {
+                "name": "בן-גיודה הדר",
+                "email": "bengida@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אפרתי רון",
+                "email": "ron.efrati@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "13\/3",
+            "passPercent": "81",
+            "min": "50",
+            "max": "106",
+            "average": "67.875",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "76.3",
+            "max": "97.3",
+            "average": "86.275",
+            "median": "85.8"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "97",
+            "average": "86.15",
+            "median": "87"
+        }
+    }
+}
