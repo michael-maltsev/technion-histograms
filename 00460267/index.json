@@ -1,4 +1,59 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "עציון יואב",
+                "email": "yetsion@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לצרס רועי",
+                "email": "roeelatzres@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ח'לאילה מוחמד",
+                "email": "khalaily@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "57",
+            "passFail": "47\/10",
+            "passPercent": "82",
+            "min": "32",
+            "max": "93",
+            "average": "68.544",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "57",
+            "passFail": "49\/8",
+            "passPercent": "86",
+            "min": "34",
+            "max": "97",
+            "average": "76.825",
+            "median": "80"
+        },
+        "Exam_B": {
+            "students": "31",
+            "passFail": "13\/18",
+            "passPercent": "42",
+            "min": "25",
+            "max": "92",
+            "average": "52.516",
+            "median": "52"
+        },
+        "Final_B": {
+            "students": "31",
+            "passFail": "21\/10",
+            "passPercent": "68",
+            "min": "30",
+            "max": "98",
+            "average": "64.161",
+            "median": "70"
+        }
+    },
     "202302": {
         "Staff": [
             {
