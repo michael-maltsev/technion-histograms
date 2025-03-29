@@ -8,7 +8,7 @@
             },
             {
                 "name": "קוגוס איילת",
-                "email": "kogus@campus.technion.ac.il",
+                "email": "kogus@technion.ac.il,kogus@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
@@ -25,6 +25,15 @@
             "max": "100",
             "average": "75.796",
             "median": "80"
+        },
+        "Final_B": {
+            "students": "140",
+            "passFail": "129\/11",
+            "passPercent": "92",
+            "min": "25",
+            "max": "100",
+            "average": "79.821",
+            "median": "85"
         },
         "Finals": {
             "students": "157",
