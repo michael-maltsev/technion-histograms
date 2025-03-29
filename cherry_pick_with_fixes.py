@@ -180,6 +180,7 @@ COURSE_ALTERNATIVE_NAMES = {
     'מעבדה בהנדסת חשמל 1א': 'Electrical Engineering Lab 1a',
     'תורת המעגלים החשמליים': 'Theory of Electronic Circuits',
     'תורת הקוואנטים: מבט פילוסופי': 'Quantum Theory: Philosophical Perspectiv',
+    'קטליזה על משטחים': 'Catalysis on Surfaces',
 }
 
 
