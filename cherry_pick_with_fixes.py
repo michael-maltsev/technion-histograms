@@ -180,6 +180,7 @@ COURSE_ALTERNATIVE_NAMES = {
     'מעבדה בהנדסת חשמל 1א': 'Electrical Engineering Lab 1a',
     'תורת המעגלים החשמליים': 'Theory of Electronic Circuits',
     'תורת הקוואנטים: מבט פילוסופי': 'Quantum Theory: Philosophical Perspectiv',
+    'קטליזה על משטחים': 'Catalysis on Surfaces',
 }
 
 
@@ -243,6 +244,12 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         '90c87340051e36daaf371249fd74dfed9e659dc9',
     ):
         override_course = '01040166'
+    elif commit in (
+        'ef3c29fd280b18f8731b441df278043d7befa602',
+        '857f8e5d6d8be618546ae49c0c545c7d00973fe8',
+    ):
+        override_course = '01040065'
+        override_semester = '202401'
 
     if override_course:
         properties['course'] = override_course
