@@ -1,4 +1,45 @@
 {
+    "202301": {
+        "Staff": [
+            {
+                "name": "קנטי גרינשלג יונתן",
+                "email": "canetti.jona@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ביטון מיכל",
+                "email": "michal.bitton100@gmail.com,biton.michal@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "85",
+            "passFail": "85\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "95",
+            "average": "85",
+            "median": "86"
+        },
+        "Final_A": {
+            "students": "86",
+            "passFail": "86\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "95",
+            "average": "84.942",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "87",
+            "passFail": "87\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "95",
+            "average": "84.862",
+            "median": "85"
+        }
+    },
     "202101": {
         "Staff": [
             {
