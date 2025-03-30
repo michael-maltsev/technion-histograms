@@ -1,4 +1,40 @@
 {
+    "202301": {
+        "Staff": [
+            {
+                "name": "פוקס אהרון-רון",
+                "email": "arfuchs@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "83",
+            "passFail": "70\/13",
+            "passPercent": "84",
+            "min": "25",
+            "max": "100",
+            "average": "77.747",
+            "median": "85"
+        },
+        "Final_A": {
+            "students": "83",
+            "passFail": "81\/2",
+            "passPercent": "98",
+            "min": "47",
+            "max": "100",
+            "average": "82.59",
+            "median": "86"
+        },
+        "Exam_B": {
+            "students": "13",
+            "passFail": "11\/2",
+            "passPercent": "85",
+            "min": "45",
+            "max": "90",
+            "average": "71.154",
+            "median": "75"
+        }
+    },
     "202101": {
         "Staff": [
             {
