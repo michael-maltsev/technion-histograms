@@ -50,25 +50,57 @@
                 "name": "חוסיין מראם",
                 "email": "maramh@technion.ac.il",
                 "title": "מתרגל"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
             "students": "97",
-            "passFail": "28\/69",
-            "passPercent": "29",
+            "passFail": "39\/58",
+            "passPercent": "40",
             "min": "0",
             "max": "88",
-            "average": "42.454",
-            "median": "47"
+            "average": "45.691",
+            "median": "49"
         },
         "Final_A": {
             "students": "96",
-            "passFail": "52\/44",
-            "passPercent": "54",
+            "passFail": "59\/37",
+            "passPercent": "61",
             "min": "0",
             "max": "90",
-            "average": "47.188",
-            "median": "58.5"
+            "average": "50.583",
+            "median": "60"
+        },
+        "Exam_B": {
+            "students": "47",
+            "passFail": "33\/14",
+            "passPercent": "70",
+            "min": "23",
+            "max": "90",
+            "average": "63.106",
+            "median": "70"
+        },
+        "Final_B": {
+            "students": "46",
+            "passFail": "36\/10",
+            "passPercent": "78",
+            "min": "23",
+            "max": "90",
+            "average": "66.087",
+            "median": "73.5"
+        },
+        "Finals": {
+            "students": "101",
+            "passFail": "91\/10",
+            "passPercent": "90",
+            "min": "23",
+            "max": "90",
+            "average": "68.079",
+            "median": "71"
         }
     },
     "202301": {
