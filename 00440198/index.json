@@ -19,7 +19,7 @@
             {
                 "name": "מויסייב רון",
                 "email": "m.ron@campus.technion.ac.il",
-                "title": "מתרגל"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -38,6 +38,24 @@
             "min": "44",
             "max": "100",
             "average": "75.204",
+            "median": "77"
+        },
+        "Exam_B": {
+            "students": "30",
+            "passFail": "23\/7",
+            "passPercent": "77",
+            "min": "13",
+            "max": "94",
+            "average": "63.767",
+            "median": "68"
+        },
+        "Final_B": {
+            "students": "30",
+            "passFail": "26\/4",
+            "passPercent": "87",
+            "min": "30",
+            "max": "98",
+            "average": "72.9",
             "median": "77"
         }
     },

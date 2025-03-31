@@ -1,4 +1,41 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "חזן תמיר",
+                "email": "tamir.hazan@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "תמיר זיו",
+                "email": "ziv.tamir@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אליאב בן נתנאל",
+                "email": "ben.eliav@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "129",
+            "passFail": "128\/1",
+            "passPercent": "99",
+            "min": "51",
+            "max": "100",
+            "average": "85.667",
+            "median": "88"
+        },
+        "Exam_B": {
+            "students": "41",
+            "passFail": "36\/5",
+            "passPercent": "88",
+            "min": "17",
+            "max": "94",
+            "average": "74.22",
+            "median": "77"
+        }
+    },
     "202301": {
         "Staff": [
             {
