@@ -52,11 +52,6 @@
                 "name": "זאיל נועם",
                 "email": "noam.zel@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "זיו דוד מורן",
-                "email": "moran.z@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -75,6 +70,15 @@
             "min": "37",
             "max": "100",
             "average": "66.565",
+            "median": "65"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "18\/5",
+            "passPercent": "78",
+            "min": "39",
+            "max": "100",
+            "average": "66.45",
             "median": "65"
         }
     },
