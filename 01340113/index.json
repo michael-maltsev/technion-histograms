@@ -12,7 +12,7 @@
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "ונציאן יוהאנס אוג",
+                "name": "ונציאן יוהאנס אוגוסטוס",
                 "email": "venezian@campus.technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
@@ -42,12 +42,21 @@
         },
         "Exam_B": {
             "students": "80",
-            "passFail": "69\/11",
-            "passPercent": "86",
+            "passFail": "74\/6",
+            "passPercent": "92",
             "min": "29",
             "max": "100",
-            "average": "70.3",
-            "median": "71"
+            "average": "71.288",
+            "median": "72.5"
+        },
+        "Final_B": {
+            "students": "80",
+            "passFail": "74\/6",
+            "passPercent": "92",
+            "min": "29",
+            "max": "99.6",
+            "average": "73.222",
+            "median": "74.575"
         },
         "Finals": {
             "students": "214",
