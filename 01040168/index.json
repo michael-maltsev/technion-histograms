@@ -1,4 +1,58 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "אנטוב מיכאל",
+                "email": "entov@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "13",
+            "passFail": "5\/8",
+            "passPercent": "38",
+            "min": "11",
+            "max": "83",
+            "average": "45.538",
+            "median": "41"
+        },
+        "Final_A": {
+            "students": "13",
+            "passFail": "6\/7",
+            "passPercent": "46",
+            "min": "11",
+            "max": "83",
+            "average": "47.385",
+            "median": "45"
+        },
+        "Exam_B": {
+            "students": "12",
+            "passFail": "4\/8",
+            "passPercent": "33",
+            "min": "9",
+            "max": "90",
+            "average": "51.5",
+            "median": "46.5"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "5\/7",
+            "passPercent": "42",
+            "min": "10",
+            "max": "90",
+            "average": "52.083",
+            "median": "47"
+        },
+        "Finals": {
+            "students": "13",
+            "passFail": "6\/7",
+            "passPercent": "46",
+            "min": "11",
+            "max": "83",
+            "average": "47.385",
+            "median": "45"
+        }
+    },
     "202302": {
         "Staff": [
             {
