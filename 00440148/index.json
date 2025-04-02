@@ -3,7 +3,7 @@
         "Staff": [
             {
                 "name": "ברטל גיא",
-                "email": "bartal@technion.ac.il",
+                "email": "guy@ee.technion.ac.il,bartal@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -29,6 +29,24 @@
             "max": "100",
             "average": "75.144",
             "median": "77.5"
+        },
+        "Exam_B": {
+            "students": "71",
+            "passFail": "62\/9",
+            "passPercent": "87",
+            "min": "25",
+            "max": "97",
+            "average": "74.155",
+            "median": "78"
+        },
+        "Final_B": {
+            "students": "71",
+            "passFail": "67\/4",
+            "passPercent": "94",
+            "min": "38",
+            "max": "98",
+            "average": "78.831",
+            "median": "82"
         },
         "Finals": {
             "students": "104",

@@ -3,7 +3,7 @@
         "Staff": [
             {
                 "name": "פודולסקי דניאל",
-                "email": "podolsky@technion.ac.il",
+                "email": "podolsky@physics.technion.ac.il,podolsky@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -39,6 +39,24 @@
             "max": "98",
             "average": "74.798",
             "median": "76"
+        },
+        "Exam_B": {
+            "students": "69",
+            "passFail": "60\/9",
+            "passPercent": "87",
+            "min": "25.373",
+            "max": "100",
+            "average": "72.663",
+            "median": "76"
+        },
+        "Final_B": {
+            "students": "69",
+            "passFail": "66\/3",
+            "passPercent": "96",
+            "min": "42",
+            "max": "100",
+            "average": "78.855",
+            "median": "82"
         }
     },
     "202301": {
