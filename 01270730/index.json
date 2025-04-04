@@ -1,4 +1,45 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "לוי אבישי",
+                "email": "avishail@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "דיזנדרוק צ'רלס",
+                "email": "charles@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "35",
+            "passFail": "33\/2",
+            "passPercent": "94",
+            "min": "25",
+            "max": "100",
+            "average": "86.857",
+            "median": "95"
+        },
+        "Final_A": {
+            "students": "35",
+            "passFail": "34\/1",
+            "passPercent": "97",
+            "min": "32.5",
+            "max": "100",
+            "average": "88.143",
+            "median": "95.5"
+        },
+        "Finals": {
+            "students": "40",
+            "passFail": "40\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "90.75",
+            "median": "96"
+        }
+    },
     "202301": {
         "Staff": [
             {
