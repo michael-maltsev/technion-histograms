@@ -1,4 +1,45 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "דיסקין אלכסיי",
+                "email": "aleksd@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גינזברג יובל",
+                "email": "ginyuval@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "15",
+            "passFail": "11\/4",
+            "passPercent": "73",
+            "min": "38",
+            "max": "100",
+            "average": "68.733",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "15",
+            "passFail": "12\/3",
+            "passPercent": "80",
+            "min": "48",
+            "max": "100",
+            "average": "74.733",
+            "median": "72"
+        },
+        "Finals": {
+            "students": "19",
+            "passFail": "19\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "100",
+            "average": "81.105",
+            "median": "79"
+        }
+    },
     "202301": {
         "Staff": [
             {
