@@ -1,4 +1,45 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "לוין ענת",
+                "email": "anat.levin@ee.technion.ac.il,anat.levin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "טייץ שרה",
+                "email": "sarah.teitz@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "36",
+            "passFail": "33\/3",
+            "passPercent": "92",
+            "min": "23",
+            "max": "90.5",
+            "average": "71.729",
+            "median": "75.25"
+        },
+        "Final_A": {
+            "students": "36",
+            "passFail": "34\/2",
+            "passPercent": "94",
+            "min": "23",
+            "max": "98",
+            "average": "84.222",
+            "median": "87.5"
+        },
+        "Finals": {
+            "students": "40",
+            "passFail": "37\/3",
+            "passPercent": "92",
+            "min": "25",
+            "max": "98",
+            "average": "83.85",
+            "median": "87"
+        }
+    },
     "202302": {
         "Staff": [
             {
