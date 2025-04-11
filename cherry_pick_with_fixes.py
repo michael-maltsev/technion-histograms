@@ -181,6 +181,7 @@ COURSE_ALTERNATIVE_NAMES = {
     'תורת המעגלים החשמליים': 'Theory of Electronic Circuits',
     'תורת הקוואנטים: מבט פילוסופי': 'Quantum Theory: Philosophical Perspectiv',
     'קטליזה על משטחים': 'Catalysis on Surfaces',
+    'תקשורת המדע': 'Science Communications',
 }
 
 
