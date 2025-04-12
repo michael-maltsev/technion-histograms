@@ -1,4 +1,50 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "לינדנר נתנאל",
+                "email": "lindner@physics.technion.ac.il,lindner@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "אלון גדעון",
+                "email": "gideon.alon@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "יחזקאל אורי",
+                "email": "oriyehezkel@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "109",
+            "passFail": "92\/17",
+            "passPercent": "84",
+            "min": "34.667",
+            "max": "100",
+            "average": "70.74",
+            "median": "72"
+        },
+        "Final_B": {
+            "students": "44",
+            "passFail": "32\/12",
+            "passPercent": "73",
+            "min": "33",
+            "max": "100",
+            "average": "60.636",
+            "median": "60"
+        },
+        "Finals": {
+            "students": "126",
+            "passFail": "113\/13",
+            "passPercent": "90",
+            "min": "33",
+            "max": "100",
+            "average": "71.556",
+            "median": "72"
+        }
+    },
     "202301": {
         "Staff": [
             {

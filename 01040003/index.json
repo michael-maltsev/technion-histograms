@@ -9,7 +9,7 @@
             {
                 "name": "קליס אולג",
                 "email": "okelis@technion.ac.il",
-                "title": "מתרגל"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -22,6 +22,33 @@
             "median": "68"
         },
         "Final_A": {
+            "students": "30",
+            "passFail": "21\/9",
+            "passPercent": "70",
+            "min": "13",
+            "max": "98",
+            "average": "67.267",
+            "median": "72.5"
+        },
+        "Exam_B": {
+            "students": "15",
+            "passFail": "6\/9",
+            "passPercent": "40",
+            "min": "20",
+            "max": "89",
+            "average": "43.867",
+            "median": "33"
+        },
+        "Final_B": {
+            "students": "15",
+            "passFail": "6\/9",
+            "passPercent": "40",
+            "min": "20",
+            "max": "89",
+            "average": "45.733",
+            "median": "33"
+        },
+        "Finals": {
             "students": "30",
             "passFail": "21\/9",
             "passPercent": "70",
