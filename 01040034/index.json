@@ -1984,5 +1984,42 @@
             "average": "63.432",
             "median": "66.5"
         }
+    },
+    "200302": {
+        "Staff": [
+            {
+                "name": "בנימיני יואב",
+                "email": "yoavb@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אנצפלד ליאוניד",
+                "email": "antsfeld@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ליטבק ולדימיר",
+                "email": "litvak@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "222",
+            "passFail": "188\/34",
+            "passPercent": "85",
+            "min": "19.03",
+            "max": "100",
+            "average": "71.967",
+            "median": "72.32"
+        },
+        "Final_B": {
+            "students": "124",
+            "passFail": "87\/37",
+            "passPercent": "70",
+            "min": "12",
+            "max": "100",
+            "average": "66.266",
+            "median": "69.5"
+        }
     }
 }

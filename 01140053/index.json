@@ -30,5 +30,37 @@
             "average": "73.334",
             "median": "72.666"
         }
+    },
+    "200402": {
+        "Staff": [
+            {
+                "name": "לאור ארי",
+                "email": "laor@physics.technion.ac.il,alaor@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אקופיאן ניקולאי",
+                "email": "nika@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "240",
+            "passFail": "226\/14",
+            "passPercent": "94",
+            "min": "25",
+            "max": "100",
+            "average": "84.204",
+            "median": "91.5"
+        },
+        "Final_B": {
+            "students": "95",
+            "passFail": "93\/2",
+            "passPercent": "98",
+            "min": "31",
+            "max": "100",
+            "average": "83.716",
+            "median": "86"
+        }
     }
 }
