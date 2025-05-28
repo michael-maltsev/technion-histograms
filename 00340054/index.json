@@ -7,14 +7,9 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "בן חיים עמרי",
-                "email": "omri.benhaim@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
                 "name": "שומינוב מאור",
                 "email": "maorshu@campus.technion.ac.il",
-                "title": "מתרגל"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "חנינה נועה",
@@ -25,6 +20,11 @@
                 "name": "לנצר יעקב",
                 "email": "yaakovlancer@campus.technion.ac.il",
                 "title": "מתרגל"
+            },
+            {
+                "name": "בן חיים עמרי",
+                "email": "omri.benhaim@campus.technion.ac.il",
+                "title": "מתרגל"
             }
         ],
         "Final_A": {
@@ -34,6 +34,24 @@
             "min": "46",
             "max": "100",
             "average": "76.015",
+            "median": "76"
+        },
+        "Final_B": {
+            "students": "64",
+            "passFail": "59\/5",
+            "passPercent": "92",
+            "min": "40",
+            "max": "100",
+            "average": "73.438",
+            "median": "74.5"
+        },
+        "Finals": {
+            "students": "122",
+            "passFail": "117\/5",
+            "passPercent": "96",
+            "min": "40",
+            "max": "100",
+            "average": "76.156",
             "median": "76"
         }
     },

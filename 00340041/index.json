@@ -7,6 +7,16 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "אלגריסי מור",
+                "email": "morelgarisi24@gmail.com,morelgarisi@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אפרים אופק",
+                "email": "ofekef@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "הפנר רז",
                 "email": "raz.heppner@campus.technion.ac.il",
                 "title": "מתרגל"
@@ -14,16 +24,6 @@
             {
                 "name": "בן חיים עמרי",
                 "email": "omri.benhaim@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "אלגריסי מור",
-                "email": "morelgarisi24@gmail.com,morelgarisi@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "אפרים אופק",
-                "email": "ofekef@campus.technion.ac.il",
                 "title": "מתרגל"
             }
         ],
@@ -44,6 +44,24 @@
             "max": "100",
             "average": "62.71",
             "median": "67.5"
+        },
+        "Exam_B": {
+            "students": "51",
+            "passFail": "33\/18",
+            "passPercent": "65",
+            "min": "12",
+            "max": "97",
+            "average": "56.863",
+            "median": "59"
+        },
+        "Final_B": {
+            "students": "51",
+            "passFail": "36\/15",
+            "passPercent": "71",
+            "min": "12",
+            "max": "100",
+            "average": "64.627",
+            "median": "72"
         }
     },
     "202301": {
