@@ -1,4 +1,45 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "אילתה דוד",
+                "email": "elata@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רוזנשטוק דוד",
+                "email": "rosenstock@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "100",
+            "average": "85.28",
+            "median": "85"
+        },
+        "Final_A": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "100",
+            "average": "87.375",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "28",
+            "passFail": "24\/4",
+            "passPercent": "86",
+            "min": "59",
+            "max": "100",
+            "average": "87.375",
+            "median": "87"
+        }
+    },
     "202201": {
         "Staff": [
             {
