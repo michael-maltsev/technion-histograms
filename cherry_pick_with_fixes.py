@@ -182,6 +182,12 @@ COURSE_ALTERNATIVE_NAMES = {
     'תורת הקוואנטים: מבט פילוסופי': 'Quantum Theory: Philosophical Perspectiv',
     'קטליזה על משטחים': 'Catalysis on Surfaces',
     'תקשורת המדע': 'Science Communications',
+    'אלגברה 1מ1': 'Algebra 1M1',
+    'חשבון דיפרנציאלי ואינטגרלי 1ת\'': 'Differential and Integral Calculus 1T',
+    'טורי פורייה והתמרות אינטגרליות': 'Fourier Series and Integral Transforms',
+    'מחקרי שוק': 'Marketing Research',
+    'משוואות דיפרנציאליות רגילות מ\'': 'Ordinary Differential Equations M',
+    'משוואות דפרנציאליות חלקיות ת\'': 'Partial Differential Equations/T',
 }
 
 
