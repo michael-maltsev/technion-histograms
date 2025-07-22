@@ -1,4 +1,36 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "ירון סימה",
+                "email": "simay@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שמש פז",
+                "email": "paz-shemesh@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "79",
+            "passFail": "79\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "100",
+            "average": "84.253",
+            "median": "87"
+        },
+        "Final_A": {
+            "students": "79",
+            "passFail": "79\/0",
+            "passPercent": "100",
+            "min": "69.067",
+            "max": "100",
+            "average": "90.848",
+            "median": "92.967"
+        }
+    },
     "202302": {
         "Staff": [
             {
