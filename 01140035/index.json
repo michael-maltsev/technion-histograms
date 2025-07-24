@@ -9,7 +9,7 @@
             {
                 "name": "פריזאנט יוליה",
                 "email": "jammia@technion.ac.il",
-                "title": "מתרגל"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "ויינבאום אנסטסיה",
@@ -53,12 +53,21 @@
             }
         ],
         "Final_A": {
-            "students": "52",
-            "passFail": "52\/0",
+            "students": "57",
+            "passFail": "57\/0",
             "passPercent": "100",
             "min": "81",
             "max": "95",
-            "average": "88.038",
+            "average": "88.158",
+            "median": "88"
+        },
+        "Finals": {
+            "students": "62",
+            "passFail": "58\/4",
+            "passPercent": "94",
+            "min": "81",
+            "max": "95",
+            "average": "88.211",
             "median": "88"
         }
     },
