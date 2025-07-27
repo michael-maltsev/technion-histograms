@@ -1,4 +1,27 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "סידורנקו פבל",
+                "email": "sidorenko@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אילוז מתן",
+                "email": "mataniluz@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "48",
+            "passFail": "32\/16",
+            "passPercent": "67",
+            "min": "10",
+            "max": "100",
+            "average": "59.771",
+            "median": "61.5"
+        }
+    },
     "202401": {
         "Staff": [
             {
