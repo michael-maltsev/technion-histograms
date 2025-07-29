@@ -1,4 +1,36 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "פרס הרי לידיה",
+                "email": "lydia@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פייגין-קצוב יוליה",
+                "email": "juliaf@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "23",
+            "passFail": "17\/6",
+            "passPercent": "74",
+            "min": "29",
+            "max": "109",
+            "average": "73.739",
+            "median": "78"
+        },
+        "Final_A": {
+            "students": "23",
+            "passFail": "19\/4",
+            "passPercent": "83",
+            "min": "29",
+            "max": "100",
+            "average": "74.435",
+            "median": "80"
+        }
+    },
     "202401": {
         "Staff": [
             {
