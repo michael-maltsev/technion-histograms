@@ -1,4 +1,36 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "ברוך אהוד משה",
+                "email": "embaruch@math.technion.ac.il,embaruch@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מויאל עומר",
+                "email": "omer.moyal@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "33",
+            "passFail": "22\/11",
+            "passPercent": "67",
+            "min": "6",
+            "max": "99",
+            "average": "59.091",
+            "median": "64"
+        },
+        "Final_A": {
+            "students": "33",
+            "passFail": "22\/11",
+            "passPercent": "67",
+            "min": "6",
+            "max": "99",
+            "average": "61.242",
+            "median": "67"
+        }
+    },
     "202401": {
         "Staff": [
             {
