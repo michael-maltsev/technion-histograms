@@ -1,4 +1,37 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "שטריכמן עופר",
+                "email": "ofers@ie.technion.ac.il,ofers@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כתב רום",
+                "email": "rom.katav@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שואף גיא",
+                "email": "guy.shoef@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אזאצ'י אופיר",
+                "email": "ofir.azachi@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "148",
+            "passFail": "117\/31",
+            "passPercent": "79",
+            "min": "24",
+            "max": "100",
+            "average": "71.23",
+            "median": "76"
+        }
+    },
     "202302": {
         "Staff": [
             {
