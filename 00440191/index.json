@@ -1,4 +1,37 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "אלתרמן מרינה",
+                "email": "amarina@technion.ac.il,almarina@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אייזן עפרי",
+                "email": "ofri.eisen@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "ריאן חוסין",
+                "email": "husseinr@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "נורמן יותם",
+                "email": "norman@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "99",
+            "passFail": "86\/13",
+            "passPercent": "87",
+            "min": "15",
+            "max": "103",
+            "average": "72.949",
+            "median": "76"
+        }
+    },
     "202401": {
         "Staff": [
             {
