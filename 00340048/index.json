@@ -1,4 +1,37 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "גורלי גיורא",
+                "email": "ggorali@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גבעון איתמר",
+                "email": "itamar.givon@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "רוזנשטוק דוד",
+                "email": "rosenstock@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "עבדאללה סלמאן",
+                "email": "salman.ab@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "99",
+            "passFail": "70\/29",
+            "passPercent": "71",
+            "min": "16",
+            "max": "121",
+            "average": "75.273",
+            "median": "76"
+        }
+    },
     "202302": {
         "Staff": [
             {
