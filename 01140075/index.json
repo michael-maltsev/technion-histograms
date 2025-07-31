@@ -1,4 +1,36 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "בונין גיא",
+                "email": "buning@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מרטיסקאינן חנה",
+                "email": "hannam@technion.ac.il,hannam@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "274",
+            "passFail": "170\/104",
+            "passPercent": "62",
+            "min": "8.333",
+            "max": "100",
+            "average": "61.91",
+            "median": "66.667"
+        },
+        "Final_A": {
+            "students": "274",
+            "passFail": "231\/43",
+            "passPercent": "84",
+            "min": "26",
+            "max": "100",
+            "average": "71.653",
+            "median": "75.5"
+        }
+    },
     "202401": {
         "Staff": [
             {
