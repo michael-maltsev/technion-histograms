@@ -1,4 +1,36 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "בורדו נדיה",
+                "email": "nadiabordo@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גרינס עדו",
+                "email": "ido.griness@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "25",
+            "passFail": "9\/16",
+            "passPercent": "36",
+            "min": "5.556",
+            "max": "94.444",
+            "average": "47.6",
+            "median": "50"
+        },
+        "Final_A": {
+            "students": "25",
+            "passFail": "17\/8",
+            "passPercent": "68",
+            "min": "29",
+            "max": "100",
+            "average": "61.72",
+            "median": "60"
+        }
+    },
     "202401": {
         "Staff": [
             {
