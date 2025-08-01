@@ -1,4 +1,31 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "אבן זוהר חיים",
+                "email": "chaime@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "25",
+            "passFail": "10\/15",
+            "passPercent": "40",
+            "min": "21",
+            "max": "95",
+            "average": "54.36",
+            "median": "50"
+        },
+        "Final_A": {
+            "students": "25",
+            "passFail": "19\/6",
+            "passPercent": "76",
+            "min": "41",
+            "max": "100",
+            "average": "68.24",
+            "median": "66"
+        }
+    },
     "202302": {
         "Staff": [
             {
