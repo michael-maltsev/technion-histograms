@@ -125,9 +125,9 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "מסרווה חייריה",
+                "name": "מסארוה ח'ירייה",
                 "email": "massarwe@technion.ac.il",
-                "title": "מתרגל"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -136,7 +136,7 @@
             "passPercent": "73",
             "min": "7",
             "max": "100",
-            "average": "60.732",
+            "average": "60.768",
             "median": "66.5"
         },
         "Final_A": {
@@ -145,8 +145,26 @@
             "passPercent": "75",
             "min": "7",
             "max": "100",
-            "average": "63.464",
+            "average": "63.5",
             "median": "70.5"
+        },
+        "Final_B": {
+            "students": "21",
+            "passFail": "12\/9",
+            "passPercent": "57",
+            "min": "13",
+            "max": "86",
+            "average": "52.857",
+            "median": "56"
+        },
+        "Finals": {
+            "students": "66",
+            "passFail": "50\/16",
+            "passPercent": "76",
+            "min": "7",
+            "max": "100",
+            "average": "62.983",
+            "median": "69"
         }
     },
     "202201": {
