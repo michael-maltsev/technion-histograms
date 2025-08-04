@@ -1,4 +1,37 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "קורין נתנאל",
+                "email": "korin@bm.technion.ac.il,korin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קריינין יבגני",
+                "email": "kreinin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מקלר תירוש",
+                "email": "tiroshmekler@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "טל עומר",
+                "email": "omer.tal@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "73",
+            "passFail": "47\/26",
+            "passPercent": "64",
+            "min": "0",
+            "max": "100",
+            "average": "60.603",
+            "median": "60"
+        }
+    },
     "202302": {
         "Staff": [
             {
