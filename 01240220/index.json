@@ -1,4 +1,41 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "ברנע אייל",
+                "email": "chbarnea@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "פיליפוב טיחון",
+                "email": "tihon.catalysis@gmail.com",
+                "title": "מרצה"
+            },
+            {
+                "name": "לוצקי גיא",
+                "email": "guylutzky@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "33",
+            "passFail": "26\/7",
+            "passPercent": "79",
+            "min": "42",
+            "max": "100",
+            "average": "69.485",
+            "median": "67"
+        },
+        "Final_A": {
+            "students": "33",
+            "passFail": "26\/7",
+            "passPercent": "79",
+            "min": "42",
+            "max": "100",
+            "average": "71.168",
+            "median": "71"
+        }
+    },
     "202302": {
         "Staff": [
             {
