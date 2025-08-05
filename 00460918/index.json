@@ -1,4 +1,41 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "מויסייב קונסטנטין",
+                "email": "mkostya@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גברילנקו דמיטרי",
+                "email": "dimag@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-חור רתם",
+                "email": "rotembenhur@technion.ac.il,rotembenhur@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "27\/5",
+            "passPercent": "84",
+            "min": "37",
+            "max": "84",
+            "average": "68.281",
+            "median": "70.5"
+        },
+        "Final_A": {
+            "students": "32",
+            "passFail": "32\/0",
+            "passPercent": "100",
+            "min": "67.652",
+            "max": "92",
+            "average": "82.4",
+            "median": "84"
+        }
+    },
     "202202": {
         "Staff": [
             {
