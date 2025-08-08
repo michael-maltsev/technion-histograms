@@ -1,4 +1,41 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "צברי ליאור",
+                "email": "liorl@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דיסקין אלכסיי",
+                "email": "aleksd@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "חכמוביץ יואב",
+                "email": "syoavcha@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "122",
+            "passFail": "85\/37",
+            "passPercent": "70",
+            "min": "26.5",
+            "max": "95",
+            "average": "61.623",
+            "median": "62"
+        },
+        "Final_A": {
+            "students": "122",
+            "passFail": "114\/8",
+            "passPercent": "93",
+            "min": "39",
+            "max": "100",
+            "average": "74.484",
+            "median": "75"
+        }
+    },
     "202401": {
         "Staff": [
             {
