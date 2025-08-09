@@ -1,4 +1,36 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "רהב סער",
+                "email": "rahavs@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ארי נטע",
+                "email": "b.neta@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "44",
+            "passFail": "39\/5",
+            "passPercent": "89",
+            "min": "22",
+            "max": "97",
+            "average": "72.341",
+            "median": "74"
+        },
+        "Final_A": {
+            "students": "44",
+            "passFail": "39\/5",
+            "passPercent": "89",
+            "min": "22",
+            "max": "97",
+            "average": "75.5",
+            "median": "78"
+        }
+    },
     "202302": {
         "Staff": [
             {
