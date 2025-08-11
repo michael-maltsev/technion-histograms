@@ -1,4 +1,41 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "בינה פולק אביטל",
+                "email": "avitalbp@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-איש שלומית",
+                "email": "shlomitb@ie.technion.ac.il,shlomitb@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן-ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "31\/1",
+            "passPercent": "97",
+            "min": "51",
+            "max": "100",
+            "average": "90.469",
+            "median": "91.5"
+        },
+        "Final_A": {
+            "students": "32",
+            "passFail": "31\/1",
+            "passPercent": "97",
+            "min": "51",
+            "max": "100",
+            "average": "91.312",
+            "median": "92.5"
+        }
+    },
     "202401": {
         "Staff": [
             {
