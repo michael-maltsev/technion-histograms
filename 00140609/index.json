@@ -1,4 +1,31 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "רביב גבריאל",
+                "email": "gabi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "64",
+            "max": "94",
+            "average": "82.6",
+            "median": "84"
+        },
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "93",
+            "average": "82.8",
+            "median": "83.5"
+        }
+    },
     "202002": {
         "Staff": [
             {

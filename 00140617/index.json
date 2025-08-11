@@ -1,4 +1,49 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "זקס רפאל",
+                "email": "cvsacks@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "95",
+            "average": "74.133",
+            "median": "71"
+        },
+        "Final_A": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "65",
+            "max": "96",
+            "average": "77.769",
+            "median": "78"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "93",
+            "average": "85.455",
+            "median": "84"
+        },
+        "Finals": {
+            "students": "30",
+            "passFail": "25\/5",
+            "passPercent": "83",
+            "min": "0",
+            "max": "96",
+            "average": "79",
+            "median": "82.5"
+        }
+    },
     "202301": {
         "Staff": [
             {
