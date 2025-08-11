@@ -3,7 +3,7 @@
         "Staff": [
             {
                 "name": "מלר עמית",
-                "email": "ameller@bm.technion.ac.il,ameller@technion.ac.il",
+                "email": "ameller@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -13,6 +13,15 @@
             }
         ],
         "Final_A": {
+            "students": "82",
+            "passFail": "82\/0",
+            "passPercent": "100",
+            "min": "76",
+            "max": "99",
+            "average": "94.293",
+            "median": "94"
+        },
+        "Finals": {
             "students": "82",
             "passFail": "82\/0",
             "passPercent": "100",
