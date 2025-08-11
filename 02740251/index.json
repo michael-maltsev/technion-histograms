@@ -1,4 +1,46 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "הרשברג רות",
+                "email": "ruthersh@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דייטשמן רויטל",
+                "email": "revital.d@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אהרון אברהם קארין",
+                "email": "mdteams@technion.ac.il,karinaron@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "כהן שרית",
+                "email": "saritc@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "110",
+            "passFail": "109\/1",
+            "passPercent": "99",
+            "min": "47",
+            "max": "100",
+            "average": "86",
+            "median": "87"
+        },
+        "Final_A": {
+            "students": "110",
+            "passFail": "109\/1",
+            "passPercent": "99",
+            "min": "47",
+            "max": "100",
+            "average": "87.7",
+            "median": "90"
+        }
+    },
     "202302": {
         "Staff": [
             {
