@@ -3,7 +3,7 @@
         "Staff": [
             {
                 "name": "שטריכמן עופר",
-                "email": "ofers@ie.technion.ac.il,ofers@technion.ac.il",
+                "email": "ofers@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -28,8 +28,26 @@
             "passPercent": "79",
             "min": "24",
             "max": "100",
-            "average": "71.23",
+            "average": "71.385",
             "median": "76"
+        },
+        "Final_A": {
+            "students": "148",
+            "passFail": "131\/17",
+            "passPercent": "89",
+            "min": "34.84",
+            "max": "100",
+            "average": "75.894",
+            "median": "79.1735"
+        },
+        "Finals": {
+            "students": "148",
+            "passFail": "131\/17",
+            "passPercent": "89",
+            "min": "35",
+            "max": "100",
+            "average": "75.872",
+            "median": "79"
         }
     },
     "202302": {
