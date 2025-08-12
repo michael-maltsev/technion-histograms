@@ -1,4 +1,36 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "מרטיסקאינן חנה",
+                "email": "hannam@technion.ac.il,hannam@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בקמן אלכסנדרה",
+                "email": "sashabak@technion.ac.il,sashabak@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "279",
+            "passFail": "171\/108",
+            "passPercent": "61",
+            "min": "8.333",
+            "max": "100",
+            "average": "60.394",
+            "median": "58.333"
+        },
+        "Final_A": {
+            "students": "279",
+            "passFail": "208\/71",
+            "passPercent": "75",
+            "min": "17",
+            "max": "100",
+            "average": "65.971",
+            "median": "65"
+        }
+    },
     "202401": {
         "Staff": [
             {
