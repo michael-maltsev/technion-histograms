@@ -1,4 +1,41 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "אליהו-ניב שאול",
+                "email": "seliahou@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "הפטקה אוהד",
+                "email": "ohad.haftka@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הרשקו דפנה",
+                "email": "dafnah@technion.ac.il,ae.ugsec@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "57",
+            "passFail": "53\/4",
+            "passPercent": "93",
+            "min": "30",
+            "max": "100",
+            "average": "77.544",
+            "median": "83"
+        },
+        "Final_A": {
+            "students": "57",
+            "passFail": "55\/2",
+            "passPercent": "96",
+            "min": "38",
+            "max": "100",
+            "average": "85.14",
+            "median": "89"
+        }
+    },
     "202302": {
         "Staff": [
             {
