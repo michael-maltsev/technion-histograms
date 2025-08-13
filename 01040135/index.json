@@ -8,18 +8,18 @@
             },
             {
                 "name": "ליטבינוב גלינה",
-                "email": "litvinov@technion.ac.il",
+                "email": "litvinov@tx.technion.ac.il,litvinov@technion.ac.il",
                 "title": "מתרגל"
             }
         ],
         "Exam_A": {
             "students": "28",
-            "passFail": "15\/13",
-            "passPercent": "54",
+            "passFail": "16\/12",
+            "passPercent": "57",
             "min": "14",
             "max": "88",
-            "average": "54.036",
-            "median": "57.5"
+            "average": "54.321",
+            "median": "58"
         },
         "Final_A": {
             "students": "28",
@@ -27,8 +27,8 @@
             "passPercent": "64",
             "min": "14",
             "max": "89",
-            "average": "55.5",
-            "median": "58.5"
+            "average": "56.179",
+            "median": "62"
         }
     },
     "202401": {
@@ -68,8 +68,8 @@
             "passPercent": "44",
             "min": "10",
             "max": "71",
-            "average": "45.188",
-            "median": "51"
+            "average": "44.938",
+            "median": "50"
         },
         "Final_B": {
             "students": "16",
@@ -77,8 +77,17 @@
             "passPercent": "50",
             "min": "10",
             "max": "74",
-            "average": "46.5",
-            "median": "52"
+            "average": "46.25",
+            "median": "51"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "14\/9",
+            "passPercent": "61",
+            "min": "10",
+            "max": "98",
+            "average": "57.227",
+            "median": "61.5"
         }
     },
     "202302": {
