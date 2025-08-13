@@ -1,4 +1,41 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "גלמן ניקול",
+                "email": "nikol.gelman@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פישמן אילת",
+                "email": "afishman@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "מזרחי בעז",
+                "email": "bmizrahi@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "74",
+            "passFail": "62\/12",
+            "passPercent": "84",
+            "min": "31.5",
+            "max": "90.85",
+            "average": "67.894",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "74",
+            "passFail": "70\/4",
+            "passPercent": "95",
+            "min": "41",
+            "max": "94",
+            "average": "73.541",
+            "median": "75"
+        }
+    },
     "202302": {
         "Staff": [
             {
