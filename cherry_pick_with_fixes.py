@@ -188,6 +188,9 @@ COURSE_ALTERNATIVE_NAMES = {
     'מחקרי שוק': 'Marketing Research',
     'משוואות דיפרנציאליות רגילות מ\'': 'Ordinary Differential Equations M',
     'משוואות דפרנציאליות חלקיות ת\'': 'Partial Differential Equations/T',
+    'אחריות מקצועית:דילמות חוק ואתיקה': 'Professional Liability Dilemmas',
+    'אלגברה ב': 'Algebra B',
+    'אקו-פילוסופיה:חשיבה סביבתית': 'Eco-Philosophy:Environmental Thought',
 }
 
 
