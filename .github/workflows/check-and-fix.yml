@@ -27,10 +27,8 @@ jobs:
         run: python3 -u cherry_pick_with_fixes.py
       - name: Check
         run: python3 -u checks.py
-      - name: Commit fixes
-        uses: stefanzweifel/git-auto-commit-action@v6
-        with:
-          commit_message: 'Automatic fixes by cherry_pick_with_fixes.py'
-          commit_user_name: 'github-actions[bot]'
-          commit_user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
+      - name: Commit and push fixes
+        run: |
+          git add .
+          git diff-index --quiet --cached HEAD || git commit -m "Automatic fixes by cherry_pick_with_fixes.py"
+          git push
