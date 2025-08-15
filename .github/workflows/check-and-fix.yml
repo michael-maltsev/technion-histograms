@@ -11,7 +11,7 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           ref: main
           fetch-depth: 0
@@ -28,7 +28,7 @@ jobs:
       - name: Check
         run: python3 -u checks.py
       - name: Commit fixes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: 'Automatic fixes by cherry_pick_with_fixes.py'
           commit_user_name: 'github-actions[bot]'
