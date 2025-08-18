@@ -1,4 +1,46 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "מארדר רחל",
+                "email": "rachelma@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סולם אלמוג עטרה",
+                "email": "almogsul@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "וייס ליאור",
+                "email": "liorweiss@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "זקס מיישלוס אופיר מרים",
+                "email": "offirz@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "48",
+            "passFail": "42\/6",
+            "passPercent": "88",
+            "min": "38",
+            "max": "94",
+            "average": "73.042",
+            "median": "75"
+        },
+        "Final_A": {
+            "students": "48",
+            "passFail": "47\/1",
+            "passPercent": "98",
+            "min": "48",
+            "max": "95",
+            "average": "77.333",
+            "median": "79"
+        }
+    },
     "202302": {
         "Staff": [
             {
