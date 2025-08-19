@@ -1,4 +1,32 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "בריק אשרף",
+                "email": "abrik@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "פרברי גלית ורד",
+                "email": "galitpar@technion.ac.il,galitpar@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "אביגדורי עידן",
+                "email": "sidan89@campus.technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "108",
+            "passFail": "74\/34",
+            "passPercent": "69",
+            "min": "0",
+            "max": "108",
+            "average": "64.944",
+            "median": "65"
+        }
+    },
     "202302": {
         "Staff": [
             {
