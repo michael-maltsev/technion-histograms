@@ -5,24 +5,34 @@
                 "name": "קרן עמית",
                 "email": "phkeren@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כפרי יריב",
+                "email": "kafri@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "רבליה רוי",
+                "email": "sroyra@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
-            "students": "115",
-            "passFail": "110\/5",
+            "students": "117",
+            "passFail": "112\/5",
             "passPercent": "96",
             "min": "30",
             "max": "100",
-            "average": "86.983",
+            "average": "87.248",
             "median": "93"
         },
         "Final_A": {
-            "students": "115",
-            "passFail": "113\/2",
+            "students": "117",
+            "passFail": "115\/2",
             "passPercent": "98",
             "min": "42",
             "max": "100",
-            "average": "89.591",
+            "average": "89.94",
             "median": "94"
         }
     },
