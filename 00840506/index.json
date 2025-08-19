@@ -1,4 +1,41 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "פריידין מקסים",
+                "email": "freydinmaxim@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גלאם ישי ישראל",
+                "email": "yuval32587@gmail.com,yishai@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הרשקו דפנה",
+                "email": "dafnah@technion.ac.il,ae.ugsec@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "95",
+            "passFail": "69\/26",
+            "passPercent": "73",
+            "min": "12",
+            "max": "100",
+            "average": "70.432",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "95",
+            "passFail": "79\/16",
+            "passPercent": "83",
+            "min": "29",
+            "max": "100",
+            "average": "75.589",
+            "median": "78"
+        }
+    },
     "202302": {
         "Staff": [
             {
