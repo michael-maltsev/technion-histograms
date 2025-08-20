@@ -1,4 +1,36 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "מנדלסון גל",
+                "email": "galmen@technion.ac.il,galmen@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סמוגורז'בסקי אריאל",
+                "email": "ariel.smogor@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "40",
+            "passFail": "37\/3",
+            "passPercent": "92",
+            "min": "30",
+            "max": "100",
+            "average": "75.225",
+            "median": "76.5"
+        },
+        "Final_A": {
+            "students": "41",
+            "passFail": "40\/1",
+            "passPercent": "98",
+            "min": "50",
+            "max": "100",
+            "average": "83",
+            "median": "86"
+        }
+    },
     "202302": {
         "Staff": [
             {
