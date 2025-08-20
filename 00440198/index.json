@@ -50,12 +50,12 @@
         "Staff": [
             {
                 "name": "טלמון רונן",
-                "email": "ronen@ee.technion.ac.il,ronenta2@technion.ac.il",
+                "email": "ronenta2@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
                 "name": "נאטור חוסין",
-                "email": "hosen.nator@campus.technion.ac.il,husein.natur@campus.technion.ac.il",
+                "email": "husein.natur@campus.technion.ac.il",
                 "title": "מתרגל"
             },
             {
@@ -93,7 +93,7 @@
             "passPercent": "77",
             "min": "13",
             "max": "94",
-            "average": "63.767",
+            "average": "63.833",
             "median": "68"
         },
         "Final_B": {
@@ -102,8 +102,17 @@
             "passPercent": "87",
             "min": "30",
             "max": "98",
-            "average": "72.9",
+            "average": "72.967",
             "median": "77"
+        },
+        "Finals": {
+            "students": "84",
+            "passFail": "63\/21",
+            "passPercent": "75",
+            "min": "30",
+            "max": "100",
+            "average": "76.877",
+            "median": "80"
         }
     },
     "202302": {
