@@ -1,4 +1,45 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "רוזנטל רון",
+                "email": "ron.ro@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סופר גלעד",
+                "email": "gilad.sofer@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "24",
+            "passFail": "13\/11",
+            "passPercent": "54",
+            "min": "6",
+            "max": "94",
+            "average": "52.042",
+            "median": "60"
+        },
+        "Final_A": {
+            "students": "24",
+            "passFail": "14\/10",
+            "passPercent": "58",
+            "min": "6",
+            "max": "94",
+            "average": "53.75",
+            "median": "64"
+        },
+        "Finals": {
+            "students": "122",
+            "passFail": "77\/45",
+            "passPercent": "63",
+            "min": "5",
+            "max": "96",
+            "average": "58.623",
+            "median": "65"
+        }
+    },
     "202401": {
         "Staff": [
             {
