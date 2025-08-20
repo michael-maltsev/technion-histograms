@@ -1,4 +1,32 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "אפלבוים אליעזר",
+                "email": "eaea@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "תובל נופר",
+                "email": "nofar.tuval@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בר-און דוד",
+                "email": "dudyb@technion.ac.il",
+                "title": "מדריך מעבדה"
+            }
+        ],
+        "Exam_A": {
+            "students": "69",
+            "passFail": "62\/7",
+            "passPercent": "90",
+            "min": "29",
+            "max": "103",
+            "average": "78.13",
+            "median": "82"
+        }
+    },
     "202302": {
         "Staff": [
             {
