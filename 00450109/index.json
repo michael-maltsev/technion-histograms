@@ -3,12 +3,12 @@
         "Staff": [
             {
                 "name": "טלמון אינה",
-                "email": "ina@ee.technion.ac.il,ina@technion.ac.il",
+                "email": "ina@technion.ac.il",
                 "title": "מרצה"
             },
             {
                 "name": "טלמון רונן",
-                "email": "ronen@ee.technion.ac.il,ronenta2@technion.ac.il",
+                "email": "ronenta2@technion.ac.il",
                 "title": "מרצה"
             },
             {
@@ -23,6 +23,15 @@
             }
         ],
         "Final_A": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "91",
+            "max": "98",
+            "average": "95.462",
+            "median": "96"
+        },
+        "Finals": {
             "students": "26",
             "passFail": "26\/0",
             "passPercent": "100",
