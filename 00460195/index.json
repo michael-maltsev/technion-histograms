@@ -1,4 +1,50 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "וינברגר ניר",
+                "email": "nirwein@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מרון חגי",
+                "email": "haggaimaron@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "קליינר מתן",
+                "email": "matankleiner@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "104",
+            "passFail": "56\/48",
+            "passPercent": "54",
+            "min": "0",
+            "max": "95",
+            "average": "56.481",
+            "median": "57.75"
+        },
+        "Final_A": {
+            "students": "104",
+            "passFail": "89\/15",
+            "passPercent": "86",
+            "min": "26",
+            "max": "100",
+            "average": "76.106",
+            "median": "78.5"
+        },
+        "Finals": {
+            "students": "104",
+            "passFail": "89\/15",
+            "passPercent": "86",
+            "min": "26",
+            "max": "100",
+            "average": "76.106",
+            "median": "78.5"
+        }
+    },
     "202401": {
         "Staff": [
             {
