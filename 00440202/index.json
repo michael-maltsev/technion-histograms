@@ -1,4 +1,36 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "מיכאלי תומר",
+                "email": "tomer.m@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לביא ניתאי",
+                "email": "nitay.lavi@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "81",
+            "passFail": "52\/29",
+            "passPercent": "64",
+            "min": "8",
+            "max": "96",
+            "average": "60.012",
+            "median": "62"
+        },
+        "Final_A": {
+            "students": "81",
+            "passFail": "67\/14",
+            "passPercent": "83",
+            "min": "21",
+            "max": "100",
+            "average": "68.691",
+            "median": "71"
+        }
+    },
     "202401": {
         "Staff": [
             {
