@@ -1,4 +1,41 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "בלנק אהרן",
+                "email": "ab359@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אביגדורי עידן",
+                "email": "sidan89@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "שרון אוריה",
+                "email": "uriahsharon@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "99",
+            "passFail": "53\/46",
+            "passPercent": "54",
+            "min": "8",
+            "max": "98",
+            "average": "53.848",
+            "median": "55"
+        },
+        "Final_A": {
+            "students": "99",
+            "passFail": "74\/25",
+            "passPercent": "75",
+            "min": "24",
+            "max": "100",
+            "average": "65.111",
+            "median": "65"
+        }
+    },
     "202302": {
         "Staff": [
             {
