@@ -1,1 +1,29 @@
-[]
+{
+    "202401": {
+        "Staff": [
+            {
+                "name": "כהן ישראל",
+                "email": "cisrael@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Final_A": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "98.294",
+            "median": "100"
+        },
+        "Finals": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "97.45",
+            "median": "100"
+        }
+    }
+}
