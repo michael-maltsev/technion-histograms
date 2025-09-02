@@ -8,17 +8,17 @@
             },
             {
                 "name": "ריבקין אינה",
-                "email": "inna@ee.technion.ac.il,inna@technion.ac.il",
+                "email": "inna@technion.ac.il",
                 "title": "מרצה"
             },
             {
                 "name": "טלמון אינה",
-                "email": "ina@ee.technion.ac.il,ina@technion.ac.il",
+                "email": "ina@technion.ac.il",
                 "title": "מרצה"
             },
             {
                 "name": "שמואלי עוז",
-                "email": "shmueli@ee.technion.ac.il,ozs@technion.ac.il",
+                "email": "ozs@technion.ac.il",
                 "title": "מרצה"
             },
             {
@@ -28,12 +28,21 @@
             }
         ],
         "Final_A": {
-            "students": "31",
-            "passFail": "29\/2",
-            "passPercent": "94",
-            "min": "41",
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "92",
             "max": "98",
-            "average": "89.548",
+            "average": "95.862",
+            "median": "96"
+        },
+        "Finals": {
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "92",
+            "max": "98",
+            "average": "95.862",
             "median": "96"
         }
     },
