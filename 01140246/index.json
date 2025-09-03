@@ -13,17 +13,35 @@
             "passPercent": "75",
             "min": "31",
             "max": "98",
-            "average": "64.94",
+            "average": "64.96",
             "median": "66.5"
         },
         "Final_A": {
-            "students": "99",
-            "passFail": "82\/17",
+            "students": "100",
+            "passFail": "83\/17",
             "passPercent": "83",
             "min": "31",
             "max": "99",
-            "average": "69.586",
-            "median": "73"
+            "average": "69.8",
+            "median": "73.5"
+        },
+        "Exam_B": {
+            "students": "46",
+            "passFail": "28\/18",
+            "passPercent": "61",
+            "min": "8",
+            "max": "99",
+            "average": "61.326",
+            "median": "62.5"
+        },
+        "Final_B": {
+            "students": "46",
+            "passFail": "34\/12",
+            "passPercent": "74",
+            "min": "8",
+            "max": "100",
+            "average": "65.109",
+            "median": "65.5"
         }
     },
     "202302": {
@@ -120,7 +138,7 @@
         "Staff": [
             {
                 "name": "פרץ חגי",
-                "email": "hperets@physics.technion.ac.il,hperets@technion.ac.il",
+                "email": "hperets@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             }
         ],
