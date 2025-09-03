@@ -13,7 +13,7 @@
             },
             {
                 "name": "חזן יהושע",
-                "email": "joshuah@campus.technion.ac.il",
+                "email": "joshuah@technion.ac.il,joshuah@campus.technion.ac.il",
                 "title": "מדריך מעבדה"
             },
             {
@@ -49,6 +49,15 @@
             "min": "68",
             "max": "98",
             "average": "84.385",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "52",
+            "passFail": "52\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "98",
+            "average": "84.404",
             "median": "85"
         }
     },
