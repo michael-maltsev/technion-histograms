@@ -7,6 +7,11 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "סורני אלן",
+                "email": "elad.tzorani@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
                 "name": "סנדנר יואב",
                 "email": "sandneryoav@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
@@ -18,7 +23,7 @@
             "passPercent": "56",
             "min": "9",
             "max": "100",
-            "average": "57.154",
+            "average": "57.404",
             "median": "55"
         },
         "Final_A": {
@@ -27,8 +32,26 @@
             "passPercent": "56",
             "min": "9",
             "max": "100",
-            "average": "58.654",
+            "average": "58.904",
             "median": "60"
+        },
+        "Final_B": {
+            "students": "43",
+            "passFail": "26\/17",
+            "passPercent": "60",
+            "min": "18",
+            "max": "99",
+            "average": "61.535",
+            "median": "61"
+        },
+        "Finals": {
+            "students": "104",
+            "passFail": "66\/38",
+            "passPercent": "63",
+            "min": "0",
+            "max": "100",
+            "average": "60.279",
+            "median": "64.5"
         }
     },
     "202401": {
