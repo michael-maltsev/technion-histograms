@@ -8,11 +8,11 @@
             },
             {
                 "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
+                "email": "shlomitb@ie.technion.ac.il,shlomitb@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "בן ענת רוחמה",
+                "name": "בן-ענת רוחמה",
                 "email": "ruchamab@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
@@ -21,9 +21,18 @@
             "students": "64",
             "passFail": "64\/0",
             "passPercent": "100",
-            "min": "83.5",
+            "min": "82",
             "max": "99",
-            "average": "93.203",
+            "average": "93.266",
+            "median": "94"
+        },
+        "Finals": {
+            "students": "64",
+            "passFail": "64\/0",
+            "passPercent": "100",
+            "min": "82",
+            "max": "99",
+            "average": "93.266",
             "median": "94"
         }
     },
