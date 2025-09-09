@@ -12,6 +12,11 @@
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
+                "name": "קאסה עלמיתו",
+                "email": "alemituf@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "כמאל רנד",
                 "email": "randkamal@campus.technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -32,8 +37,35 @@
             "passPercent": "95",
             "min": "37",
             "max": "100",
-            "average": "79.53",
-            "median": "81.5"
+            "average": "79.727",
+            "median": "82"
+        },
+        "Exam_B": {
+            "students": "31",
+            "passFail": "29\/2",
+            "passPercent": "94",
+            "min": "48",
+            "max": "95",
+            "average": "77.452",
+            "median": "77"
+        },
+        "Final_B": {
+            "students": "31",
+            "passFail": "29\/2",
+            "passPercent": "94",
+            "min": "48",
+            "max": "95",
+            "average": "79.097",
+            "median": "79"
+        },
+        "Finals": {
+            "students": "99",
+            "passFail": "97\/2",
+            "passPercent": "98",
+            "min": "48",
+            "max": "100",
+            "average": "82.927",
+            "median": "85.5"
         }
     },
     "202302": {
