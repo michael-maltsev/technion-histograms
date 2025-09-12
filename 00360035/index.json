@@ -1,4 +1,32 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "שר ערן",
+                "email": "sher@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שמעוני מעיין",
+                "email": "maayan.s@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שרון אריאל",
+                "email": "glivshyts@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "42",
+            "passFail": "42\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "99",
+            "average": "86.929",
+            "median": "87"
+        }
+    },
     "202302": {
         "Staff": [
             {
