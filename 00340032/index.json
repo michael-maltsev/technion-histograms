@@ -7,6 +7,11 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "קיין רתם",
+                "email": "rotemkain@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
                 "name": "דמצ'נקו איגור",
                 "email": "sigord@technion.ac.il,sigord@campus.technion.ac.il",
                 "title": "מתרגל"
@@ -38,6 +43,24 @@
             "min": "18",
             "max": "98",
             "average": "64.057",
+            "median": "66"
+        },
+        "Exam_B": {
+            "students": "56",
+            "passFail": "42\/14",
+            "passPercent": "75",
+            "min": "6",
+            "max": "100",
+            "average": "65.107",
+            "median": "66.5"
+        },
+        "Finals": {
+            "students": "87",
+            "passFail": "60\/27",
+            "passPercent": "69",
+            "min": "18",
+            "max": "98",
+            "average": "64.103",
             "median": "66"
         }
     },
