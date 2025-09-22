@@ -1,4 +1,27 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "סמואל טל",
+                "email": "talsamuel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-ענת רוחמה",
+                "email": "ruchamab@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "95",
+            "max": "95",
+            "average": "95",
+            "median": "95"
+        }
+    },
     "202401": {
         "Staff": [
             {
@@ -7,13 +30,13 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "בן ענת רוחמה",
+                "name": "בן-ענת רוחמה",
                 "email": "ruchamab@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
+                "email": "shlomitb@ie.technion.ac.il,shlomitb@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -21,6 +44,15 @@
             "students": "21",
             "passFail": "21\/0",
             "passPercent": "100",
+            "min": "96",
+            "max": "100",
+            "average": "97.524",
+            "median": "98"
+        },
+        "Finals": {
+            "students": "22",
+            "passFail": "21\/1",
+            "passPercent": "95",
             "min": "96",
             "max": "100",
             "average": "97.524",
