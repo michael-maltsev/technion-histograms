@@ -307,22 +307,22 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
 
     course_number = properties['course']
 
-    # Pad with zeros.
     course_number_fixed = course_number.zfill(8)
+    course_number_fixed_legacy = None
 
     # Remove middle zero.
     pattern = r'(0{0,2}[1-9][0-9]|0{0,1}[1-9][0-9]{2})0[0-9]{3}|970300\d\d'
-    if not re.fullmatch(pattern, course_number) or course_number[-4] != '0':
+    if re.fullmatch(pattern, course_number) and course_number[-4] == '0':
+        course_number_fixed_legacy = course_number[:-4] + course_number[-3:]
+
+        # Handle special cases:
+        # 97030xy -> 9730xy
+        course_number_fixed_legacy = re.sub(r'^97030(\d\d)$', r'9730\1', course_number_fixed_legacy)
+
+        # Pad with 6 zeros.
+        course_number_fixed_legacy = course_number_fixed_legacy.zfill(6)
+    elif not re.fullmatch(r'[0-9]{6,8}', course_number):
         raise Exception(f'Unexpected course number in commit {commit}: {course_number}')
-
-    course_number_fixed_legacy = course_number[:-4] + course_number[-3:]
-
-    # Handle special cases:
-    # 97030xy -> 9730xy
-    course_number_fixed_legacy = re.sub(r'^97030(\d\d)$', r'9730\1', course_number_fixed_legacy)
-
-    # Pad with 6 zeros.
-    course_number_fixed_legacy = course_number_fixed_legacy.zfill(6)
 
     match = re.fullmatch(r'(?:_mismatch_)?_?[0-9]{5,8}/([0-9]{6})/(\w+)\.(png|json)', path)
     if not match:
@@ -337,18 +337,22 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         (override_category or category_from_path) + '.' +
         file_extension_from_path)
     path_fixed = course_number_fixed + path_fixed_suffix
-    path_fixed_legacy = course_number_fixed_legacy + path_fixed_suffix
 
-    path_without_mismatch = path.removeprefix('_mismatch_')
-    if path_without_mismatch not in (path_fixed, path_fixed_legacy):
-        if override_course or override_semester or override_category:
-            print(f'Overriding path in commit {commit}: {path_without_mismatch} -> {path_fixed}')
-        elif path_without_mismatch == re.sub(r'^9730\d\d/', r'097030/', path_fixed_legacy):
-            pass
-        elif path_without_mismatch == '_' + course_number + path_fixed_suffix:
-            pass
-        else:
-            raise Exception(f'Unexpected path in commit {commit}: {path_without_mismatch} != {path_fixed}')
+    if course_number_fixed_legacy:
+        path_fixed_legacy = course_number_fixed_legacy + path_fixed_suffix
+
+        path_without_mismatch = path.removeprefix('_mismatch_')
+        if path_without_mismatch not in (path_fixed, path_fixed_legacy):
+            if override_course or override_semester or override_category:
+                print(f'Overriding path in commit {commit}: {path_without_mismatch} -> {path_fixed}')
+            elif path_without_mismatch == re.sub(r'^9730\d\d/', r'097030/', path_fixed_legacy):
+                pass
+            elif path_without_mismatch == '_' + course_number + path_fixed_suffix:
+                pass
+            else:
+                raise Exception(f'Unexpected path in commit {commit}: {path_without_mismatch} != {path_fixed}')
+    elif path.endswith('_mismatch_'):
+        raise Exception(f'Unexpected path in commit {commit}: {path} (no legacy course number)')
 
     if category_from_path != 'Staff':
         is_international = properties['histogramCourseName'].endswith('- בינלאומי')
