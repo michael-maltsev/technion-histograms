@@ -338,21 +338,23 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         file_extension_from_path)
     path_fixed = course_number_fixed + path_fixed_suffix
 
+    path_fixed_legacy = None
     if course_number_fixed_legacy:
         path_fixed_legacy = course_number_fixed_legacy + path_fixed_suffix
 
-        path_without_mismatch = path.removeprefix('_mismatch_')
-        if path_without_mismatch not in (path_fixed, path_fixed_legacy):
-            if override_course or override_semester or override_category:
-                print(f'Overriding path in commit {commit}: {path_without_mismatch} -> {path_fixed}')
-            elif path_without_mismatch == re.sub(r'^9730\d\d/', r'097030/', path_fixed_legacy):
-                pass
-            elif path_without_mismatch == '_' + course_number + path_fixed_suffix:
-                pass
-            else:
-                raise Exception(f'Unexpected path in commit {commit}: {path_without_mismatch} != {path_fixed}')
-    elif path.endswith('_mismatch_'):
-        raise Exception(f'Unexpected path in commit {commit}: {path} (no legacy course number)')
+    path_without_mismatch = path.removeprefix('_mismatch_')
+    if path_without_mismatch == path_fixed:
+        pass
+    elif path_fixed_legacy and path_without_mismatch == path_fixed_legacy:
+        pass
+    elif override_course or override_semester or override_category:
+        print(f'Overriding path in commit {commit}: {path_without_mismatch} -> {path_fixed}')
+    elif path_fixed_legacy and path_without_mismatch == re.sub(r'^9730\d\d/', r'097030/', path_fixed_legacy):
+        pass
+    elif path_without_mismatch == '_' + course_number + path_fixed_suffix:
+        pass
+    else:
+        raise Exception(f'Unexpected path in commit {commit}: {path_without_mismatch} != {path_fixed}')
 
     if category_from_path != 'Staff':
         is_international = properties['histogramCourseName'].endswith('- בינלאומי')
