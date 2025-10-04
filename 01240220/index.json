@@ -2,14 +2,9 @@
     "202402": {
         "Staff": [
             {
-                "name": "ברנע אייל",
-                "email": "chbarnea@technion.ac.il",
-                "title": "מרצה"
-            },
-            {
                 "name": "פיליפוב טיחון",
                 "email": "tihon@technion.ac.il",
-                "title": "מרצה"
+                "title": "מרצה - אחראי מקצוע"
             },
             {
                 "name": "לוצקי גיא",
@@ -52,6 +47,15 @@
             "max": "100",
             "average": "78.199",
             "median": "75.2"
+        },
+        "Finals": {
+            "students": "95",
+            "passFail": "82\/13",
+            "passPercent": "86",
+            "min": "31",
+            "max": "100",
+            "average": "75.358",
+            "median": "78"
         }
     },
     "202302": {
