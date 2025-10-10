@@ -1,4 +1,54 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "מנור עופר",
+                "email": "manoro@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "ברנדון שמעון",
+                "email": "cersbsb@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "59",
+            "passFail": "44\/15",
+            "passPercent": "75",
+            "min": "32.3",
+            "max": "100",
+            "average": "69.212",
+            "median": "67.5"
+        },
+        "Final_A": {
+            "students": "59",
+            "passFail": "45\/14",
+            "passPercent": "76",
+            "min": "42",
+            "max": "100",
+            "average": "72.068",
+            "median": "70"
+        },
+        "Final_B": {
+            "students": "24",
+            "passFail": "21\/3",
+            "passPercent": "88",
+            "min": "46.115",
+            "max": "86.71",
+            "average": "69.263",
+            "median": "69.9445"
+        },
+        "Finals": {
+            "students": "111",
+            "passFail": "107\/4",
+            "passPercent": "96",
+            "min": "46",
+            "max": "100",
+            "average": "77.486",
+            "median": "78"
+        }
+    },
     "202202": {
         "Staff": [
             {

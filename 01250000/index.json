@@ -1,4 +1,60 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "גלבווסר דוד אנדרס",
+                "email": "dgelbi@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "גודסי עודד",
+                "email": "chgodsi@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "כהן עמית",
+                "email": "amit.cohen@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "לנגבהיים יהונתן עמית",
+                "email": "yonilang87@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אוסקר עליזה",
+                "email": "chaliza@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "35",
+            "passFail": "26\/9",
+            "passPercent": "74",
+            "min": "36",
+            "max": "96",
+            "average": "66.886",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "35",
+            "passFail": "34\/1",
+            "passPercent": "97",
+            "min": "49",
+            "max": "96",
+            "average": "77.486",
+            "median": "79"
+        },
+        "Finals": {
+            "students": "85",
+            "passFail": "81\/4",
+            "passPercent": "95",
+            "min": "0",
+            "max": "100",
+            "average": "77.259",
+            "median": "80"
+        }
+    },
     "202302": {
         "Staff": [
             {

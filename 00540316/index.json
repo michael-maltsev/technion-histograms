@@ -58,6 +58,70 @@
             "median": "78"
         }
     },
+    "202301": {
+        "Staff": [
+            {
+                "name": "מנדלס דן",
+                "email": "hussan.diab@technion.ac.il,danmendels@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "עטיאס רינת",
+                "email": "rinatlevi@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הרשקוביץ פולק יעל",
+                "email": "yhershkovitz@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            }
+        ],
+        "Exam_A": {
+            "students": "50",
+            "passFail": "36\/14",
+            "passPercent": "72",
+            "min": "31",
+            "max": "100",
+            "average": "68.48",
+            "median": "71.5"
+        },
+        "Final_A": {
+            "students": "50",
+            "passFail": "38\/12",
+            "passPercent": "76",
+            "min": "31",
+            "max": "100",
+            "average": "72.578",
+            "median": "79.05"
+        },
+        "Exam_B": {
+            "students": "16",
+            "passFail": "11\/5",
+            "passPercent": "69",
+            "min": "30",
+            "max": "90",
+            "average": "63.438",
+            "median": "65"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "13\/3",
+            "passPercent": "81",
+            "min": "30",
+            "max": "92.4",
+            "average": "68.656",
+            "median": "72.65"
+        },
+        "Finals": {
+            "students": "54",
+            "passFail": "50\/4",
+            "passPercent": "93",
+            "min": "30",
+            "max": "100",
+            "average": "77.833",
+            "median": "81"
+        }
+    },
     "202201": {
         "Staff": [
             {
