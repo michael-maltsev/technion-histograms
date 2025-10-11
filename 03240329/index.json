@@ -7,7 +7,7 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "בן ענת רוחמה",
+                "name": "בן-ענת רוחמה",
                 "email": "ruchamab@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
@@ -18,7 +18,16 @@
             "passPercent": "100",
             "min": "66",
             "max": "100",
-            "average": "87.136",
+            "average": "87.318",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "66",
+            "max": "100",
+            "average": "87.565",
             "median": "90"
         }
     }

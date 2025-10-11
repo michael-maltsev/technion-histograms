@@ -1,4 +1,45 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "זהבי איתן",
+                "email": "ezahavi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דהאן מור מרדכי",
+                "email": "nikol.gelman@campus.technion.ac.il,mordahan@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "11\/5",
+            "passPercent": "69",
+            "min": "44",
+            "max": "90",
+            "average": "65.812",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "53",
+            "max": "92",
+            "average": "76.5",
+            "median": "79.5"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "20\/3",
+            "passPercent": "87",
+            "min": "56",
+            "max": "92",
+            "average": "78.85",
+            "median": "84"
+        }
+    },
     "202301": {
         "Staff": [
             {

@@ -9,7 +9,7 @@
             {
                 "name": "רוסו רותם",
                 "email": "rotem.rousso@campus.technion.ac.il",
-                "title": "מתרגל"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Exam_A": {
@@ -18,7 +18,7 @@
             "passPercent": "78",
             "min": "30",
             "max": "97",
-            "average": "71.958",
+            "average": "72.042",
             "median": "75"
         },
         "Final_A": {
@@ -27,8 +27,17 @@
             "passPercent": "100",
             "min": "61",
             "max": "98",
-            "average": "84.944",
+            "average": "85",
             "median": "86.5"
+        },
+        "Finals": {
+            "students": "46",
+            "passFail": "44\/2",
+            "passPercent": "96",
+            "min": "0",
+            "max": "98",
+            "average": "84.044",
+            "median": "87"
         }
     },
     "202301": {
