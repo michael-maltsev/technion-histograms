@@ -1,4 +1,45 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "קוטין שי",
+                "email": "kutten@ie.technion.ac.il,kutten@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גוטמן עופר",
+                "email": "yoram.mass@technion.ac.il,ofer.guthmann@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "185",
+            "passFail": "170\/15",
+            "passPercent": "92",
+            "min": "31",
+            "max": "100",
+            "average": "78.546",
+            "median": "80"
+        },
+        "Final_B": {
+            "students": "47",
+            "passFail": "47\/0",
+            "passPercent": "100",
+            "min": "71",
+            "max": "100",
+            "average": "86.489",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "188",
+            "passFail": "173\/15",
+            "passPercent": "92",
+            "min": "31",
+            "max": "100",
+            "average": "78.925",
+            "median": "80.5"
+        }
+    },
     "202302": {
         "Staff": [
             {
