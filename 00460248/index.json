@@ -1,0 +1,43 @@
+{
+    "202401": {
+        "Staff": [
+            {
+                "name": "הורוביץ משה",
+                "email": "horowitz@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ליבני רגב",
+                "email": "reggevlivney@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "13",
+            "passFail": "12\/1",
+            "passPercent": "92",
+            "min": "47",
+            "max": "100",
+            "average": "80.692",
+            "median": "85"
+        },
+        "Final_A": {
+            "students": "13",
+            "passFail": "12\/1",
+            "passPercent": "92",
+            "min": "47",
+            "max": "100",
+            "average": "82.923",
+            "median": "87"
+        },
+        "Finals": {
+            "students": "16",
+            "passFail": "14\/2",
+            "passPercent": "88",
+            "min": "68",
+            "max": "100",
+            "average": "85.714",
+            "median": "87.5"
+        }
+    }
+}
