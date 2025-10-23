@@ -1,4 +1,50 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "לוי מרק",
+                "email": "markl@bm.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סילברסטין אסף יאיר",
+                "email": "si.asaf@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "עסאף טניה",
+                "email": "tania.assaf@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "82.164",
+            "median": "85"
+        },
+        "Final_A": {
+            "students": "39",
+            "passFail": "39\/0",
+            "passPercent": "100",
+            "min": "70.4",
+            "max": "100",
+            "average": "88.818",
+            "median": "89.4"
+        },
+        "Finals": {
+            "students": "58",
+            "passFail": "58\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "100",
+            "average": "89.414",
+            "median": "91"
+        }
+    },
     "202302": {
         "Staff": [
             {
