@@ -1,4 +1,50 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "דגני אמיר",
+                "email": "adegani@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אוזנה נועם",
+                "email": "noam.ouzana@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "צעירי קובלר קרן",
+                "email": "kovlerk@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "152",
+            "passFail": "116\/36",
+            "passPercent": "76",
+            "min": "14",
+            "max": "99",
+            "average": "68.132",
+            "median": "74"
+        },
+        "Final_B": {
+            "students": "73",
+            "passFail": "66\/7",
+            "passPercent": "90",
+            "min": "36",
+            "max": "97",
+            "average": "72.178",
+            "median": "75"
+        },
+        "Finals": {
+            "students": "178",
+            "passFail": "169\/9",
+            "passPercent": "95",
+            "min": "36",
+            "max": "99",
+            "average": "75.522",
+            "median": "76.5"
+        }
+    },
     "202302": {
         "Staff": [
             {
