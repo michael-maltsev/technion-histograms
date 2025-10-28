@@ -1,4 +1,59 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "גרבר דן",
+                "email": "dangar@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דורון קאבלה",
+                "email": "doron.kabla@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מנחם מוריה",
+                "email": "moriyam@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "108",
+            "passFail": "75\/33",
+            "passPercent": "69",
+            "min": "26",
+            "max": "100",
+            "average": "64.815",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "108",
+            "passFail": "97\/11",
+            "passPercent": "90",
+            "min": "48",
+            "max": "100",
+            "average": "75.389",
+            "median": "75.5"
+        },
+        "Exam_B": {
+            "students": "42",
+            "passFail": "25\/17",
+            "passPercent": "60",
+            "min": "17",
+            "max": "90",
+            "average": "56.381",
+            "median": "59.5"
+        },
+        "Final_B": {
+            "students": "42",
+            "passFail": "37\/5",
+            "passPercent": "88",
+            "min": "42",
+            "max": "93",
+            "average": "69.524",
+            "median": "71.5"
+        }
+    },
     "202401": {
         "Staff": [
             {
