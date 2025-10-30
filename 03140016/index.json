@@ -1,4 +1,27 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "חורי לואי",
+                "email": "luaikh@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חיראללה טינה",
+                "email": "tinak@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "35",
+            "passFail": "35\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "91.971",
+            "median": "92"
+        }
+    },
     "202302": {
         "Staff": [
             {
