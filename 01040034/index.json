@@ -1,4 +1,36 @@
 {
+    "202403": {
+        "Staff": [
+            {
+                "name": "ולך נתן שמעון",
+                "email": "tani@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מעין הילה",
+                "email": "ahila@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "69",
+            "passFail": "47\/22",
+            "passPercent": "68",
+            "min": "12",
+            "max": "100",
+            "average": "65.319",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "69",
+            "passFail": "51\/18",
+            "passPercent": "74",
+            "min": "14",
+            "max": "100",
+            "average": "66.899",
+            "median": "69"
+        }
+    },
     "202402": {
         "Staff": [
             {
