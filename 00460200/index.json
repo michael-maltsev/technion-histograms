@@ -12,6 +12,11 @@
                 "title": "מתרגל"
             },
             {
+                "name": "טייץ שרה",
+                "email": "sarah.teitz@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "קום בצר ענבל",
                 "email": "inbalkom@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
@@ -44,6 +49,33 @@
             "max": "99",
             "average": "76.837",
             "median": "78"
+        },
+        "Exam_B": {
+            "students": "50",
+            "passFail": "39\/11",
+            "passPercent": "78",
+            "min": "18",
+            "max": "100",
+            "average": "69.78",
+            "median": "74"
+        },
+        "Final_B": {
+            "students": "50",
+            "passFail": "46\/4",
+            "passPercent": "92",
+            "min": "29",
+            "max": "100",
+            "average": "76.64",
+            "median": "79.5"
+        },
+        "Finals": {
+            "students": "111",
+            "passFail": "107\/4",
+            "passPercent": "96",
+            "min": "29",
+            "max": "100",
+            "average": "79.486",
+            "median": "81"
         }
     },
     "202401": {
