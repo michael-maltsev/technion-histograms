@@ -191,6 +191,11 @@ COURSE_ALTERNATIVE_NAMES = {
     'אחריות מקצועית:דילמות חוק ואתיקה': 'Professional Liability Dilemmas',
     'אלגברה ב': 'Algebra B',
     'אקו-פילוסופיה:חשיבה סביבתית': 'Eco-Philosophy:Environmental Thought',
+    'מעבדה להנדסת פולימרים': 'Polymer Engineering Laboratory',
+    'תרמודינמיקה סטטיסטית בהנדסה כימית': 'Statistical Termodynamics in Chem. Eng.',
+    'ממברנות עקרונות וחומרים': 'Membranes Principles and Materials',
+    'סטטיסטיקה תעשייתית': 'Industrial Statistics',
+    'אנגלית מורחבת לתארים מתקדמים': 'advanced english for graduate students',
 }
 
 
