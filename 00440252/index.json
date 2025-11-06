@@ -1,4 +1,27 @@
 {
+    "202403": {
+        "Staff": [
+            {
+                "name": "הדר אלעד",
+                "email": "ehadar@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קריחלי תומר",
+                "email": "tomerkrichli@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "52",
+            "passFail": "42\/10",
+            "passPercent": "81",
+            "min": "36",
+            "max": "98",
+            "average": "74.643",
+            "median": "80.5"
+        }
+    },
     "202402": {
         "Staff": [
             {
