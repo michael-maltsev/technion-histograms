@@ -3,21 +3,30 @@
         "Staff": [
             {
                 "name": "רם טיקטין אפרת",
-                "email": "efratra@technion.ac.il",
+                "email": "selqayam@hotmail.com,efratra@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
                 "name": "בן-איש שלומית",
-                "email": "shlomitb@technion.ac.il",
+                "email": "shlomitb@ie.technion.ac.il,shlomitb@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "בן ענת רוחמה",
+                "name": "בן-ענת רוחמה",
                 "email": "ruchamab@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
+            "students": "51",
+            "passFail": "51\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "97.412",
+            "median": "99"
+        },
+        "Finals": {
             "students": "51",
             "passFail": "51\/0",
             "passPercent": "100",
