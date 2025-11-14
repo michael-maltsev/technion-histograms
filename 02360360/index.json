@@ -1,4 +1,22 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "פלג הילה",
+                "email": "hilap@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Finals": {
+            "students": "149",
+            "passFail": "132\/17",
+            "passPercent": "89",
+            "min": "26",
+            "max": "100",
+            "average": "76.068",
+            "median": "77"
+        }
+    },
     "202401": {
         "Staff": [
             {
@@ -9,11 +27,11 @@
         ],
         "Finals": {
             "students": "250",
-            "passFail": "209\/41",
+            "passFail": "210\/40",
             "passPercent": "84",
             "min": "15",
             "max": "100",
-            "average": "79.304",
+            "average": "79.41",
             "median": "82"
         }
     },
