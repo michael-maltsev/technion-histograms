@@ -1,4 +1,36 @@
 {
+    "202403": {
+        "Staff": [
+            {
+                "name": "נסר עדי",
+                "email": "adi@physics.technion.ac.il,adin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גירש זאב",
+                "email": "zeev.girsh@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "131",
+            "passFail": "81\/50",
+            "passPercent": "62",
+            "min": "8.333",
+            "max": "100",
+            "average": "62.43",
+            "median": "58.333"
+        },
+        "Final_A": {
+            "students": "131",
+            "passFail": "111\/20",
+            "passPercent": "85",
+            "min": "28",
+            "max": "100",
+            "average": "71.237",
+            "median": "69"
+        }
+    },
     "202402": {
         "Staff": [
             {
