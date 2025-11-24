@@ -199,6 +199,11 @@ COURSE_ALTERNATIVE_NAMES = {
 }
 
 
+GIT_COMMITS_TO_CHERRY_PICK_AS_IS = (
+    '792d8758acd7bf913e28274f6a08f886aa64b64d',
+)
+
+
 GIT_MSGS_TO_SKIP = (
     'Automatic fixes by cherry_pick_with_fixes.py',
 )
@@ -228,7 +233,7 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         commit,
     ])
 
-    if msg.startswith('#'):
+    if commit in GIT_COMMITS_TO_CHERRY_PICK_AS_IS or msg.startswith('#'):
         print(f'Cherry-picking as is: [{commit}] {msg}')
         git_run(['add', '.'])
         git_run(['commit', '--quiet', '-m', 'temp'])
@@ -288,7 +293,7 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
 
     if histogram_course_name_missing:
         raise Exception(f'histogramCourseNameMissing: {commit}')
-    
+
     if histogram_category_missing:
         raise Exception(f'histogramCategoryMissing: {commit}')
 
