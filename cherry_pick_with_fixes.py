@@ -291,6 +291,14 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
     histogram_category_missing = properties.get('histogramCategoryMissing', 'false') != 'false'
     histogram_category_mismatch = properties.get('histogramCategoryMismatch', 'false') != 'false'
 
+    # Temporary: https://github.com/TheBooker66/Technion-Plus-Plus/issues/27
+    if histogram_course_name_missing and histogram_course_name_mismatch:
+        course_name = properties['courseName']
+        histogram_course_name = properties['histogramCourseName']
+        if histogram_course_name and histogram_course_name == course_name:
+            histogram_course_name_missing = False
+            histogram_course_name_mismatch = False
+
     if histogram_course_name_missing:
         raise Exception(f'histogramCourseNameMissing: {commit}')
 
