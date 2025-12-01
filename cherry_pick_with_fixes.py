@@ -204,16 +204,6 @@ COURSE_ALTERNATIVE_NAMES = {
 }
 
 
-GIT_COMMITS_TO_CHERRY_PICK_AS_IS = (
-    '792d8758acd7bf913e28274f6a08f886aa64b64d',
-)
-
-
-GIT_MSGS_TO_SKIP = (
-    'Automatic fixes by cherry_pick_with_fixes.py',
-)
-
-
 def git_run(cmd: List[str]):
     subprocess.check_call(['git'] + cmd, text=True)
 
@@ -238,16 +228,12 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         commit,
     ])
 
-    if commit in GIT_COMMITS_TO_CHERRY_PICK_AS_IS or msg.startswith('#') or msg.startswith('infra:'):
+    if msg.startswith('infra:'):
         print(f'Cherry-picking as is: [{commit}] {msg}')
         git_run(['add', '.'])
         git_run(['commit', '--quiet', '-m', 'temp'])
         git_run(['cherry-pick', '--no-commit', commit])
         git_run(['reset', '--quiet', 'HEAD~'])
-        return
-
-    if msg in GIT_MSGS_TO_SKIP:
-        print(f'Skipping: [{commit}] {msg}')
         return
 
     title, properties = msg.split('\n\n', 2)
