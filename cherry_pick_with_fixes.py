@@ -204,16 +204,6 @@ COURSE_ALTERNATIVE_NAMES = {
 }
 
 
-GIT_COMMITS_TO_CHERRY_PICK_AS_IS = (
-    '792d8758acd7bf913e28274f6a08f886aa64b64d',
-)
-
-
-GIT_MSGS_TO_SKIP = (
-    'Automatic fixes by cherry_pick_with_fixes.py',
-)
-
-
 def git_run(cmd: List[str]):
     subprocess.check_call(['git'] + cmd, text=True)
 
@@ -238,16 +228,12 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         commit,
     ])
 
-    if commit in GIT_COMMITS_TO_CHERRY_PICK_AS_IS or msg.startswith('#') or msg.startswith('infra:'):
+    if msg.startswith('infra:'):
         print(f'Cherry-picking as is: [{commit}] {msg}')
         git_run(['add', '.'])
         git_run(['commit', '--quiet', '-m', 'temp'])
         git_run(['cherry-pick', '--no-commit', commit])
         git_run(['reset', '--quiet', 'HEAD~'])
-        return
-
-    if msg in GIT_MSGS_TO_SKIP:
-        print(f'Skipping: [{commit}] {msg}')
         return
 
     title, properties = msg.split('\n\n', 2)
@@ -393,14 +379,30 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         if 'histogramCourseName' in properties:
             raise Exception(f'Unexpected histogramCourseName in {properties}')
 
-        if properties['courseName'].endswith('- בינלאומי'):
+        is_international = False
+        if properties['courseName'].endswith('- בינלאומי') or properties['courseName'].endswith('- International'):
             is_international = True
-        elif re.match(r'"?[A-Z]', properties['courseName']):
-            is_international = True
-        elif re.match(r'"?[א-ת]', properties['courseName']):
-            is_international = False
-        else:
-            raise Exception(f'Unexpected courseName in {properties}')
+        # elif re.match(r'"?[A-Z]', properties['courseName']):
+        #     is_international = True
+        # elif re.match(r'"?[א-ת]', properties['courseName']):
+        #     is_international = False
+        # else:
+        #     raise Exception(f'Unexpected courseName in {properties}')
+        #
+        # Previously, we had the heuristic above, since we got submissions with
+        # a generic English courseName, which couldn't be detected as
+        # international without histogramCourseName. Last such submission was in
+        # October 2024, more than a year ago:
+        #
+        # commit 9b22a759b2eac6482c2fa4e8244d23a98e8153e2
+        # Date:   Sun Oct 13 02:30:04 2024 +0300
+        #     courseName: General Chemistry
+        #     histogramCourseName: כימיה כללית - בינלאומי
+        #
+        # This heuristic also caused false positives for non-international
+        # courses with English names. It was eventually removed. Hopefully there
+        # won't be any more submissions like that.
+
 
     if is_international:
         path_fixed = re.sub(r'\.\w+$', r'_international\g<0>', path_fixed)
