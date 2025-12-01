@@ -379,14 +379,30 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         if 'histogramCourseName' in properties:
             raise Exception(f'Unexpected histogramCourseName in {properties}')
 
-        if properties['courseName'].endswith('- בינלאומי'):
+        is_international = False
+        if properties['courseName'].endswith('- בינלאומי') or properties['courseName'].endswith('- International'):
             is_international = True
-        elif re.match(r'"?[A-Z]', properties['courseName']):
-            is_international = True
-        elif re.match(r'"?[א-ת]', properties['courseName']):
-            is_international = False
-        else:
-            raise Exception(f'Unexpected courseName in {properties}')
+        # elif re.match(r'"?[A-Z]', properties['courseName']):
+        #     is_international = True
+        # elif re.match(r'"?[א-ת]', properties['courseName']):
+        #     is_international = False
+        # else:
+        #     raise Exception(f'Unexpected courseName in {properties}')
+        #
+        # Previously, we had the heuristic above, since we got submissions with
+        # a generic English courseName, which couldn't be detected as
+        # international without histogramCourseName. Last such submission was in
+        # October 2024, more than a year ago:
+        #
+        # commit 9b22a759b2eac6482c2fa4e8244d23a98e8153e2
+        # Date:   Sun Oct 13 02:30:04 2024 +0300
+        #     courseName: General Chemistry
+        #     histogramCourseName: כימיה כללית - בינלאומי
+        #
+        # This heuristic also caused false positives for non-international
+        # courses with English names. It was eventually removed. Hopefully there
+        # won't be any more submissions like that.
+
 
     if is_international:
         path_fixed = re.sub(r'\.\w+$', r'_international\g<0>', path_fixed)
