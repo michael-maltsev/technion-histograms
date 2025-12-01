@@ -196,6 +196,11 @@ COURSE_ALTERNATIVE_NAMES = {
     'ממברנות עקרונות וחומרים': 'Membranes Principles and Materials',
     'סטטיסטיקה תעשייתית': 'Industrial Statistics',
     'אנגלית מורחבת לתארים מתקדמים': 'advanced english for graduate students',
+    'אלגוריתמים 2': 'Algorithms 2',
+    'נושאים מתקדמים באינפורמציה קוונטית ה\'+ת\'': 'Advanced Topics in Quantum Information L+T',
+    'מבוא לאופטימיזציה': 'Introduction to Optimization',
+    'אלגוריתמים מבוזרים': 'Distributed Algorithms',
+    'שיטות הסתברותיות ואלגוריתמים': 'Probabilistic Methods and Algorithms',
 }
 
 
@@ -233,7 +238,7 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         commit,
     ])
 
-    if commit in GIT_COMMITS_TO_CHERRY_PICK_AS_IS or msg.startswith('#'):
+    if commit in GIT_COMMITS_TO_CHERRY_PICK_AS_IS or msg.startswith('#') or msg.startswith('infra:'):
         print(f'Cherry-picking as is: [{commit}] {msg}')
         git_run(['add', '.'])
         git_run(['commit', '--quiet', '-m', 'temp'])
