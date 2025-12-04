@@ -1,4 +1,45 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "מיכלסון שאול",
+                "email": "mshaul@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן-אריה ניב",
+                "email": "niv.ben-arie@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "98",
+            "average": "82.3",
+            "median": "82.5"
+        },
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "98",
+            "average": "85.8",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "25",
+            "passFail": "20\/5",
+            "passPercent": "80",
+            "min": "68",
+            "max": "98",
+            "average": "85.8",
+            "median": "86"
+        }
+    },
     "202302": {
         "Staff": [
             {
