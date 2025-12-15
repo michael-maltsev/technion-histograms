@@ -40,6 +40,52 @@
             "median": "72.5"
         }
     },
+    "202401": {
+        "Staff": [
+            {
+                "name": "עזריאל דוד",
+                "email": "davidazr@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "בורדו נדיה",
+                "email": "nadiabordo@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "גרינס עדו",
+                "email": "ido.griness@technion.ac.il,ido.griness@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "14\/2",
+            "passPercent": "88",
+            "min": "38.889",
+            "max": "100",
+            "average": "75.972",
+            "median": "77.778"
+        },
+        "Final_A": {
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "44",
+            "max": "100",
+            "average": "78.062",
+            "median": "80"
+        },
+        "Finals": {
+            "students": "25",
+            "passFail": "23\/2",
+            "passPercent": "92",
+            "min": "55",
+            "max": "100",
+            "average": "79.783",
+            "median": "75"
+        }
+    },
     "202302": {
         "Exam_A": {
             "students": "13",
