@@ -1,4 +1,63 @@
 {
+    "202403": {
+        "Staff": [
+            {
+                "name": "רם עומרי",
+                "email": "omri.ram@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אלגריסי מור",
+                "email": "morelgarisi@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "27",
+            "passFail": "20\/7",
+            "passPercent": "74",
+            "min": "19",
+            "max": "100",
+            "average": "63.037",
+            "median": "63"
+        },
+        "Final_A": {
+            "students": "27",
+            "passFail": "22\/5",
+            "passPercent": "81",
+            "min": "19",
+            "max": "97",
+            "average": "71.704",
+            "median": "76"
+        },
+        "Exam_B": {
+            "students": "13",
+            "passFail": "3\/10",
+            "passPercent": "23",
+            "min": "9",
+            "max": "94",
+            "average": "45.538",
+            "median": "48"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "7\/6",
+            "passPercent": "54",
+            "min": "9",
+            "max": "100",
+            "average": "51.692",
+            "median": "61"
+        },
+        "Finals": {
+            "students": "36",
+            "passFail": "1\/35",
+            "passPercent": "3",
+            "min": "76",
+            "max": "76",
+            "average": "76",
+            "median": "76"
+        }
+    },
     "202401": {
         "Staff": [
             {
