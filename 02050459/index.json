@@ -1,4 +1,68 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "רז אופק",
+                "email": "ofek.gonen@technion.ac.il,ofek.gonen@alumni.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פינקלשטיין עופר",
+                "email": "oferfinkel@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אזרוב בוריס",
+                "email": "boris.azarov@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "54",
+            "passFail": "43\/11",
+            "passPercent": "80",
+            "min": "17",
+            "max": "100",
+            "average": "73.667",
+            "median": "83"
+        },
+        "Final_A": {
+            "students": "54",
+            "passFail": "43\/11",
+            "passPercent": "80",
+            "min": "17",
+            "max": "100",
+            "average": "74.556",
+            "median": "85"
+        },
+        "Exam_B": {
+            "students": "35",
+            "passFail": "29\/6",
+            "passPercent": "83",
+            "min": "17",
+            "max": "100",
+            "average": "74.771",
+            "median": "80"
+        },
+        "Final_B": {
+            "students": "35",
+            "passFail": "29\/6",
+            "passPercent": "83",
+            "min": "17",
+            "max": "100",
+            "average": "72.771",
+            "median": "73"
+        },
+        "Finals": {
+            "students": "77",
+            "passFail": "66\/11",
+            "passPercent": "86",
+            "min": "0",
+            "max": "100",
+            "average": "81.794",
+            "median": "85.5"
+        }
+    },
     "202301": {
         "Staff": [
             {
