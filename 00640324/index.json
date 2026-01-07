@@ -1,4 +1,68 @@
 {
+    "202401": {
+        "Staff": [
+            {
+                "name": "מרקו תאיר",
+                "email": "tairmarco@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פישמן אילת",
+                "email": "afishman@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "יחזקאלי עומר",
+                "email": "y.omer@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "56",
+            "passFail": "51\/5",
+            "passPercent": "91",
+            "min": "38.5",
+            "max": "93",
+            "average": "69.321",
+            "median": "68.25"
+        },
+        "Final_A": {
+            "students": "56",
+            "passFail": "52\/4",
+            "passPercent": "93",
+            "min": "40.5",
+            "max": "95.6",
+            "average": "75.826",
+            "median": "75.575"
+        },
+        "Exam_B": {
+            "students": "15",
+            "passFail": "11\/4",
+            "passPercent": "73",
+            "min": "38.5",
+            "max": "87.5",
+            "average": "64.967",
+            "median": "58.5"
+        },
+        "Final_B": {
+            "students": "15",
+            "passFail": "13\/2",
+            "passPercent": "87",
+            "min": "40.5",
+            "max": "91.15",
+            "average": "71.693",
+            "median": "68.4"
+        },
+        "Finals": {
+            "students": "99",
+            "passFail": "92\/7",
+            "passPercent": "93",
+            "min": "41",
+            "max": "96",
+            "average": "77.849",
+            "median": "78"
+        }
+    },
     "202301": {
         "Staff": [
             {

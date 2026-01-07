@@ -1,4 +1,45 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "לרנר עידן",
+                "email": "idan.lerner@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "סגל רוברט",
+                "email": "robert@2sher.co.il,srobert@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "94.062",
+            "median": "95"
+        },
+        "Final_A": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "94.062",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "23\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "100",
+            "average": "92.826",
+            "median": "95"
+        }
+    },
     "202202": {
         "Staff": [
             {

@@ -7,24 +7,9 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "גנון אור",
-                "email": "or.ganon@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "גנץ מיכאלה",
-                "email": "micaelaganz@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "מחזומי מוחמד",
-                "email": "muhammadm@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "אביטבול שנהב",
+                "name": "אמסלם שנהב",
                 "email": "shenhav.abi@campus.technion.ac.il",
-                "title": "מתרגל"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "קצלניק שקד",
@@ -38,7 +23,22 @@
             },
             {
                 "name": "אבו חמד חנאן",
-                "email": "hanan.ab@campus.technion.ac.il",
+                "email": "hanan.ab@technion.ac.il,hanan.ab@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "גנון אור",
+                "email": "or.ganon@technion.ac.il,or.ganon@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "גנץ מיכאלה",
+                "email": "micaelaganz@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מחזומי מוחמד",
+                "email": "muhammadm@campus.technion.ac.il",
                 "title": "מתרגל"
             }
         ],
@@ -59,6 +59,33 @@
             "max": "99",
             "average": "89.745",
             "median": "91"
+        },
+        "Exam_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "99",
+            "average": "84.583",
+            "median": "89"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "97",
+            "average": "88.25",
+            "median": "91"
+        },
+        "Finals": {
+            "students": "93",
+            "passFail": "93\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "99",
+            "average": "86.065",
+            "median": "87"
         }
     },
     "202301": {
