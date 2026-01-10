@@ -1,0 +1,48 @@
+{
+    "202402": {
+        "Staff": [
+            {
+                "name": "יחזקאלי עומר",
+                "email": "y.omer@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "עמית רועי",
+                "email": "roeeamit@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "סגל אסתר",
+                "email": "esegal@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "53",
+            "passFail": "52\/1",
+            "passPercent": "98",
+            "min": "43",
+            "max": "100",
+            "average": "78.679",
+            "median": "83"
+        },
+        "Final_A": {
+            "students": "52",
+            "passFail": "51\/1",
+            "passPercent": "98",
+            "min": "37",
+            "max": "98",
+            "average": "82.365",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "97",
+            "passFail": "95\/2",
+            "passPercent": "98",
+            "min": "35",
+            "max": "98",
+            "average": "84.558",
+            "median": "86"
+        }
+    }
+}
