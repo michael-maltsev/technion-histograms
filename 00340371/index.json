@@ -22,14 +22,23 @@
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
-        "Finals": {
-            "students": "30",
-            "passFail": "30\/0",
+        "Final_A": {
+            "students": "20",
+            "passFail": "20\/0",
             "passPercent": "100",
+            "min": "79",
+            "max": "94",
+            "average": "89.7",
+            "median": "91.5"
+        },
+        "Finals": {
+            "students": "99",
+            "passFail": "93\/6",
+            "passPercent": "94",
             "min": "77",
             "max": "100",
-            "average": "93.833",
-            "median": "95"
+            "average": "92.161",
+            "median": "92"
         }
     },
     "202401": {
