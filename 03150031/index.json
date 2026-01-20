@@ -3,22 +3,17 @@
         "Staff": [
             {
                 "name": "ברגר שלמה",
-                "email": "berger@technion.ac.il",
+                "email": "sb1956@gmail.com,berger@technion.ac.il",
                 "title": "מרצה"
             },
             {
                 "name": "לנג ערד",
-                "email": "aradlang@gmail.com,aradlang@campus.technion.ac.il",
+                "email": "aradlang@technion.ac.il,aradlang@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "סנדר אושרית",
-                "email": "oshrits@technion.ac.il",
-                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
-            },
-            {
-                "name": "דוד רותי",
-                "email": "ruthi@technion.ac.il",
+                "name": "קיסלוב יוליה",
+                "email": "yuliak@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -32,6 +27,15 @@
             "median": "79"
         },
         "Final_A": {
+            "students": "18",
+            "passFail": "18\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "95",
+            "average": "80.722",
+            "median": "80"
+        },
+        "Finals": {
             "students": "18",
             "passFail": "18\/0",
             "passPercent": "100",
