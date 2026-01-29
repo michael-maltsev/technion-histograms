@@ -1,4 +1,40 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "מחלוף מרסל",
+                "email": "machlufm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "30",
+            "passFail": "29\/1",
+            "passPercent": "97",
+            "min": "27",
+            "max": "95",
+            "average": "74.967",
+            "median": "75.5"
+        },
+        "Final_A": {
+            "students": "29",
+            "passFail": "29\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "95",
+            "average": "82.069",
+            "median": "83"
+        },
+        "Finals": {
+            "students": "36",
+            "passFail": "35\/1",
+            "passPercent": "97",
+            "min": "66",
+            "max": "95",
+            "average": "81.457",
+            "median": "81"
+        }
+    },
     "202302": {
         "Staff": [
             {
