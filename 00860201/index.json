@@ -1,4 +1,41 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "בן-אשר יוסף",
+                "email": "yossiba@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אושקוב מיכאל",
+                "email": "ush.michael@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הרשקו דפנה",
+                "email": "dafnah@technion.ac.il,ae.ugsec@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "42",
+            "passFail": "42\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "84.19",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "45",
+            "passFail": "44\/1",
+            "passPercent": "98",
+            "min": "63",
+            "max": "100",
+            "average": "86.273",
+            "median": "87"
+        }
+    },
     "202202": {
         "Staff": [
             {
