@@ -1,4 +1,63 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "ילון עילם",
+                "email": "eilamy@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קמינסקי איתן",
+                "email": "eitan-k@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "32",
+            "passFail": "22\/10",
+            "passPercent": "69",
+            "min": "42",
+            "max": "100",
+            "average": "61.906",
+            "median": "58"
+        },
+        "Final_A": {
+            "students": "32",
+            "passFail": "30\/2",
+            "passPercent": "94",
+            "min": "46",
+            "max": "100",
+            "average": "73.125",
+            "median": "71"
+        },
+        "Exam_B": {
+            "students": "28",
+            "passFail": "21\/7",
+            "passPercent": "75",
+            "min": "30",
+            "max": "90",
+            "average": "65.321",
+            "median": "69.5"
+        },
+        "Final_B": {
+            "students": "28",
+            "passFail": "28\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "95",
+            "average": "76.429",
+            "median": "77"
+        },
+        "Finals": {
+            "students": "63",
+            "passFail": "44\/19",
+            "passPercent": "70",
+            "min": "0",
+            "max": "100",
+            "average": "73.957",
+            "median": "76"
+        }
+    },
     "202401": {
         "Staff": [
             {
