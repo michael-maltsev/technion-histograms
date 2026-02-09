@@ -1,4 +1,31 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "מרטיסקאינן חנה",
+                "email": "hannam@technion.ac.il,hannam@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "219",
+            "passFail": "174\/45",
+            "passPercent": "79",
+            "min": "16.667",
+            "max": "100",
+            "average": "71.18",
+            "median": "75"
+        },
+        "Final_A": {
+            "students": "219",
+            "passFail": "193\/26",
+            "passPercent": "88",
+            "min": "26",
+            "max": "100",
+            "average": "75.438",
+            "median": "79"
+        }
+    },
     "202403": {
         "Staff": [
             {
