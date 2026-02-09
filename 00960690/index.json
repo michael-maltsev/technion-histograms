@@ -1,4 +1,45 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "תיאודורסקו כנרת",
+                "email": "kinnerett@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פלמון נועה",
+                "email": "noa.palmon@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "36",
+            "passFail": "36\/0",
+            "passPercent": "100",
+            "min": "60",
+            "max": "100",
+            "average": "82.917",
+            "median": "81"
+        },
+        "Final_A": {
+            "students": "37",
+            "passFail": "37\/0",
+            "passPercent": "100",
+            "min": "74",
+            "max": "100",
+            "average": "87.514",
+            "median": "86"
+        },
+        "Finals": {
+            "students": "43",
+            "passFail": "38\/5",
+            "passPercent": "88",
+            "min": "74",
+            "max": "100",
+            "average": "87.842",
+            "median": "86"
+        }
+    },
     "202102": {
         "Staff": [
             {
