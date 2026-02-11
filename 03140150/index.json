@@ -1,4 +1,27 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "קלכהיים יואב",
+                "email": "ykalcheim@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קרונמן עמיחי מיכאל",
+                "email": "amihaik@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "24",
+            "passFail": "22\/2",
+            "passPercent": "92",
+            "min": "45",
+            "max": "95",
+            "average": "73.083",
+            "median": "74.5"
+        }
+    },
     "202401": {
         "Staff": [
             {
