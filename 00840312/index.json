@@ -1,4 +1,41 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "קרפ מיכאל",
+                "email": "mkarp@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מילמן איליה",
+                "email": "iliyam@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "הרשקו דפנה",
+                "email": "dafnah@technion.ac.il,ae.ugsec@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "86",
+            "passFail": "74\/12",
+            "passPercent": "86",
+            "min": "18",
+            "max": "100",
+            "average": "69.058",
+            "median": "67"
+        },
+        "Final_A": {
+            "students": "86",
+            "passFail": "84\/2",
+            "passPercent": "98",
+            "min": "34.4",
+            "max": "100",
+            "average": "74.779",
+            "median": "73.6"
+        }
+    },
     "202401": {
         "Staff": [
             {
