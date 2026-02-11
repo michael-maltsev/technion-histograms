@@ -1,4 +1,31 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "מרזל סמיד נירית",
+                "email": "nirit@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "406",
+            "passFail": "255\/151",
+            "passPercent": "63",
+            "min": "0",
+            "max": "100",
+            "average": "61.782",
+            "median": "66.66"
+        },
+        "Final_A": {
+            "students": "406",
+            "passFail": "293\/113",
+            "passPercent": "72",
+            "min": "19.081",
+            "max": "100",
+            "average": "68.82",
+            "median": "67.6875"
+        }
+    },
     "202403": {
         "Staff": [
             {
