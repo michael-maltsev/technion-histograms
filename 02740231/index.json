@@ -52,8 +52,8 @@
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             },
             {
-                "name": "אהרון אברהם קארין",
-                "email": "mdteams@technion.ac.il,karinaron@technion.ac.il",
+                "name": "אהרון אברהם קרין",
+                "email": "karinaron@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -64,6 +64,24 @@
             "min": "50",
             "max": "100",
             "average": "87.006",
+            "median": "90"
+        },
+        "Final_A": {
+            "students": "157",
+            "passFail": "156\/1",
+            "passPercent": "99",
+            "min": "50",
+            "max": "100",
+            "average": "87.038",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "160",
+            "passFail": "159\/1",
+            "passPercent": "99",
+            "min": "60",
+            "max": "100",
+            "average": "87.357",
             "median": "90"
         }
     }
