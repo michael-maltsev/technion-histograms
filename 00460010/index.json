@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "וינברגר ניר",
+                "email": "nirwein@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אנגלמן אריאל",
+                "email": "ariele@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "35",
+            "passFail": "34\/1",
+            "passPercent": "97",
+            "min": "39.75",
+            "max": "100.5",
+            "average": "79",
+            "median": "79.5"
+        },
+        "Final_A": {
+            "students": "35",
+            "passFail": "34\/1",
+            "passPercent": "97",
+            "min": "39.75",
+            "max": "100.5",
+            "average": "84.476",
+            "median": "85.15"
+        }
+    },
     "202401": {
         "Staff": [
             {
