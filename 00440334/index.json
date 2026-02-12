@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "קסוטו יובל",
+                "email": "ycassuto@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יבלוביץ עילי",
+                "email": "ilayy@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "88",
+            "passFail": "76\/12",
+            "passPercent": "86",
+            "min": "18",
+            "max": "100",
+            "average": "73.523",
+            "median": "73.5"
+        },
+        "Final_A": {
+            "students": "88",
+            "passFail": "76\/12",
+            "passPercent": "86",
+            "min": "18",
+            "max": "100",
+            "average": "75.875",
+            "median": "77"
+        }
+    },
     "202402": {
         "Staff": [
             {
