@@ -13,7 +13,7 @@
             },
             {
                 "name": "הלר שירי",
-                "email": "hshiri@technion.ac.il",
+                "email": "undergrad@int.technion.ac.il,hshiri@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -26,14 +26,23 @@
             "average": "81.742",
             "median": "88"
         },
+        "Final_B": {
+            "students": "13",
+            "passFail": "3\/10",
+            "passPercent": "23",
+            "min": "26",
+            "max": "73",
+            "average": "48.308",
+            "median": "46"
+        },
         "Finals": {
-            "students": "89",
-            "passFail": "83\/6",
-            "passPercent": "93",
+            "students": "101",
+            "passFail": "87\/14",
+            "passPercent": "86",
             "min": "26",
             "max": "100",
-            "average": "81.742",
-            "median": "88"
+            "average": "80.474",
+            "median": "87"
         }
     },
     "202301": {
