@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "וולף עדי",
+                "email": "adiw@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אבירם אפרת",
+                "email": "efratoz@technion.ac.il,efratoz@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "95",
+            "passFail": "52\/43",
+            "passPercent": "55",
+            "min": "10",
+            "max": "100",
+            "average": "55.432",
+            "median": "57"
+        },
+        "Final_A": {
+            "students": "95",
+            "passFail": "56\/39",
+            "passPercent": "59",
+            "min": "11",
+            "max": "100",
+            "average": "58.116",
+            "median": "63"
+        }
+    },
     "202403": {
         "Staff": [
             {
