@@ -1,4 +1,27 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "רייטר יורם",
+                "email": "reiter@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יונייב יהושע אנה",
+                "email": "annayunaev@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "179",
+            "passFail": "149\/30",
+            "passPercent": "83",
+            "min": "10",
+            "max": "97",
+            "average": "69.279",
+            "median": "72"
+        }
+    },
     "202401": {
         "Staff": [
             {
