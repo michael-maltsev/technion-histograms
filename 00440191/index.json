@@ -1,4 +1,27 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "שימקין נחום",
+                "email": "shimkin@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אייזן עפרי",
+                "email": "ofri.eisen@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "77",
+            "passFail": "63\/14",
+            "passPercent": "82",
+            "min": "16",
+            "max": "99",
+            "average": "71.591",
+            "median": "77"
+        }
+    },
     "202402": {
         "Staff": [
             {
