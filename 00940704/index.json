@@ -1,4 +1,41 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "גבארה אחמד",
+                "email": "ahmadj@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כהן הדר",
+                "email": "hadar-cohen@campus.technion.ac.il",
+                "title": "מדריך מעבדה"
+            },
+            {
+                "name": "גריצמן אלה",
+                "email": "ella.g@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "46",
+            "passFail": "28\/18",
+            "passPercent": "61",
+            "min": "7",
+            "max": "100",
+            "average": "59.652",
+            "median": "61.5"
+        },
+        "Final_A": {
+            "students": "46",
+            "passFail": "31\/15",
+            "passPercent": "67",
+            "min": "7",
+            "max": "100",
+            "average": "62.522",
+            "median": "69"
+        }
+    },
     "202401": {
         "Staff": [
             {
