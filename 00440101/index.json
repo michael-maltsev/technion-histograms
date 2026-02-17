@@ -1,4 +1,41 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "זילברשטיין מרק",
+                "email": "silbmark@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ליפשיץ פבל",
+                "email": "pavell@technion.ac.il,eesoft@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "ביטאר ג'ימי",
+                "email": "jimmybittar@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "42",
+            "passFail": "34\/8",
+            "passPercent": "81",
+            "min": "41.5",
+            "max": "98",
+            "average": "70.226",
+            "median": "71.5"
+        },
+        "Final_A": {
+            "students": "42",
+            "passFail": "39\/3",
+            "passPercent": "93",
+            "min": "42",
+            "max": "100",
+            "average": "77.452",
+            "median": "80"
+        }
+    },
     "202402": {
         "Staff": [
             {
