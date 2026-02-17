@@ -7,18 +7,27 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "כליף אלעד",
+                "name": "כליף אלעד כדורי",
                 "email": "elad.kalif@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
         "Final_A": {
-            "students": "36",
-            "passFail": "36\/0",
+            "students": "35",
+            "passFail": "35\/0",
             "passPercent": "100",
             "min": "83",
             "max": "100",
-            "average": "95.556",
+            "average": "95.914",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "40",
+            "passFail": "35\/5",
+            "passPercent": "88",
+            "min": "83",
+            "max": "100",
+            "average": "95.914",
             "median": "95"
         }
     }
