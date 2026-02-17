@@ -201,6 +201,16 @@ COURSE_ALTERNATIVE_NAMES = {
     'מבוא לאופטימיזציה': 'Introduction to Optimization',
     'אלגוריתמים מבוזרים': 'Distributed Algorithms',
     'שיטות הסתברותיות ואלגוריתמים': 'Probabilistic Methods and Algorithms',
+    'שרטוט הנדסי ממוחשב': 'Computer Based Engineering Drawing',
+    'מבוא לשרטוט הנדסי': 'Introduction to Engineering Drawing',
+    'פרויקט דגל - רכב מרוץ פורמולה': 'flagship project - formula racecar',
+    'חשבון דיפרנציאלי ואינטגרלי 2מ1': 'Differential and Integral Calculus 2M1',
+    'משוואות דיפרנציאליות רגילות/ח': 'Ordinary Differential Equations/H',
+    'מעבדה בכימיה כללית': 'General Chemistry Laboratory',
+    'מבוא להנדסת חומרים מ\'1': 'introduction to materials engineering m1',
+    'אלגברה 1מ2': 'Algebra 1M2',
+    'כימיה כללית': 'General Chemistry',
+    'מבוא למחשב שפת פייתון': 'Introduction to Computing with Python',
 }
 
 
