@@ -1,4 +1,40 @@
 {
+    "202403": {
+        "Staff": [
+            {
+                "name": "בורדו נדיה",
+                "email": "nadiabordo@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "11",
+            "passFail": "8\/3",
+            "passPercent": "73",
+            "min": "38.889",
+            "max": "100",
+            "average": "76.768",
+            "median": "77.778"
+        },
+        "Final_A": {
+            "students": "11",
+            "passFail": "11\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "80.818",
+            "median": "79"
+        },
+        "Finals": {
+            "students": "24",
+            "passFail": "13\/11",
+            "passPercent": "54",
+            "min": "65",
+            "max": "100",
+            "average": "86.308",
+            "median": "90"
+        }
+    },
     "202402": {
         "Staff": [
             {
