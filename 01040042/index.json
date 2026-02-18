@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "רבייב דניאל",
+                "email": "danielr@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אביטל רבקה",
+                "email": "rivka_a@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "469",
+            "passFail": "284\/185",
+            "passPercent": "61",
+            "min": "0",
+            "max": "99",
+            "average": "58.139",
+            "median": "60"
+        },
+        "Final_A": {
+            "students": "469",
+            "passFail": "324\/145",
+            "passPercent": "69",
+            "min": "3",
+            "max": "99",
+            "average": "61.493",
+            "median": "65"
+        }
+    },
     "202401": {
         "Staff": [
             {
