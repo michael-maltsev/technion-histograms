@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "בכר אהוד",
+                "email": "behar@physics.technion.ac.il,ebehar@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אלון גדעון",
+                "email": "gideon.alon@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "241",
+            "passFail": "203\/38",
+            "passPercent": "84",
+            "min": "0",
+            "max": "100",
+            "average": "73.239",
+            "median": "77.7"
+        },
+        "Final_A": {
+            "students": "241",
+            "passFail": "194\/47",
+            "passPercent": "80",
+            "min": "1",
+            "max": "100",
+            "average": "70.876",
+            "median": "74"
+        }
+    },
     "202401": {
         "Staff": [
             {
