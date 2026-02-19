@@ -1,4 +1,41 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "לברון יואש",
+                "email": "yoashl@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בורנשטיין שי",
+                "email": "shaybor@technion.ac.il,shaybor@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בן אדוה רום",
+                "email": "romb@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "122",
+            "passFail": "108\/14",
+            "passPercent": "89",
+            "min": "32",
+            "max": "100",
+            "average": "74.533",
+            "median": "76"
+        },
+        "Final_A": {
+            "students": "122",
+            "passFail": "108\/14",
+            "passPercent": "89",
+            "min": "33",
+            "max": "100",
+            "average": "78.582",
+            "median": "81"
+        }
+    },
     "202401": {
         "Staff": [
             {
