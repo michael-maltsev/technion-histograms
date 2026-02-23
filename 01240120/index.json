@@ -1,4 +1,41 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "אייזן מוריס",
+                "email": "chmoris@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן ארי נטע",
+                "email": "b.neta@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "גילרי עידו",
+                "email": "chgilary@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "184",
+            "passFail": "138\/46",
+            "passPercent": "75",
+            "min": "25",
+            "max": "100",
+            "average": "64.016",
+            "median": "65"
+        },
+        "Final_A": {
+            "students": "184",
+            "passFail": "138\/46",
+            "passPercent": "75",
+            "min": "25",
+            "max": "100",
+            "average": "66.272",
+            "median": "69"
+        }
+    },
     "202401": {
         "Staff": [
             {
