@@ -1,0 +1,47 @@
+name: Deploy Static Content
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  workflow_run:
+    workflows: [Check and fix]
+    types:
+      - completed
+
+concurrency:
+  group: deploy-static-content
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+      - name: Prepare Static Content
+        run: php deploy.php
+      - name: Deploy
+        run: |
+          src_dir=.
+          deploy_dir="${{ runner.temp }}/deploy"
+          deploy_branch=gh-pages
+
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          echo Cloning the repository
+          git clone --branch $deploy_branch --single-branch --depth 1 --no-checkout https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git "$deploy_dir"
+          echo Adding generated files to the repository
+          git --git-dir="$deploy_dir/.git" --work-tree="$src_dir" add -A
+          touch "$deploy_dir/.nojekyll"
+          git -C "$deploy_dir" add .nojekyll
+          echo Committing changes
+          git -C "$deploy_dir" diff --cached --quiet || git -C "$deploy_dir" commit -m "deploy: $(git -C "$src_dir" rev-parse HEAD)"
+          echo Pushing to GitHub
+          git -C "$deploy_dir" push origin $deploy_branch
