@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "כהן יוסף",
+                "email": "coheny@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ליטבינוב גלינה",
+                "email": "litvinov@tx.technion.ac.il,litvinov@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "117",
+            "passFail": "44\/73",
+            "passPercent": "38",
+            "min": "0",
+            "max": "100",
+            "average": "48.214",
+            "median": "45"
+        },
+        "Final_A": {
+            "students": "117",
+            "passFail": "53\/64",
+            "passPercent": "45",
+            "min": "0",
+            "max": "100",
+            "average": "49.419",
+            "median": "45"
+        }
+    },
     "202403": {
         "Staff": [
             {
