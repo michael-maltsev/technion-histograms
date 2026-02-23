@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "אילתה דוד",
+                "email": "elata@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בנבניסטי אלעזר",
+                "email": "elibelib22@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "26",
+            "passFail": "23\/3",
+            "passPercent": "88",
+            "min": "39",
+            "max": "101",
+            "average": "83.769",
+            "median": "90.5"
+        },
+        "Final_A": {
+            "students": "26",
+            "passFail": "23\/3",
+            "passPercent": "88",
+            "min": "40",
+            "max": "100",
+            "average": "84.462",
+            "median": "91.5"
+        }
+    },
     "202401": {
         "Staff": [
             {
