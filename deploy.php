@@ -1,12 +1,14 @@
 <?php
 
-require_once 'deploy_course_names.php';
 require_once 'Parsedown.php';
 
-// For the IDE, defined in deploy_course_names.php.
-if (!defined('COURSE_NAMES')) {
-    define('COURSE_NAMES', []);
+$course_names_json = file_get_contents('https://michael-maltsev.github.io/technion-course-names/names.json');
+if ($course_names_json === false) {
+    echo "Error: Failed to fetch course names\n";
+    exit(1);
 }
+
+$course_names = json_decode($course_names_json, true);
 
 $courses = [];
 $stats = [
@@ -31,14 +33,14 @@ foreach ($dir as $fileinfo) {
         continue;
     }
 
-    process_course($course, $stats);
+    process_course($course, $stats, $course_names);
     $courses[] = $course;
 }
 
 natsort($courses);
 $root_text = "# הטכניון - מאגר היסטוגרמות\n\n";
 foreach ($courses as $course) {
-    $course_name = course_friendly_name($course);
+    $course_name = course_friendly_name($course, $course_names);
     $root_text .= "[$course_name]($course/)  \n";
 }
 
@@ -51,7 +53,7 @@ $without_staff_info = $stats['semesters'] - $stats['staff'];
 echo "{$stats['semesters']} course-semesters, {$stats['staff']} with staff info ({$stats['staff_empty']} empty), $without_staff_info without\n";
 echo "Empty histogram details: {$stats['histograms_empty']}\n";
 
-function process_course($course, &$stats) {
+function process_course($course, &$stats, $course_names) {
     $stats['courses']++;
 
     $root_text = '';
@@ -186,7 +188,7 @@ function process_course($course, &$stats) {
         }
     }
 
-    $course_name = course_friendly_name($course);
+    $course_name = course_friendly_name($course, $course_names);
     $note = '**הערה**: ' .
         'מאגר ההיסטוגרמות הוקם עבור [CheeseFork](https://cheesefork.cf/), כלי בניית מערכת שעות עבור סטודנטים בטכניון. ' .
         'באתר בו אתם גולשים ניתן לעיין בהיסטוגרמות, אך הדרך היותר נוחה היא לעיין בהיסטוגרמות, ובמידע נוסף כגון חוות דעת של סטודנטים, באתר CheeseFork.';
@@ -310,11 +312,10 @@ function semester_friendly_name($semester) {
     }
 }
 
-function course_friendly_name($course) {
-    $dict = COURSE_NAMES;
-    if (!isset($dict[$course])) {
+function course_friendly_name($course, $course_names) {
+    if (!isset($course_names[$course])) {
         return $course;
     }
 
-    return  "$course - {$dict[$course]}";
+    return "$course - {$course_names[$course]}";
 }
