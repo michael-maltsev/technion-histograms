@@ -2,6 +2,7 @@ import argparse
 import json
 import re
 import sys
+import time
 import urllib.parse
 
 import requests
@@ -11,7 +12,7 @@ REQUEST_TIMEOUT = 60
 session = requests.session()
 
 
-def send_request(query: str, lang: str = "he"):
+def send_request_once(query: str, lang: str):
     url = "https://portalex.technion.ac.il/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/$batch?sap-client=700"
 
     headers = {
@@ -69,7 +70,18 @@ MaxDataServiceVersion: 2.0
     return json.loads(json_str)
 
 
-def get_last_semester():
+def send_request(query: str, lang: str = "he"):
+    delay = 5
+    while True:
+        try:
+            return send_request_once(query, lang)
+        except Exception as e:
+            print(f"Error: {e} for {query}", file=sys.stderr)
+            time.sleep(delay)
+            delay = min(delay * 2, 300)
+
+
+def get_available_semesters():
     params = {
         "sap-client": "700",
         "$select": "PiqYear,PiqSession",
@@ -79,19 +91,18 @@ def get_last_semester():
     if not results:
         raise RuntimeError("No semesters found")
 
-    best = None
+    semesters = set()
     for r in results:
-        year = int(r["PiqYear"])
-        semester = int(r["PiqSession"])
-        if semester not in [200, 201, 202]:
-            continue
-        key = (year, semester)
-        if best is None or key > best:
-            best = key
+        semesters.add((int(r["PiqYear"]), int(r["PiqSession"])))
+    return semesters
 
-    if best is None:
+
+def get_last_semester():
+    semesters = get_available_semesters()
+    valid = [(y, s) for y, s in semesters if s in [200, 201, 202]]
+    if not valid:
         raise RuntimeError("No valid semesters found")
-    return best
+    return max(valid)
 
 
 def lookup_by_number(year: int, semester: int, number: str, lang: str):
@@ -138,11 +149,21 @@ def main():
     parser.add_argument("--en", action="store_true", help="Use English names")
     args = parser.parse_args()
 
+    available = get_available_semesters()
+
     if args.semester:
         parts = args.semester.split("-")
         year, semester = int(parts[0]), int(parts[1])
+        if (year, semester) not in available:
+            print(f"Semester {args.semester} not available.", file=sys.stderr)
+            print(f"Available semesters: {', '.join(f'{y}-{s}' for y, s in sorted(available))}", file=sys.stderr)
+            sys.exit(1)
     else:
-        year, semester = get_last_semester()
+        valid = [(y, s) for y, s in available if s in [200, 201, 202]]
+        if not valid:
+            print("No valid semesters found.", file=sys.stderr)
+            sys.exit(1)
+        year, semester = max(valid)
 
     lang = "en" if args.en else "he"
 
