@@ -235,6 +235,11 @@ def available_semesters():
     return frozenset(get_available_semesters())
 
 
+@functools.cache
+def cached_lookup_by_number(year: int, semester: int, number: str, lang: str):
+    return lookup_by_number(year, semester, number, lang)
+
+
 def git_run(cmd: List[str]):
     subprocess.check_call(['git'] + cmd, text=True)
 
@@ -395,8 +400,8 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
                 else:
                     year = None
             if year is not None:
-                looked_up_name_he = lookup_by_number(year, session, course_number, "he")
-                looked_up_name_en = lookup_by_number(year, session, course_number, "en")
+                looked_up_name_he = cached_lookup_by_number(year, session, course_number, "he")
+                looked_up_name_en = cached_lookup_by_number(year, session, course_number, "en")
                 matched = looked_up_name_he == histogram_course_name and looked_up_name_en == course_name
 
         if not matched:
