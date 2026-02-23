@@ -209,6 +209,24 @@ COURSE_ALTERNATIVE_NAMES = {
     'אלגברה 1מ2': 'Algebra 1M2',
     'כימיה כללית': 'General Chemistry',
     'מבוא למחשב שפת פייתון': 'Introduction to Computing with Python',
+    'קדם פרויקט תכן הנדסת תעו"נ': 'design project proposal development in ind. eng.',
+    'תפעול מער\' ייצור ושרות': 'Operation of Production Service Systems',
+    'סימולציה-מידול,ניתוח ויישומים': 'Simulation-Modeling and Analysis',
+    'מבוא לניהול פיננסי': 'Introduction to Financial Management',
+    'תכנון פרויקטים וניהולם': 'Project Planning and Management',
+    'הנדסת גורמי אנוש': 'Introduction to Human Factors Engineering',
+    'מוסר ואחריות חברתית ביהדות': 'Morality and Responsibility in Judaism',
+    'שיטות בהנדסת תעשייה': 'Industrial Engineering Methods',
+    'הנדסת מערכות מבוססת מודלים': 'Specification and Analysis of Information Systems',
+    'ניהול מסדי נתונים': 'Database Management',
+    'מודלים דטרמיניסטים בחקר ביצועים': 'Deterministic Models in Oper.Research',
+    'פרויקט  מיוחד': 'Special Project',
+    'רשתות מחשבים ואינטרנט 1': 'Computer Networks and Internet 1',
+    'מערכות לומדות': 'Machine Learning',
+    'אלגברה מודרנית ח': 'Modern Algebra H',
+    'מד"ח וטורי פוריה': 'Partial Differen.Equa.and Fourier Series',
+    'פיסיקה 3ח\'': 'Physics 3H',
+    'חינוך גופני - שחיה': 'Physical Education Courses',
 }
 
 
@@ -369,7 +387,14 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
             effective_semester = override_semester or semester_from_path
             year = int(effective_semester[:4])
             session = 199 + int(effective_semester[4:])
-            if (year, session) in available_semesters():
+            if (year, session) not in available_semesters():
+                # Fall back to the latest available year with the same session.
+                fallback = [y for y, s in available_semesters() if s == session]
+                if fallback:
+                    year = max(fallback)
+                else:
+                    year = None
+            if year is not None:
                 looked_up_name_he = lookup_by_number(year, session, course_number, "he")
                 looked_up_name_en = lookup_by_number(year, session, course_number, "en")
                 matched = looked_up_name_he == histogram_course_name and looked_up_name_en == course_name
