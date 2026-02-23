@@ -19,6 +19,8 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: '3.x'
+      - name: Install Python dependencies
+        run: python -m pip install -r .github/requirements.txt
       - name: Set up Git config
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
