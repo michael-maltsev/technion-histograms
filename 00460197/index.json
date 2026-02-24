@@ -12,14 +12,50 @@
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             }
         ],
+        "Exam_A": {
+            "students": "34",
+            "passFail": "21\/13",
+            "passPercent": "62",
+            "min": "30",
+            "max": "100",
+            "average": "61.059",
+            "median": "61.5"
+        },
         "Final_A": {
-            "students": "35",
-            "passFail": "35\/0",
+            "students": "34",
+            "passFail": "34\/0",
             "passPercent": "100",
             "min": "55",
             "max": "100",
-            "average": "75.8",
+            "average": "76.412",
             "median": "78"
+        },
+        "Exam_B": {
+            "students": "16",
+            "passFail": "13\/3",
+            "passPercent": "81",
+            "min": "37",
+            "max": "100",
+            "average": "72.938",
+            "median": "76.5"
+        },
+        "Final_B": {
+            "students": "16",
+            "passFail": "16\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "79.562",
+            "median": "82.5"
+        },
+        "Finals": {
+            "students": "54",
+            "passFail": "43\/11",
+            "passPercent": "80",
+            "min": "0",
+            "max": "100",
+            "average": "75.222",
+            "median": "81"
         }
     },
     "202302": {
