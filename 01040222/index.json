@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "פינסקי רוס",
+                "email": "pinsky@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קצ'נוב אורי",
+                "email": "orikachanov@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "56",
+            "passFail": "40\/16",
+            "passPercent": "71",
+            "min": "2",
+            "max": "100",
+            "average": "67.571",
+            "median": "73.5"
+        },
+        "Final_A": {
+            "students": "56",
+            "passFail": "47\/9",
+            "passPercent": "84",
+            "min": "20",
+            "max": "100",
+            "average": "74.625",
+            "median": "80.5"
+        }
+    },
     "202401": {
         "Staff": [
             {
