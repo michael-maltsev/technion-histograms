@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "פרס הרי לידיה",
+                "email": "lydia@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "וולף עדי",
+                "email": "adiw@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "164",
+            "passFail": "136\/28",
+            "passPercent": "83",
+            "min": "19",
+            "max": "100",
+            "average": "72.811",
+            "median": "75"
+        },
+        "Final_A": {
+            "students": "",
+            "passFail": "",
+            "passPercent": "",
+            "min": "",
+            "max": "",
+            "average": "",
+            "median": ""
+        }
+    },
     "202401": {
         "Staff": [
             {
