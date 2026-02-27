@@ -1,4 +1,41 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "נתן בנבניסטה",
+                "email": "aerben@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דיניסמן שגיא",
+                "email": "sagidinisman@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "הרשקו דפנה",
+                "email": "dafnah@technion.ac.il,ae.ugsec@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "95",
+            "average": "87.22",
+            "median": "88"
+        },
+        "Final_A": {
+            "students": "41",
+            "passFail": "41\/0",
+            "passPercent": "100",
+            "min": "75",
+            "max": "96",
+            "average": "88.683",
+            "median": "90"
+        }
+    },
     "202401": {
         "Staff": [
             {
