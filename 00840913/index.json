@@ -1,4 +1,41 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "גורפיל פנחס",
+                "email": "pgurfil@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לוי סער",
+                "email": "saar.levi@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "הרשקו דפנה",
+                "email": "dafnah@technion.ac.il,ae.ugsec@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "51",
+            "passFail": "45\/6",
+            "passPercent": "88",
+            "min": "0",
+            "max": "100",
+            "average": "75.902",
+            "median": "84"
+        },
+        "Final_A": {
+            "students": "49",
+            "passFail": "44\/5",
+            "passPercent": "90",
+            "min": "20",
+            "max": "100",
+            "average": "79.735",
+            "median": "87"
+        }
+    },
     "202401": {
         "Staff": [
             {
