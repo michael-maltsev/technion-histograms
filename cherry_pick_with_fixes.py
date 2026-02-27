@@ -402,7 +402,12 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
             if year is not None:
                 looked_up_name_he = cached_lookup_by_number(year, session, course_number, "he")
                 looked_up_name_en = cached_lookup_by_number(year, session, course_number, "en")
-                matched = looked_up_name_he == histogram_course_name and looked_up_name_en == course_name
+                matched = (
+                    looked_up_name_he
+                    and looked_up_name_he == histogram_course_name
+                    and looked_up_name_en
+                    and looked_up_name_en.lower() == course_name.lower()
+                )
 
         if not matched:
             from_escaped = histogram_course_name.replace('\'', '\\\'')
@@ -465,7 +470,6 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         # This heuristic also caused false positives for non-international
         # courses with English names. It was eventually removed. Hopefully there
         # won't be any more submissions like that.
-
 
     if is_international:
         path_fixed = re.sub(r'\.\w+$', r'_international\g<0>', path_fixed)
