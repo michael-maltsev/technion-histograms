@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "אביגדורי עידן",
+                "email": "sidan89@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סעאידה תאמר",
+                "email": "tamersaiaede@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "30",
+            "passFail": "24\/6",
+            "passPercent": "80",
+            "min": "26",
+            "max": "100",
+            "average": "76.067",
+            "median": "79.5"
+        },
+        "Final_A": {
+            "students": "30",
+            "passFail": "24\/6",
+            "passPercent": "80",
+            "min": "26",
+            "max": "100",
+            "average": "76.067",
+            "median": "79.5"
+        }
+    },
     "202401": {
         "Staff": [
             {
