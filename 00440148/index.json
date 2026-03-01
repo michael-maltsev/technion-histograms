@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "ברטל גיא",
+                "email": "bartal@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אילוז מתן",
+                "email": "mataniluz@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "87",
+            "passFail": "52\/35",
+            "passPercent": "60",
+            "min": "18.5",
+            "max": "100",
+            "average": "61.78",
+            "median": "60"
+        },
+        "Final_A": {
+            "students": "87",
+            "passFail": "77\/10",
+            "passPercent": "89",
+            "min": "36",
+            "max": "100",
+            "average": "72.828",
+            "median": "71"
+        }
+    },
     "202403": {
         "Staff": [
             {

@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "בן-דוד גל",
+                "email": "galb@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מארש דביר",
+                "email": "dvirmarsh@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "182",
+            "passFail": "137\/45",
+            "passPercent": "75",
+            "min": "23",
+            "max": "98",
+            "average": "68.154",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "181",
+            "passFail": "161\/20",
+            "passPercent": "89",
+            "min": "23",
+            "max": "100",
+            "average": "73.696",
+            "median": "75"
+        }
+    },
     "202402": {
         "Staff": [
             {
