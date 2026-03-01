@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "לבן אורן",
+                "email": "lavan@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "97",
+            "passFail": "37\/60",
+            "passPercent": "38",
+            "min": "0",
+            "max": "95",
+            "average": "38.278",
+            "median": "42"
+        },
+        "Final_A": {
+            "students": "97",
+            "passFail": "37\/60",
+            "passPercent": "38",
+            "min": "0",
+            "max": "94",
+            "average": "40.804",
+            "median": "42"
+        }
+    },
     "202401": {
         "Staff": [
             {
