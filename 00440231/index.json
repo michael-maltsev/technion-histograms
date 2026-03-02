@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "פניגשטיין עמוס",
+                "email": "amosf@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "זילברמן גלעד",
+                "email": "zilberman@campus.techion.ac.il,zilberman@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "54",
+            "passFail": "39\/15",
+            "passPercent": "72",
+            "min": "27",
+            "max": "92",
+            "average": "62.444",
+            "median": "63"
+        },
+        "Final_A": {
+            "students": "54",
+            "passFail": "47\/7",
+            "passPercent": "87",
+            "min": "31",
+            "max": "99",
+            "average": "78.685",
+            "median": "82.5"
+        }
+    },
     "202401": {
         "Staff": [
             {
