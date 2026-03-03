@@ -1,4 +1,32 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "עמק יובל",
+                "email": "yemek@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן גיגי רועי",
+                "email": "roi.ben@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "גריצמן אלה",
+                "email": "ella.g@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "167",
+            "passFail": "142\/25",
+            "passPercent": "85",
+            "min": "10",
+            "max": "100",
+            "average": "69.958",
+            "median": "75"
+        }
+    },
     "202401": {
         "Staff": [
             {
