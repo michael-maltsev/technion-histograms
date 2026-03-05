@@ -1,4 +1,41 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "לוי יהודה (כפיר)",
+                "email": "kfirylevy@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גולדשטין שרון",
+                "email": "sharongold@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מלאכי רועי",
+                "email": "roei.malachi@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "22",
+            "passFail": "16\/6",
+            "passPercent": "73",
+            "min": "34",
+            "max": "83",
+            "average": "62.864",
+            "median": "66.5"
+        },
+        "Final_A": {
+            "students": "22",
+            "passFail": "22\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "91",
+            "average": "76.045",
+            "median": "78.5"
+        }
+    },
     "202402": {
         "Staff": [
             {
