@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "רוטנשטרייך אורי",
+                "email": "or@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רזניק יבגני",
+                "email": "evgeniy.rez@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "29",
+            "passFail": "26\/3",
+            "passPercent": "90",
+            "min": "45",
+            "max": "97",
+            "average": "75.552",
+            "median": "78"
+        },
+        "Final_A": {
+            "students": "29",
+            "passFail": "26\/3",
+            "passPercent": "90",
+            "min": "45",
+            "max": "97",
+            "average": "79.483",
+            "median": "82"
+        }
+    },
     "202402": {
         "Staff": [
             {
