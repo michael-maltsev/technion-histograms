@@ -265,11 +265,7 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         commit,
     ])
 
-    if msg.startswith('infra:') or (
-        # Temp
-        commit == '90a343dfdba2fd498eafd81cc288b13b763d0c1a' or
-        commit == '7dfc274f625869272c667a5add9518c9076127bb'
-    ):
+    if msg.startswith('infra:'):
         print(f'Cherry-picking as is: [{commit}] {msg}')
         git_run(['add', '.'])
         git_run(['commit', '--quiet', '-m', 'temp'])
