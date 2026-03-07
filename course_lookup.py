@@ -12,6 +12,13 @@ REQUEST_TIMEOUT = 60
 session = requests.session()
 
 
+def set_proxy(proxy_server: str):
+    session.proxies = {
+        "http": proxy_server,
+        "https": proxy_server,
+    }
+
+
 def send_request_once(query: str, lang: str):
     url = "https://portalex.technion.ac.il/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/$batch?sap-client=700"
 

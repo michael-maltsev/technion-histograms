@@ -1,3 +1,4 @@
+import argparse
 import functools
 import re
 import subprocess
@@ -5,7 +6,7 @@ import tempfile
 from pathlib import Path
 from typing import List
 
-from course_lookup import get_available_semesters, lookup_by_number
+from course_lookup import get_available_semesters, lookup_by_number, set_proxy
 
 COURSE_ALTERNATIVE_NAMES = {
     'פוליטיקה של זהויות בישראל - בינלאומי': 'A New Israel Order:a Multicultural Perspective on Israeli Society - International',
@@ -510,6 +511,13 @@ def cherry_pick_with_fixes(after_commit, last_commit):
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--proxy-server', help='Proxy server URL')
+    args = parser.parse_args()
+
+    if args.proxy_server:
+        set_proxy(args.proxy_server)
+
     last_commit = git_run_get_output(['rev-parse', 'HEAD'])
 
     after_commit = git_run_get_output([
