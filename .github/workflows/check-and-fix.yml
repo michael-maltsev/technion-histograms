@@ -27,7 +27,16 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
       - name: Cherry pick with fixes
-        run: python3 -u cherry_pick_with_fixes.py
+        env:
+          PROXY_SERVER_URL: ${{ secrets.PROXY_SERVER_URL }}
+        run: |
+          PROXY_ARG=""
+          if [ -n "$PROXY_SERVER_URL" ]; then
+            PROXY_SERVER=$(curl -sf "$PROXY_SERVER_URL")
+            echo "::add-mask::$PROXY_SERVER"
+            PROXY_ARG="--proxy-server=$PROXY_SERVER"
+          fi
+          python3 -u cherry_pick_with_fixes.py $PROXY_ARG
       - name: Check
         run: python3 -u checks.py
       - name: Commit and push fixes
