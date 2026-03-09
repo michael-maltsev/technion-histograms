@@ -1,4 +1,41 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "שגיב מיכה",
+                "email": "sageevm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "וולף עדי",
+                "email": "adiw@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "גורליק אירנה",
+                "email": "iragor@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "198",
+            "passFail": "138\/60",
+            "passPercent": "70",
+            "min": "9",
+            "max": "100",
+            "average": "65.636",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "198",
+            "passFail": "146\/52",
+            "passPercent": "74",
+            "min": "9",
+            "max": "100",
+            "average": "67.939",
+            "median": "72"
+        }
+    },
     "202403": {
         "Staff": [
             {
