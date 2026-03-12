@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "פרג עוזיהו (עוזי)",
+                "email": "uzipereg@technion.ac.il,uzipereg@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אבן חיים שירן",
+                "email": "shiranev@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "43",
+            "passFail": "43\/0",
+            "passPercent": "100",
+            "min": "62",
+            "max": "100",
+            "average": "94.349",
+            "median": "96"
+        },
+        "Final_A": {
+            "students": "43",
+            "passFail": "43\/0",
+            "passPercent": "100",
+            "min": "73",
+            "max": "100",
+            "average": "95.86",
+            "median": "97"
+        }
+    },
     "202401": {
         "Staff": [
             {
