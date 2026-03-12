@@ -1,4 +1,32 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "סודרי דניאל",
+                "email": "daniel.soudry@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חסידוף יניב",
+                "email": "yaniv_hass@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "קסטן נועם",
+                "email": "noam.kasten@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "42",
+            "passFail": "42\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "95",
+            "average": "82.262",
+            "median": "83.5"
+        }
+    },
     "202402": {
         "Staff": [
             {
