@@ -14,21 +14,30 @@
         ],
         "Exam_A": {
             "students": "425",
-            "passFail": "300\/125",
+            "passFail": "301\/124",
             "passPercent": "71",
             "min": "0",
             "max": "100",
-            "average": "62.254",
-            "median": "68"
+            "average": "62.496",
+            "median": "69"
         },
         "Final_A": {
+            "students": "425",
+            "passFail": "325\/100",
+            "passPercent": "76",
+            "min": "0",
+            "max": "100",
+            "average": "66.155",
+            "median": "74"
+        },
+        "Finals": {
             "students": "425",
             "passFail": "324\/101",
             "passPercent": "76",
             "min": "0",
             "max": "100",
-            "average": "65.925",
-            "median": "73"
+            "average": "66.111",
+            "median": "74"
         }
     },
     "202402": {
