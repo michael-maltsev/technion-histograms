@@ -7,6 +7,11 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "וקסלר עומר",
+                "email": "omer.wexler@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
                 "name": "הרשקו דפנה",
                 "email": "dafnah@technion.ac.il,ae.ugsec@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -14,20 +19,29 @@
         ],
         "Exam_A": {
             "students": "86",
-            "passFail": "65\/21",
-            "passPercent": "76",
+            "passFail": "66\/20",
+            "passPercent": "77",
             "min": "28",
             "max": "108",
-            "average": "70.186",
+            "average": "70.453",
             "median": "73"
         },
         "Final_A": {
             "students": "86",
-            "passFail": "65\/21",
-            "passPercent": "76",
+            "passFail": "66\/20",
+            "passPercent": "77",
             "min": "28",
             "max": "100",
-            "average": "71.314",
+            "average": "71.651",
+            "median": "75.5"
+        },
+        "Finals": {
+            "students": "86",
+            "passFail": "66\/20",
+            "passPercent": "77",
+            "min": "28",
+            "max": "100",
+            "average": "71.651",
             "median": "75.5"
         }
     },
