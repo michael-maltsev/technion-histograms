@@ -228,6 +228,9 @@ COURSE_ALTERNATIVE_NAMES = {
     'מד"ח וטורי פוריה': 'Partial Differen.Equa.and Fourier Series',
     'פיסיקה 3ח\'': 'Physics 3H',
     'חינוך גופני - שחיה': 'Physical Education Courses',
+    'משפט שוויון וצדק חברתי': 'Law Equality and Social Justice',
+    'חינוך גופני - תנועה ומחול': 'Physical Education Courses',
+    'הגות יהודית בימי הביניים': 'Jewish Philosophy in the Middle Ages',
 }
 
 
