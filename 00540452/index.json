@@ -1,4 +1,50 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "גרדר גדעון",
+                "email": "grader@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יושקוב עדן",
+                "email": "edeni@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "איידוקובסקי עדי",
+                "email": "adi.roz@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "13",
+            "passFail": "11\/2",
+            "passPercent": "85",
+            "min": "21",
+            "max": "96",
+            "average": "72.538",
+            "median": "75"
+        },
+        "Final_A": {
+            "students": "13",
+            "passFail": "11\/2",
+            "passPercent": "85",
+            "min": "22",
+            "max": "97",
+            "average": "75.538",
+            "median": "80"
+        },
+        "Finals": {
+            "students": "13",
+            "passFail": "11\/2",
+            "passPercent": "85",
+            "min": "22",
+            "max": "97",
+            "average": "75.538",
+            "median": "80"
+        }
+    },
     "202001": {
         "Staff": [
             {
