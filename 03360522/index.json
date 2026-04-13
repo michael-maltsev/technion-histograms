@@ -3,7 +3,7 @@
         "Staff": [
             {
                 "name": "לנדסברג אמיר",
-                "email": "amir@bm.technion.ac.il,bmamir@technion.ac.il",
+                "email": "bmamir@technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -13,7 +13,7 @@
             },
             {
                 "name": "וטורי ניסים",
-                "email": "nisim.vatury@campus.technion.ac.il",
+                "email": "nisim.vatury@technion.ac.il,nisim.vatury@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
@@ -37,8 +37,35 @@
             "passPercent": "100",
             "min": "59",
             "max": "100",
-            "average": "86.879",
+            "average": "87",
             "median": "88"
+        },
+        "Exam_B": {
+            "students": "12",
+            "passFail": "8\/4",
+            "passPercent": "67",
+            "min": "40",
+            "max": "84",
+            "average": "64.833",
+            "median": "64.5"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "95",
+            "average": "76.583",
+            "median": "74.5"
+        },
+        "Finals": {
+            "students": "47",
+            "passFail": "46\/1",
+            "passPercent": "98",
+            "min": "56",
+            "max": "100",
+            "average": "87.261",
+            "median": "89"
         }
     },
     "202302": {

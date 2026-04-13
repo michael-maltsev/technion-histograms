@@ -1,4 +1,50 @@
 {
+    "202402": {
+        "Staff": [
+            {
+                "name": "שכטמן יואב",
+                "email": "yoavsh@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כהן אורי",
+                "email": "ori-cohen@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "כפרי יעל",
+                "email": "yael.kafri@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "49",
+            "max": "93",
+            "average": "74.867",
+            "median": "69"
+        },
+        "Final_A": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "59",
+            "max": "94",
+            "average": "79.533",
+            "median": "75"
+        },
+        "Finals": {
+            "students": "22",
+            "passFail": "17\/5",
+            "passPercent": "77",
+            "min": "0",
+            "max": "94",
+            "average": "72.444",
+            "median": "76.5"
+        }
+    },
     "202302": {
         "Staff": [
             {
