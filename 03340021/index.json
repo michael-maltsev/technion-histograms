@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "שמאי יוסי",
+                "email": "yshamay@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אברשמי מיטל",
+                "email": "maytalavr@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "83",
+            "passFail": "83\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "100",
+            "average": "91.193",
+            "median": "93"
+        },
+        "Final_A": {
+            "students": "83",
+            "passFail": "83\/0",
+            "passPercent": "100",
+            "min": "79",
+            "max": "100",
+            "average": "93.771",
+            "median": "94"
+        }
+    },
     "202401": {
         "Staff": [
             {
