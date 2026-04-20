@@ -27,8 +27,8 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
       - name: Cherry pick with fixes
-        env:
-          PROXY_SERVER_URL: ${{ secrets.PROXY_SERVER_URL }}
+        # env:
+        #   PROXY_SERVER_URL: ${{ secrets.PROXY_SERVER_URL }}
         run: |
           PROXY_ARG=""
           if [ -n "$PROXY_SERVER_URL" ]; then
