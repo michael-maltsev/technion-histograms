@@ -12,6 +12,16 @@
                 "title": "מרצה"
             },
             {
+                "name": "אבו חמד חנאן",
+                "email": "hanan.ab@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "גנון אור",
+                "email": "or.ganon@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "גנץ מיכאלה",
                 "email": "micaelaganz@campus.technion.ac.il",
                 "title": "מתרגל"
@@ -35,16 +45,6 @@
                 "name": "שמש פז",
                 "email": "paz-shemesh@campus.technion.ac.il",
                 "title": "מתרגל"
-            },
-            {
-                "name": "אבו חמד חנאן",
-                "email": "hanan.ab@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
-                "name": "גנון אור",
-                "email": "or.ganon@campus.technion.ac.il",
-                "title": "מתרגל"
             }
         ],
         "Exam_A": {
@@ -55,6 +55,24 @@
             "max": "100",
             "average": "88.847",
             "median": "90"
+        },
+        "Final_A": {
+            "students": "72",
+            "passFail": "72\/0",
+            "passPercent": "100",
+            "min": "74",
+            "max": "100",
+            "average": "91.847",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "72",
+            "passFail": "72\/0",
+            "passPercent": "100",
+            "min": "74",
+            "max": "100",
+            "average": "91.847",
+            "median": "93"
         }
     },
     "202401": {

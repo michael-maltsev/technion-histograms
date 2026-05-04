@@ -7,18 +7,18 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "אדרי שלומי שלמה",
-                "email": "shlomi.edri@campus.technion.ac.il",
-                "title": "מתרגל"
-            },
-            {
                 "name": "לוי דנה",
                 "email": "dana-t@campus.technion.ac.il,dana.katz@campus.technion.ac.il",
-                "title": "מתרגל"
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
                 "name": "מרצ'נקוב פלם ליבי",
                 "email": "libim@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אדרי שלומי שלמה",
+                "email": "shlomi.edri@campus.technion.ac.il",
                 "title": "מתרגל"
             }
         ],
@@ -39,6 +39,24 @@
             "max": "100",
             "average": "77.602",
             "median": "80.35"
+        },
+        "Exam_B": {
+            "students": "21",
+            "passFail": "14\/7",
+            "passPercent": "67",
+            "min": "21.1",
+            "max": "95",
+            "average": "66.062",
+            "median": "67.8"
+        },
+        "Final_B": {
+            "students": "21",
+            "passFail": "20\/1",
+            "passPercent": "95",
+            "min": "29",
+            "max": "95.5",
+            "average": "69.576",
+            "median": "67.8"
         }
     },
     "202401": {
