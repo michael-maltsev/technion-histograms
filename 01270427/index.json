@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "נויפלד עופר",
+                "email": "ofern@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רחמיאל יאיר",
+                "email": "yair.r@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "22",
+            "passFail": "16\/6",
+            "passPercent": "73",
+            "min": "25.25",
+            "max": "106",
+            "average": "65.364",
+            "median": "63.375"
+        },
+        "Final_A": {
+            "students": "22",
+            "passFail": "18\/4",
+            "passPercent": "82",
+            "min": "38",
+            "max": "100",
+            "average": "72.909",
+            "median": "71"
+        }
+    },
     "202301": {
         "Staff": [
             {
