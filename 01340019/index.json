@@ -1,4 +1,45 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "חן ארנון",
+                "email": "arnonhen@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שגידוב דיאנה",
+                "email": "dayanash@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "136",
+            "passFail": "89\/47",
+            "passPercent": "65",
+            "min": "4",
+            "max": "94",
+            "average": "61.48",
+            "median": "64"
+        },
+        "Final_A": {
+            "students": "136",
+            "passFail": "106\/30",
+            "passPercent": "78",
+            "min": "11",
+            "max": "97",
+            "average": "67.184",
+            "median": "69"
+        },
+        "Finals": {
+            "students": "133",
+            "passFail": "103\/30",
+            "passPercent": "77",
+            "min": "11",
+            "max": "97",
+            "average": "66.759",
+            "median": "69"
+        }
+    },
     "202402": {
         "Staff": [
             {

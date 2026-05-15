@@ -1,4 +1,73 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "ונדורנה קתרין",
+                "email": "k.vandoorne@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לן ויקטוריה",
+                "email": "lan.victoria@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "חאג נרמין",
+                "email": "narmeen.haj@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "פישר אליענה",
+                "email": "selianaf@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "94",
+            "passFail": "94\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "87.277",
+            "median": "90"
+        },
+        "Final_A": {
+            "students": "94",
+            "passFail": "94\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "100",
+            "average": "91.106",
+            "median": "92.5"
+        },
+        "Exam_B": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "95",
+            "average": "84.588",
+            "median": "90"
+        },
+        "Final_B": {
+            "students": "17",
+            "passFail": "17\/0",
+            "passPercent": "100",
+            "min": "78",
+            "max": "97",
+            "average": "89.471",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "94",
+            "passFail": "94\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "100",
+            "average": "91.106",
+            "median": "92.5"
+        }
+    },
     "202401": {
         "Staff": [
             {
