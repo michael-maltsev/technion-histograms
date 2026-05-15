@@ -1,4 +1,41 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "שגם יובל",
+                "email": "yush@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ולך אליענה רות",
+                "email": "e.wallach@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "טולדו הילה",
+                "email": "hilatol@technion.ac.il",
+                "title": "מדריך מעבדה"
+            }
+        ],
+        "Exam_A": {
+            "students": "15",
+            "passFail": "9\/6",
+            "passPercent": "60",
+            "min": "24",
+            "max": "95",
+            "average": "57.933",
+            "median": "62"
+        },
+        "Final_A": {
+            "students": "15",
+            "passFail": "9\/6",
+            "passPercent": "60",
+            "min": "24",
+            "max": "97",
+            "average": "64.2",
+            "median": "68"
+        }
+    },
     "202301": {
         "Staff": [
             {
