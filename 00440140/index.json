@@ -1,4 +1,63 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "רוזנטל אמיר",
+                "email": "amir.r@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "למישצ'וק יבגני",
+                "email": "ivgenyl@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "51",
+            "passFail": "35\/16",
+            "passPercent": "69",
+            "min": "10",
+            "max": "97",
+            "average": "63.275",
+            "median": "66"
+        },
+        "Final_A": {
+            "students": "51",
+            "passFail": "40\/11",
+            "passPercent": "78",
+            "min": "13",
+            "max": "100",
+            "average": "70.039",
+            "median": "73"
+        },
+        "Exam_B": {
+            "students": "47",
+            "passFail": "37\/10",
+            "passPercent": "79",
+            "min": "29",
+            "max": "95",
+            "average": "68.213",
+            "median": "71"
+        },
+        "Final_B": {
+            "students": "47",
+            "passFail": "40\/7",
+            "passPercent": "85",
+            "min": "29",
+            "max": "95",
+            "average": "71.191",
+            "median": "76"
+        },
+        "Finals": {
+            "students": "116",
+            "passFail": "70\/46",
+            "passPercent": "60",
+            "min": "29",
+            "max": "100",
+            "average": "75.013",
+            "median": "77"
+        }
+    },
     "202402": {
         "Staff": [
             {
