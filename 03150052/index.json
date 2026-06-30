@@ -7,11 +7,6 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
-                "name": "נתן ירדן",
-                "email": "yardennathan@campus.technion.ac.il",
-                "title": "מתרגל - עם הרשאות מרצה אחראי"
-            },
-            {
                 "name": "סייד אחמד סמאח",
                 "email": "samahsai@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
@@ -33,6 +28,15 @@
             "min": "42",
             "max": "100",
             "average": "81.957",
+            "median": "82"
+        },
+        "Finals": {
+            "students": "57",
+            "passFail": "51\/6",
+            "passPercent": "89",
+            "min": "56",
+            "max": "100",
+            "average": "81.882",
             "median": "82"
         }
     },
