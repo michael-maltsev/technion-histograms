@@ -7,6 +7,16 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "תובל נופר",
+                "email": "nofar.tuval@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "לב-רן איתי",
+                "email": "itai.lev-ran@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "שמרון אפרת",
                 "email": "efrat.s@technion.ac.il",
                 "title": "מרצה"
@@ -23,8 +33,8 @@
             "passPercent": "80",
             "min": "24",
             "max": "100",
-            "average": "70.671",
-            "median": "72.5235"
+            "average": "70.694",
+            "median": "73"
         },
         "Final_A": {
             "students": "362",
@@ -32,17 +42,35 @@
             "passPercent": "80",
             "min": "24",
             "max": "100",
-            "average": "75.599",
+            "average": "75.644",
             "median": "80"
         },
-        "Finals": {
-            "students": "362",
-            "passFail": "288\/74",
-            "passPercent": "80",
-            "min": "24",
+        "Exam_B": {
+            "students": "199",
+            "passFail": "179\/20",
+            "passPercent": "90",
+            "min": "21",
             "max": "100",
-            "average": "75.536",
-            "median": "80"
+            "average": "76.475",
+            "median": "78"
+        },
+        "Final_B": {
+            "students": "199",
+            "passFail": "179\/20",
+            "passPercent": "90",
+            "min": "21",
+            "max": "100",
+            "average": "81.291",
+            "median": "84"
+        },
+        "Finals": {
+            "students": "464",
+            "passFail": "395\/69",
+            "passPercent": "85",
+            "min": "21",
+            "max": "100",
+            "average": "83.037",
+            "median": "86"
         }
     },
     "202402": {
