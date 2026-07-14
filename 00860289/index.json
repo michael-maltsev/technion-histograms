@@ -1,4 +1,50 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "אידן משה",
+                "email": "moshe.idan@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ואקנין אופיר",
+                "email": "ofir.v@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "הרשקו דפנה",
+                "email": "dafnah@technion.ac.il,ae.ugsec@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "19",
+            "passFail": "11\/8",
+            "passPercent": "58",
+            "min": "14",
+            "max": "100",
+            "average": "62.105",
+            "median": "56"
+        },
+        "Final_A": {
+            "students": "19",
+            "passFail": "11\/8",
+            "passPercent": "58",
+            "min": "23",
+            "max": "100",
+            "average": "65.263",
+            "median": "60"
+        },
+        "Finals": {
+            "students": "24",
+            "passFail": "17\/7",
+            "passPercent": "71",
+            "min": "0",
+            "max": "100",
+            "average": "64.833",
+            "median": "67"
+        }
+    },
     "202201": {
         "Staff": [
             {
