@@ -1,4 +1,36 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "דמצ'נקו איגור",
+                "email": "sigord@technion.ac.il,sigord@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מדניקוב מקסים",
+                "email": "mednikov@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "26",
+            "passFail": "26\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "95.462",
+            "median": "95.5"
+        },
+        "Finals": {
+            "students": "54",
+            "passFail": "53\/1",
+            "passPercent": "98",
+            "min": "76",
+            "max": "100",
+            "average": "95.151",
+            "median": "96"
+        }
+    },
     "202401": {
         "Staff": [
             {
