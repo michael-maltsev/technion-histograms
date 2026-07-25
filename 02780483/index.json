@@ -1,1 +1,39 @@
-[]
+{
+    "202501": {
+        "Staff": [
+            {
+                "name": "זליג שרה",
+                "email": "seligs@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "בן-יוסף תמר",
+                "email": "benyosef@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "שפורן שירי",
+                "email": "musmach@technion.ac.il,shiris@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "55",
+            "passFail": "55\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "99",
+            "average": "89.182",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "58",
+            "passFail": "56\/2",
+            "passPercent": "97",
+            "min": "67",
+            "max": "99",
+            "average": "89.321",
+            "median": "90"
+        }
+    }
+}
