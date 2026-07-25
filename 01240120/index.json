@@ -28,7 +28,7 @@
             "passPercent": "75",
             "min": "25",
             "max": "100",
-            "average": "64.097",
+            "average": "64.17",
             "median": "65"
         },
         "Final_A": {
@@ -37,17 +37,35 @@
             "passPercent": "75",
             "min": "25",
             "max": "100",
-            "average": "66.342",
+            "average": "66.408",
+            "median": "69"
+        },
+        "Exam_B": {
+            "students": "67",
+            "passFail": "50\/17",
+            "passPercent": "75",
+            "min": "30",
+            "max": "100",
+            "average": "65.622",
+            "median": "65"
+        },
+        "Final_B": {
+            "students": "67",
+            "passFail": "50\/17",
+            "passPercent": "75",
+            "min": "30",
+            "max": "100",
+            "average": "67.672",
             "median": "69"
         },
         "Finals": {
-            "students": "211",
-            "passFail": "164\/47",
-            "passPercent": "78",
+            "students": "241",
+            "passFail": "202\/39",
+            "passPercent": "84",
             "min": "25",
             "max": "100",
-            "average": "68.877",
-            "median": "69"
+            "average": "73.553",
+            "median": "73"
         }
     },
     "202401": {

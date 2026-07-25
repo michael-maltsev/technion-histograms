@@ -3,7 +3,7 @@
         "Staff": [
             {
                 "name": "חפוטה יאור",
-                "email": "yeor.hafuta@ufl.edu",
+                "email": "yeor.hafouta@mail.huji.ac.il",
                 "title": "מרצה"
             },
             {
@@ -40,13 +40,31 @@
             "average": "78.484",
             "median": "80"
         },
-        "Finals": {
-            "students": "258",
-            "passFail": "237\/21",
-            "passPercent": "92",
-            "min": "12",
+        "Exam_B": {
+            "students": "138",
+            "passFail": "105\/33",
+            "passPercent": "76",
+            "min": "0",
             "max": "100",
-            "average": "78.484",
+            "average": "65.036",
+            "median": "67"
+        },
+        "Final_B": {
+            "students": "138",
+            "passFail": "120\/18",
+            "passPercent": "87",
+            "min": "2",
+            "max": "100",
+            "average": "69.696",
+            "median": "72"
+        },
+        "Finals": {
+            "students": "379",
+            "passFail": "300\/79",
+            "passPercent": "79",
+            "min": "2",
+            "max": "100",
+            "average": "78.558",
             "median": "80"
         }
     },
