@@ -8,7 +8,7 @@
             },
             {
                 "name": "הרשקו דפנה",
-                "email": "dafnah@technion.ac.il,ae.ugsec@technion.ac.il",
+                "email": "dafnah@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -27,17 +27,35 @@
             "passPercent": "97",
             "min": "50.8",
             "max": "100",
-            "average": "87.362",
+            "average": "87.456",
             "median": "91.4"
         },
-        "Finals": {
-            "students": "34",
-            "passFail": "33\/1",
-            "passPercent": "97",
-            "min": "51",
+        "Exam_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "67",
             "max": "100",
-            "average": "87.353",
-            "median": "91.5"
+            "average": "91.167",
+            "median": "94.5"
+        },
+        "Final_B": {
+            "students": "12",
+            "passFail": "12\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "100",
+            "average": "91.85",
+            "median": "95.3"
+        },
+        "Finals": {
+            "students": "42",
+            "passFail": "42\/0",
+            "passPercent": "100",
+            "min": "67",
+            "max": "100",
+            "average": "91.214",
+            "median": "93"
         }
     },
     "202401": {
