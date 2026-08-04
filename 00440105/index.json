@@ -1,4 +1,41 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "סתיו ינון",
+                "email": "yinnon@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לב-רן איתי",
+                "email": "itai.lev-ran@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "תובל נופר",
+                "email": "nofar.tuval@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "158",
+            "passFail": "105\/53",
+            "passPercent": "66",
+            "min": "21",
+            "max": "100",
+            "average": "64.032",
+            "median": "62.5"
+        },
+        "Final_A": {
+            "students": "157",
+            "passFail": "104\/53",
+            "passPercent": "66",
+            "min": "21",
+            "max": "100",
+            "average": "67.987",
+            "median": "72"
+        }
+    },
     "202501": {
         "Staff": [
             {
