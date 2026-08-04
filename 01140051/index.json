@@ -1,4 +1,40 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "שפיר אורן",
+                "email": "orenshafir@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "306",
+            "passFail": "195\/111",
+            "passPercent": "64",
+            "min": "0",
+            "max": "100",
+            "average": "59.942",
+            "median": "58.333"
+        },
+        "Final_A": {
+            "students": "306",
+            "passFail": "261\/45",
+            "passPercent": "85",
+            "min": "16",
+            "max": "100",
+            "average": "71.281",
+            "median": "70"
+        },
+        "Finals": {
+            "students": "306",
+            "passFail": "261\/45",
+            "passPercent": "85",
+            "min": "16",
+            "max": "100",
+            "average": "71.281",
+            "median": "70"
+        }
+    },
     "202501": {
         "Staff": [
             {
