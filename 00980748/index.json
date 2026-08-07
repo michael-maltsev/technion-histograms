@@ -1,4 +1,50 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "תיאודורסקו כנרת",
+                "email": "kinnerett@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רצון אביאל",
+                "email": "aviel.ratson@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מרגולין אפרת",
+                "email": "efmargolin@technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "56",
+            "passFail": "55\/1",
+            "passPercent": "98",
+            "min": "51",
+            "max": "100",
+            "average": "84.821",
+            "median": "88.5"
+        },
+        "Final_A": {
+            "students": "59",
+            "passFail": "59\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "99",
+            "average": "89.661",
+            "median": "90"
+        },
+        "Finals": {
+            "students": "59",
+            "passFail": "59\/0",
+            "passPercent": "100",
+            "min": "72",
+            "max": "99",
+            "average": "89.661",
+            "median": "90"
+        }
+    },
     "201902": {
         "Staff": [
             {
