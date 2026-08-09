@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "ריטל דניאל",
+                "email": "merittel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ברנשטיין מלמד יובל",
+                "email": "byuval@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "52",
+            "passFail": "52\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "100",
+            "average": "85.75",
+            "median": "88.5"
+        },
+        "Final_A": {
+            "students": "52",
+            "passFail": "52\/0",
+            "passPercent": "100",
+            "min": "68",
+            "max": "100",
+            "average": "90.173",
+            "median": "92"
+        }
+    },
     "202402": {
         "Staff": [
             {
