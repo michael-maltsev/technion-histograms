@@ -1,4 +1,51 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "צנזור אביב",
+                "email": "avivc@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קליינשטרן מיכל",
+                "email": "mklinst@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אביטל רבקה",
+                "email": "rivka_a@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פייגין-קצוב יוליה",
+                "email": "juliaf@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "וולף עדי",
+                "email": "adiw@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "270",
+            "passFail": "118\/152",
+            "passPercent": "44",
+            "min": "10",
+            "max": "100",
+            "average": "52.274",
+            "median": "50.5"
+        },
+        "Final_A": {
+            "students": "270",
+            "passFail": "149\/121",
+            "passPercent": "55",
+            "min": "11",
+            "max": "100",
+            "average": "54.933",
+            "median": "55"
+        }
+    },
     "202402": {
         "Staff": [
             {
