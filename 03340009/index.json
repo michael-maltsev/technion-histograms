@@ -3,7 +3,7 @@
         "Staff": [
             {
                 "name": "בסלר רון",
-                "email": "sronbess@campus.technion.ac.il",
+                "email": "sronbess@technion.ac.il,sronbess@campus.technion.ac.il",
                 "title": "מרצה - אחראי מקצוע"
             },
             {
@@ -37,35 +37,35 @@
             "passPercent": "75",
             "min": "20",
             "max": "105",
-            "average": "72.219",
+            "average": "72.243",
             "median": "74"
         },
         "Exam_B": {
-            "students": "52",
-            "passFail": "51\/1",
+            "students": "53",
+            "passFail": "52\/1",
             "passPercent": "98",
             "min": "25",
             "max": "100",
-            "average": "86.788",
+            "average": "86.943",
             "median": "90"
         },
         "Final_B": {
-            "students": "52",
-            "passFail": "51\/1",
+            "students": "53",
+            "passFail": "52\/1",
             "passPercent": "98",
             "min": "40",
             "max": "100",
-            "average": "88.558",
+            "average": "88.925",
             "median": "91"
         },
         "Finals": {
             "students": "109",
-            "passFail": "62\/47",
-            "passPercent": "57",
+            "passFail": "102\/7",
+            "passPercent": "94",
             "min": "20",
             "max": "100",
-            "average": "71.476",
-            "median": "75"
+            "average": "86.731",
+            "median": "91"
         }
     },
     "202401": {

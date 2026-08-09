@@ -1,4 +1,42 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "דבי ליאור",
+                "email": "liorde@campus.technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "לבנברג שולמית",
+                "email": "bmshulam@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "יעקב מאיה",
+                "email": "maya.yaakov@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "מרצקי רועי",
+                "email": "roymeretzki@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אטיאס שמעון מתן",
+                "email": "shimon-matan@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "46",
+            "passFail": "45\/1",
+            "passPercent": "98",
+            "min": "50",
+            "max": "100",
+            "average": "87.968",
+            "median": "93.33"
+        }
+    },
     "202402": {
         "Staff": [
             {
