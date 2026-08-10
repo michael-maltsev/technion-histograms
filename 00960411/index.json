@@ -1,4 +1,41 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "נוסבאום-הופר נירית",
+                "email": "snnuss@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שול טל",
+                "email": "tal.schul@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "גריצמן אלה",
+                "email": "ella.g@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "93",
+            "passFail": "82\/11",
+            "passPercent": "88",
+            "min": "34",
+            "max": "99",
+            "average": "75.269",
+            "median": "77"
+        },
+        "Final_A": {
+            "students": "93",
+            "passFail": "92\/1",
+            "passPercent": "99",
+            "min": "53.8",
+            "max": "99.3",
+            "average": "82.594",
+            "median": "83.6"
+        }
+    },
     "202402": {
         "Staff": [
             {
