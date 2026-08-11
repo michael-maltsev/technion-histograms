@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "רוזנטל אמיר",
+                "email": "amir.r@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שילר עודד מאיר יונתן",
+                "email": "odedschiller@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "34",
+            "passFail": "27\/7",
+            "passPercent": "79",
+            "min": "24",
+            "max": "96.5",
+            "average": "66.279",
+            "median": "67"
+        },
+        "Final_A": {
+            "students": "34",
+            "passFail": "33\/1",
+            "passPercent": "97",
+            "min": "28",
+            "max": "100",
+            "average": "81",
+            "median": "82.5"
+        }
+    },
     "202402": {
         "Staff": [
             {
