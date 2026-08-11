@@ -24,12 +24,48 @@
         ],
         "Exam_A": {
             "students": "167",
-            "passFail": "154\/13",
-            "passPercent": "92",
-            "min": "42",
-            "max": "97",
-            "average": "74.042",
-            "median": "73"
+            "passFail": "162\/5",
+            "passPercent": "97",
+            "min": "48",
+            "max": "100",
+            "average": "77.084",
+            "median": "77"
+        },
+        "Final_A": {
+            "students": "167",
+            "passFail": "162\/5",
+            "passPercent": "97",
+            "min": "48",
+            "max": "100",
+            "average": "77.084",
+            "median": "77"
+        },
+        "Exam_B": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "95",
+            "average": "72.077",
+            "median": "69"
+        },
+        "Final_B": {
+            "students": "13",
+            "passFail": "13\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "95",
+            "average": "72.231",
+            "median": "69"
+        },
+        "Finals": {
+            "students": "178",
+            "passFail": "175\/3",
+            "passPercent": "98",
+            "min": "56",
+            "max": "100",
+            "average": "77.651",
+            "median": "77"
         }
     }
 }
