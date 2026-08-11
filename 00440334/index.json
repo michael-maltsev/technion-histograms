@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "מזרחי טל",
+                "email": "tal.mizrahi@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יבלוביץ עילי",
+                "email": "ilayy@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "122",
+            "passFail": "109\/13",
+            "passPercent": "89",
+            "min": "17",
+            "max": "100",
+            "average": "74.172",
+            "median": "75"
+        },
+        "Final_A": {
+            "students": "122",
+            "passFail": "117\/5",
+            "passPercent": "96",
+            "min": "29",
+            "max": "100",
+            "average": "77.73",
+            "median": "78"
+        }
+    },
     "202501": {
         "Staff": [
             {
