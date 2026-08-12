@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "הריס דביר",
+                "email": "dharris@technion.ac.il,dharris@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לוצקי גיא",
+                "email": "guylutzky@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "27",
+            "passFail": "21\/6",
+            "passPercent": "78",
+            "min": "32",
+            "max": "93",
+            "average": "64.852",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "27",
+            "passFail": "21\/6",
+            "passPercent": "78",
+            "min": "32",
+            "max": "95",
+            "average": "66.222",
+            "median": "71"
+        }
+    },
     "202402": {
         "Staff": [
             {
