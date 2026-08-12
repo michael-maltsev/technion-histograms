@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "סידורנקו פבל",
+                "email": "sidpav@gmail.com,sidorenko@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שפרן רועי",
+                "email": "roeyshafran@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "55",
+            "passFail": "45\/10",
+            "passPercent": "82",
+            "min": "12",
+            "max": "97.5",
+            "average": "70.527",
+            "median": "74.5"
+        },
+        "Final_A": {
+            "students": "55",
+            "passFail": "49\/6",
+            "passPercent": "89",
+            "min": "30",
+            "max": "98",
+            "average": "75.764",
+            "median": "79"
+        }
+    },
     "202501": {
         "Staff": [
             {
