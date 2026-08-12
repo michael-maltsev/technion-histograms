@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "מייקלס דן",
+                "email": "danm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "יחזקאל אור",
+                "email": "orryehezkel@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "81",
+            "passFail": "76\/5",
+            "passPercent": "94",
+            "min": "31",
+            "max": "95",
+            "average": "77.247",
+            "median": "80"
+        },
+        "Final_A": {
+            "students": "81",
+            "passFail": "79\/2",
+            "passPercent": "98",
+            "min": "44",
+            "max": "96",
+            "average": "80.617",
+            "median": "83"
+        }
+    },
     "202402": {
         "Staff": [
             {
