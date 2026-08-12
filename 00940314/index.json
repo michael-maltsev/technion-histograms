@@ -39,6 +39,11 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "פרנקו מנחם",
+                "email": "franko@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
                 "name": "גריצמן אלה",
                 "email": "ella.g@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
@@ -50,8 +55,26 @@
             "passPercent": "89",
             "min": "42",
             "max": "100",
-            "average": "74.027",
+            "average": "74.108",
             "median": "75"
+        },
+        "Final_B": {
+            "students": "18",
+            "passFail": "16\/2",
+            "passPercent": "89",
+            "min": "27",
+            "max": "99",
+            "average": "70.833",
+            "median": "72"
+        },
+        "Finals": {
+            "students": "58",
+            "passFail": "44\/14",
+            "passPercent": "76",
+            "min": "27",
+            "max": "100",
+            "average": "76.717",
+            "median": "78.5"
         }
     },
     "202402": {
