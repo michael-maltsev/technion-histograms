@@ -1,4 +1,41 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "אורין אמיר",
+                "email": "mdoryan@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כהן שרית",
+                "email": "saritc@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דייטשמן רויטל",
+                "email": "revital.d@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "128",
+            "passFail": "128\/0",
+            "passPercent": "100",
+            "min": "56",
+            "max": "100",
+            "average": "89.516",
+            "median": "91"
+        },
+        "Final_A": {
+            "students": "128",
+            "passFail": "128\/0",
+            "passPercent": "100",
+            "min": "61",
+            "max": "100",
+            "average": "90.461",
+            "median": "91"
+        }
+    },
     "202402": {
         "Staff": [
             {

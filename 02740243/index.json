@@ -1,4 +1,73 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "פרגר בן נון אלה",
+                "email": "pregere@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דייטשמן רויטל",
+                "email": "revital.d@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אהרון אברהם קרין",
+                "email": "karinaron@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "כהן שרית",
+                "email": "saritc@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "150",
+            "passFail": "148\/2",
+            "passPercent": "99",
+            "min": "46",
+            "max": "100",
+            "average": "86.447",
+            "median": "90"
+        },
+        "Final_A": {
+            "students": "150",
+            "passFail": "148\/2",
+            "passPercent": "99",
+            "min": "46",
+            "max": "100",
+            "average": "86.447",
+            "median": "90"
+        },
+        "Exam_B": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "100",
+            "average": "89.786",
+            "median": "95"
+        },
+        "Final_B": {
+            "students": "14",
+            "passFail": "14\/0",
+            "passPercent": "100",
+            "min": "69",
+            "max": "100",
+            "average": "89.786",
+            "median": "95"
+        },
+        "Finals": {
+            "students": "162",
+            "passFail": "162\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "100",
+            "average": "87.265",
+            "median": "90"
+        }
+    },
     "202401": {
         "Staff": [
             {
