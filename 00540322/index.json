@@ -1,4 +1,41 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "שהם-פטרשקו מיכאל",
+                "email": "michael@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דוידוביץ רימון",
+                "email": "rimond@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אוסמנוב ויקטור",
+                "email": "osmanov@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "58",
+            "passFail": "29\/29",
+            "passPercent": "50",
+            "min": "17",
+            "max": "91",
+            "average": "56.448",
+            "median": "53.5"
+        },
+        "Final_A": {
+            "students": "58",
+            "passFail": "29\/29",
+            "passPercent": "50",
+            "min": "17",
+            "max": "96",
+            "average": "60.586",
+            "median": "59"
+        }
+    },
     "202402": {
         "Staff": [
             {
