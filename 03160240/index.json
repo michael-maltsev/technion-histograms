@@ -1,4 +1,31 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "קלכהיים יואב",
+                "email": "ykalcheim@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "17",
+            "passFail": "12\/5",
+            "passPercent": "71",
+            "min": "26",
+            "max": "98",
+            "average": "66.412",
+            "median": "71"
+        },
+        "Final_A": {
+            "students": "17",
+            "passFail": "14\/3",
+            "passPercent": "82",
+            "min": "41",
+            "max": "100",
+            "average": "76.706",
+            "median": "81"
+        }
+    },
     "202001": {
         "Staff": [
             {
