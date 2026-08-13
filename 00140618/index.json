@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "זיצ'ק-פנחס ענת",
+                "email": "anat.zajicek@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שביט שרית",
+                "email": "sarits@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "90",
+            "passFail": "89\/1",
+            "passPercent": "99",
+            "min": "54",
+            "max": "96",
+            "average": "77.4",
+            "median": "80"
+        },
+        "Final_A": {
+            "students": "88",
+            "passFail": "88\/0",
+            "passPercent": "100",
+            "min": "55",
+            "max": "95",
+            "average": "79.034",
+            "median": "82"
+        }
+    },
     "202402": {
         "Staff": [
             {
