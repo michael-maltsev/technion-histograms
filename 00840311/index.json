@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "מנלה אבשלום",
+                "email": "amanela@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בן אדוה דין",
+                "email": "din-ben-adva@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "102",
+            "passFail": "76\/26",
+            "passPercent": "75",
+            "min": "0",
+            "max": "100",
+            "average": "66.89",
+            "median": "68.5"
+        },
+        "Final_A": {
+            "students": "102",
+            "passFail": "90\/12",
+            "passPercent": "88",
+            "min": "10",
+            "max": "100",
+            "average": "70.186",
+            "median": "71.5"
+        }
+    },
     "202402": {
         "Staff": [
             {
@@ -59,8 +91,8 @@
             "passPercent": "86",
             "min": "45",
             "max": "99",
-            "average": "70.208",
-            "median": "71"
+            "average": "70.355",
+            "median": "71.5"
         }
     },
     "202302": {
