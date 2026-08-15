@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "גורליק אירנה",
+                "email": "iragor@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אביטל רבקה",
+                "email": "rivka_a@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "585",
+            "passFail": "374\/211",
+            "passPercent": "64",
+            "min": "3",
+            "max": "100",
+            "average": "62.579",
+            "median": "67"
+        },
+        "Final_A": {
+            "students": "585",
+            "passFail": "405\/180",
+            "passPercent": "69",
+            "min": "3",
+            "max": "100",
+            "average": "65.132",
+            "median": "72"
+        }
+    },
     "202501": {
         "Staff": [
             {
