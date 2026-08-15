@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "צדוק אבינעם",
+                "email": "avi.zadok@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דובלקייב תום",
+                "email": "tomdovlekaev@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "145",
+            "passFail": "67\/78",
+            "passPercent": "46",
+            "min": "3",
+            "max": "89",
+            "average": "54.255",
+            "median": "54"
+        },
+        "Final_A": {
+            "students": "145",
+            "passFail": "128\/17",
+            "passPercent": "88",
+            "min": "31",
+            "max": "96",
+            "average": "69.724",
+            "median": "69"
+        }
+    },
     "202501": {
         "Staff": [
             {
