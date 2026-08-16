@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "גליקמן חגי-מיכאל",
+                "email": "glickman@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שגידוב דיאנה",
+                "email": "dayanash@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "109",
+            "passFail": "79\/30",
+            "passPercent": "72",
+            "min": "5",
+            "max": "100",
+            "average": "68.59",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "108",
+            "passFail": "79\/29",
+            "passPercent": "73",
+            "min": "5",
+            "max": "100",
+            "average": "72.389",
+            "median": "79"
+        }
+    },
     "202501": {
         "Staff": [
             {
