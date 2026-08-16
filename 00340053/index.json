@@ -87,27 +87,54 @@
             },
             {
                 "name": "ברונשטיין אמיל",
-                "email": "tomer.even@campus.technion.ac.il,emilbr@campus.technion.ac.il",
+                "email": "emilbr@campus.technion.ac.il",
                 "title": "מתרגל"
             }
         ],
         "Exam_A": {
-            "students": "13",
-            "passFail": "5\/8",
-            "passPercent": "38",
+            "students": "12",
+            "passFail": "5\/7",
+            "passPercent": "42",
             "min": "23",
             "max": "85",
-            "average": "51",
-            "median": "48"
+            "average": "51.25",
+            "median": "47.5"
         },
         "Final_A": {
-            "students": "13",
-            "passFail": "6\/7",
-            "passPercent": "46",
+            "students": "12",
+            "passFail": "6\/6",
+            "passPercent": "50",
             "min": "31",
             "max": "87",
-            "average": "55.538",
-            "median": "50"
+            "average": "56",
+            "median": "52"
+        },
+        "Exam_B": {
+            "students": "11",
+            "passFail": "2\/9",
+            "passPercent": "18",
+            "min": "20",
+            "max": "70",
+            "average": "40",
+            "median": "31"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "4\/7",
+            "passPercent": "36",
+            "min": "27",
+            "max": "73",
+            "average": "44.182",
+            "median": "37"
+        },
+        "Finals": {
+            "students": "25",
+            "passFail": "12\/13",
+            "passPercent": "48",
+            "min": "27",
+            "max": "87",
+            "average": "54.5",
+            "median": "56"
         }
     },
     "202401": {
@@ -160,7 +187,7 @@
             "passPercent": "68",
             "min": "27",
             "max": "100",
-            "average": "65.446",
+            "average": "65.473",
             "median": "66"
         }
     },
