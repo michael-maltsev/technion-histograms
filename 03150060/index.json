@@ -1,4 +1,27 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "וייס אליעזר",
+                "email": "weisseliezer@gmail.com",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "כהן לין",
+                "email": "lynn.cohen@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "15\/1",
+            "passPercent": "94",
+            "min": "53",
+            "max": "93",
+            "average": "76.875",
+            "median": "79.5"
+        }
+    },
     "201902": {
         "Staff": [
             {
