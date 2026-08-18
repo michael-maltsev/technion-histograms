@@ -1,4 +1,32 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "קרויס נילי אליאנה",
+                "email": "nili.krausz@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דיסקין דוד",
+                "email": "david.diskin@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "סבאג ראמי",
+                "email": "ramisabbagh@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "99",
+            "passFail": "87\/12",
+            "passPercent": "88",
+            "min": "38",
+            "max": "99",
+            "average": "76.263",
+            "median": "80"
+        }
+    },
     "202402": {
         "Staff": [
             {
