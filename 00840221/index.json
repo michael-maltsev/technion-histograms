@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "יוסילבסקי גיל",
+                "email": "igil@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מיוחס תום",
+                "email": "tom.meyuhas@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "57",
+            "passFail": "31\/26",
+            "passPercent": "54",
+            "min": "1",
+            "max": "93.333",
+            "average": "54.521",
+            "median": "56.667"
+        },
+        "Final_A": {
+            "students": "57",
+            "passFail": "35\/22",
+            "passPercent": "61",
+            "min": "5",
+            "max": "95",
+            "average": "56.579",
+            "median": "60"
+        }
+    },
     "202402": {
         "Staff": [
             {
