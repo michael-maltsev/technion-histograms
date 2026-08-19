@@ -1,4 +1,41 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "שינולד שרי",
+                "email": "surke@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רשף רועי",
+                "email": "sror@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שטיינברג רועי",
+                "email": "roysteinberg@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "75",
+            "passFail": "63\/12",
+            "passPercent": "84",
+            "min": "26",
+            "max": "100",
+            "average": "71.347",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "75",
+            "passFail": "69\/6",
+            "passPercent": "92",
+            "min": "38",
+            "max": "100",
+            "average": "75.68",
+            "median": "75"
+        }
+    },
     "202501": {
         "Staff": [
             {
