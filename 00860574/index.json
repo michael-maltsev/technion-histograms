@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "גבעולי דן",
+                "email": "givolid@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "מורד דולב",
+                "email": "dolev.morad@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "57",
+            "max": "98",
+            "average": "87.533",
+            "median": "88"
+        },
+        "Final_A": {
+            "students": "15",
+            "passFail": "15\/0",
+            "passPercent": "100",
+            "min": "62.75",
+            "max": "100",
+            "average": "91.097",
+            "median": "92"
+        }
+    },
     "202401": {
         "Staff": [
             {
