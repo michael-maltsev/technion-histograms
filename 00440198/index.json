@@ -1,4 +1,41 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "טלמון רונן",
+                "email": "ronenta2@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "גינזברג יובל",
+                "email": "ginyuval@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "מויסייב רון",
+                "email": "m.ron@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "57",
+            "passFail": "43\/14",
+            "passPercent": "75",
+            "min": "10",
+            "max": "100",
+            "average": "67.614",
+            "median": "72"
+        },
+        "Final_A": {
+            "students": "57",
+            "passFail": "50\/7",
+            "passPercent": "88",
+            "min": "27",
+            "max": "100",
+            "average": "75.807",
+            "median": "80"
+        }
+    },
     "202501": {
         "Staff": [
             {
