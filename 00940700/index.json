@@ -1,4 +1,45 @@
 {
+    "202403": {
+        "Staff": [
+            {
+                "name": "נחום עומר",
+                "email": "omer.nahum@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אליהו כפיר אלי",
+                "email": "kfir.eliyahu@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "15",
+            "passFail": "8\/7",
+            "passPercent": "53",
+            "min": "23",
+            "max": "100",
+            "average": "61.667",
+            "median": "50"
+        },
+        "Final_A": {
+            "students": "15",
+            "passFail": "8\/7",
+            "passPercent": "53",
+            "min": "23",
+            "max": "99",
+            "average": "62",
+            "median": "50"
+        },
+        "Finals": {
+            "students": "23",
+            "passFail": "13\/10",
+            "passPercent": "57",
+            "min": "17",
+            "max": "99",
+            "average": "66.889",
+            "median": "72.5"
+        }
+    },
     "202402": {
         "Staff": [
             {
