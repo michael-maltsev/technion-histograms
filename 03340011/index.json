@@ -1,4 +1,46 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "דאניאל ראמז",
+                "email": "ramizda@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "רוטנברג מנחם (חמי)",
+                "email": "hemir@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "בן נחום יעל",
+                "email": "yaelben@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "סאלח ג'יריס",
+                "email": "jeries.saleh@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "66",
+            "passFail": "43\/23",
+            "passPercent": "65",
+            "min": "27",
+            "max": "100",
+            "average": "61.515",
+            "median": "60"
+        },
+        "Final_A": {
+            "students": "66",
+            "passFail": "62\/4",
+            "passPercent": "94",
+            "min": "44",
+            "max": "100",
+            "average": "75.712",
+            "median": "76"
+        }
+    },
     "202401": {
         "Staff": [
             {
