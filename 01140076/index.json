@@ -1,4 +1,27 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "אוחיון בן",
+                "email": "bohayon@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אלון גדעון",
+                "email": "gideon.alon@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "210",
+            "passFail": "151\/59",
+            "passPercent": "72",
+            "min": "6",
+            "max": "100",
+            "average": "62.919",
+            "median": "65"
+        }
+    },
     "202402": {
         "Staff": [
             {
