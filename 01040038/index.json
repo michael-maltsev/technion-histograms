@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "שפריר איתי",
+                "email": "shafrir@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "וולף עדי",
+                "email": "adiw@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "457",
+            "passFail": "297\/160",
+            "passPercent": "65",
+            "min": "0",
+            "max": "100",
+            "average": "63.446",
+            "median": "64"
+        },
+        "Final_A": {
+            "students": "457",
+            "passFail": "324\/133",
+            "passPercent": "71",
+            "min": "0",
+            "max": "100",
+            "average": "67.676",
+            "median": "71"
+        }
+    },
     "202501": {
         "Staff": [
             {
