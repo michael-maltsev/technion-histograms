@@ -1,4 +1,46 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "לב דן",
+                "email": "dan.r.lev@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "לויתן איתמר",
+                "email": "itamar-lev@campus.technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בנארי שוסטר תימור",
+                "email": "timorbe@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "טוכמן שמרית",
+                "email": "shimrit.t@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "52",
+            "max": "101",
+            "average": "84.733",
+            "median": "87"
+        },
+        "Final_A": {
+            "students": "15",
+            "passFail": "14\/1",
+            "passPercent": "93",
+            "min": "48",
+            "max": "100",
+            "average": "84.933",
+            "median": "86"
+        }
+    },
     "202402": {
         "Staff": [
             {
