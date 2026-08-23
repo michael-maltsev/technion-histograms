@@ -1,4 +1,31 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "מיקוליצקי זיו",
+                "email": "zivm@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "88",
+            "passFail": "46\/42",
+            "passPercent": "52",
+            "min": "8.333",
+            "max": "100",
+            "average": "55.284",
+            "median": "58.333"
+        },
+        "Final_A": {
+            "students": "88",
+            "passFail": "55\/33",
+            "passPercent": "62",
+            "min": "16",
+            "max": "100",
+            "average": "61.557",
+            "median": "64"
+        }
+    },
     "202403": {
         "Staff": [
             {
