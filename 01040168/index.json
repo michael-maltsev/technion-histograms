@@ -1,4 +1,45 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "רפפורט אריאל",
+                "email": "arapaport@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סורני רוזט אלן",
+                "email": "elad.tzorani@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "48",
+            "passFail": "40\/8",
+            "passPercent": "83",
+            "min": "0",
+            "max": "100",
+            "average": "76.083",
+            "median": "84"
+        },
+        "Final_A": {
+            "students": "48",
+            "passFail": "40\/8",
+            "passPercent": "83",
+            "min": "0",
+            "max": "100",
+            "average": "77.479",
+            "median": "85"
+        },
+        "Finals": {
+            "students": "48",
+            "passFail": "40\/8",
+            "passPercent": "83",
+            "min": "0",
+            "max": "100",
+            "average": "77.479",
+            "median": "85"
+        }
+    },
     "202501": {
         "Staff": [
             {
