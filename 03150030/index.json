@@ -1,4 +1,41 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "רוטשילד אבנר",
+                "email": "avner@mt.technion.ac.il,avnerrot@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סאנאניס מתן",
+                "email": "matan.san@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "ג'ובראן בדיע",
+                "email": "badie@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "41",
+            "passFail": "38\/3",
+            "passPercent": "93",
+            "min": "43",
+            "max": "96",
+            "average": "79.098",
+            "median": "80"
+        },
+        "Final_A": {
+            "students": "41",
+            "passFail": "40\/1",
+            "passPercent": "98",
+            "min": "38",
+            "max": "97",
+            "average": "82.366",
+            "median": "84"
+        }
+    },
     "202402": {
         "Staff": [
             {
