@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "גרין אורי",
+                "email": "origreen@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "בריק אשרף",
+                "email": "abrik@technion.ac.il",
+                "title": "מרצה"
+            }
+        ],
+        "Exam_A": {
+            "students": "127",
+            "passFail": "82\/45",
+            "passPercent": "65",
+            "min": "6",
+            "max": "98",
+            "average": "58.984",
+            "median": "63"
+        },
+        "Final_A": {
+            "students": "127",
+            "passFail": "82\/45",
+            "passPercent": "65",
+            "min": "6",
+            "max": "98",
+            "average": "58.984",
+            "median": "63"
+        }
+    },
     "202402": {
         "Staff": [
             {
