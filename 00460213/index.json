@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "סולוביי קיריל",
+                "email": "kirilsol@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "חסידוף יניב",
+                "email": "yaniv_hass@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "25",
+            "passFail": "20\/5",
+            "passPercent": "80",
+            "min": "40",
+            "max": "95",
+            "average": "70.2",
+            "median": "73"
+        },
+        "Final_A": {
+            "students": "25",
+            "passFail": "25\/0",
+            "passPercent": "100",
+            "min": "58",
+            "max": "99",
+            "average": "81.2",
+            "median": "81"
+        }
+    },
     "202402": {
         "Staff": [
             {
