@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "אבן זוהר חיים",
+                "email": "chaime@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שגב עומר",
+                "email": "omer.segev@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "27",
+            "passFail": "9\/18",
+            "passPercent": "33",
+            "min": "12",
+            "max": "91",
+            "average": "47.111",
+            "median": "47"
+        },
+        "Final_A": {
+            "students": "27",
+            "passFail": "16\/11",
+            "passPercent": "59",
+            "min": "23",
+            "max": "100",
+            "average": "56.222",
+            "median": "56"
+        }
+    },
     "202501": {
         "Staff": [
             {
