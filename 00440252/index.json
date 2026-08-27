@@ -1,4 +1,46 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "דובקין רוסטיסלב",
+                "email": "rostikd@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "קציר ניר",
+                "email": "katzir@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "קטלן עמית",
+                "email": "amit.katalan@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "אבו אחמד ואוי גלאל",
+                "email": "galal@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "548",
+            "passFail": "402\/146",
+            "passPercent": "73",
+            "min": "20",
+            "max": "100",
+            "average": "66.371",
+            "median": "67"
+        },
+        "Final_A": {
+            "students": "547",
+            "passFail": "404\/143",
+            "passPercent": "74",
+            "min": "20",
+            "max": "100",
+            "average": "73.391",
+            "median": "79"
+        }
+    },
     "202501": {
         "Staff": [
             {
