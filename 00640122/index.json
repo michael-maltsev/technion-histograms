@@ -1,1 +1,38 @@
-[]
+{
+    "202501": {
+        "Staff": [
+            {
+                "name": "מירון-הולץ אסתר",
+                "email": "meyron@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "95.292",
+            "median": "95.5"
+        },
+        "Final_A": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "95.292",
+            "median": "95.5"
+        },
+        "Finals": {
+            "students": "24",
+            "passFail": "24\/0",
+            "passPercent": "100",
+            "min": "90",
+            "max": "100",
+            "average": "95.292",
+            "median": "95.5"
+        }
+    }
+}

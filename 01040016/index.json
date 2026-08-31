@@ -26,6 +26,57 @@
             "median": "64.5"
         }
     },
+    "202501": {
+        "Staff": [
+            {
+                "name": "ולך מרים",
+                "email": "miriamw@technion.ac.il,miriamw@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "עמיר מיכל",
+                "email": "michalamir@technion.ac.il,michalamir@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "טובול רחל",
+                "email": "mathstd@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "שטרן יעל",
+                "email": "yaelg@technion.ac.il,mathedu@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "21",
+            "passFail": "13\/8",
+            "passPercent": "62",
+            "min": "10",
+            "max": "97",
+            "average": "61.952",
+            "median": "64"
+        },
+        "Final_A": {
+            "students": "21",
+            "passFail": "16\/5",
+            "passPercent": "76",
+            "min": "10",
+            "max": "97",
+            "average": "64.571",
+            "median": "68"
+        },
+        "Finals": {
+            "students": "27",
+            "passFail": "19\/8",
+            "passPercent": "70",
+            "min": "3",
+            "max": "97",
+            "average": "63.417",
+            "median": "68"
+        }
+    },
     "202402": {
         "Staff": [
             {
