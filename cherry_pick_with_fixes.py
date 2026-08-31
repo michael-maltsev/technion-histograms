@@ -8,6 +8,7 @@ from typing import List
 
 from course_lookup import get_available_semesters, lookup_by_number, set_proxy
 
+# Maps a histogram course name to the course name, or names, it's known by.
 COURSE_ALTERNATIVE_NAMES = {
     'פוליטיקה של זהויות בישראל - בינלאומי': 'A New Israel Order:a Multicultural Perspective on Israeli Society - International',
     'אלגברה 1מ2': 'Akgebra 1M2',
@@ -22,7 +23,7 @@ COURSE_ALTERNATIVE_NAMES = {
     'יסודות למידה והוראה': 'Basics of Learning and Teaching',
     'ביולוגיה 1': 'Biology 1',
     'חשבון אינפיניטסימלי 1מ\'': 'Calculus 1M',
-    'חשבון אינפיניטסימלי 2מ\'': 'Calculus 2M',
+    'חשבון אינפיניטסימלי 2מ\'': ('Calculus 2M', 'Infinitesimal Calculus 2m'),
     'קומבינטוריקה למדעי המחשב': 'Combinatorics for Cs',
     'מבנה מחשבים': 'Computer Architecture',
     'שרטוט הנדסי ממוחשב - בינלאומי': 'Computer Based Engineering Drawing - International',
@@ -93,7 +94,7 @@ COURSE_ALTERNATIVE_NAMES = {
     'מעבדה לפיסיקה 1 - בינלאומי': 'Physics Lab. 1 - International',
     'יסודות הכימיה': 'Principles of Chemistry',
     'עקרונות מערכות הנעת כלי שייט': 'Principles of Marine Engineering',
-    'הסתברות מ': 'Probability (Advanced)',
+    'הסתברות מ': ('Probability (Advanced)', 'Probability from'),
     'הנדסה לאחור': 'Reverse Engineering',
     'בטיחות במעבדות חשמל': 'Safety in Ee Labs.',
     'הוראת מדעים זיקה להוראת טכנולוגיה': 'Science Teaching in Relation to Tech.',
@@ -231,7 +232,23 @@ COURSE_ALTERNATIVE_NAMES = {
     'משפט שוויון וצדק חברתי': 'Law Equality and Social Justice',
     'חינוך גופני - תנועה ומחול': 'Physical Education Courses',
     'הגות יהודית בימי הביניים': 'Jewish Philosophy in the Middle Ages',
+    'ארגון המחשב ומערכות הפעלה': 'Computer organization and operating systems',
+    'מבוא להנדסת נתונים': 'Introduction to Data Engineering',
 }
+
+# A track annotation the histogram source appends to the course name. The
+# course catalog has no such suffix.
+INTERNATIONAL_CLUSTER_SUFFIX_HE = ' - אשכול הנדסה בינלאומי'
+INTERNATIONAL_CLUSTER_SUFFIX_EN = ' - engineering cluster international'
+
+
+def has_international_suffix(name: str) -> bool:
+    return (
+        name.endswith('- בינלאומי') or
+        name.endswith('- International') or
+        name.endswith(INTERNATIONAL_CLUSTER_SUFFIX_HE) or
+        name.lower().endswith(INTERNATIONAL_CLUSTER_SUFFIX_EN)
+    )
 
 
 @functools.cache
@@ -404,7 +421,10 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
     if histogram_course_name_mismatch:
         course_name = properties['courseName']
         histogram_course_name = properties['histogramCourseName']
-        matched = COURSE_ALTERNATIVE_NAMES.get(histogram_course_name) == course_name
+        alternative_names = COURSE_ALTERNATIVE_NAMES.get(histogram_course_name, ())
+        if isinstance(alternative_names, str):
+            alternative_names = (alternative_names,)
+        matched = course_name in alternative_names
 
         if not matched:
             course_name = properties['courseName']
@@ -420,13 +440,15 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
                 else:
                     year = None
             if year is not None:
+                expected_he = histogram_course_name.removesuffix(INTERNATIONAL_CLUSTER_SUFFIX_HE)
+                expected_en = course_name.lower().removesuffix(INTERNATIONAL_CLUSTER_SUFFIX_EN)
                 looked_up_name_he = cached_lookup_by_number(year, session, course_number, "he")
                 looked_up_name_en = cached_lookup_by_number(year, session, course_number, "en")
                 matched = (
                     looked_up_name_he
-                    and looked_up_name_he == histogram_course_name
+                    and looked_up_name_he == expected_he
                     and looked_up_name_en
-                    and looked_up_name_en.lower() == course_name.lower()
+                    and looked_up_name_en.lower() == expected_en
                 )
 
         if not matched:
@@ -460,7 +482,7 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
         raise Exception(f'Unexpected path in commit {commit}: {path_without_mismatch} != {path_fixed}')
 
     if category_from_path != 'Staff':
-        is_international = properties['histogramCourseName'].endswith('- בינלאומי')
+        is_international = has_international_suffix(properties['histogramCourseName'])
     else:
         # The Staff.json file has limited information. Hopefully it's good
         # enough most of the time.
@@ -468,7 +490,7 @@ def cherry_pick_commit_with_fixes(commit: str, tmpdirname: str):
             raise Exception(f'Unexpected histogramCourseName in {properties}')
 
         is_international = False
-        if properties['courseName'].endswith('- בינלאומי') or properties['courseName'].endswith('- International'):
+        if has_international_suffix(properties['courseName']):
             is_international = True
         # elif re.match(r'"?[A-Z]', properties['courseName']):
         #     is_international = True
