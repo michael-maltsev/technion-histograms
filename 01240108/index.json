@@ -1,4 +1,63 @@
 {
+    "202501": {
+        "Staff": [
+            {
+                "name": "שגם יובל",
+                "email": "yush@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "ולך אליענה רות",
+                "email": "e.wallach@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "31",
+            "passFail": "28\/3",
+            "passPercent": "90",
+            "min": "44",
+            "max": "109",
+            "average": "80.839",
+            "median": "84"
+        },
+        "Final_A": {
+            "students": "31",
+            "passFail": "28\/3",
+            "passPercent": "90",
+            "min": "44",
+            "max": "100",
+            "average": "83.194",
+            "median": "86"
+        },
+        "Exam_B": {
+            "students": "11",
+            "passFail": "8\/3",
+            "passPercent": "73",
+            "min": "33",
+            "max": "100",
+            "average": "67.455",
+            "median": "71"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "8\/3",
+            "passPercent": "73",
+            "min": "33",
+            "max": "100",
+            "average": "70.455",
+            "median": "78"
+        },
+        "Finals": {
+            "students": "44",
+            "passFail": "36\/8",
+            "passPercent": "82",
+            "min": "33",
+            "max": "100",
+            "average": "83.526",
+            "median": "86"
+        }
+    },
     "202401": {
         "Staff": [
             {
