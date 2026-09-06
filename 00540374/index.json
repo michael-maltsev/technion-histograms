@@ -1,4 +1,55 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "ברנדון שמעון",
+                "email": "cersbsb@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "פוטיומקין מרינה",
+                "email": "p.marina@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "פאעור מירא",
+                "email": "mirafaour@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "עבד אלחכים עזאיזה",
+                "email": "azaiza.a@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "43",
+            "passFail": "39\/4",
+            "passPercent": "91",
+            "min": "34",
+            "max": "100",
+            "average": "77.318",
+            "median": "80.9"
+        },
+        "Final_A": {
+            "students": "43",
+            "passFail": "39\/4",
+            "passPercent": "91",
+            "min": "37.655",
+            "max": "100",
+            "average": "79.669",
+            "median": "84.25"
+        },
+        "Finals": {
+            "students": "43",
+            "passFail": "39\/4",
+            "passPercent": "91",
+            "min": "38",
+            "max": "100",
+            "average": "79.628",
+            "median": "84"
+        }
+    },
     "202402": {
         "Staff": [
             {
