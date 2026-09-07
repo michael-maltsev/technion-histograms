@@ -1,4 +1,36 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "קמינר עידו",
+                "email": "kaminer@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "רגב נתן",
+                "email": "nathan.regev@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "44",
+            "passFail": "33\/11",
+            "passPercent": "75",
+            "min": "6",
+            "max": "100",
+            "average": "72.573",
+            "median": "74"
+        },
+        "Final_A": {
+            "students": "44",
+            "passFail": "41\/3",
+            "passPercent": "93",
+            "min": "20",
+            "max": "100",
+            "average": "76.568",
+            "median": "78"
+        }
+    },
     "202402": {
         "Staff": [
             {
