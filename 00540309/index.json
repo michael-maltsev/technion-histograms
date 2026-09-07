@@ -2,18 +2,23 @@
     "202502": {
         "Staff": [
             {
+                "name": "גזית עוז",
+                "email": "ozg@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
                 "name": "סגל-פרץ תמר",
                 "email": "tamarps@technion.ac.il",
-                "title": "מרצה - אחראי מקצוע"
+                "title": "מרצה"
             }
         ],
         "Exam_A": {
             "students": "35",
-            "passFail": "23\/12",
-            "passPercent": "66",
+            "passFail": "24\/11",
+            "passPercent": "69",
             "min": "32",
             "max": "94",
-            "average": "62.257",
+            "average": "62.4",
             "median": "64"
         },
         "Final_A": {
@@ -22,8 +27,26 @@
             "passPercent": "80",
             "min": "43",
             "max": "95",
-            "average": "72.2",
+            "average": "72.486",
             "median": "78"
+        },
+        "Exam_B": {
+            "students": "17",
+            "passFail": "7\/10",
+            "passPercent": "41",
+            "min": "10",
+            "max": "78",
+            "average": "51.059",
+            "median": "46"
+        },
+        "Final_B": {
+            "students": "17",
+            "passFail": "8\/9",
+            "passPercent": "47",
+            "min": "10",
+            "max": "87.367",
+            "average": "59.411",
+            "median": "54.667"
         }
     },
     "202402": {
