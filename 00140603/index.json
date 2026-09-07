@@ -1,4 +1,31 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "ספטארי סברינה",
+                "email": "ssabrina@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            }
+        ],
+        "Exam_A": {
+            "students": "122",
+            "passFail": "76\/46",
+            "passPercent": "62",
+            "min": "8",
+            "max": "100",
+            "average": "60.795",
+            "median": "61"
+        },
+        "Final_A": {
+            "students": "122",
+            "passFail": "114\/8",
+            "passPercent": "93",
+            "min": "8",
+            "max": "99",
+            "average": "70.426",
+            "median": "70"
+        }
+    },
     "202402": {
         "Staff": [
             {
