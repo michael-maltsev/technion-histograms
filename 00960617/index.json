@@ -1,4 +1,27 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "פלונסקי אורי",
+                "email": "plonsky@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "בקלו ליאור",
+                "email": "balior@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Exam_A": {
+            "students": "38",
+            "passFail": "35\/3",
+            "passPercent": "92",
+            "min": "48.9",
+            "max": "100",
+            "average": "75.305",
+            "median": "77.5"
+        }
+    },
     "202302": {
         "Staff": [
             {
