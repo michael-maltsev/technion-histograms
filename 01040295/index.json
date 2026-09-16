@@ -1,4 +1,63 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "פוליאק מיכאל",
+                "email": "polyak@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "שמן ליטל",
+                "email": "litalsh@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "16",
+            "passFail": "9\/7",
+            "passPercent": "56",
+            "min": "17",
+            "max": "100",
+            "average": "57.484",
+            "median": "59.625"
+        },
+        "Final_A": {
+            "students": "16",
+            "passFail": "9\/7",
+            "passPercent": "56",
+            "min": "17",
+            "max": "100",
+            "average": "58.375",
+            "median": "63"
+        },
+        "Exam_B": {
+            "students": "11",
+            "passFail": "6\/5",
+            "passPercent": "55",
+            "min": "35.5",
+            "max": "95",
+            "average": "59.909",
+            "median": "52.5"
+        },
+        "Final_B": {
+            "students": "11",
+            "passFail": "7\/4",
+            "passPercent": "64",
+            "min": "36",
+            "max": "95",
+            "average": "60.364",
+            "median": "55"
+        },
+        "Finals": {
+            "students": "21",
+            "passFail": "15\/6",
+            "passPercent": "71",
+            "min": "22",
+            "max": "100",
+            "average": "64.381",
+            "median": "65"
+        }
+    },
     "202501": {
         "Staff": [
             {
