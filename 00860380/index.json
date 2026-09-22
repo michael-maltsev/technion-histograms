@@ -8,7 +8,7 @@
             },
             {
                 "name": "הרשקו דפנה",
-                "email": "dafnah@technion.ac.il,ae.ugsec@technion.ac.il",
+                "email": "dafnah@technion.ac.il",
                 "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
             }
         ],
@@ -18,8 +18,17 @@
             "passPercent": "100",
             "min": "71",
             "max": "100",
-            "average": "89.417",
+            "average": "89.875",
             "median": "91"
+        },
+        "Finals": {
+            "students": "25",
+            "passFail": "24\/1",
+            "passPercent": "96",
+            "min": "0",
+            "max": "100",
+            "average": "86.28",
+            "median": "90"
         }
     }
 }
