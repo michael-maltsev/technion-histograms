@@ -1,4 +1,78 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "שמואל גל",
+                "email": "meshmuel@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "דואר מירון",
+                "email": "merondoar@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "בר-רצון יובל",
+                "email": "yuval.bar@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "פרי יותם אהרון",
+                "email": "yotam-aharon@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אייזנברג אשל",
+                "email": "eshele@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "83",
+            "passFail": "64\/19",
+            "passPercent": "77",
+            "min": "1",
+            "max": "100",
+            "average": "66.88",
+            "median": "68"
+        },
+        "Final_A": {
+            "students": "83",
+            "passFail": "71\/12",
+            "passPercent": "86",
+            "min": "1",
+            "max": "100",
+            "average": "69.145",
+            "median": "71"
+        },
+        "Exam_B": {
+            "students": "51",
+            "passFail": "24\/27",
+            "passPercent": "47",
+            "min": "6",
+            "max": "100",
+            "average": "54.098",
+            "median": "51"
+        },
+        "Final_B": {
+            "students": "51",
+            "passFail": "32\/19",
+            "passPercent": "63",
+            "min": "6",
+            "max": "100",
+            "average": "56.118",
+            "median": "56"
+        },
+        "Finals": {
+            "students": "112",
+            "passFail": "92\/20",
+            "passPercent": "82",
+            "min": "6",
+            "max": "100",
+            "average": "68",
+            "median": "71"
+        }
+    },
     "202402": {
         "Staff": [
             {

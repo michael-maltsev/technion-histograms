@@ -1,4 +1,69 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "בויקו יבגני",
+                "email": "evgboyko@technion.ac.il,evgboyko@campus.technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "אלגריסי מור",
+                "email": "morelgarisi@campus.technion.ac.il",
+                "title": "מתרגל - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "לוטם רון",
+                "email": "ron.lottem@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "הרי עמוס",
+                "email": "a.hari@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "אפרים אופק",
+                "email": "ofekef@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "81",
+            "passFail": "49\/32",
+            "passPercent": "60",
+            "min": "12",
+            "max": "100",
+            "average": "60.185",
+            "median": "61"
+        },
+        "Final_A": {
+            "students": "81",
+            "passFail": "59\/22",
+            "passPercent": "73",
+            "min": "25",
+            "max": "100",
+            "average": "65.111",
+            "median": "65"
+        },
+        "Exam_B": {
+            "students": "57",
+            "passFail": "33\/24",
+            "passPercent": "58",
+            "min": "20",
+            "max": "95",
+            "average": "59.895",
+            "median": "60"
+        },
+        "Final_B": {
+            "students": "57",
+            "passFail": "37\/20",
+            "passPercent": "65",
+            "min": "27",
+            "max": "96",
+            "average": "64.579",
+            "median": "64"
+        }
+    },
     "202402": {
         "Staff": [
             {
