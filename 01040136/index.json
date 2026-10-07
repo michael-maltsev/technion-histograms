@@ -7,6 +7,11 @@
                 "title": "מרצה - אחראי מקצוע"
             },
             {
+                "name": "בן-דוד ניר",
+                "email": "benda@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
                 "name": "קירי רן",
                 "email": "rankiri@campus.technion.ac.il",
                 "title": "מתרגל"
@@ -14,6 +19,11 @@
             {
                 "name": "אביטל רבקה",
                 "email": "rivka_a@technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "גובר שלומי",
+                "email": "shlomigo@technion.ac.il,shlomigo@campus.technion.ac.il",
                 "title": "מתרגל"
             }
         ],
@@ -41,26 +51,26 @@
             "passPercent": "66",
             "min": "7",
             "max": "100",
-            "average": "62.137",
+            "average": "62.464",
             "median": "63"
         },
         "Final_B": {
             "students": "459",
-            "passFail": "343\/116",
-            "passPercent": "75",
+            "passFail": "350\/109",
+            "passPercent": "76",
             "min": "7",
             "max": "100",
-            "average": "65.29",
+            "average": "65.68",
             "median": "68"
         },
         "Finals": {
-            "students": "677",
-            "passFail": "404\/273",
-            "passPercent": "60",
+            "students": "742",
+            "passFail": "597\/145",
+            "passPercent": "80",
             "min": "5",
             "max": "100",
-            "average": "56.01",
-            "median": "61"
+            "average": "66.326",
+            "median": "68"
         }
     },
     "202501": {
