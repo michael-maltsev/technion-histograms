@@ -1,4 +1,51 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "ריסקין אריה",
+                "email": "ariskin@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "פולק שירלי",
+                "email": "s_pollack@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "כהן גלית",
+                "email": "galitc@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "כהן שרית",
+                "email": "saritc@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            },
+            {
+                "name": "דייטשמן רויטל",
+                "email": "revital.d@technion.ac.il",
+                "title": "סגל מנהלי - עם הרשאות מרצה אחראי"
+            }
+        ],
+        "Final_A": {
+            "students": "183",
+            "passFail": "183\/0",
+            "passPercent": "100",
+            "min": "85",
+            "max": "100",
+            "average": "99.628",
+            "median": "100"
+        },
+        "Finals": {
+            "students": "186",
+            "passFail": "183\/3",
+            "passPercent": "98",
+            "min": "90",
+            "max": "100",
+            "average": "99.825",
+            "median": "100"
+        }
+    },
     "202402": {
         "Staff": [
             {
