@@ -234,6 +234,8 @@ COURSE_ALTERNATIVE_NAMES = {
     'הגות יהודית בימי הביניים': 'Jewish Philosophy in the Middle Ages',
     'ארגון המחשב ומערכות הפעלה': 'Computer organization and operating systems',
     'מבוא להנדסת נתונים': 'Introduction to Data Engineering',
+    'אלגברה 2מ\'': 'Algebra 2M',
+    'מעבדה לפיסיקה  2מ': 'Physics Lab. 2M',
 }
 
 # A track annotation the histogram source appends to the course name. The
