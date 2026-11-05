@@ -8,7 +8,7 @@
             },
             {
                 "name": "זלוטניק גלי",
-                "email": "gali.zlotnik@campus.technion.ac.ill",
+                "email": "gali.zlotnik@campus.technion.ac.il",
                 "title": "מתרגל - עם הרשאות מרצה אחראי"
             },
             {
@@ -18,22 +18,49 @@
             }
         ],
         "Exam_A": {
-            "students": "36",
-            "passFail": "26\/10",
-            "passPercent": "72",
+            "students": "37",
+            "passFail": "28\/9",
+            "passPercent": "76",
             "min": "33",
             "max": "99",
-            "average": "65.972",
+            "average": "65.73",
             "median": "64"
         },
         "Final_A": {
-            "students": "36",
-            "passFail": "26\/10",
-            "passPercent": "72",
+            "students": "37",
+            "passFail": "28\/9",
+            "passPercent": "76",
             "min": "33",
             "max": "100",
-            "average": "70.306",
+            "average": "70.703",
             "median": "72"
+        },
+        "Exam_B": {
+            "students": "20",
+            "passFail": "15\/5",
+            "passPercent": "75",
+            "min": "43",
+            "max": "93",
+            "average": "63.75",
+            "median": "59.5"
+        },
+        "Final_B": {
+            "students": "20",
+            "passFail": "15\/5",
+            "passPercent": "75",
+            "min": "43",
+            "max": "94",
+            "average": "68.95",
+            "median": "68"
+        },
+        "Finals": {
+            "students": "46",
+            "passFail": "39\/7",
+            "passPercent": "85",
+            "min": "43",
+            "max": "100",
+            "average": "75.5",
+            "median": "75.5"
         }
     },
     "202402": {
