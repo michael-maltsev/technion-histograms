@@ -8,22 +8,49 @@
             }
         ],
         "Exam_A": {
-            "students": "88",
-            "passFail": "46\/42",
-            "passPercent": "52",
+            "students": "87",
+            "passFail": "46\/41",
+            "passPercent": "53",
             "min": "8.333",
             "max": "100",
-            "average": "55.284",
+            "average": "55.536",
             "median": "58.333"
         },
         "Final_A": {
-            "students": "88",
-            "passFail": "55\/33",
-            "passPercent": "62",
+            "students": "87",
+            "passFail": "55\/32",
+            "passPercent": "63",
             "min": "16",
             "max": "100",
-            "average": "61.557",
+            "average": "61.908",
             "median": "64"
+        },
+        "Exam_B": {
+            "students": "52",
+            "passFail": "30\/22",
+            "passPercent": "58",
+            "min": "0",
+            "max": "91.667",
+            "average": "59.006",
+            "median": "58.333"
+        },
+        "Final_B": {
+            "students": "52",
+            "passFail": "39\/13",
+            "passPercent": "75",
+            "min": "15",
+            "max": "93",
+            "average": "64.885",
+            "median": "65"
+        },
+        "Finals": {
+            "students": "108",
+            "passFail": "88\/20",
+            "passPercent": "81",
+            "min": "15",
+            "max": "100",
+            "average": "70.183",
+            "median": "72"
         }
     },
     "202403": {
