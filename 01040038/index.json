@@ -1,4 +1,27 @@
 {
+    "202503": {
+        "Staff": [
+            {
+                "name": "קליינשטרן מיכל",
+                "email": "mklinst@technion.ac.il",
+                "title": "מרצה - אחראי מקצוע"
+            },
+            {
+                "name": "סולדטנקו אירינה",
+                "email": "irinas@campus.technion.ac.il,irinas@technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Exam_A": {
+            "students": "21",
+            "passFail": "13\/8",
+            "passPercent": "62",
+            "min": "6",
+            "max": "97",
+            "average": "63.857",
+            "median": "68"
+        }
+    },
     "202502": {
         "Staff": [
             {
