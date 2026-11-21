@@ -1,4 +1,51 @@
 {
+    "202502": {
+        "Staff": [
+            {
+                "name": "אופיר אסנת",
+                "email": "osnat.ophir@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "עמית רועי",
+                "email": "roeeamit@technion.ac.il",
+                "title": "מרצה"
+            },
+            {
+                "name": "מרקו תאיר",
+                "email": "tairmarco@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "נוימן נובה",
+                "email": "novanoiman@campus.technion.ac.il",
+                "title": "מתרגל"
+            },
+            {
+                "name": "עואודה כיאן",
+                "email": "kayanaw@campus.technion.ac.il",
+                "title": "מתרגל"
+            }
+        ],
+        "Final_A": {
+            "students": "46",
+            "passFail": "46\/0",
+            "passPercent": "100",
+            "min": "70",
+            "max": "97",
+            "average": "90.304",
+            "median": "93"
+        },
+        "Finals": {
+            "students": "49",
+            "passFail": "46\/3",
+            "passPercent": "94",
+            "min": "70",
+            "max": "97",
+            "average": "90.326",
+            "median": "93"
+        }
+    },
     "202402": {
         "Staff": [
             {
