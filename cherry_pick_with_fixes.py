@@ -229,13 +229,17 @@ COURSE_ALTERNATIVE_NAMES = {
     'מד"ח וטורי פוריה': 'Partial Differen.Equa.and Fourier Series',
     'פיסיקה 3ח\'': 'Physics 3H',
     'חינוך גופני - שחיה': 'Physical Education Courses',
-    'משפט שוויון וצדק חברתי': 'Law Equality and Social Justice',
+    'משפט שוויון וצדק חברתי': ('Law Equality and Social Justice', 'law equality and social justice'),
     'חינוך גופני - תנועה ומחול': 'Physical Education Courses',
     'הגות יהודית בימי הביניים': 'Jewish Philosophy in the Middle Ages',
     'ארגון המחשב ומערכות הפעלה': 'Computer organization and operating systems',
     'מבוא להנדסת נתונים': 'Introduction to Data Engineering',
     'אלגברה 2מ\'': 'Algebra 2M',
     'מעבדה לפיסיקה  2מ': 'Physics Lab. 2M',
+    'מבוא למכניקה הנדסית': 'Intro.to Engineering Mechanics',
+    'תכנות מונחה עצמים למידע גיאוגרפי': 'Object-Oriented Programming for Gis',
+    'התכנון העירוני,האזורי והארצי וההשפעה התחבורתית עליו': 'The Urban,Regional and National Planning and the Transportation Impact',
+    'חוגי-ספורט': 'Sport and Recreation Courses',
 }
 
 # A track annotation the histogram source appends to the course name. The
